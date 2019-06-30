@@ -411,7 +411,7 @@ ENG_imp_decent3_desc:0 "With our failure to deliver the promises of autonomy to 
 ENG_imp_decent4:0 "Imperial Decentralisation Promises"
 ENG_imp_decent4_desc:0 "With Britain's failure to deliver the promises of autonomy to the Dominion nations that were promised at the Imperial Conference of '37 our nation has made a concerted political push-back against Britain within the Empire in an attempt to pressure them into delivering their promises.\n§RDominion nations controlled by the AI will never assist in the UK's wars until this national spirit is removed.§!"
 
-ENG_statute_autonomy:0 "Statute of Autonomy"
+ENG_statute_autonomy:0 "자치법"
 ENG_statute_autonomy_desc:0 "Signed on the 11th of December 1931, the Statute of Autonomy was the result of a concerted effort by Dominion nations of the Empire to demand increasing autonomy from the United Kingdom. While the initial proposal would have seen the Dominion nations have equal status to the United Kingdom within the Empire, the successive amendments to the law would eventually pick apart the original proposal until only token reforms remained. The result would be widespread bitterness towards the mother country throughout the Empire, culminating in severe riots in South Africa and India."
 
 ##### OTHER IDEAS #####
@@ -422,7 +422,7 @@ ENG_malta_sold_desc:0 "경제적 적자를 완화시키기 위해, 우리는 몰
 
 ##### Tooltips #####
 
-ENG_mobilised_economy:0 "The economy has not been mobilised for war.\n"
+ENG_mobilised_economy:0 "경제가 전쟁 수행에 동원되지 않았습니다.\n"
 
 eco_conf_notif:0 "Efforts will be made to assist the Dominions in this area of construction. We will also receive temporary benefits."
 
@@ -607,22 +607,22 @@ IMP_defensive_planning_desc:0 "Our position on the front lines is tenuous at bes
 
 ### Imperial Administration ###
 
-ENG_imp_admin:0 "Imperial Administration"
+ENG_imp_admin:0 "제국 행정부"
 
-ENG_eafrica:0 "Create British East Africa"
-ENG_esudan:0 "Create British Egypt & Sudan"
-ENG_transfer_nengland:0 "Transfer New England to Canada"
-ENG_burma:0 "Create British Burma"
-ENG_malaya:0 "Create British Malaya"
-ENG_mesopotamia:0 "Create British Mesopotamia"
-ENG_persia:0 "Create British Persia"
-ENG_arabia:0 "Create British Arabia"
-ENG_transjordan:0 "Create British Transjordan"
-ENG_rhodesia_col:0 "Create British Rhodesia & Nyasaland"
-ENG_bechuanaland:0 "Transfer Bechuanaland to South Africa"
-ENG_siam:0 "Create British Siam"
-ENG_afghanistan:0 "Create British Afghanistan"
-ENG_transcaspia:0 "Create British Transcaspia"
+ENG_eafrica:0 "영국령 동아프리카 형성"
+ENG_esudan:0 "영국령 이집트 & 수단 형성"
+ENG_transfer_nengland:0 "캐나다에 뉴잉글랜드 할양"
+ENG_burma:0 "영국령 버마 형성"
+ENG_malaya:0 "영국령 말라야 형성"
+ENG_mesopotamia:0 "영국령 메소포타미아 형성"
+ENG_persia:0 "영국령 페르시아 형성"
+ENG_arabia:0 "영국령 아라비아 형성"
+ENG_transjordan:0 "영국령 트란스요르단 형성"
+ENG_rhodesia_col:0 "영국령 로디지아 & 니아살랜드 형성"
+ENG_bechuanaland:0 "남아프리카에 베추아날란드 할양"
+ENG_siam:0 "영국령 시암 형성"
+ENG_afghanistan:0 "영국령 아프가니스탄 형성"
+ENG_transcaspia:0 "영국령 트란스카스피아 형성"
 
 ### Foreign Intervention ###
 
@@ -637,9 +637,9 @@ ENG_reform_entente_desc:0 "With both ourselves and the French at war with the Ge
 ENG_league_germany:0 "영국-독일 동맹"
 ENG_league_germany_desc:0 "While both of our nations were on opposing sides in the Great War, with both ourselves and Germany at war with France many believe the time has arrived to offer a formal alliance to the Germans."
 
-ENG_kill_yemen:0 "Crush the Imamate of Yemen"
+ENG_kill_yemen:0 "예멘 이맘국 분쇄"
 
-ENG_transcaspia_ultimatum:0 "Ultimatum to Transcaspia"
+ENG_transcaspia_ultimatum:0 "트란스카스피아에 최후통첩"
 
 ENG_seize_panama:0 "Begin Operation Pitcairn"
 ENG_seize_panama_desc:0 "After several weeks of planning Operation Pitcairn is finally ready to proceed. Our Armed Forces await our command."
@@ -700,10 +700,10 @@ FRA_leave_dovpact:0 "도버 조약 탈퇴"
 
 # - Civil War Interventions
 
-ENG_scw_inter:0 "Spanish Civil War Intervention"
+ENG_scw_inter:0 "스페인 내전 개입"
 ENG_scw_inter_desc:0 "With the Spanish Civil War raging across Iberia we have the opportunity to send supplies and volunteers to the Kingdom of Spain to strengthen their hold over the region."
-ENG_third_maw_inter:0 "The Third Mexican-American War"
-ENG_pcw_intervention:0 "Portuguese Civil War"
+ENG_third_maw_inter:0 "제3차 멕시코-미국 전쟁"
+ENG_pcw_intervention:0 "포르투갈 내전"
 
 # - Formable Nations
 
@@ -840,7 +840,7 @@ ENG_navy_guns:0 "해군의 총포"
 ENG_navy_guns_desc:0 "The Big Guns of the Navy are the weapons we will use to bring judgement upon our foes, and thus must remain modern and without competition."
 ENG_first_rate_industry:0 "A First Rate Industry"
 ENG_first_rate_industry_desc:0 "With the United States quickly outpacing our nation industrially we must make efforts to lay the groundwork for further industry used to support our Navy and the Government's efforts to expand it further."
-ENG_navy_engine:0 "Engine of the Navy"
+ENG_navy_engine:0 "해군의 엔진"
 ENG_navy_engine_desc:0 "Policing an Empire as large as ours takes speed and resilience, we must continue to develop vessels that can pursue and defeat our foes across the Seven Seas."
 ENG_sons_waves:0 "파도의 아들들"
 ENG_sons_waves_desc:0 "Come, cheer up, my lads, 'tis to glory we steer,\nTo add something more to this wonderful year;\nTo honour we call you, as freemen not slaves,\nFor who are so free as the sons of the waves?"
@@ -851,7 +851,7 @@ ENG_naval_impressment_desc:0 "Though Naval Impressment ended with the end of Nap
 
 ENG_tempest:0 "템페스트 프로그램"
 ENG_tempest_desc:0 "Codenamed Tempest, this naval program aims to reinforce our position on the Seven Seas by construction an additional four Battleships of a modern variety."
-ENG_eclipse_rivals:0 "Eclipse our Rivals"
+ENG_eclipse_rivals:0 "경쟁자 압도"
 ENG_eclipse_rivals_desc:0 "Further pursuing efforts to dominate the oceans of the world, the Royal Navy has requested the construction of two additional Carriers to assist in power projection across the globe."
 ENG_steel_shield:0 "철의 방패"
 ENG_steel_shield_desc:0 "Acting in the defence of our trade routes, we must construct additional vessels to police the vast expanse of the Empire."
@@ -964,9 +964,9 @@ ENG_recon_army_desc:0 "Suffering severely since the end of the Great War, the Br
 
 ENG_massingberd:0 "마싱버드의 기동사단"
 ENG_massingberd_desc:0 "Sir Archibald Massingberd has made it very clear that he believes the best way to win a war is to push the enemy hard, fast and from multiple angles. As such he is promoting the establishment of the first ever mobile and mechanized divisions for the British Army."
-ENG_moto_efforts:0 "Motorisation Efforts"
+ENG_moto_efforts:0 "차량화 착수"
 ENG_moto_efforts_desc:0 "The first step in the creation of a more mobile army is to design vehicles that can carry our men wherever they need to go. Whether that be through the mud of Flanders, the jungles of central Africa or the deserts of the Near East."
-ENG_lighttanks:0 "Light Tank Development"
+ENG_lighttanks:0 "경전차 개발"
 ENG_lighttanks_desc:0 "During the Great War our army employed huge landships as a means of covering infantry advances. With a few modifications we could perhaps shrink these down to increase their speed. This will come at the cost of firepower and armour, but it will allow them to support our mobile regiments or our maneuver enemy forces."
 ENG_introcruisers:0 "Introduce the Cruisers"
 ENG_introcruisers_desc:0 "Our mobile divisions, while fast, do not have the stopping power required even with light armour support to breakthrough enemy defences. It is time to bring forth the newest in military innovation. Cruiser's are a halfway point between the light Matilda’s and the old landships. Packing enough firepower to push forward but move swiftly enough that they can bring up the rear of mobile divisions."
@@ -992,7 +992,7 @@ ENG_supporttanks:0 "Infantry Support Tanks"
 ENG_supporttanks_desc:0 "Infantry can not win battles on their own, especially not when facing heavy armour or fortified positions. If we develop new types of armour to support our troops acting as both as cover and mobile gun emplacements we should be able to push up to and hopefully through enemy lines."
 ENG_entrenchment:0 "Entrenchment Experience"
 ENG_entrenchment_desc:0 "We have learned many lessons from the Great War. Mainly in the creation, assault and defence of trenches and other fortifications. If we apply our new planning theories to these old lessons we should be able to create more effectual defences and fortifications on our front lines."
-ENG_landship:0 "The Land Battleship"
+ENG_landship:0 "육상전함"
 ENG_landship_desc:0 "Battleships have been the corner stone of our navy since their inception and their philosophy of massive blocks of metal and firepower have served us well at sea. Why can’t we apply this to our armour? With massive tanks covering our advances and retreats we will be able to move troops in a much safer a manner."
 
 ENG_rmarines:0 "왕립 해병대"
@@ -1217,15 +1217,15 @@ ENG_hk_command_desc:0 "홍콩은 극동군사령부의 본거지입니다. 그�
 
 #League of Nations
 
-ENG_peace_keeping:0 "Peace Keepers"
-ENG_power_balance:0 "The Balance of Power"
-ENG_lon:0 "The League of Nations"
-ENG_peace_time:0 "Peace In Our Time"
+ENG_peace_keeping:0 "평화의 보호자"
+ENG_power_balance:0 "힘의 균형"
+ENG_lon:0 "국제 연맹"
+ENG_peace_time:0 "우리 시대의 평화"
 
 #Royal Intelligence
 
 ENG_royal_intel:0 "Royal Intelligence"
-ENG_five_eyes:0 "Five Eyes Agreement"
+ENG_five_eyes:0 "파이브 아이즈 협정"
 ENG_international_ops:0 "International Operations"
 
 #Naval Imperialism
@@ -1242,7 +1242,7 @@ ENG_dover_pact:0 "Dover Naval Agreement"
 ENG_imperialism_focus:0 "Imperial Burdens"
 ENG_imperialism_focus_desc:0 "''God has called upon the British to bring civilisation to every corner of the globe, to deliver the barbarians of the world from the darkness into the light. We are the torch in the darkness, the light in the void of barbarism. For the sake of mankind we must not fail.'' - King Edward VIII"
 
-ENG_euro_focus:0 "Imperialism"
+ENG_euro_focus:0 "제국주의"
 
 ENG_dip_denmark:0 "Secure the Danish Straits"
 ENG_natlantic_trade:0 "North Atlantic Trade"
@@ -1250,8 +1250,8 @@ ENG_dip_norway:0 "Norwegian Naval Guarantees"
 ENG_dip_sweden:0 "Swedish Safeguards"
 ENG_scapa_defences:0 "Scapa Flow Defences"
 
-ENG_fortify_gib:0 "Fortify Gibralter"
-ENG_dip_portugal:0 "Anglo-Portuguese Relations"
+ENG_fortify_gib:0 "지브롤터 요새화"
+ENG_dip_portugal:0 "영국-포르투갈 관계 재확인"
 ENG_dip_portugal_desc:0 "Perhaps one of the oldest alliances in history, our close relations with Portugal have been maintained throughout the centuries, even through the worst of our diplomatic crisis like the Pink Map Affair. As our influence on the continent wanes, we must reach out to our allies and reaffirm our alliances."
 ENG_dip_spain:0 "Spanish Opportunities"
 ENG_fortify_cyp:0 "Strengthening Cyprus"
@@ -1284,7 +1284,7 @@ ENG_dip_belgium_desc:0 "Signed in 1839 between Belgium and the Netherlands, at t
 
 ENG_colonialism:0 "Colonialism"
 
-ENG_cape_cairo:0 "Cape to Cairo Railway"
+ENG_cape_cairo:0 "케이프-카이로 철도"
 ENG_cape_cairo_desc:0 "Though initiated during the late 19thC, the Great War put on hold all plans regarding the planned Cape to Cairo railway. With our renewed economic power following the London Stock Market Crash, many believe the time has come to finish construction of this railway, thereby linking all of British Africa."
 ENG_dip_arabia:0 "Bringing Arabia to Heel"
 ENG_dip_arabia_desc:0 "While the Hashemites control all of Arabia and additional territory, they are in reality barely holding on. Until the LSMC they were largely dependent on our influence both economically and miltiarily, though they have recently deluded themselves into thinking they do not require our assistance. We must show them the error of their ways."
@@ -1294,7 +1294,7 @@ ENG_dip_persia:0 "Securing Persian Oil"
 ENG_dip_persia_desc:0 "While we had signed many treaties with the Persian Government regarding access to their oil fields, they have become increasingly hostile in recent years to our involvement, which they regard as nothing but foreign influence on their internal affairs. They must be reminded of the importance of British influence in the region."
 ENG_cape_calcutta:0 "Cape to Calcutta Railway"
 ENG_cape_calcutta_desc:0 "With a land border between Cairo and the Raj secured, we can create an even more ambitious railway system than that in Africa, a Cape to Cairo to Calcutta railway. Thereby linking our African and Indian holdings - as well as our recently acquired territories - together firmly, allowing the rapid deployment of the British Army when needed."
-ENG_defend_singapore:0 "Singapore Defences"
+ENG_defend_singapore:0 "싱가포르 방어"
 ENG_defend_singapore_desc:0 "A vital strategic location - often called the 'Gibraltar of the East' - Singapore's importance over trade in the Far East is incredible. If we are to extend our power further, we must fortify this important region to ensure its continued security."
 ENG_dip_eindies:0 "Control over the East Indies"
 ENG_dip_siam:0 "Removing the Final Roadblock"
@@ -1309,11 +1309,11 @@ ENG_dip_tibet:0 "Crossing the Mountains"
 ENG_fortify_mts:0 "Fortifying the Mountains"
 ENG_mil_infra:0 "Improve Military Infrastructure"
 
-ENG_dip_china:0 "Strategy in China"
-ENG_dip_japan:0 "Anglo-Japanese Ties"
+ENG_dip_china:0 "중국 전략"
+ENG_dip_japan:0 "영국-일본 우호"
 ENG_dip_japan_desc:0 "An ally of our nation and the Entente during the Great War, Japan has in recent years drifted significantly from our nation. With the growing threat of war between ourselves and other Great Powers we must attempt to secure what little allies we can overseas."
 ENG_dip_phillippines:0 "Snatching the Phillippines"
-ENG_taiwan_purchase:0 "The Taiwan Purchase"
+ENG_taiwan_purchase:0 "타이완 구매"
 ENG_pacify_pacific:0 "Pacifying the Pacific"
 
 ENG_dip_afghanistan:0 "Finish the Great Game"
@@ -1754,8 +1754,8 @@ ukf.356.d:0 "This morning at the Siamese embassy in London, our Foreign Minister
 
 ukf.370.d:0 "THIS IS ALL PLACEHOLDER"
 
-ukf.380.d:0 "The Empire of Japan, since its restoration in 1868, has quickly become a new global power to be reckoned with. Their surprise defeat of the Russian Empire at the beginning of this century shocked many nations, but where others found disbelief, we saw a potential new ally. During the Great War, the Japanese Empire assisted our nation in defeating the Germans in Asia, and since that time we have maintained a close relation with their nation.\n\nThe time has therefore come for us to consider reinvigorating ties between our two nations by formally inviting them to our alliance."
-ukf.381.d:0 "The British Empire has today extended a generous offer to our Government. They propose that we formalise an alliance between our two nations by joining the IPA. By doing so we will surely bring peace and stability to Asia."
+ukf.380.d:0 "1868년 일본 제국이 탄생했고, 그들은 눈 깜짝할 사이에 새로운 열강으로 변모했습니다. 금세기 초 러시아 제국에게 기습적인 패배를 안긴 일본은 수많은 나라들에게 충격을 선사했지만, 다른 나라들이 불안과 불신을 느낄 때 우리는 잠재적인 새로운 동맹국을 보았습니다. 대전쟁 당시 일본 제국은 아시아에서 독일인들을 몰아내며 우리나라를 도왔으며, 그 이후로 우리는 그들과 긴밀한 관계를 유지해왔습니다.\n\n따라서 우리는 양국의 관계를 공식적인 동맹으로 발전시키고 관계를 개선하는 것을 고려해야 합니다."
+ukf.381.d:0 "대영제국이 오늘 우리 정부에 관대한 제안을 보내왔습니다. 그들은 우리를 제국 방어 동맹에 초대하는 것으로 양국간의 동맹을 공식화하고 싶다는 의향을 밝혔습니다. 이것으로 우리는 아시아에 평화와 안정을 가져다줄 수 있을 것입니다."
 ukf.382.d:0 "The Japanese representative in London today has signed the new treaty between our two nations, officially making them a part of the Imperial Protection Alliance."
 ukf.383.d:0 "Despite close ties between our two nations being extremely important to the welfare of both the Empire and Japan, the Japanese Government have seen it fit to reject our alliance proposal. What madness has overtaken Tokyo!?"
 ukf.400.d:0 "Despite our close relations with the Empire of Japan our renewed interest in bringing stability to the Orient has seen several proposals put forward by our Government, the first of which is a suggestion to purchase the island of Taiwan from the Japanese government. While such an offer may seem unwelcome to the Japanese, we believe we can successfully persuade them to relinquish the island to our control to ensure peace and stability in the region."
@@ -1840,16 +1840,16 @@ ukflavour.50.d:0 "Celebrated yearly since the death of Her Majesty Queen Victori
 
 #####FATE EVENTS######
 
-ukfate.1.d:0 "After centuries of rivalry, war and destruction, we have finally achieved what many believed impossible; the complete occupation of the French mainland. The British Army has marched triumphantly across the plains of France in their steadfast conquest of a once deadly opponent. It stands to us now to decide what the fate of France shall be."
-ukfate.2.d:0 "Today marks a historic victory over the German nation for the second time in less than three decades. Denied in the previous war, today victorious British soldiers march under the Brandenburg Gate through the streets of Berlin. With our great triumph over the Germans, the question remains: What will become of the German nation?"
-ukfate.3.d:0 "Victorious British soldiers have conducted a final victory parade through the streets of Rome today, as the Italian Government signed a treaty of unconditional surrender to our Government earlier this week. With our victory over the Italians and the capital of Italy under our firm control we must now decide the future of the Italian nation."
-ukfate.4.d:0 "Almost two hundred years have passed since our defeat in the American Rebellion. Since that time the United States have grown immensely powerful, but their strength could not save them from our righteous vengeance. Already British troops march through the streets of the United States' major cities as startled Americans look on in horror.\n\nToday marks a new height in the history of our Empire; we have won the war, now we must win the peace."
+ukfate.1.d:0 "수세기 동안의 경쟁과 전쟁, 그리고 파괴 끝에 우리는 마침내 많은 사람들이 불가능하다고 믿어왔던 것, 즉 프랑스 본토의 완전한 점령을 달성했습니다. 영국 육군은 한때 위협적이었던 적군을 계속 정복하기 위해 프랑스 평원을 의기양양하게 행진했습니다. 프랑스의 운명은 지금 우리 손아귀에 놓여 있습니다."
+ukfate.2.d:0 "오늘은 30년도 채 안 되어 멸망한 독일국에게서 거둔 역사적인 승리를 기념하는 날입니다. 이전의 전쟁도, 그리고 오늘도 승리한 영국 병사들은 브란덴부르크 문 아래를 지나 베를린 거리를 행진했습니다. 우리는 위대한 승리를 이룩했지만, 문제는 여전히 남아있습니다; 독일을 앞으로 어떻게 해야 할까요?"
+ukfate.3.d:0 "이번 주 초 이탈리아 정부가 우리 정부에게 무조건 항복을 선언했기 때문에, 영국 군인들은 오늘 로마 거리에서 마지막 승전 퍼레이드를 벌였습니다. 확고하게 통제되는 이탈리아와 그 수도가 우리의 승리를 증명해주고 있습니다. 이제는 이탈리아의 미래를 결정해야 할 시간입니다."
+ukfate.4.d:0 "미국 독립전쟁에서 패배한 지 거의 200년이 흘렀습니다. 그 이후로 미국은 엄청나게 강력해졌지만, 그들의 강대함도 우리의 정당한 복수를 막아설 수는 없었습니다. 충격받은 미국인들이 공포에 질려 바라보는 가운데, 영국군은 미국 주요 도시들의 거리를 행진하고 있습니다.\n\n오늘은 우리 제국 역사에 있어 새로운 전성기입니다. 우리는 전쟁에서 이겼고, 이제는 평화를 쟁취해낼 것입니다."
 
 #####OTHER EVENTS###### added by Drowse
-uk.3000.t:0 "Italy wants to purchase Malta"
-uk.3000.d:0 "The nation of Italy, our ally in the Great War, has offered to purchase Malta from us. Malta has been a British territory since 1814 and has served us well as an important naval base in the mediterranean. At any other time a request to buy Malta would have been instantly disregarded but in the wake of the London Market Collapse it may benefit our great nation to accept the Italian offer and invest the income somewhere else."
-uk.3000.a:0 "Alexandria is a better naval base. We don't need Malta"
-uk.3000.b:0 "I'd rather surrender London to the Germans than Malta to the Italians"
+uk.3000.t:0 "이탈리아가 몰타의 구입을 원하다"
+uk.3000.d:0 "대전쟁 당시 우리 동맹국이었던 이탈리아가 우리로부터 몰타를 사들이겠다고 나섰습니다. 몰타는 1814년부터 영국의 영토였으며, 지중해의 주요 해군기지로서 잘 기능해 왔습니다. 원래대로라면 몰타를 팔아달라는 요청 따위는 즉각 무시되었겠지만, 런던 시장 붕괴라는 재앙에 사로잡힌 지금의 상황에서는 이탈리아의 제안을 받아들이고 그 수입을 다른 곳에 투자하는 것이 우리 위대한 조국에 이득이 될 수 있습니다."
+uk.3000.a:0 "해군 기지로는 알렉산드리아가 훨씬 낫다. 몰타는 우리에게 필요 없다"
+uk.3000.b:0 "런던이 독일에게 항복하는 게 몰타를 이탈리아에게 주는 것보다 덜 치욕적일 것 같군."
 
 #####0.2 EVENTS#####
 ukadm.1.d:0 "For five years the Right Honourable Bolton Eyres-Monsell has served as the first Lord of the Admiralty in our Government, though he has for the past few months signalled to the Government that he wishes to resign his post citing ill health, only participating in the backbenches of Parliament where necessary.\n\nIt therefore falls to us to determine who shall replace the Viscount as First Lord of the Admiralty, and there are several choices we can make.\n\nThe first proposal is to bring Sir Winston Churchill once more back into Government. Despite his failure at the Dardanelles during the Great War - the failure of which led to the cancellation of his brainchild, the proposed Gallipoli Campaign - Churchill has managed to stay afloat politically, but only barely, using his influence with several high-ranking members of the Royal Navy to maintain his relevance.\n\nSecondly we have Leo Amery, previous First Lord of the Admiralty in the 1920's, and seen as a reliable candidate to replace the Viscount, Amery has however seen scrutiny by some MPs for his close links to the Round Table Movement and it's interest in Imperial politics. Regardless, Amery has shown himself to be capable in the post and would be a reliable choice.\n\nOur final candidate is Alfred Duff Cooper. Somewhat of a firebrand in Parliament, and highly critical of the Government's recent position of pacifism in the face of rising tension worldwide, Cooper would ensure the Royal Navy maintains its strength abroad and at home."
