@@ -2,38 +2,38 @@
 
 #### Political Parties ####
 AUS_vanguardist_party:0 "KPÖ"
-AUS_vanguardist_party_long:0 "Kommunistische Partei Österreichs"
+AUS_vanguardist_party_long:0 "오스트리아 공산당"
 AUS_collectivist_party:0 "KPÖ"
-AUS_collectivist_party_long:0 "Kommunistische Partei Österreichs" 
+AUS_collectivist_party_long:0 "오스트리아 공산당" 
 AUS_libertarian_socialist_party:0 "SPÖ"
-AUS_libertarian_socialist_party_long:0 "Sozialistische Partei Österreichs"
+AUS_libertarian_socialist_party_long:0 "오스트리아 사회당"
 AUS_social_democrat_party:0 "SDAPÖ"
-AUS_social_democrat_party_long:0 "Sozialdemokratische Arbeiterpartei Österreichs"
+AUS_social_democrat_party_long:0 "오스트리아 사회민주당"
 AUS_social_liberal_party:0 "DB"
-AUS_social_liberal_party_long:0 "Deutsche Bauernpartei"
+AUS_social_liberal_party_long:0 "독일농민당"
 AUS_market_liberal_party:0 "DB"
-AUS_market_liberal_party_long:0 "Deutsche Bauernpartei"
+AUS_market_liberal_party_long:0 "독일농민당"
 AUS_social_conservative_party:0 "CSP"
-AUS_social_conservative_party_long:0 "Christlichsoziale Partei"
+AUS_social_conservative_party_long:0 "기독사회당"
 AUS_authoritarian_democrat_party:0 "MRP"
-AUS_authoritarian_democrat_party_long:0 "Monarchistiche Restaurationspartei"
+AUS_authoritarian_democrat_party_long:0 "오스트리아 복벽파"
 AUS_paternal_autocrat_party:0 "Heimatblock"
-AUS_paternal_autocrat_party_long:0 "Heimatblock der Heimwehr Österreichs"
+AUS_paternal_autocrat_party_long:0 "오스트리아 애국향우회"
 AUS_national_populist_party:0 "SNP"
-AUS_national_populist_party_long:0 "Sozialnationalistische Partei"
+AUS_national_populist_party_long:0 "국가사회주의당"
 AUS_valkist_party:0 "VVÖ"
-AUS_valkist_party_long:0 "Valkistische Volkspartei Österreichs"
+AUS_valkist_party_long:0 "오스트리아 발키스트인민당"
 
 #THREATS
 AUS_acw_threat:0 "Austrian Civil War"
 AUS_anschluss_threat:0 "Anschluss"
 
 #IDEAS
-AUS_bundesheer_conscription:0 "Bundesheer Conscription"
+AUS_bundesheer_conscription:0 "연방군 장교 징집"
 AUS_bundesheer_conscription_desc:0 "Since its formation in 1921; the Österreichisches Bundesheer makes up a bulk of Austria's military strength."
 
 #EVENTS
-austria.1.t:"The Status of Austria"
+austria.1.t:"The Status of Austria"0
 austria.1.d: "In 1914, the Austrian Empire had entered the Great War with high hopes for victory, both to assert their dominance over Serbia, and to avenge the life of the Archduke. However, not all was well for them, as they found themselves getting thrown back more and more on every front they fought. Eventually, when the citizens of the Empire realized the war was over for the Austro-Hungarian monarchy, the rights for the ethnic minorities were increased, as more and more liberal politicians took control in Vienna and Budapest. These events all culminated in the forming of a huge popularity base for the leftist, pro-entente parties that opposed the monarchy. Once the dust had settled, and Austria laid in shambles, with the Treaty of Versailles, putting an end to it once and for all.On 11 November, Karl issued a carefully worded proclamation in which he recognized the Austrian people's right to determine the form of the state. He also renounced the right to participate in Austrian affairs of state. He also dismissed Lammasch and his government from office and released the officials in the Austrian half of the empire from their oath of loyalty to him. Two days later, he issued a similar proclamation for Hungary. However, he did not abdicate, remaining available in the event the people of either state should recall him. For all intents and purposes, this was the end of Habsburg rule.Karl's refusal to abdicate was ultimately irrelevant. On the day after he announced his withdrawal from Austria's politics, the Grand Coalition of Social Democrats and Social Conservatives headed by Karl Renner proclaimed the Republic of German Austria.  A wide range of social reforms were introduced by Renner's government, including unemployment insurance, paid holidays, the eight-hour workday, and regulations on the working conditions of miners, bakers, women, and children. State aid was also provided for the disabled, together with health insurance for public employees. In addition, a law was passed that provided for collective bargaining and the mediation of disputes. The Coalition didn’t last long though, the Social Catholic party (Which was the more popular among the population) was sick of the Social Democrat leadership and so left the Coalition, the more extreme Member of the Social Democratic Party also splitted and formed the Communist Party. The Ruling Government found itself in a minority and in 1923 the elections confirmed it, passing the Leadership to the Social Conservatives.Both right-wing and left-wing paramilitary forces were created during the 20s. The Heimwehr (Home Resistance) first appeared on 12 May 1920 and became progressively organised over the next three years and the Republikanischer Schutzbund was formed in response to this on 19 February 1923.The Heimwehr started to gain a lot of popularity and by the 1927 election they basically were an independent party, the Conservative Leadership saw an opportunity with them and formed a coalition, in the meanwhile the Left was very divided so the elections ended with a decisive CS-Heimwehr victory. This led to massive protests and a fire at the Justizpalast in Vienna, since a lot of people saw the Heimwehr as a brutal and oppressive organisation. In the July Revolt of 1927, 89 protesters were killed by the Austrian police forces. Political conflict escalated until the early 1930s. The attempted assassination of President Wilhelm Miklas made the grip of the party even thighter. This situation has continued until today, but with the rise of Valkism in Germany many in the youth are starting to identify themsleves as German and so seeking an Anchschluss with them, the Left also is realizing that if they want to return relevant outside Red Wien they need to end their infights"
 austria.1.a: "We must make our choices carefully."
 austria.2.t: "The 1937 Election"
