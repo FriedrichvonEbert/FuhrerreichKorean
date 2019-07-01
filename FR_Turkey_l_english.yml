@@ -716,11 +716,11 @@ tur.44.d:0 "Interestingly enough, the newest leader of the Turkish State, Hüsey
 tur.44.a:0 "뭐가 잘못됬다는 거지?"
 tur.44.b:0 "우리는 범튀르크 주의가 필요 없다."
 
-tur.45.t:0 "[From.GetNameDef]가 받아들이다!"
+tur.45.t:0 "[From.GetNameDef]이 받아들이다!"
 tur.45.d:0 "A collective sigh of relief has just been released by many within the [Root.GetAdjective] government. Thankfully, it seems as though [From.GetNameDef] has decided to accept our offer of deepening ties between our new government. While this may be seen as little more than a token gesture by many international observers, this is, in fact, very helpful as it has helped provide legitimacy to our rule and our program as we’ve managed to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
 tur.45.a:0 "우리의 친구, [From.GetAdjective]를 위하여!"
 
-tur.46.t:0 "[From.GetNameDef]가 거절하다!"
+tur.46.t:0 "[From.GetNameDef]이 거절하다!"
 tur.46.d:0 "Worrying news has just been delivered from our delegation to the other Turkic nations: apparently, its seems as though [From.GetNameDef] has decided to reject our offer of fostering and deepening ties, citing that, as it stands, there is no need to further the pan-Turkic ideals. This is a huge blow to the legitimacy of the new government, as we have currently been unable to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
 tur.46.a:0 "저주받을 놈들!"
 
