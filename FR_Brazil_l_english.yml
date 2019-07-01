@@ -71,7 +71,7 @@ UBR_valkist_party_long:0 "브라질 발키즘 연합"
 #not actually for brazil
 BOL_FUHRERREICH_DESC:0 "역사는 볼리비아의 편을 들어준적이 없습니다. 이웃국가들은 우리의 작은 이점들을 빼앗아갔으며, 이는 볼리비아를 지정학적으로 끊임없이 쇠퇴시켜갔습니다. 거듭되는 실패로 인해 무감각해진 볼리비아 국민들은 많은 고통을 겪었으며, 앞으로 나아가기위해 최선을 다했습니다. 잔혹했던 차코 전쟁에서, 파라과이를 거의 무찌를수있는 기회가 찾아왔습니다. 그러나 아르헨티나의 개입으로 이 기회는 빼앗겼으며, 이제 볼리비아 국민들은 더 이상 참을수없습니다. 볼리비아 공화국은 멸망해야합니다, 그래야 볼리비아 국민들이 일어날수있습니다."
 COL_FUHRERREICH_DESC:0 "30년대 초반의 정치적 불안으로 콜롬비아의 정치 질서가 변화되었고, 페루-콜롬비아 전쟁에서의 패배는 사회적 질서의 변화를 초래하였습니다. 이제, 낡은 '민주주의식' 질서와 옛 당의 지배는 무너졌습니다. 포퓰리즘과 민족주의 운동의 결집을 이끌며, 카리스마 넘치는 지도자인 가이탄은 콜롬비아 국민들의 목소리에 귀를 기울였습니다. 최근의 정권장악 이후 많은 불안정들이 남아있지만, 이제 콜롬비아 사회의 구름이 걷히면서 콜롬비아 국민들은 자신들의 목표인 '복수'에 눈을 돌릴것입니다."
-PRU_FUHRERREICH_DESC:0 "Rising as a hegemon of the Andes after their military victory over Colombia, Peru seems to have everything. A succesful, growing economy, in part thanks to close ties to the British. A wide, expansive and rich land that provides them with the resources they need. A place of prestige in the South American order. However, social inequalities and political wounds still run deep, and as the Peruvian people call for greater reforms in every aspect, the Peruvian Republic might find itself fighting both external and internal enemies."
+PRU_FUHRERREICH_DESC:0 "콜롬비아에 대한 군사적 승리 이후 안데스 산맥의 패권국가로 부상하고있는 페루는, 모든것을 가지고있는것처럼 보입니다. 성공적이며, 성장하고있는 경제는, 부분적으로 영국과의 긴밀한 유대관계 덕분입니다. 넓고, 광대하며 풍요로운 이 땅은 그들에게 필요한 자원을 제공하고있습니다. 남미질서에 대한 명망있는 국가이지만, 사회적 불평등과 정치적 상처는 여전히 깊어지고 있으며, 페루국민들은 모든면에서 더 큰 개혁을 요구하고있어서, 페루 공화국은 내부의 적과 외부의 적 모두와 싸우고있는것처럼 보입니다."
 
 #flags
 BRA_introevent:0 "Brazil has reached 1936 "intact"."
