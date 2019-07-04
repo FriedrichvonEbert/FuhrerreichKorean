@@ -707,91 +707,91 @@ tur.42.t:0 "분권화된 지배"
 tur.42.d:0 "중앙집권적인 행정체계를 폐기하고 지방정부에 권력을 이양함으로써 우리는 국민들에게 보다 더 나은 대의권을 보장하고, 결과적으로 우리가 더 나은 민주국가가 되도록 보장할수 있습니다. 이것은 더이상 지방정부가 무조건적으로 콘스탄티노폴리스의 명령을 따르지 않아도 되기에 행정및 관료체계 자체의 효율성을 높이려는 우리의 노력에 도움이 됩니다. 더이상 국민의 요구는 무시되지 않을 것이며, 우리의 중앙 정부는 지방 정부를 구속하려 하지도 않을 것입니다."
 tur.42.a:0 "만세!"
 
-tur.43.t:0 "[TUR.GetName]는 크게 성공하리라"
+tur.43.t:0 "[TUR.GetName]는 크게 성공하리라!"
 tur.43.d:0 "예상했던대로, 우리의 지배를 무너뜨리려 했던 반대자들과 혁명가들을 가까스로 진압하고 [TUR.GetNameDef]를 무정부 상태에 빠뜨렸습니다. 이것은 정부의 많은 이들에게 큰 영향을 끼칠 것입니다. 그들은 우리가 제공하는 안정과 군대의 힘에 만족하고 있습니다. 이제부터는 좀더 평화로운 시대를 기대할수 있을 것입니다. 그리고 더 나은 [TUR.GetName]를 위하여."
 tur.43.a:0 "평화, 안정, 번영을 위하여!"
 
 tur.44.t:0 "[TUR.GetNameDef]는 유대를 추구하다"
-tur.44.d:0 "Interestingly enough, the newest leader of the Turkish State, Hüseyin Nihâl Bey, has decided, in an attempt to further promote pan-Turkic ideals, to foster ties with [Root.GetName]. The delegation from [TUR.GetName] has cited our genetic closeness and the advantageousness of fostering and deepening ties between our nations, especially considering the ever increasing turbulent situation of the world. With that in mind, what say we?"
+tur.44.d:0 "흥미롭게도, 터키의 새로운 지도자인 후세인 니할 베이는 범 튀르크적 이상을 실현하기 위하여 [Root.GetName]과의 관계를 강화하기로 결정했습니다. [TUR.GetName]의 대표단은 우리의 유전적 비슷함과 양국간의 유대를 증진하고 심화시킬수 있으며, 특히 날로 변해가는 국제 정세를 바라볼때 더욱 중요합니다. 그점을 염두에 두고, 우리는 어떻게 할까요?"
 tur.44.a:0 "뭐가 잘못됬다는 거지?"
 tur.44.b:0 "우리는 범튀르크 주의가 필요 없다."
 
 tur.45.t:0 "[From.GetNameDef]이 받아들이다!"
-tur.45.d:0 "A collective sigh of relief has just been released by many within the [Root.GetAdjective] government. Thankfully, it seems as though [From.GetNameDef] has decided to accept our offer of deepening ties between our new government. While this may be seen as little more than a token gesture by many international observers, this is, in fact, very helpful as it has helped provide legitimacy to our rule and our program as we’ve managed to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
+tur.45.d:0 "[Root.GetAdjective]정부 내부에서 많은 사람들이 한숨을 내쉬었습니다. 고맙게도, [From.GetNameDef]가 새로운 정부간의 유대관계 강화에 대하여 우리의 제안을 받아들이기로 결정한 것 같습니다. 이것은 국제 정보통들에게 보여주는 상징적인 제스쳐에 지나지 않지만, 사실 이것은 매우 큰 도움이 될 것입니다. 우리가 성공적으로 우리의 목적을 이룰수 있다는 것을 [Root.GetAdjective] 사람들에게 증명했기 때문입니다."
 tur.45.a:0 "우리의 친구, [From.GetAdjective]를 위하여!"
 
 tur.46.t:0 "[From.GetNameDef]이 거절하다!"
-tur.46.d:0 "Worrying news has just been delivered from our delegation to the other Turkic nations: apparently, its seems as though [From.GetNameDef] has decided to reject our offer of fostering and deepening ties, citing that, as it stands, there is no need to further the pan-Turkic ideals. This is a huge blow to the legitimacy of the new government, as we have currently been unable to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
+tur.46.d:0 "걱정스러운 소식 하나가 들어왔습니다. [From.GetNameDef]는 현재로써는 범 튀르크주의를 추구할 필요가 없다고 우리와의 관계 강화를 거부하기로 결정한 것 같습니다. 이는 새 정부의 정통성에 큰 타격을 주는 것으로, 우리는 현재 [Root.GetAdjective]사람들에게 우리의 목적을 성공적으로 관철할수 있다는 것을 증명할수 없었기 때문입니다."
 tur.46.a:0 "저주받을 놈들!"
 
 tur.47.t:0 "[TUR.GetNameDef]는 유대를 추구하다"
-tur.47.d:0 "Interestingly enough, the newest leader of the Turkish State, Hüseyin Nihâl Bey, has decided, in an attempt to further promote pan-Turkic ideals, to foster ties with [Root.GetName]. The delegation from [TUR.GetName] has cited our genetic closeness and the advantageousness of fostering and deepening ties between our nations, especially considering the ever increasing turbulent situation of the world. With that in mind, what say we?"
+tur.47.d:0 "흥미롭게도, 터키의 새로운 지도자인 후세인 니할 베이는 범 튀르크적 이상을 실현하기 위하여 [Root.GetName]과의 관계를 강화하기로 결정했습니다. [TUR.GetName]의 대표단은 우리의 유전적 비슷함과 양국간의 유대를 증진하고 심화시킬수 있으며, 특히 날로 변해가는 국제 정세를 바라볼때 더욱 중요합니다. 그점을 염두에 두고, 우리는 어떻게 할까요?"
 tur.47.a:0 "뭐가 잘못됬다는 거지?"
 tur.47.b:0 "우리는 범튀르크 주의가 필요 없다."
 
 tur.48.t:0 "[From.GetNameDef]가 받아들이다!"
-tur.48.d:0 "A collective sigh of relief has just been released by many within the [Root.GetAdjective] government. Thankfully, it seems as though [From.GetNameDef] has decided to accept our offer of deepening ties between our new government. While this may be seen as little more than a token gesture by many international observers, this is, in fact, very helpful as it has helped provide legitimacy to our rule and our program as we’ve managed to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
+tur.48.d:0 "[Root.GetAdjective]정부 내부에서 많은 사람들이 한숨을 내쉬었습니다. 고맙게도, [From.GetNameDef]가 새로운 정부간의 유대관계 강화에 대하여 우리의 제안을 받아들이기로 결정한 것 같습니다. 이것은 국제 정보통들에게 보여주는 상징적인 제스쳐에 지나지 않지만, 사실 이것은 매우 큰 도움이 될 것입니다. 우리가 성공적으로 우리의 목적을 이룰수 있다는 것을 [Root.GetAdjective] 사람들에게 증명했기 때문입니다."
 tur.48.a:0 "우리의 친구, [From.GetAdjective]를 위하여!"
 
 tur.49.t:0 "[From.GetNameDef]가 거부하다!"
-tur.49.d:0 "Worrying news has just been delivered from our delegation to the other Turkic nations: apparently, its seems as though [From.GetNameDef] has decided to reject our offer of fostering and deepening ties, citing that, as it stands, there is no need to further the pan-Turkic ideals. This is a huge blow to the legitimacy of the new government, as we have currently been unable to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
+tur.49.d:0 "걱정스러운 소식 하나가 들어왔습니다. [From.GetNameDef]는 현재로써는 범 튀르크주의를 추구할 필요가 없다고 우리와의 관계 강화를 거부하기로 결정한 것 같습니다. 이는 새 정부의 정통성에 큰 타격을 주는 것으로, 우리는 현재 [Root.GetAdjective]사람들에게 우리의 목적을 성공적으로 관철할수 있다는 것을 증명할수 없었기 때문입니다."
 tur.49.a:0 "저주받을 놈들!"
 
 tur.50.t:0 "[TUR.GetNameDef]는 유대를 추구하다"
-tur.50.d:0 "Interestingly enough, the newest leader of the Turkish State, Hüseyin Nihâl Bey, has decided, in an attempt to further promote pan-Turkic ideals, to foster ties with [Root.GetName]. The delegation from [TUR.GetName] has cited our genetic closeness and the advantageousness of fostering and deepening ties between our nations, especially considering the ever increasing turbulent situation of the world. With that in mind, what say we?"
+tur.50.d:0 "흥미롭게도, 터키의 새로운 지도자인 후세인 니할 베이는 범 튀르크적 이상을 실현하기 위하여 [Root.GetName]과의 관계를 강화하기로 결정했습니다. [TUR.GetName]의 대표단은 우리의 유전적 비슷함과 양국간의 유대를 증진하고 심화시킬수 있으며, 특히 날로 변해가는 국제 정세를 바라볼때 더욱 중요합니다. 그점을 염두에 두고, 우리는 어떻게 할까요?"
 tur.50.a:0 "뭐가 잘못됬다는 거지?"
 tur.50.b:0 "우리는 범튀르크 주의가 필요 없다."
 
 tur.51.t:0 "[From.GetNameDef]가 받아들이다"
-tur.51.d:0 "A collective sigh of relief has just been released by many within the [Root.GetAdjective] government. Thankfully, it seems as though [From.GetNameDef] has decided to accept our offer of deepening ties between our new government. While this may be seen as little more than a token gesture by many international observers, this is, in fact, very helpful as it has helped provide legitimacy to our rule and our program as we’ve managed to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
+tur.51.d:0 "[Root.GetAdjective]정부 내부에서 많은 사람들이 한숨을 내쉬었습니다. 고맙게도, [From.GetNameDef]가 새로운 정부간의 유대관계 강화에 대하여 우리의 제안을 받아들이기로 결정한 것 같습니다. 이것은 국제 정보통들에게 보여주는 상징적인 제스쳐에 지나지 않지만, 사실 이것은 매우 큰 도움이 될 것입니다. 우리가 성공적으로 우리의 목적을 이룰수 있다는 것을 [Root.GetAdjective] 사람들에게 증명했기 때문입니다."
 tur.51.a:0 "우리의 친구, [From.GetAdjective]를 위하여!"
 
 tur.52.t:0 "[From.GetNameDef]가 거부하다!"
-tur.52.d:0 "Worrying news has just been delivered from our delegation to the other Turkic nations: apparently, its seems as though [From.GetNameDef] has decided to reject our offer of fostering and deepening ties, citing that, as it stands, there is no need to further the pan-Turkic ideals. This is a huge blow to the legitimacy of the new government, as we have currently been unable to prove to the [Root.GetAdjective] people that we can successfully pursue our own agenda."
+tur.52.d:0 "걱정스러운 소식 하나가 들어왔습니다. [From.GetNameDef]는 현재로써는 범 튀르크주의를 추구할 필요가 없다고 우리와의 관계 강화를 거부하기로 결정한 것 같습니다. 이는 새 정부의 정통성에 큰 타격을 주는 것으로, 우리는 현재 [Root.GetAdjective]사람들에게 우리의 목적을 성공적으로 관철할수 있다는 것을 증명할수 없었기 때문입니다."
 tur.52.a:0 "저주받을 놈들!"
 
 tur.53.t:0 "모병 운동: 낮은 수준의 모병"
-tur.53.d:0 "It is clear that, in order to pursue our agenda, we will need to begin recruitment campaigns. Of course, it will be tough to convince the [Root.GetAdjective] population to join the army in droves. In order to circumvent this, the government shall begin a subtle recruitment campaign and increasingly become more aggressive with recruitment by stoking the embers of nationalism."
+tur.53.d:0 "우리의 안건을 추진하기 위해서는 모병 운동을 시작해야 할것이 분명하며, [Root.GetAdjective]의 청년들을 입대시키는 것이 어려울 것이라는 것은 확실합니다. 이를 위해서 더욱 집요하게 모병 운동을 시작하고 민족주의를 촉진시켜 적극적인 모병활동을 벌여야 합니다."
 tur.53.a:0 "국가를 위하여."
 
 tur.54.t:0 "모병 운동: 적당한 수준의 모병"
-tur.54.d:0 "After a few months have passed, it’s clear that our efforts have borne fruit. As we’ve begun to increase the intensity of the recruitment campaign, more and more able-bodied [Root.GetAdjective] men have been signing up to join the [Root.GetAdjective] Land Forces."
+tur.54.d:0 "모병 운동을 시작한지 몇달이 지난 지금, 우리의 노력이 결실을 맺었습니다. 모병 운동의 강도를 높이기 시작하며, [Root.GetAdjective]의 청년들이 점점더 많이 [Root.GetAdjective]육군에 입대하고 있습니다."
 tur.54.a:0 "완벽해."
 
 tur.55.t:0 "모병 운동: 높은 수준의 모병"
-tur.55.d:0 "The government has now become more overt with its campaigning and it has clearly paid off. What was once a subtle campaign for the recruitment of new conscripts has now become a full on recruitment campaign, with posters on every street corner. This has been helped by the fact that the men who are signing up are invigorated and eager to serve the motherland. As a result, our armed forces have seen record numbers of men join."
+tur.55.d:0 "정부는 이제 노골적으로 모병을 하고 있으며 성과를 거두고 있습니다. 한때는 소극적이었던 신병 모집 운동이 이제는 거리에 포스터가 나돌정도로 확산되었습니다. 이는 가입하는 청년들이 혈기왕성하고 조국을 위하여 목숨을 바치려는 점이 도움이 되었습니다. 그 결과, 우리의 군대는 기록적인 수의 신병들이 합류하게 되었습니다."
 tur.55.a:0 "멋지군!"
 
 tur.56.t:0 "준 군사단체 자율권 부여"
-tur.56.d:0 "Hüseyin Nihâl Bey himself has been a proponent of working with paramilitary groups that favour his pan-Turkic policy. This can ensure that, in the event of widespread disapproval and, if dissent goes high enough, rioting against our proposals, we will have a group armed to the teeth to back us up."
+tur.56.d:0 "후세인 니할 베이 자신은 범-튀르크주의 정책을 지지하는 준 군사단체와 협력하고 있습니다. 만약 광범위하게 반대의견이 나온다면, 그는 무장을 할 것입니다."
 tur.56.a:0 "이것은 필요한 조치였다."
 
 tur.57.t:0 "군대가 반항하다"
-tur.57.d:0 "The armed forces have, apparently, not taken kindly to our policy of backing fringe paramilitary groups and arming them with the newest weapons. They have taken to questioning our priorities with regards to military spending and have commented on the absurdity of our support of pan-Turkic paramilitary groups."
+tur.57.d:0 "군대는 명백하게 우리의 정책에 호의적이지 않습니다. 우리의 정책은 준 군사단체를 지원하고 최신 무기로 무상시키는 것입니다. 그들은 군비 지출과 관련하여 우리에게 의문을 제기해 왔고, 우리가 범-튀르크주의 준 군사단체들을 지원하는 것을 불합리하다고 생각하고 있습니다."
 tur.57.a:0 "그들은 자신들이 뭐라고 생각하는 거지?!"
 
 tur.58.t:0 "보수파 장교들이 목소리를 내다"
-tur.58.d:0 "Old guard officers have even been more rampant in their criticism, claiming that Nihâl Bey’s support of paramilitary groups over the armed forces themselves makes no sense, especially considering that [Root.GetNameDef] is surrounded on all sides by enemies and will need professional forces to help defend the nation in the case of an attack or, on the off chance that we go on the offensive, attack our enemies themselves."
+tur.58.d:0 "[Root.GetNameDef]의 사방이 적으로 포위되어 있고 공격시 국가를 방어하는데 도움이 될 전문적인 군대가 필요하다는 점을 고려할때, 보수파 장교들은 니할 베이의 준 군사단체 지원이 말도 안된다면서 비판해왔습니다."
 tur.58.a:0 "그들은 자신들이 무슨말을 하는지 모르고 있다..."
 
 tur.59.t:0 "좌파를 뿌리뽑다"
-tur.59.d:0 "We’ve used the paramilitary groups under our thumb to our advantage by having them identify and assassinate prominent leftists. Leaders and other higher ups of the various socialist parties have been taken out or forced into hiding. While this has removed socialist parties from the public sphere, it does not mean that they haven’t got underground movements which, it seems, will have to be dealt with in the future."
+tur.59.d:0 "우리는 우리가 통제하는 준 군사단체들이 저명한 좌파세력을 파괴하고 주요 요인들을 암살하게 함으로써 우리에게 유리하게 이용했습니다. 다양한 사회주의 정당의 지도층은 쫓겨나거나 숨어지내야 합니다. 이것은 공적인 부분에서 사회주의 계열 정당을 제거했다는 것일뿐, 미래에 다시 부활을 꿈꾸지 않는다는 뜻은 아닙니다."
 tur.59.a:0 "이 일은 반드시 이루어져야 한다."
 
 tur.60.t:0 "국가적 구조조정"
-tur.60.d:0 "Despite having been rid of the Ottoman Empire once and for all, we still have retained much of the issues that had plagued the empire. For example, our bureaucracy inefficient and in shambles, largely ineffective and unable to do its job properly. Corruption is rampant and a lack of being unable to industrialize has hurt our economy. We must take to reforming the very core of the state and creating a robust Turkish state."
+tur.60.d:0 "우리가 오스만 제국으로부터 완전히 벗어났음에도 불구하고, 우리는 여전히 국가를 괴롭혔던 많은 문제들을 안고 있습니다. 예를들어, 우리의 관료체계는 비효율적이며 난장판인데, 제대로 업무를 처리할수 없을 정도입니다. 부패가 만연하고 산업화 되지 않은 우리의 사회는 우리의 경제에도 피해를 주고 있습니다. 우리는 국가의 핵심부를 개혁하고 강력한 터키를 만들어야 합니다."
 tur.60.a:0 "우리는 성공할 것입니다!"
 
 tur.61.t:0 "관료주의를 처리하다"
-tur.61.d:0 "As stated before, the bureaucracy that we had inherited was one that was ineffective and able to even perform the simplest of tasks properly. That is why we have taken to creating the Turkish Public Administration, firing old guard bureaucrats, and replacing them with capable men who are able to efficiently and effectively complete their tasks. In addition anti-corruption measures have been implemented in order to prevent such decadence from ever occurring within the Turkish nation ever again. The only question is: will our efforts be successful?"
+tur.61.d:0 "앞에서 말했듯, 우리가 오스만 제국으로부터 물려받은 관료주의는 비효율적이고 가장 간단한 일조차 제대로 수행할술 없었습니다. 그렇기에 우리는 터키의 행정부를 만들고, 보수파들을 제거하고, 그들의 일을 제대로 수행할수 있는 이들을 고용하는 일에 착수해야 합니다. 게다가 이런 퇴폐적인 행위가 다시는 터키 내부엣러 일어나지 않도록 반 부패조치들이 시행되어야 합니다. 우리가 가진 유일한 질문은 우리가 성공할수 있는가 입니다."
 tur.61.a:0 "그렇게 되길 바라자..."
 
 tur.62.t:0 "관료주의를 처리하려는 노력이 성공하다"
-tur.62.d:0 "Thankfully, it seems as though our efforts to modernize the bureaucracy have, for the most part, paid off. While we still have a long road ahead of us in order to properly reach the level of success that we truly want to see, it is a good start and, already, the Turkish government, in its daily functions, has begun to perform various tasks more efficiently and is better able to meet the needs of the people."
+tur.62.d:0 "감사하게도, 관료체계를 현대화 하려는 노력은 대부분 성공한 것으로 보입니다. 우리가 원하는 수준까지 성공하기에는 아직 갈길이 멀지만, 좋은 출발이며, 이미 터키 정부는 여러 업무를 보다 효율적으로 수행하기 시작했고, 국민들의 요구를 더 잘 수용할수 있게 되었습니다."
 tur.62.a:0 "놀랍군!"
 
-tur.63.t:0 "사법통제"
-tur.63.d:0 "We must begin to take matters into our own hands; rather than allowing an independent judiciary to exist, we must turn to nations such as the United States, which allow the president, who is the head of the executive branch, to appoint judges as he sees fit. However, we shall also put in our own caveat: the president will be allowed to fire judges as he sees fit. The judiciary itself shall be, of course, overseen by the president."
+tur.63.t:0 "사법부 통제"
+tur.63.d:0 "우리는 우리의 문제를 다루기 시작해야 합니다. 독립적인 사법부가 존재하도록 놔두기 보다는, 행정부의 수반인 대통령이 적합하다고 판단한 판사들을 임명할수 있는 미국 같은 나라들처럼 해야 합니다. 그러나 우리는 주의해야 할 것입니다. 대통령은 원하는대로 판사들을 해고할수 있을 것이며, 사법부는 대통령의 감독하에 들어갈 것입니다."
 tur.63.a:0 "앞으로!"
 
 tur.64.t:0 "의회 폐쇄"
