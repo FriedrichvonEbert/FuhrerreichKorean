@@ -4,206 +4,206 @@
 ### BOOKMARK ###
 ################
 
-HUN_FUHRERREICH_DESC:0 "With the fall of the Austro-Hungarian Empire in 1919, the new Hungarian Republic found itself with enemies on all sides. After a joint Entente-led invasion, the Republic was partitioned and its territory handed out to its victorious neighbors. This led to a strong sense of nationalism and irredentism within Hungary and the rise of the ultranationalist Arrow Cross party. Hungary now looks outward to it's former lands in Transylvania and Slovakia with hungry eyes."
+HUN_FUHRERREICH_DESC:0 "1919년 오스트리아-헝가리 제국의 패망과 동시에 새로운 헝가리 공화국이 사방에 적을 둔 채로 설립되었습니다. 협상국 주도의 점령 이후, 공화국은 분할되었고 영토는 승리한 주변국에게 주어졌습니다. 이로 인해 헝가리 내부에 민족주의와 실지회복주의 의식이 대두되었고 극우 화살십자당이 커지게 되었습니다. 이제 헝가리는 트란실바니아와 슬로바키아에 있는 옛 영토로 눈을 돌립니다."
 
 ################
 ### POLITICS ###
 ################
 
 HUN_vanguardist_party:0 "MST"
-HUN_vanguardist_party_long:0 "Magyar Szovjet Tanács"
+HUN_vanguardist_party_long:0 "헝가리 소비에트 협의회"
 HUN_collectivist_party:0 "MSM"
-HUN_collectivist_party_long:0 "Magyarországi Szocialista Munkáspárt"
-HUN_libertarian_socialist_party:0 "Balközép"
-HUN_libertarian_socialist_party_long:0 "Balközép"
-HUN_social_democrat_party:0 "Szociáldemokrata párt"
-HUN_social_democrat_party_long:0 "Szociáldemokrata párt Magyarország számára"
+HUN_collectivist_party_long:0 "헝가리 사회노동당"
+HUN_libertarian_socialist_party:0 "좌파중앙당"
+HUN_libertarian_socialist_party_long:0 "좌파중앙당"
+HUN_social_democrat_party:0 "사회민주당"
+HUN_social_democrat_party_long:0 "헝가리 사회민주당"
 HUN_social_liberal_party:0 "LE"
-HUN_social_liberal_party_long:0 "Liberális Ellenzék"
+HUN_social_liberal_party_long:0 "자유 야당"
 HUN_market_liberal_party:0 "F48P"
-HUN_market_liberal_party_long:0 "Függetlenségi és 48-as Párt"
+HUN_market_liberal_party_long:0 "독립과 48년당"
 HUN_social_conservative_party:0 "KNP"
-HUN_social_conservative_party_long:0 "Keresztény Nemzeti Párt"
+HUN_social_conservative_party_long:0 "기독교 국민당"
 HUN_authoritarian_democrat_party:0 "FKgP"
-HUN_authoritarian_democrat_party_long:0 "Független Kisgazda-, Földmunkás- és Polgári Párt"
+HUN_authoritarian_democrat_party_long:0 "독립소작동 농업노동자시민당"
 HUN_paternal_autocrat_party:0 "MNEP"
-HUN_paternal_autocrat_party_long:0 "Magyar Nemzeti Egység Párt"
-HUN_national_populist_party:0 "Arrow Cross"
-HUN_national_populist_party_long:0 "Nyilaskeresztes Párt"
+HUN_paternal_autocrat_party_long:0 "헝가리 국민통합당"
+HUN_national_populist_party:0 "화살십자당"
+HUN_national_populist_party_long:0 "화살십자당"
 HUN_valkist_party:0 "MVP"
-HUN_valkist_party_long:0 "Magyar Valkista Párt"
+HUN_valkist_party_long:0 "헝가리 발키즘당"
 
 ###############
 #### FOCUS ####
 ###############
 
 ###
-hun_mil_start:0 "A Quiet Rearmament"
+hun_mil_start:0 "A Quiet Rearmament조용한 재무장"
 hun_mil_start_desc:0 "The Treaty of Trianon denied the Hungarian state an army of any kind, completely preventing us from defending ourselves in case of attack. We must being the slow process of quietly building an army back up, as to not attract attention from our more powerful neighbors."
 ###
-hun_poli_stab:0 "Political Stabilization"
+hun_poli_stab:0 "Political Stabilization정치적 안정"
 hun_poli_stab_desc:0 "The Party does not yet wield uncontested power in the nation, and we will need every single citizen on our side if we are to follow through with our plans for the future."
 ###
-hun_foreign_dip:0 "Foreign Diplomacy"
+hun_foreign_dip:0 "Foreign Diplomacy외교 정책"
 hun_foreign_dip_desc:0 "Hungary cannot stand alone, and we will need friends in higher places if we are to succeed in the wars to come. Opening up diplomacy with Europe will give us many options."
 ###
-hun_cropdusters:0 "Repurpose Civilian Cropdusters"
+hun_cropdusters:0 "Repurpose Civilian Cropdusters민용 농약 살포기 보완"
 hun_cropdusters_desc:0 "The Treaty of Trianon specifically outlined that we are not allowed to construct or purchase military aircraft, but it said nothing about strapping machine guns and chlorine gas canisters to cropdusters and sending them to the frontline..."
 ###
-hun_buy_guns:0 "Purchase foreign weapons"
+hun_buy_guns:0 "Purchase foreign weapons외제 병기 수입"
 hun_buy_guns_desc:0 "Producing our own weapons en masse would disturb our neighbors greatly, as such we must make secret agreements to purchase rifles and equipment from foreign powers in order to arm our future army."
 ###
-hun_est_bizt:0 "Establish the Biztonság"
+hun_est_bizt:0 "Establish the Biztonság비즈톤샤그 조직"
 hun_est_bist_desc:0 "The 'Biztonság' or Security will form the backbone of our secret police, and help us manage internal affairs in our nation."
 ###
-hun_venge:0 "Vengeful Spirit"
+hun_venge:0 "Vengeful Spirit불타오르는 복수심"
 hun_venge_desc:0 "We must ensure each and every citizen is rallied behind our cause, and prepared for the great crusade we will soon be embarked upon."
 ###
-hun_demand_alfold:0 "Demand the Return of Alföld"
+hun_demand_alfold:0 "Demand the Return of Alföld알푈드 반환 요구"
 hun_demand_alfold_desc:0 "The lands of Alföld are full of ethnic Hungarians, and the lands are nothing more than a burden on the Romanian political and economic structure. Demanding the return of the lands should guaruntee that the lands are ceded back to their rightful rulers."
 ###
-hun_demand_transylvania:0 "Transylvania or War"
+hun_demand_transylvania:0 "Transylvania or War트란실바니아냐 전쟁이냐"
 hun_demand_transylvania_desc:0 "The Transylvanian lands are an integral part of the Hungarian state, and the Romanian occupation of the land has caused immense suffering to the large Magyar minority. We will demand Transylvania be returned to its rightful owner, or we will burn Bucharest to the ground."
 ###
-hun_renounce_trianon:0 "Renounce the Treaty of Trianon"
+hun_renounce_trianon:0 "Renounce the Treaty of Trianon트리아농 조약 번복"
 hun_renounce_trianon_desc:0 "The time has finally come, we will internationally annouce our renunciation of the mutilating Treaty of Trianon, and begin the long and difficult process of restoring Hungary to her former glory."
 ###
-hun_demand_austria:0 "Demand Burgenland"
+hun_demand_austria:0 "Demand Burgenland부르겐란트 요구"
 hun_demand_austria_desc:0 "For centuries Burgenland has been part of The Kingdom of Hungary only to be taken from us in the aftermath of the Great War. It is time that we demand that rightful return of this territory."
 ###
-hun_entrench_party:0 "Entrench the Arrow Cross"
+hun_entrench_party:0 "Entrench the Arrow Cross화살십자당 확립"
 hun_entrench_party_desc:0 "Only having controlled Hungary for the past 4 years, we are still seen as nothing more than a phase in Hungarian politics. We must show the world that we are here to stay, for all time."
 ###
-hun_economic_boost:0 "Economic Boost"
+hun_economic_boost:0 "Economic Boost경제 성장 촉진"
 hun_economic_boost_desc:0 "Ever since the end of the Great War, the Hungarian economy has flip-flopped between complete ruin and relative stagnation. We will construct additional factories in an attempt to provide a boost to the economy and dig it out of this seemingly infinite hole of debt and inflation."
 ###
-hun_focus_civ:0 "Civilian Industry Focus"
+hun_focus_civ:0 "Civilian Industry Focus민간 산업 중점"
 hun_focus_civ_desc:0 "We cannot neglect the civilian industrial sector, and the war machine cannot continue to roll forward without a strong backbone in the nations heartland. The construction of additional civilian factories will allow us to produce more factories and goods, further increasing our economy."
 ###
-hun_focus_mil:0 "Military Industry Focus"
+hun_focus_mil:0 "Military Industry Focus군수 산업 "
 hun_focus_mil_dsc:0 "The Hungarian military will need all the help it can get in producing more equipment to fight our wars. Neglecting our military sector would be a complete strategic error, and one that we cannot afford to make."
 ###
-hun_end_republic:0 "End the Republic"
+hun_end_republic:0 "End the Republic공화국의 끝"
 hun_end_republic_desc:0 "We have finally gathered enough popular support to declare the Republic dead, and end any traces of democracy left in the country. The new Hungarian State will rise from the ashes of the Republic, and we will spring forth unto the world with great fury."
 ###
-hun_state_as_one:0 "The State As One"
+hun_state_as_one:0 "The State As One하나의 국가"
 hun_state_as_one_desc:0 ""
 ###
-hun_join_stahlpakt:0 "Join Stahlpakt"
+hun_join_stahlpakt:0 "Join Stahlpakt강철조약 가입"
 hun_join_stahlpakt_desc:0 "Our foreign policy nicely matches up with Germany's. An alliance between our nation would help secure our place as one of the great powers in a post war Europe."
 ###
-hun_collab_with_iron_guard:0 "Collaboration With The Iron Guard"
+hun_collab_with_iron_guard:0 "Collaboration With The Iron Guard철위대와의 합작"
 hun_collab_with_iron_guard_desc:0 "The political situation in Romania may now be advantageous to us. It seems that the Iron Guard faction of Romania will be willing to work with us if we extend the first olive branch."
 ###
-hun_carpathian_agreement:0 "The Carpathian Agreement"
+hun_carpathian_agreement:0 "The Carpathian Agreement카르파디아 협정"
 hun_carpathian_agreement_desc:0 "To secure a long term alliance with the Romanians, longstanding disputes must be settled. The return of Alfold will heal the wounds between our two nations"
 ###
-hun_autarky:0 "Autarky"
+hun_autarky:0 "Autarky경제 자립 정책"
 hun_autarky_desc:0 "Relying on foreign trade to keep our economy afloat will lead to complete subjugation by the major European powers. We must show the world that we can be entirely self-sufficiant, even when placed under economic sanctions or when the enemy is on our doorstep."
 ###
-hun_trianon_begone:0 "Renounce the Treaty of Trianon"
+hun_trianon_begone:0 "Renounce the Treaty of Trianon트리아농 조약 번복"
 hun_trianon_begone_desc:0 "With our military and economy built back up to sufficiant levels, we can finally declare the Treaty of Trianon null and void, and finally move on from this shameful period in our nations history."
 ###
-hun_secret_training:0 "Secret Training Camps"
+hun_secret_training:0 "Secret Training Camps비밀 훈련소"
 hun_secret_training_desc:0 "The Treaty of Trianon completely barred us from having a full-time military of any sort, we must raise an army in secret as to avoid attracting unwanted attention."
 ###
-hun_camo_airbase:0 "Camouflaged Airbases"
+hun_camo_airbase:0 "Camouflaged Airbases위장 공군 기지"
 hun_camo_airbase_desc:0 "Keeping our military aircraft under nets of camouflage and inside underground bunkers will allow us to build up our air force without attracting unwanted attention."
 ###
-hun_tank_focus:0 "Armor Focus"
+hun_tank_focus:0 "Armor Focus기갑 중점"
 hun_tank_focus_desc:0 "Tanks are the only way to break through tough defensive structures, we must make sure that our armor divisions are up to strengh for the battles that will be fought."
 ###
-hun_planned_econ:0 "Planned Economy"
+hun_planned_econ:0 "Planned Economy계획 경제"
 hun_planned_econ_desc:0 "Total dominance over our nations economy will allow us to ensure that another economic crisis will never befall us again. We will plan out where each factory is placed, who will run them, and exactly what they will produce."
 ###
-hun_devolved_econ:0 "Devolved Economy"
+hun_devolved_econ:0 "Devolved Economy위임 경제"
 hun_devolved_econ_desc:0 "With the Hungarian economy built back up, we must now let go of our authoritarian iron grip on it. Allowing the economy to grow on it's own will create an organic economy which will be able to flourish on it's own."
 ###
-hun_danube_forts_1:0 "Defense of the Danube"
+hun_danube_forts_1:0 "Defense of the Danube다뉴브 방어"
 hun_danube_forts_1_desc:0 "The Danube is our greatest natural defensive structure, we must fortify the banks of the river in order to defend Budapest from attacks on either side."
 ###
-hun_danube_forts_2:0 "Extension of the Danube Fortifications"
+hun_danube_forts_2:0 "Extension of the Danube Fortifications다뉴브 방어 시설 연장"
 hun_danube_forts_2_desc:0 "The Danube Fortification project has proved to be a resounding success, we must extend this project to fortify both banks of the river, creating an impregnable string of bunkers that no enemy would dare attempt to assail."
 ###
-hun_revive_airforce:0 "Revive the Magyar Légierő"
+hun_revive_airforce:0 "Revive the Magyar Légierő헝가리 공군 회복"
 hun_revive_airforce_desc:0 "The Treaty of Trianon banned the Hungarian nation from having an airforce of any kind. With our repurposed cropdusters already filling up the hangers, it's time we take back the skies from our enemies with real aircraft."
 ###
-hun_offense_airforce:0 "An offensive Airforce"
+hun_offense_airforce:0 "An offensive Airforce공격 공군"
 hun_offense_airforce_desc:0 "Taking the initiative and striking the enemy in their homeland is the best way to ensure that they will not be able to enter our airspace and bomb our factories into submission."
 ###
-hun_defense_airforce:0 "A Defensive Airforce"
+hun_defense_airforce:0 "A Defensive Airforce방어 공군"
 hun_defense_airforce_desc:0 "We will not be drawn into the enemies traps and ambushes, we will force them to come within range of our AA guns and pick them out of the sky at our leisure."
 ###
-hun_new_airbases:0 "Construct new airbases"
+hun_new_airbases:0 "Construct new airbases새 공군 기지 건설"
 hun_new_airbases_desc:0 "Planes are no good if they have nowhere to land and repair, we must comission the construction of new airbases across our country so they will always have somewhere to retreat to in case they get overwhelmed and overextended."
 ###
-hun_expand_air_training:0 "Expand Air Training Programs"
+hun_expand_air_training:0 "Expand Air Training Programs공군 훈련 프로그램 확장"
 hun_expand_air_training_desc:0 "What good are pilots if they have no idea how to fly and adapt to situations? Expanded training programs will give us access to an elite airforce that will be feared throughout Carpathia, nay the entirety of Europe."
 ###
-hun_experimental_air:0 "Experimental fighter models"
+hun_experimental_air:0 "Experimental fighter models실험적 전투기 모델"
 hun_experimental_air_desc:0 "Preliminary tests show that swept wing aircraft are able to both turn faster and reach greater speeds than conventional aircraft, we should persue this theory further so that we may maintain the initative."
 ###
-hun_expand_experiment:0 "Expand the Department"
+hun_expand_experiment:0 "Expand the Department부서 확장"
 hun_expand_experiment_desc:0 "To split the atom is a seemingly impossible task, and one that our nation cannot acomplish alone. However, expanding our experimental research department will put us ahead of the game and allow us to contribute more to the development of this new wonder weapon."
 ###
-hun_revive_navy:0 "Revive the Navy"
+hun_revive_navy:0 "Revive the Navy해군 회복"
 hun_revive_navy_desc:0 "The Hungarians were barred from having a navy both by the Treaty of Trianon's disarmament policy and the fact that our coastline was given to the Serbian government. Now that we have regained our coastline, we may begin to rebuild our navy and wrest control of the sea from the Italians and British."
 ###
-hun_navy_doctrine:0 "Choose a naval doctrine"
+hun_navy_doctrine:0 "Choose a naval doctrine해군 교리 선택"
 hun_navy_doctrine_desc:0 "A modern fleet cannot survive without proper naval doctrine to guide it, we must choose carefully to ensure the future success of our growing navy in the wars to come."
 ###
-hun_undersea_navy:0 "An Undersea Navy"
+hun_undersea_navy:0 "An Undersea Navy해저 해군"
 hun_undersea_navy_desc:0 "Our enemies outmatch our still growing navy. An indirect approach against their ships would be the best strategy for our nation until we can get our naval situation in order"
 ###
-hun_cruisar_effort:0 "Cruiser Effort"
+hun_cruisar_effort:0 "Cruiser Effort순양함 집중"
 hun_cruisar_effort_desc:0 "All modern navies need smaller assisting ships to support their battleships and carriers. We'll need advanced Cruisers if we wish to match the naval power of our rivals."
 ###
-hun_floating_fortress:0 "Floating Fortress"
+hun_floating_fortress:0 "Floating Fortress해상 요새"
 hun_floating_fortress_desc:0 "For nearly a century the battleship has been the pride of many navies. It's firepower and armor is unmatched by any class of ship. Any self respecting nation should have at least one."
 ###
-hun_mediterranean_wolves:0 "Mediterranean Wolves"
+hun_mediterranean_wolves:0 "Mediterranean Wolves지중해의 늑대"
 hun_mediterranean_wolves_desc:0 ""
 ###
-hun_flexible_ships:0 "Flexible Ships"
+hun_flexible_ships:0 "Flexible Ships가변적 선박"
 hun_flexible_ships_desc:0 ""
 ###
-hun_carrier_research:0 "Carrier Research"
+hun_carrier_research:0 "Carrier Research항공 모함 연구"
 hun_carrier_research_desc:0 "Aircraft Carriers are the future of both naval and air warfare. Their flexibility and the range of their aircraft make them a devastating piece of any naval encounter."
 ###
-hun_doctrine_evaluate:0 "Land Doctrine Evaluation"
+hun_doctrine_evaluate:0 "Land Doctrine Evaluation육군 교리 심사"
 hun_doctrine_evaluate_desc:0 "With the reconstruction of our land forces well underway, it's about time that we chose a doctrine to lead our men. This choice could drastically affect the outcome of the wars we will fight, so we much choose carefully."
 ###
-hun_combined_arms:0 "Combined Arms"
+hun_combined_arms:0 "Combined Arms제병 협동"
 hun_combined_arms_desc:0 "The days of independant infantry operations is long gone, and if we do not keep up with history, we will be forced to repeat the mistakes of our fathers in the Great War."
 ###
-hun_independant_army:0 "Independant Army Operations"
+hun_independant_army:0 "Independant Army Operations독립된 육군 작전"
 hun_independant_army_desc:0 "Infantry form the backbone of the army, and can surely be trusted to be left on their own without singlehandedly losing the war."
 ###
-hun_youth_army:0 "Youthful Militarism"
+hun_youth_army:0 "Youthful Militarism젊은 군국주의"
 hun_youth_army_desc:0 "We need to educate the youth of our nation to understand the necessity of warfare in this modern age. Should we ever be overrun in battle, the youth will be our last line of defense in our struggle against the imperialist bastards that surround us."
 ###
-hun_more_doctrine:0 "Extended Doctrine Research"
+hun_more_doctrine:0 "Extended Doctrine Research연장된 교리 연구"
 hun_more_doctrine_desc:0 "Recent breakthroughs in doctrinal theory has allowed us to develop new tactics that have previously been unimaginable by our military staff. Putting these ideas in the field will surely bring us success in combat."
 ###
-hun_sub_rails:0 "Subsidize the Rail Industry"
+hun_sub_rails:0 "Subsidize the Rail Industry철도 산업 지원"
 hun_sub_rails_desc:0 "Rails are the most efficiant way to transport soldiers, civilians, and materials across the country. We must subsidize this industry in preperation for our expansion into Carpathia and the Balkans."
 ###
-hun_state_factory:0 "State-Controlled Factories"
+hun_state_factory:0 "State-Controlled Factories국가 통제하의 공장"
 hun_state_factory_desc:0 "Allowing private companies to run their own factories means that we have less direct control over what and how much is produced. Constructing factories that are owned directly by the state will increase not onl our efficiancy but our production output as well."
 ###
-hun_south_slovakia:0 "The Question of South Slovakia"
+hun_south_slovakia:0 "The Question of South Slovakia남 슬로바키아 문제"
 hun_south_slovakia_desc:0 "Southern Slovakia is full of Hungarians who were ripped from their motherland by the Treaty of Trianon. With that treaty no longer standing in our way, we are free to demand the return of these lands to their rightful overlords."
 ###
-hun_slovak_fate:0 "The Fate of Slovakia"
+hun_slovak_fate:0 "The Fate of Slovakia슬로바키아의 운명"
 hun_slovak_fate_desc:0 "With the return of South Slovakia to our control, we have shown the world the weakness of the Slovak people and their unwillingness to put up a fight. We will demand the return of the Northern provinces to our rule, and begin the restoration of greater Hungary."
 ###
-hun_nat_col:0 "agricultural Collectivization"
+hun_nat_col:0 "agricultural Collectivization농업 공영화"
 hun_nat_col_desc:0 "The farming system across our country still resembles that of the days of Hungarian feudalism, and is laughably unproductive. Siezing agricultural production and evenly redistributing it will increase food production tenfold and allow us to feed our ever expanding empire."
 ###
-hun_german_invest:0 "German Industrial Investment"
+hun_german_invest:0 "German Industrial Investment독일의 산업 투자"
 hun_german_invest_desc:0 "One way of kickstarting our war economy is to attract foreign investment from other nations. The Germans are famed worldwide for their industrial skills, and we could easily learn a thing or two from them in the art of industry."
 ###
-hun_ger_army:0 "Found the NMÖO"
+hun_ger_army:0 "Found the NMÖONMÖO 조직"
 hun_ger_army_desc:0 "The NMÖO, or German-Hungarian Volunteer Division, is a proposed group of soldiers made up entirely of ethnic Germans living within Hungary with the intent of bolstering our army with highly trained soldiers using German officers to train and equip them. Most of these soldiers would be sent to our army, but a small number will be transferred to Germany as a form of payment."
 
 
