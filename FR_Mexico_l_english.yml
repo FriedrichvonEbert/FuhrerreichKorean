@@ -313,7 +313,7 @@ mex.5.d:0 "우리 나라는 지난 몇 년 동안 일련의 가벼운 정치적 
 
 mex.6.d:0 "'인민의 왕' 플루타르코 엘리아스 카예스는 연방 입법궁에 나라의 여러 요인을 모아 새 내각에 들어갈 장관을 뽑으려 합니다. 하지만 초대받지 못 한 자도 있습니다. 누가 카예스 정권의 핵심 세력에 들어갈진 아직 알 수 없습니다..."
 
-mex.10.d:0 "중앙아메리카의 여러 나라가 제2차 멕시코-미국 전쟁에서 우리를 도왔습니다. 그 나라들은 우리만큼의 치욕을 당하진 않았지만 패전 이후 딱히 우리와의 관계를 증진시키진 않았습니다. 하지만 미국이 다시금 라틴아메리카에 야욕을 펼치는 지금이야말로 이들 나라에 도움을 청할 때입니다. 그런 도움이 반드시 필요하다고 할 순 없더라도 말입니다."
+mex.10.d:0 "중앙아메리카의 여러 나라가 제2차 멕시코-미국 전쟁에서 우리를 도왔습니다. 그 나라들은 우리만큼의 치욕을 당하진 않았지만 패전 이후 딱히 우리와의 관계를 증진시키진 않았습니다. 하지만 미국이 다시금 라틴 아메리카에 야욕을 드러내는 지금이야말로 이들 나라에 도움을 청할 때입니다. 그런 도움이 반드시 필요하다고 할 순 없더라도 말입니다."
 
 mex.11.d:0 "멕시코가 우리에게 미국에 맞서는 연합에 가입하라는 제안을 들고 접근해 왔습니다. 정말이지 매력적인 제안이지만 지난 전쟁에서 수많은 중앙아메리카 동포들이 어떻게 되었는지 결코 잊지 말아야 합니다..."
 
@@ -349,7 +349,7 @@ MEX_Valentin_Campa_hog:0 "발렌틴 캄파"
 MEX_Lazaro_Cardenas_hog:0 "라사로 카르데나스"
 MEX_Alvaro_Obregon_hog:0 "알바로 오브레곤"
 MEX_Gustavo_Madero_hog:0 "구스타보 마데로"
-MEX_Pascual_Orozco_hog:0 "파스쿠알 오로스코"
+MEX_Pascual_Orozco_hog:0 "파스콸 오로스코"
 MEX_Ignacio_Bonillas_hog:0 "이그나시오 보니야스"
 MEX_Manuel_Gomez_Morin_hog:0 "마누엘 고메스 모린"
 MEX_Plutarco_Elias_Calles_hog:0 "플루타르코 엘리아스 카예스"
@@ -381,7 +381,7 @@ MEX_Jose_Antonio_Urquiza_eco:0 "호세 안토니오 우르키사"
 MEX_Andres_Molina_Enriquez_sec:0 "안드레스 몰리나 엔리케스"
 MEX_Narciso_Bassols_sec:0 "나르시소 바솔스"
 MEX_Francisco_Jose_Mugica_sec:0 "프란시스코 호세 무히카"
-MEX_Pascual_Ortiz_Rubio_sec:0 "파스쿠알 오르티스 루비오"
+MEX_Pascual_Ortiz_Rubio_sec:0 "파스콸 오르티스 루비오"
 MEX_Abelardo_Rodriguez_sec:0 "아벨라르도 로드리게스"
 MEX_Guadalupe_Sanchez_sec:0 "과달루페 산체스"
 MEX_Felix_Diaz_sec:0 "펠릭스 디아스"
@@ -400,9 +400,9 @@ MEX_Alfonso_Junco_int:0 "알폰소 훙코"
 ##   TOOLTIPS   ##
 ##################
 
-1_MEX_tt: "The Realistas will put their people into office. Most of them will share their leader's position."
-2_MEX_tt: "The Synarchists will continue to hold their grip on power, perhaps for the forseeable future. No government positions will change as a result of these election results."
-3_MEX_tt: "The Quetzalcoatls, also known as the Valkistas, will create a new government molded to their party decrees. Most of those ministers and cabinet members will share their leader's position."
-4_MEX_tt: "Unfortunately, this path has not yet been implemented."
-5_MEX_tt: "Mexico has elected to take American possessions, especially those that it owned less than a century ago."
-6_MEX_tt: "Mexico has elected to shatter vile Columbia, and will not stop until it has subjugated the entire nation."
+1_MEX_tt: "근왕주의자들은 자파 인사로 요직을 채울 것입니다. 그 대부분은 자기네 지도자와 입장을 같이합니다."
+2_MEX_tt: "시나키스트들은 당분간은 계속해서 권력을 잡을 것입니다. 선거가 끝나도 장관진이 바뀌진 않습니다."
+3_MEX_tt: "발키스트라고도 불리는 케찰코아틀은 자당 강령에 맞는 새 정부를 수립할 것입니다. 장관진과 내각 구성원 대부분은 자기네 지도자와 입장을 같이합니다."
+4_MEX_tt: "아쉽게도 이 분기는 아직 안 만들었습니다."
+5_MEX_tt: "멕시코는 미국 영토를, 특히 한 세기도 채 지나기 전에 멕시코 영토였던 곳들을 차지하기로 했습니다."
+6_MEX_tt: "멕시코는 저열한 컬럼비아를 분쇄하기로 했고 그 모든 영토를 정복하기 전까지 멈추지 않을 것입니다."
