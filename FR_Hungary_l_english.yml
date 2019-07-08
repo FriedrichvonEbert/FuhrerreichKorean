@@ -38,44 +38,44 @@ HUN_valkist_party_long:0 "헝가리 발키즘당"
 ###############
 
 ###
-hun_mil_start:0 "A Quiet Rearmament조용한 재무장"
-hun_mil_start_desc:0 "The Treaty of Trianon denied the Hungarian state an army of any kind, completely preventing us from defending ourselves in case of attack. We must being the slow process of quietly building an army back up, as to not attract attention from our more powerful neighbors."
+hun_mil_start:0 "조용한 재무장"
+hun_mil_start_desc:0 "트리아농 조약은 헝가리의 어떤 종류의 군대도 용납하지 않았고, 우리가 공격받을 경우에 스스로를 지키지 못하게 되었습니다. 우리는 강력한 주변국들의 시선을 끌지 않도록 천천히 군대를 재건해야 합니다."
 ###
-hun_poli_stab:0 "Political Stabilization정치적 안정"
-hun_poli_stab_desc:0 "The Party does not yet wield uncontested power in the nation, and we will need every single citizen on our side if we are to follow through with our plans for the future."
+hun_poli_stab:0 "정치적 안정"
+hun_poli_stab_desc:0 "당은 아직 나라의 권력을 독차지하지 못했습니다. 나중에 우리의 계획을 이행하기 위해선 우리는 모든 시민을 우리 편으로 끌어들일 필요가 있습니다."
 ###
-hun_foreign_dip:0 "Foreign Diplomacy외교 정책"
-hun_foreign_dip_desc:0 "Hungary cannot stand alone, and we will need friends in higher places if we are to succeed in the wars to come. Opening up diplomacy with Europe will give us many options."
+hun_foreign_dip:0 "대외 수교"
+hun_foreign_dip_desc:0 "헝가리는 홀로 싸울 수 없습니다. 다가올 전쟁에 승리하기 위해선 우리는 높은 지위의 동지가 필요합니다. 유럽과 외교 관계를 맺는다면 우린 많은 선택지를 가지게 될 것입니다."
 ###
-hun_cropdusters:0 "Repurpose Civilian Cropdusters민용 농약 살포기 보완"
-hun_cropdusters_desc:0 "The Treaty of Trianon specifically outlined that we are not allowed to construct or purchase military aircraft, but it said nothing about strapping machine guns and chlorine gas canisters to cropdusters and sending them to the frontline..."
+hun_cropdusters:0 "민용 농약 살포기 개조"
+hun_cropdusters_desc:0 "트리아농 조약은 우리가 군용기를 제작하거나 구매할 수 없음을 명시해 두었지만, 농약 살포기에 기총과 염소 가스통을 붙여서 전선으로 보내는 거엔 별다른 규정이 없습니다..."
 ###
-hun_buy_guns:0 "Purchase foreign weapons외제 병기 수입"
-hun_buy_guns_desc:0 "Producing our own weapons en masse would disturb our neighbors greatly, as such we must make secret agreements to purchase rifles and equipment from foreign powers in order to arm our future army."
+hun_buy_guns:0 "외제 병기 수입"
+hun_buy_guns_desc:0 "우리가 무기를 대량으로 생산한다면 주변국의 심기를 크게 건드릴 것입니다. 우리는 주변 세력으로부터 소총과 장비를 매입할 수 있는 비밀 조약을 맺어 훗날 군이 무장할 수 있도록 해야 합니다."
 ###
-hun_est_bizt:0 "Establish the Biztonság비즈톤샤그 조직"
-hun_est_bist_desc:0 "The 'Biztonság' or Security will form the backbone of our secret police, and help us manage internal affairs in our nation."
+hun_est_bizt:0 "비즈톤샤그 설립"
+hun_est_bist_desc:0 "보안 기관인 '비즈톤샤그'는 우리 비밀 경찰의 기반을 이룰 것이며, 나라 내부의 문제를 원만하게 다룰 수 있도록 해 줄 것입니다."
 ###
-hun_venge:0 "Vengeful Spirit불타오르는 복수심"
-hun_venge_desc:0 "We must ensure each and every citizen is rallied behind our cause, and prepared for the great crusade we will soon be embarked upon."
+hun_venge:0 "불타오르는 복수심"
+hun_venge_desc:0 "우리는 모든 국민이 공동의 명분 앞에 하나로 모아 곧 있음 일어날 위대한 원정에 준비시켜야 합니다."
 ###
-hun_demand_alfold:0 "Demand the Return of Alföld알푈드 반환 요구"
-hun_demand_alfold_desc:0 "The lands of Alföld are full of ethnic Hungarians, and the lands are nothing more than a burden on the Romanian political and economic structure. Demanding the return of the lands should guaruntee that the lands are ceded back to their rightful rulers."
+hun_demand_alfold:0 "알폴드 반환 요구"
+hun_demand_alfold_desc:0 "알폴드는 헝가리인으로 가득합니다. 그 땅은 루마니아에게 정치적으로나 경제적으로나 짐만 될 뿐입니다. 알폴드 반환을 요구하는 순간 그 땅은 올바른 지도자에게 돌아와야 할 것입니다."
 ###
-hun_demand_transylvania:0 "Transylvania or War트란실바니아냐 전쟁이냐"
-hun_demand_transylvania_desc:0 "The Transylvanian lands are an integral part of the Hungarian state, and the Romanian occupation of the land has caused immense suffering to the large Magyar minority. We will demand Transylvania be returned to its rightful owner, or we will burn Bucharest to the ground."
+hun_demand_transylvania:0 "트란실바니아냐 전쟁이냐"
+hun_demand_transylvania_desc:0 "트란실바니아는 헝가리의 필연적인 부분입니다. 루마니아가 그곳을 점령하면서 많은 헝가리계 소수 민족들이 큰 고통을 겪고 있습니다. 우리는 트란실바니아를 적법한 주인에게 돌려줄 것인지, 아니면 부쿠레슈티가 불타 없어져도 되는지 물어볼 것입니다."
 ###
-hun_renounce_trianon:0 "Renounce the Treaty of Trianon트리아농 조약 번복"
-hun_renounce_trianon_desc:0 "The time has finally come, we will internationally annouce our renunciation of the mutilating Treaty of Trianon, and begin the long and difficult process of restoring Hungary to her former glory."
+hun_renounce_trianon:0 "트리아농 조약 파기"
+hun_renounce_trianon_desc:0 "그 시간이 이제야 왔습니다. 우리는 전세계적으로 잔혹한 트리아농 조약 파기를 선언할 것이며, 헝가리의 옛 영광을 되찾는 길고도 험한 과정이 시작되었습니다."
 ###
-hun_demand_austria:0 "Demand Burgenland부르겐란트 요구"
-hun_demand_austria_desc:0 "For centuries Burgenland has been part of The Kingdom of Hungary only to be taken from us in the aftermath of the Great War. It is time that we demand that rightful return of this territory."
+hun_demand_austria:0 "부르겐란트 요구"
+hun_demand_austria_desc:0 "부르겐란트는 수세기 동안 헝가리 왕국의 일부였으나 대전쟁의 여파로 빼았겼었습니다. 이제 이 지역의 반환에 대한 정당한 요구를 할 때입니다."
 ###
-hun_entrench_party:0 "Entrench the Arrow Cross화살십자당 확립"
-hun_entrench_party_desc:0 "Only having controlled Hungary for the past 4 years, we are still seen as nothing more than a phase in Hungarian politics. We must show the world that we are here to stay, for all time."
+hun_entrench_party:0 "화살십자당 확립"
+hun_entrench_party_desc:0 "우리가 헝가리를 통치한 건 4년 정도이지만, 우리는 헝가리의 정치 발달 과정 중 한 단계로밖에 보이지 않습니다. 우리는 영원히 정계에 남아 있어야 한다고 보여 줘야만 합니다."
 ###
-hun_economic_boost:0 "Economic Boost경제 성장 촉진"
-hun_economic_boost_desc:0 "Ever since the end of the Great War, the Hungarian economy has flip-flopped between complete ruin and relative stagnation. We will construct additional factories in an attempt to provide a boost to the economy and dig it out of this seemingly infinite hole of debt and inflation."
+hun_economic_boost:0 "경제 성장 촉진"
+hun_economic_boost_desc:0 "대전쟁의 종결 이후로 헝가리 경제는 완전히 침체기이거나 비교적 불경기인 상황 사이를 맴돌고 있습니다. 우리는 더 많은 공장을 지어서 경제 성장에 박차를 가해 이 막대한 빚과 인플레이션에서 벗어나야 합니다."
 ###
 hun_focus_civ:0 "Civilian Industry Focus민간 산업 중점"
 hun_focus_civ_desc:0 "We cannot neglect the civilian industrial sector, and the war machine cannot continue to roll forward without a strong backbone in the nations heartland. The construction of additional civilian factories will allow us to produce more factories and goods, further increasing our economy."
