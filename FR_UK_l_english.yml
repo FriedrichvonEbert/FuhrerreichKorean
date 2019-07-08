@@ -321,8 +321,8 @@ ENG_splendid:0 "홀로 선 제국"
 ENG_interv:0 "자유의 이름으로!"
 ENG_impe:0 "우리 제국의 짐"
 
-ENG_royal_intelligence:0 "왕립정보부"
-ENG_royal_intelligence2:0 "왕립정보부"
+ENG_royal_intelligence:0 "왕립정보국"
+ENG_royal_intelligence2:0 "왕립정보국"
 
 ENG_back_princes:0 "British Backing"
 ENG_rn_blockade:0 "Royal Navy Blockade"
@@ -360,12 +360,12 @@ IMP_unified_mil:0 "Imperial Military Command"
 IMP_bank:0 "Imperial Banking System"
 IMP_preference:0 "Imperial Preference Policy"
 
-IMP_dev1:0 "Imperial Development"
-IMP_dev2:0 "Imperial Development"
-IMP_dev3:0 "Imperial Development"
-IMP_dev4:0 "Imperial Development"
-IMP_dev5:0 "Imperial Development"
-IMP_dev6:0 "Imperial Development"
+IMP_dev1:0 "제국 개발"
+IMP_dev2:0 "제국 개발"
+IMP_dev3:0 "제국 개발"
+IMP_dev4:0 "제국 개발"
+IMP_dev5:0 "제국 개발"
+IMP_dev6:0 "제국 개발"
 IMP_iedc:0 "IEDC"
 IMP_iedc_desc:0 "우리는 제국 경제개발 협회를 설립했으며, 이들은 우리의 건설 활동을 조력할 것입니다."
 IMP_ito:0 "ITO"
@@ -384,9 +384,9 @@ ENG_imp_upheaval2:0 "제국의 대격변"
 ENG_imp_upheaval2_desc:0 "Our choice to pursue an Imperial Federation has thrown many parts of the Empire into political chaos. Until the Federalisation process is complete we will continue to suffer from these effects."
 IMP_upheaval:0 "제국의 대격변"
 IMP_upheaval_desc:0 "Britain's choice to pursue an Imperial Federation has thrown many parts of the Empire into political chaos. Until the Federalisation process is complete we will continue to suffer from these effects."
-ENG_imp_instability:0 "Imperial Instability"
+ENG_imp_instability:0 "제국의 불안정"
 ENG_imp_instability_desc:0 "Despite success in the the tremendous effort of federalising the Empire instability still abounds across Imperial land."
-IMP_dec_dev:0 "Imperial Development Fund"
+IMP_dec_dev:0 "제국의 개발에 투자"
 IMP_dec_dev_desc:0 "Funding from Britain has allowed our economy to increase its output significantly in the coming months."
 
 ENG_pbritannica:0 "팍스 브리타니카"
@@ -507,7 +507,7 @@ ENG_naval_exercises_desc:0 "With the new government in Westminster under a large
 ### Economic Affairs ###
 
 ENG_economy:0 "경제 사정"
-ENG_economy_desc:0 "한때 '세계의 작업장'이라고까지 불렸던 영국의 경제는 최근 몇 년간 다소 침체되었습니다. 오직 확고한 조치를 통해서만 우리의 지속적인 경제적 권리를 보장할 수 있습니다."
+ENG_economy_desc:0 "한때 '세계의 돈줄'이라고까지 불렸던 영국의 경제는 최근 몇 년간 다소 침체되었습니다. 오직 확고한 조치를 통해서만 우리의 지속적인 경제적 권리를 보장할 수 있습니다."
 
 ENG_construction_contracts:0 "건설 계약"
 ENG_construction_contracts_desc:0 "우리는 수많은 민간 기업들에 손을 뻗어 우리나라 전역의 건설 속도를 향상시켜줄 수익성 있는 계약을 제안할 것입니다."
@@ -770,7 +770,7 @@ ENG_united_socialist_desc:0 "With the integration of the ILP's MPs into our part
 # - The King Commands
 
 ENG_absolutism:0 "국왕 폐하 만세!"
-ENG_absolutism_desc:0 "In the wake of great civil unrest across the nation His Royal Highness Edward VIII has dissolved parliament and taken the reigns of the Empire's future into his own hands. For the first time since the Reform Act in 1832 the King rules his country."
+ENG_absolutism_desc:0 "전국적인 소요가 발생하자, 에드워드 8세는 의회를 해산하고 제국의 통제권을 손에 넣었습니다. 1832년 개혁법 이후 처음으로 국왕이 영국을 통치하게 된 것입니다."
 ENG_fate_unions:0 "노동조합의 운명"
 ENG_fate_unions_desc:0 "An integral part of the Manchester Workers Crisis, the Trade Unions have finally crossed the line with their formenting of this revolution. The time has arrived for us to decide once and for all what will become of these insiduous organisations."
 ENG_aristocracy:0 "귀족들의 지위"
@@ -1157,13 +1157,13 @@ ENG_cut_invest2_desc:0 "Some people argue that you need to spend money in order 
 ENG_end_austerity:0 "Ending Austerity"
 ENG_end_austerity_desc:0 "Hundreds of factories have close and thousands have been out of work, but now, thanks to our frugal savings we can safely say that no only is the worst over but that we have escaped the London Market Crash, and not a moment too soon."
 
-ENG_lfaire:0 "Ending Intervention"
-ENG_lfaire_desc:0 "Government intervention in the economy is a fatal mistake and will only lead to greater ruin. The purpose of Government is politics, not economics. Things should be left well enough alone."
+ENG_lfaire:0 "간섭 중지"
+ENG_lfaire_desc:0 "정부의 경제 개입은 치명적인 실수로써 더 큰 파멸을 초래할 뿐입니다. 정부가 존재하는 이유는 경제가 아니라 정치입니다. 알아서 돌아가도록 내버려 두란 말입니다."
 ENG_end_subs:0 "Restrict Government Subsidies"
 ENG_end_subs_desc:0 "In recent years successive Governments have allowed subsidies to be sent to poor performing businesses and factories in an attempt to maintain the number of employed persons throughout the country. Such a move is folly, and must be revoked."
 ENG_lift_caps:0 "Lift Interest Caps"
 ENG_lift_caps_desc:0 "Lifting interest caps on loans to businesses throughout the Empire may result in many businesses going out of business, but if they can't afford to pay back these loans, why did they take them out in the first place?"
-ENG_liberate_markets:0 "Liberate the Markets"
+ENG_liberate_markets:0 "시장 자유화"
 ENG_liberate_markets_desc:0 "The Government has no business in business, so the saying goes. While many considered our policies that of a bygone age, today they have borne fruit, albeit at great suffering. The British Economy has adapted to the new financial climate and is running at full steam once again, proving that our choices were the right ones to make."
 
 #####Imperial Foreign Policy#####
@@ -1223,7 +1223,7 @@ ENG_peace_time:0 "우리 시대의 평화"
 
 #Royal Intelligence
 
-ENG_royal_intel:0 "Royal Intelligence"
+ENG_royal_intel:0 "왕립정보국"
 ENG_five_eyes:0 "파이브 아이즈 협정"
 ENG_international_ops:0 "International Operations"
 
@@ -1347,8 +1347,8 @@ ENG_imp_council_desc:0 "With the creation of the ISAC and the aid it has brought
 
 #####News Events#####
 
-#uknews.1.d:0 "King George V is dead. This morning a note was attached to the gates of Buckingham Palace, it announced that the King had died peacefully in his sleep last night surrounded by his family. His son the Prince of Wales is set to assume the title of King Edward VIII it was declared as well. \n\nAssuming the title of King-Emperor upon the death of his father, King George V reigned for twenty-five years, seeing the British Empire through to its victory in the Great War. Known for his courage and passion in military matters, His Majesty even visited troops near the front-line on the Western Front. \n\nA man known for his love of both family and country, thousands have taken to the streets across the British Empire, from Winnipeg to Wellington, to mourn the loss of one of the most beloved monarchs in British history."
-uknews.1.d:0 "[This.GetNewspaperHeader]King George V is dead. This morning a note was attached to the gates of Buckingham Palace, it announced that the King had died peacefully in his sleep last night surrounded by his family. His son the Prince of Wales is set to assume the title of King Edward VIII it was declared as well.\n\nA man known for his love of both family and country, thousands have taken to the streets across the British Empire, from Winnipeg to Wellington, to mourn the loss of one of the most beloved monarchs in their history."
+#uknews.1.d:0 "조지 5세 폐하가 서거하셨습니다. 오늘 아침 버킹엄 궁전의 정문에 붙은 포고문에 따르면, 국왕께서는 어젯밤 그의 가족들에게 둘러싸인 채로 평화롭게 임종을 맞았습니다. 동시에 그의 아들, 웨일스 공 에드워드 8세가 새로운 국왕으로 즉위했습니다. \n\n조지 5세는 그의 부왕의 서거 이후 황제라는 칭호를 계승하고 25년간 대영제국을 통치하며 대전쟁에서 승리를 지켜냈습니다. 군사적 문제에 대한 용기와 열정으로 잘 알려진 폐하께서는 서부전선의 최전방 부대를 직접 방문하기도 하셨습니다. \n\n위니펙부터 웰링턴까지 수천 명의 대영제국 시민들이, 가족과 조국을 사랑하는 군주이자 영국 역사상 가장 사랑받는 군주 중 한 사람의 죽음을 애도하기 위해 거리를 가득 채웠습니다."
+uknews.1.d:0 "[This.GetNewspaperHeader]조지 5세 폐하가 서거하셨습니다. 오늘 아침 버킹엄 궁전의 정문에 붙은 포고문에 따르면, 국왕께서는 어젯밤 그의 가족들에게 둘러싸인 채로 평화롭게 임종을 맞았습니다. 동시에 그의 아들, 웨일스 공 에드워드 8세가 새로운 국왕으로 즉위했습니다. \n\n조지 5세는 그의 부왕의 서거 이후 황제라는 칭호를 계승하고 25년간 대영제국을 통치하며 대전쟁에서 승리를 지켜냈습니다. 군사적 문제에 대한 용기와 열정으로 잘 알려진 폐하께서는 서부전선의 최전방 부대를 직접 방문하기도 하셨습니다. \n\n위니펙부터 웰링턴까지 수천 명의 대영제국 시민들이, 가족과 조국을 사랑하는 군주이자 영국 역사상 가장 사랑받는 군주 중 한 사람의 죽음을 애도하기 위해 거리를 가득 채웠습니다."
 uknews.2.d:0 "[This.GetNewspaperHeader]Last week saw a tumultuous five days for the London Stock Market. Fuelled by fears of a shortage of goods and resources due to the on-going revolt in colonial Africa and India, the stock exchange continued to vary wildly as news dripped out from Westminster regarding efforts to prevent further insurrection throughout the Empire.\n\nAs the day proceeded, mass selling ensued as panic-stricken investors lost confidence in the Imperial economy and the British Government's ability to tackle the colonial crisis.\n\nThe effects of the 1936 London Stock Market Crash are sure to be felt world-wide."
 uknews.3.d:0 "[This.GetNewspaperHeader]In a display of their power and in order to further extend their control over the North Sea, the British have landed troops onto the Danish Atlantic Possessions bringing them under their control. The blockade imposed by the UK on the Danes continues and shows no signs of stopping, as the Danes are unable to breakthrough. Furthermore, any attempts for international intervention have failed.\n\nIt seems that nothing can break the Steel Wall of ships that ensnares the Danish; they shall be starved into submission."
 uknews.4.d:0 "[This.GetNewspaperHeader]Reports from the Panama Canal over the past several days have indicated that there was sporadic fighting occurring in several key strategic locations near the Canal, however it was not until this morning that the United States Government officially confirmed what had happened.\n\nAt 5 o'clock on Friday last week a contigent of Royal Marines landed near the Canal with the intention of resting control of the area and handing ownership over to the British Empire. Washington has since threatened a severe reaction to the seizure, and it is still unsure if this may lead to war between the British Empire and the United States."
