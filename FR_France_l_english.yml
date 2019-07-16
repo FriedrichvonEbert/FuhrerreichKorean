@@ -8,7 +8,1523 @@ france_focus_junta:0 "군사정부 트리"
 continental_entente_research_name:0 "협상국 연구협회"
 continental_entente_research_desc:0 "협상국 연구협회는 프랑스가 이끄는 연구단체로서, 간단하게 'EIR'로 부르기도 합니다. 국내 지사도 존재하기는 하지만, 상당수의 지사는 군사 연구와 관련되어 있습니다."
 
+#### Political Parties ####l_english:
+
+#Description
+FRA_FUHRERREICH_DESC:0 "'승리했지만, 그 대가는 무엇이였는가?' 대전쟁은 끝나고, 많은 프랑스인들이 이렇게 묻고 있습니다. 프랑스는 정당한 영토를 되찾았으며, 독일인들이 다신 조국을 위협하지 못하도록 라인란트에 보호령도 설립했습니다. 그렇지만, 1930년대가 끝나가며 유럽과 세계에서의 프랑스의 지위는 프랑스의 식민지를 위협하고 있는 적대적인 대영제국과 점차 호전적으로 변해가는 소련에 의해 위협받고 있습니다. 그렇지만 그 무엇보다도 중요한 문제는 대전쟁으로부터 회복한 독일이겠지요. 다가오는 폭풍으로부터 살아남으려면, 프랑스에겐 신중함, 용기, 그리고 휼륭한 외교를 필요로 할 것입니다.
+#Focus Tree
+france_focus_junta:0 "군사정부 트리"
+#Research Groups
+continental_entente_research_name:0 "협상국 연구협회"
+continental_entente_research_desc:0 "협상국 연구협회는 프랑스가 이끄는 연구단체로서, 간단하게 'EIR'로 부르기도 합니다. 국내 지사도 존재하기는 하지만, 상당수의 지사는 군사 연구와 관련되어 있습니다."
+
 #### Political Parties ####
+
+FRA_vanguardist_party:0 "PFNC"
+FRA_vanguardist_party_long:0 "Parti français national-collectiviste"
+FRA_collectivist_party:0 "PCF"
+FRA_collectivist_party_long:0 "Parti communiste français"
+FRA_libertarian_socialist_party:0 "Anarchistes"
+FRA_libertarian_socialist_party_long:0 "Mouvement anarchiste français"
+FRA_social_democrat_party:0 "SFIO"
+FRA_social_democrat_party_long:0 "Section Française de l'Internationale Ouvrière"
+FRA_social_liberal_party:0 "PR"
+FRA_social_liberal_party_long:0 "Parti républicain, radical et radical-socialiste"
+FRA_market_liberal_party:0 "AD"
+FRA_market_liberal_party_long:0 "Alliance Démocratique" 
+FRA_social_conservative_party:0 "FR"
+FRA_social_conservative_party_long:0 "Fédération Républicaine"
+FRA_authoritarian_democrat_party:0 "PSF"
+FRA_authoritarian_democrat_party_long:0 "Parti Social Français"
+FRA_paternal_autocrat_party:0 "Military Junta"
+FRA_paternal_autocrat_party_long:0 "Military Junta"
+FRA_national_populist_party:0 "PPF"
+FRA_national_populist_party_long:0 "Parti Populaire Français"
+FRA_valkist_party:0 "SF"
+FRA_valkist_party_long:0 "Solidarité Française"
+
+#### TRAITS ####
+cia:0 "Head of the CIA"
+hothead:0 "소인"
+marshal_of_france:0 "프랑스 육군원수"
+
+#WT
+FRA_world:0 "프랑스 제국주의"
+FRA_Joined_Entente:0 "협상국 참가"
+FRA_Hostile_Diplomacy:0 "적대적 외교"
+FRA_escalating_rivalry:0 "Escalating the Franco-British Rivalry"
+FRA_reconciling_britain:0 "대영제국과의 화해"
+FRA_literally_japan:0 "프랑스의 포츠머스 공격"
+
+#### Decisions ####
+FRA_Mutual_Defence_Fund_France:0 "Utilize funds from the MDF"
+FRA_Mutual_Defence_Fund_France_desc:0 ""
+FRA_Mutual_Defence_Fund_Belgium:0 "Utilize funds from the MDF"
+FRA_Mutual_Defence_Fund_Belgium_desc:0 ""
+FRA_punish_the_germans:0 "Punish the Huns"
+FRA_attack_thailand:0 "Bring Civilization to Siam"
+FRA_attack_yunnan:0 "Probe into China"
+FRA_attack_philly:0 "Establish Control over the Philippines"
+FRA_attack_iraq:0 "Offensives into Mesopotamia"
+FRA_develop_VIN:0 "Industrialize Indochina"
+FRA_develop_MOR:0 "Bring Business to North Africa"
+FRA_develop_NFA:0 "Support French West-African Industry"
+FRA_develop_NFQ:0 "Send Machinery to French Equatorial Africa"
+FRA_attack_eng:0 "Attack the United Kingdom"
+
+#### Autonomy Strings ####
+FRA_grant_autonomy:0 "Granted Autonomy"
+
+#### FOCUS ####
+
+fra_invest_budget:0 "Investigation of the National Budget"
+fra_invest_budget_desc:0 "The national budgets from 1933-1935 have come up short several million Francs of what they were anticipated to be. A full investigation of the budget will hopefully discover the source of these missing funds and allow us to adjust for the expenses accordingly."
+###
+fra_invest_army:0 "Investigation of the Army"
+fra_invest_army_desc:0 "The initial report of the national budget has proven ineffective, and we must dig deeper in order to find the source of this leak and plug it."
+###
+fra_promote_defense:0 "The Best Offense..."
+fra_promote_defense_desc:0 "If the Great War taught us anything, it's that nothing can defeat a flawless defensive doctrine. If we are to survive the next major European war, we must be able to replicate this success with impunity as to minimize French deaths."
+###
+fra_fort_research:0 "Experimental Fortification Research"
+fra_fort_research_desc:0 "The French countryside is a great place to test new styles of forts and see which ones preform better under certain conditions. When these tests are done we will be able to find the most efficiant and effective system for stopping the enemy in their tracks."
+###
+fra_allocate_fort_funds:0 "Allocate funds to the Calais-Metz Line"
+fra_allocate_fort_funds_desc:0 "Our weakness in the Great War was the Belgian border and the terrible natural defenses in the Pas De Calais. A string of fortifications stretching from the coastline to Metz will deter the Germans from invading through the same route they used some 20 years ago."
+###
+fra_good_defense:0 "...Is a perfect defense"
+fra_good_defense_desc:0 "With our defensive projects completed, we have turned the entirety of France into one huge bunker. No enemy would ever dare attack us now!"
+###
+fra_promote_offense:0 "Out with the Old..."
+fra_promote_offense_desc:0 "The offensives of 1918-1919 have shown that simply staying in a defensive stance will never win a war on it's own. A large-scale offensive is needed in order to capitulate the enemy, and we need to be able to perfect this art if we are to emulate the victory we saw at the end of the Great War."
+###
+fra_fund_military_uni:0 "Fund Military Colleges"
+fra_fund_military_uni_desc:0 "In order to win a war, a nation needs a full roster of competant generals who have been trained in the arts of modern warfare. Funding military colleges throughout metropolitan France will allow us to train new officers and fufill this need."
+###
+fra_modern_doctrine:0 "A Modern Doctrine"
+fra_modern_doctrine_desc:0 "We have decided that the defensive doctrine which has served us in the last war is no longer good enough for a modern army. It's about time we chose a new direction."
+###
+fra_in_new:0 "...In with the new"
+fra_in_new_desc:0 "Our doctrine has been revived, our army modernized, and our generals fresh. Our military is able to take on the threats of the new world, wherever they may be."
+###
+fra_invest_ic:0 "Investigation of the Capitalists"
+fra_invest_ic_desc:0 "The capitalists have long reigned without restrictions or supervision in France, it's about time we payed them a visit and asked them if they know anything about the shortage of funds."
+###
+fra_give_land:0 "Redistribute Siezed Land"
+fra_give_land_desc:0 "During the investigation of the capitalists, hundreds of acres of delapidated and illegally owned land were siezed and handed over to temporary government control with the intent of granting it back when available. It would appear that the time has now come, and several wealthy individuals have approchaed us in Normandy and Aquitaine with the intent to purchase this land from us."
+###
+fra_invest_government:0 "Investigation of the Government"
+fra_invest_government_desc:0 "The investigations of both the capitalists and the army have proven fruitless, and the only place left to look is the government itself. While some members are opposed to such brazen action, the majority agree that it must be done to prove our innocence in the scandal. After the government invesgitation is over we can move to smaller ministries which may be siphoning funds on a smaller scale."
+###
+fra_the_trial:0 "Trial of the Eleven"
+fra_the_trial_desc:0 "The financial scandal has developed into a full-blown crisis, and we have been forced to put eleven members of our very own government in front of a special court in order to determine the severity of their punishment. The Bloc National will be shaken forever by the end of this trial, but what remains to be seen is whether the coalition will be able to survive..."
+###
+fra_nuc_dead:0 "The Bloc National disbanded"
+fra_nuc_dead_desc:0 "With the conclusion of the trial of the eleven, the remaining leaders of the Bloc National have found it impossible to keep the coalition together and run an effective government with popular support."
+###
+fra_prov_govt:0 "Military Takeover"
+fra_prov_govt_desc:0 "The sitting government is clearly unable to deal with the mountain of problems which our country has faced in the past months. The financial scandal, the Indochinese revolt, and rising German aggression have put far too much strain on the French government. The French military, outraged by the total investigation by the government into them, has forcefully taken control of Paris, declaring a "Government of National Salvation" in order to stabalize the situation."
+###
+fra_nuc_alive:0 "The Bloc National survives"
+fra_nuc_alive_desc:0 "The trial of the eleven forced a shakeup in the French government, and the Bloc National has come out of it stronger than ever. Now we are ready to face the new decade with renewed vigour and determination to lead Franc further to greatness."
+###
+fra_1936_election:0 "The 1936 election"
+fra_1936_election_desc:0 "With the financial scandal finally behind us, the government is ready to begin the 1936 elections which were originally slated for early March."
+###
+fra_socdem_win:0 "The SFIO"
+fra_socdem_win_desc:0 "Following the rapid decline of the Bloc National, the Section française de l'Internationale ouvrière has won the 1936 election. The party aims to universally increase rights and living standards not only for the male population, but the females and subjects of the Republic in the colonies. This radical approach is sure to shake up the French social sphere, and we will have to see what comes of these sweeping reforms."
+###
+fra_soclib_win:0 "The Parti Radical"
+fra_soclib_win_desc:0 "Promoting secularism, moderate social reform, and the promotion of private industry, the PR is seen by many French voters as a middle-of-the-road party that manages to satisfy the needs of both the conservatives and socialists. This moderate party platform has secured many voters, but has also scared many into believing that in attempting to satisfy all parties, they will end up satisfying none."
+###
+fra_soccon_win:0 "The Fédération Républicaine"
+fra_soccon_win_desc:0 "The Great War shook French politics and society to its very core, and a wave of conservative support in the wake of the devestation led to the rise of the Bloc National as well as the Fédération Républicaine's dominance over the coalition. With the financial scandal, the Fédération Républicaine has seen fit to do away with bipartisanism and instead run independantly. This decision has led them to win the recent election."
+###
+fra_nuc_win:0 "The Bloc National"
+fra_nuc_win_desc:0 "Against all odds, the National Bloc National has managed to pull ahead of the financial scandal which unfolded within their very own party, and have managed to win the election by a hair. Onlookers gaze with curious eyes to see which policies will be enacted, and which side of the political spectrum the coalition will drift towards in the next four years."
+###
+fra_algeria_rights:0 "Native Algerian Rights"
+fra_algeria_rights_desc:0 "The African population in Algeria has been living in Metropolitan France ever since the conquest of the Algerian coastline in the 1870s, and yet they do not enjoy the same personal rights that the Frenchmen living there do. If we are to ever stop the violent uprisings and protests in the region, we must be ready to give these natives the same rights and privilages as the French."
+###
+fra_africa_missionary:0 "Missionaries in Africa"
+fra_africa_missionary_desc:0 "In order to consolidate metropolitan France, we must convert the natives of Algeria to Catholicism. This will not be an easy process, and we may face armed resistance if we go through with this plan; however, it must be done in order to strenghen our position."
+###
+fra_more_jobs:0 "Promote Industrial Opertunities"
+fra_more_jobs_desc:0 "Our industry is beginning to fall behind that of the British and German nations, injecting funds and clearing land will give our industry the room to grow that it so desperatly needs."
+###
+fra_extend_healthcare:0 "Extended Healthcare"
+fra_extend_healthcare_desc:0 "Despite being a civilized and Western colonial power, our healthcare system is extremely outdated and bloated. Modernizing this system will allow us to heal our citizens and soldiers alike with greater efficiancy."
+###
+fra_revise_finance:0 "Revise the financial plans"
+fra_revise_finance_desc:0 "The 1936 Financial Scandal rocked France to its very core, and we are in desperate need of radical reorganization if we are to continue governing the nation effectively."
+###
+fra_business_subsidy:0 "Business Subsidies"
+fra_business_subsidy_desc:0 "The capitalists have been struggling to reorganize and recoup their losses after the investigation, and have requested subsidies in order to construct new factories across France and get the nations industry back on its feet."
+###
+fra_unified_govt:0 "A Unified Government"
+fra_unified_govt_desc:0 "The scandals and political instability are finally behind us, and we can now move forward with a unified and whole government which is able to govern our empire with impunity."
+###
+fra_colony_coop:0 "Encourage Colonial Cooperation"
+fra_colony_coop_desc:0 "As it stands, our colonies act mostly independant of each other, requesting materials from France itself rather than the lands just across the border. By encouraging communication and cooperation between the colones, they can run more independantly and we can reap the benifits."
+###
+fra_taming_tunisia:0 "Taming Tunisia"
+fra_taming_tunisia_desc:0 "The Tunisian protectorate has always been underdeveloped in relation to the rest of France and her colonies, if we are to change this we can mold the colony to suit exactly our needs."
+###
+fra_algeria_adventure:0 "Adventures in Algeria"
+fra_algeria_adventure_desc:0 "The Algerian desert may be impassible, but there is a stretch of land South of the coastline which is fertile and practically begging to be developed. Exploiting this land could allow us to expand our industry into areas where our enemies will never be able to reach."
+###
+fra_prov_election:0 "Death of the Republic"
+fra_prov_election_desc:0 "The French Third Republic has proven itself woefully incapable of handling the troubled political climate that the 20th Century has brought, and many believe that the time for radical change has come. A complete restructuring of the constitution will bring about a new era of French politics and prosperity."
+###
+fra_af_control:0 "AF in Control"
+fra_af_control_desc:0 "With the provisional elections at an end, the Action Française has been democratically elected and the balance of power in the French political sphere has changed dramatically. We must reorganize the parliament in an equally dramatic measure to ensure a smooth transition of power."
+###
+fra_papal_love:0 "Papal Reconciliation"
+fra_papal_love_desc:0 "The Republic has long sought to distance itself from the Pope, and since the days of the revolution the seperation of church and state has been one of the defining aspects of our nation. This period of hostility will come to an end with the new regime, and our relationship with Rome will be restored to its former pride."
+###
+fra_army_loyalty:0 "Ensure Army Loyalty"
+fra_army_loyalty_desc:0 "Our relationship with the army as it stands is strained, to say the least. To ensure that a military coup does not occur, we must grant certain privilages to the military and promote officers in order to gain their trust and respect."
+###
+fra_party_news:0 "The Action Française Newspaper"
+fra_party_news_desc:0 "From the founding of our party at the turn of the Century, the Action Française Newspaper has been our primary means of reaching the people and spreading our message throughout France. With our party officially in power, we can increase the quality of these papers and send them to even more people across France!"
+###
+fra_restore_chin:0 "Restoration of the Monarchy"
+fra_restore_chin_desc:0 "With the support of the Pope, the people, and the military, it's time to invite the exiled Orléanist prince to take the French throne. The Republican experiment will be ended once and for all, and the divine monarchy will reign supreme!"
+###
+fra_illegal_strikes:0 "Revoke the legality of Strikes"
+fra_illegal_strikes_desc:0 "France has had a history of industrial workers going on strike whenever they feel their every demand is not met in full, and our government has always caved into them. No more will this be the case, we will not give in to any more of their socialist demands."
+###
+fra_german_menace:0 "The German Menace"
+fra_german_menace_desc:0 "German aggression has been rising steadily for years now, and we can no longer sit idly by while the war machine across the Rhine continues to turn. Spreading the word of German agression to our people will ensure victory in the battles to come."
+###
+fra_royal_nation:0 "Foster Royalist Nationalism"
+fra_royal_nation_desc:0 "Despite having the core of our government on our side, many people still resist the monarchy and wish to see a a return to the corrupt republic which we have worked so hard to remove from our glorious nation. Promotion of our state-owned newspaper and public rallies will convince the people that we are for them, and that we will keep France safe."
+###
+fra_destroy_ppf:0 "Destroy the Leftists"
+fra_destroy_ppf_desc:0 "The French left has long wished to see a violent revolution similar to that of the Paris Commune back in 1871 and the establishment of a "Commune of France". This group of parties is perhaps the greatest internal threat to our stability that we face, and they must be put down if we are to truly feel secure at home."
+###
+fra_royal_glory_focus:0 "Restore the King's Glory"
+fra_royal_glory_focus_desc:0 "Many in our nation still view our king as little more than a figurehead, and not the divine monarch that he truly is. We will commission portriats and paintings, flyers and more to convince the people of how great our king is."
+###
+fra_fight_socialism:0 "Ban Socialist Parties"
+fra_fight_socialism_desc:0 "The left has always been a gathering place for unrest and discontent in our nation. Their parties should be banned so they cannot interfere in our governing of the country."
+###
+fra_recruit_posters:0 "Recruitment Drive"
+fra_recruit_posters_desc:0 "After the end of the Great War, our army shrunk drastically in size as soldiers returned to their homes from the horrors of war, and few volunteered to defend the Republic. But with a rising German menace on the horizon, we must take steps to ensure we will have enough manpower to survive the next war and field an army comparable to that of Napoleon's."
+###
+fra_juan_party:0 "One Party. One State. One France."
+fra_juan_party_desc:0 "We have achieved our hard-fought goal of uniting the nation under our banner. All of France bows at our will, and we have once more been given the chance to take complete hegeomony of the continent and fufill our destiny."
+###
+fra_royal_education:0 "Royalist Education"
+fra_royal_education_desc:0 "It seems that the history of the French monarchy has been lost on the citizens of our kingdom. Introducing a new curriculum relating to our royal history should be able to rectify this, and stir up a few more volunteers for the army."
+###
+fra_german_war:0 "Put down the German dog"
+fra_german_war_desc:0 "It has become clear that the new German Reich has no intention of abiding by the Treaty of Versallies, and they threaten the very stability of the entire continent. We must launch a pre-emptive invasion to restore order across the Rhine once and for all."
+###
+fra_distribute_titles:0 "Distribute Royal Titles"
+fra_distribute_titles_desc:0 "The various exiled noble houses of France have been requesting for some time now that their royal titles be officially reinstated. While this does not mean we will be seeing a return to Fuedal society, this is a move that will certainly increase our governments legitimacy."
+###
+fra_empire:0 "Proclaim the Empire"
+fra_empire_desc:0 "The Germans have been put in their place, and we stand once more unopposed on continential Europe. While we may still have enemies around the world, we have asserted our dominence over our sphere and hold our foes in constant fear of an attack. Long live the Empire, and long live the Emperor!"
+###
+fra_christ_spread:0 "Spreading Christian Beliefs"
+fra_christ_spread_desc:0 "France and her monarchy have always been staunchly Christian, and the radical secularization of the past half-century is nothing short of blasphemy. We must work hard to revert this process."
+###
+fra_demolish_republic:0 "Demolish Republican Institutions"
+fra_demolish_republic_desc:0 "Spectres of the Republic still hang over the daily governance of the country, and hold us back from reaching peak efficiancy. We must systematically rework the government if we are to rid ourselves of this husk."
+###
+fra_colonial_rights:0 "Native Representation in the colonies"
+fra_colonial_rights_desc:0 "The French colonial administration has been run almost exclusively by those born and raised in metropolitan France. Allowing the native population to partake in colonial administration will increase the stability and security of our overseas holdings."
+###
+fra_social_patriotism:0 "Socialist Patriotism"
+fra_social_patriotism_desc:0 "After years of corrupt and weak government, a party for the people has finally been elected to power in France. The people cheer our rule and excitedly await the reforms and bills we intend to pass."
+###
+fra_peoples_govt:0 "A Government for the People"
+fra_peoples_govt_desc:0 "As per the intention of the original French revolution, the government will serve the people to their needs and desires. We will create a haven for the oppressed peoples of Europe and usher in a new age of civil stability and consumerism."
+###
+fra_regulate_franc:0 "Regulating the Franc"
+fra_regulate_franc_desc:0 "The financial scandal in our nation proved how instable currency can be, and drastic measures must be taken in order to stabalize the Franc and ensure economic prosperity."
+###
+fra_safe_rhine:0 "Safeguard our interests in the Rhine"
+fra_safe_rhine_desc:0 "French control of the Rhineland has proven to be of great economic benifit, but it has also come with great risk; armed revolt and invervention from Germany loom over us as a persistant and constant threat. The construction of some basic fortifications should suffice for the time being while we organize a more planned defense."
+###
+fra_fight_religion:0 "A War on Religion"
+fra_fight_religion_desc:0 "Church and State have been seperated for over three decades now, yet religion still holds dear in the hearts of many citizens. We need to work diligantly to fully seperate religion from the lives of French citizens if we are to advance socially as a nation."
+###
+fra_communes:0 "Promote Social Communes"
+fra_communes_desc:0 "Social Communes are groups of citizens which look after each other and help each other through hard times, promoting the extension and formalization of these groups will help us crush unemployment and poverty, and consiquently increasing our popularity."
+###
+fra_equality:0 "Equal Oppertunities"
+fra_equality_desc:0 "Each Frenchman should have the same opportunity to achieve what they desire, without the restriction of social class or economic standing. The construction of new institutions and social programs will help us to achieve this dream."
+###
+fra_land_grants:0 "Land Grants"
+fra_land_grants_desc:0 "France is a vast nation with many tracts of unused virgin land, just begging to be developed. Granting this land to industrial companies will allow us to build more factories and further increase our industrial output."
+###
+fra_women_working:0 "Women in the Workforce"
+fra_women_working_desc:0 "For too long have women been locked out of this nations industry and development, instead being relegated to maintaining the home. Giving women the same opportunities as men in the workforce will not only make us look better, but increase our popularity."
+###
+fra_womens_vote:0 "Womens Sufferage"
+fra_womens_vote_desc:0 "The radical dream of womens sufferage has become a rising issue in French politics in the past few years, and it has reached a point where the issue can no longer simply be ignored. Granting women the vote will undoubtedly increase our popularity, but we must remember that not all women will vote for us, and this has the chance of creating further political divisions in the government."
+###
+fra_liberal_success:0 "Liberal Success"
+fra_liberal_success_desc:0 "Our liberal government has proven the doubters wrong, and we have managed to effectively govern the nation while implimenting both economic and social reforms. The people now look to the future with bright hopes, and the hope that our liberal dream will soon spread across all of Europe."
+###
+fra_reverse_cash_drain:0 "Reverse the Cash Drain"
+fra_reverse_cash_drain_desc:0 "France has long been importing more goods than she has been exporting, and this has caused our government to be running a deficit for several years now. New import tariffs and regulations will reverse this cash drain and bring our economy back from the brink."
+###
+fra_gold_flow:0 "The Gold Must Flow!"
+fra_gold_flow_desc:0 "Spreading wealth to the people will allow them to make larger purchases, and continue the economic cycle which has kept our nation afloat through the global economic downturn of the 1920s."
+###
+fra_intervention_economics:0 "Laissez-faire Economics"
+fra_intervention_economics_desc:0 "Any self-sustaining economy needs no government intervention whatsoever in order to survive, however many people may disagree. Government intervention will only ruin our economy and cause all of the progress we've made to be erased."
+###
+fra_decentralize_economy:0 "Decentralize the Economy"
+fra_decentralize_economy_desc:0 "Further government control of the economy has proven time and again to show nothing but negative results, so the only logical conclusion is to fully decentralize and relinquish control of the economy, letting economic trends have their way."
+###
+fra_unshakable_economics:0 "Unshakable Economics"
+fra_unshakable_economics_desc:0 "We have managed to bring the French economy back from the brink of collapse, and have forged a new economic system which will undoubtedly stand the test of time against war, famine, disease, and anything else the world has to throw at us."
+###
+fra_watch_rhine:0 "Watch on the Rhine"
+fra_watch_rhine_desc:0 "The Rhine river has been under French control since the end of the Great War in 1919, and we have left the area vastly under-protected due to the friendly republican regime in Germany. With the rise of Dresslers nationalistic and militaristic regime, we need to bolster our defenses on the river Rhine in case of a pre-emptive German attack, and ensure that not a single German boot steps onto French soil."
+###
+fra_rhine_martial_law:0 "Declare Rhinish Martial Law"
+fra_rhine_martial_law_desc:0 "The Rhinish state is in chaos with fighting taking place both on the front line and around the countryside as German nationalists who are loyal to the Valkist regime attempt to disrupt supply lines and make life hard for our troops. We must take military control of the country in order to better organize our army and fight what soon may become a repeat of the first Great War."
+###
+fra_no_german:0 "Not a single Stahlhelm on French soil!"
+fra_no_german_desc:0 "The French people enduring an unbelievable amount of suffering during the first Great War, North-East France was permenantly scarred from the battles that took place. We must ensure that the barbaric Germans lay not a single step on our soil, lest they tarnish what unmolested territory we have left."
+###
+fra_on_the_attack:0 "On the Offensive"
+fra_on_the_attack_desc:0 "The defensive stage of this war is finally over, and we are encroaching on German territory with great ferocity and speed. We must ensure our military command is geared for what may be the deadliest and hardest phase of this war thus far."
+###
+fra_march_to_berlin:0 "The March to Berlin"
+fra_march_to_berlin_desc:0 "The Reich is on the back foot, and our victories across the front are numerous. The war in Europe is rapidly drawing to a close; and the faster we reach Berlin, the faster our boys can go back home."
+###
+fra_triumph:0 "Triumph in Berlin"
+fra_triumph_desc:0 "We have come out victorious in the Second Great War, and the German Reich once more stands defeated under our iron boot. The city of Berlin is a place of celebration for the occupying powers, and looting has been reported across the city. We should organize an official military parade through the Brandenburg Gate in order to show the world of our superiority."
+###
+fra_loosen_conscription:0 "Loosen Recruitment Requirements"
+fra_loosen_conscription_desc:0 "The German menace is encroaching on our territory once again, and we need every able body to fight on the frontline in order to push them back across the Rhine."
+###
+fra_even_lower_soldiers:0 "Further Loosen Conscription"
+fra_even_lower_soldiers_desc:0 "The Germans march closer to Paris by the day, and the situation grows more desperate by the day. We need to give guns to everyone who can fire one in order to save our country from a repeat of the Franco-Prussian war."
+###
+fra_desperate_defense:0 "The Old and Decrepit"
+fra_desperate_defense_desc:0 "The final days of France draw near, now not even the elderly and the infirm are free from conscription into the army. If it breaths and speaks French, we must put a gun in its hands."
+###
+fra_ground_eyes:0 "Eyes on the Ground..."
+fra_ground_eyes_desc:0 "To fight a war blind is to commit yourself to certain defeat, we need to know where our enemies are at all times if we want to achieve victory in this new age of fast and mobile warfare where every second counts."
+###
+fra_sky_eyes:0 "...And Eyes in the Sky"
+fra_sky_eyes_desc:0 "Aerial Recon is quickly proving to be one of the deciding factors in who will emerge victorious in battle, as shown by our troops in the Rif War during the 20s. Developing this doctrine further will increase our chances of winning on the balefield and allow us to see the enemy movements and react accordingly."
+###
+fra_general_staff:0 "French General Staff"
+fra_general_staff_desc:0 "The German General Staff has proven a deadly tool in warfare, and replicating their success may be just what we need to finally put the Germans back in their place."
+###
+fra_integrate_colony_army:0 "Integrate Colonial Divisions"
+fra_integrate_colony_army_desc:0 "The French colonies have trained their divisions in tactics unfamiliar to the European powers, and as such they may be an effective fighting force on the frontline in the next war. Borrowing some colonial divisions will show us whether or not this is true."
+###
+fra_mas_40:0 "The MAS 40"
+fra_mas_40_desc:0 "The development of new weapons is a crucial part of winning wars, and new technological developments have given us the oppertunity to create a truly modern weapon, the MAS-40. Finishing up research and production of this rifle should be one of our top priorities."
+###
+fra_mil_institute:0 "French Institute of Military Technology"
+fra_mil_institute_desc:0 "We need to develop new ways of fighting on land, air, and sea, if we are to stay ahead of our enemies and achieve victory on all aspects of battle."
+###
+fra_entente_tech:0 "Entente Joint Research Initiative"
+fra_entente_tech_desc:0 "The Entente is home to some of the brightest minds on this planet, organizing and combining their works for the benifit of our faction will greatly increase research potential for us all."
+###
+fra_doctrine_school:0 "School of Doctrine"
+fra_doctrine_school_desc:0 "Military doctrine is far more important than the military leaders of today give it credit for, and it is vital that we do not forget this fact when building up our army."
+###
+fra_african_officers:0 "African Officers"
+fra_african_officers_desc:0 "Several military schools in our African colonies have produced some exceptional officers which show great potential in the military. Inviting these officers would be a great way to improve our military and increase releations with our African subjects."
+###
+fra_drumroll_arty:0 "Drumroll Artillery"
+fra_drumroll_arty_desc:0 "During the later stages of the Great War, the Canadian army used a form of rolling artillery bombardment in order to cover their soldiers movements as they advanced upon enemy positions. Our officers have hypothesized that a modified form of this rolling artillery could be used to more effectively bombard enemy positions and keep their heads down at the same time."
+###
+fra_anti_tank:0 "Anti-tank emplacements"
+fra_anti_tank_desc:0 "Our spies have shown that both the Wehrmacht and the Royal Army are beginning to utilize tanks in innovative and deadly ways, we must develop new guns capable of destroying these vehicles if we are to survive an invasion from either nation."
+###
+fra_rockets:0 "Experimental Rocket Developments"
+fra_rockets_desc:0 "Early research on solid fuel combustion and propellants capable of launching warheads great distances with even greater accuracy has yielded surprising results. By our calculations, further developments should allow us to reach far-flung cities across the continent, and soon there will be no safe place for our foes to hide."
+###
+fra_curie_institute:0 "The Curie Institute"
+fra_curie_institute_desc:0 "Marie Curie was a famous French chemist who made an uncountable number of advancements in the scientific field, and was a great asset to the scientific community worldwide. We will construct an institute dedicated to her legacy and the preservation of science until the end of time."
+###
+fra_mobile_age:0 "The Age of Mobile Warfare"
+fra_mobile_age_desc:0 "The writing is on the wall, stationary combat and slow-moving formations will not win us battles in this modern age. We need to motorize our army and practice new methods of transportation and supply if we are to succeed."
+###
+fra_mobile_army:0 "Mobilizing the Army"
+fra_mobile_army_desc:0 "In order to win on the battlefield we need to be able to get our troops to where they need to be, before the enemy is able to out-manouver us. Improving logistics should allow us to achieve this with ease."
+###
+fra_mobile_recon:0 "Improved Reconnaissance"
+fra_mobile_recon_desc:0 "The faster our scouts can reach vantage points the faster they can relay the enemy position back to high command, therefor we should attempt to mobilize our recon units."
+###
+fra_scw_lessons:0 "Lessons from the Spanish Civil War"
+fra_scw_lessons_desc:0 "The war to our Southern border has taught us many valuable lessons about modern warfare, and applying these lessons to our armies is crucial if we want to gain an edge over our more ignorant foes."
+###
+fra_armor_breakthrough:0 "Armoured Breakthrough Doctrine"
+fra_armor_breakthrough_desc:0 "What is the purpose of an offensive battle if we are unable to break the enemies lines? Breaking through the enemy lines allows for a swift and decisive victory, and as such should be our top priority."
+###
+fra_motorized_defense:0 "Motorized Defense"
+fra_motorized_defense_desc:0 "Putting our soldiers in a tin can on wheels and shipping them off to the front is all well and good, but if they don't reach the battlefield in one piece then our efforts are wasted. Slapping some armour on our trucks should increase survivability drastically."
+###
+fra_reinforcements:0 "Improved Reinforcement Rate"
+fra_reinforcements_desc:0 "A faster army means that we will be able to reinforce our depleted divisions at a much greater rate, allowing them to stay in the fight and stay stronger for a much greater period of time."
+###
+fra_mechanize_army:0 "Mechanizing the Army"
+fra_mechanize_army_desc:0 "Our motorized project is complete, and we have seen great success across the board. New developments with experimental half-tracks have shown even greater potential, and clearly the way to military success is with full mechanization of the army."
+###
+fra_hold_line:0 "Hold the Line"
+fra_hold_line_desc:0 "If the Great War taught us anything, it's that preventing the Germans from reaching our industrial heartland is the only way to prevent the complete annihalation of our state. Holding the enemy back at the front line will allow us to gather strength and push them back to where they came from!"
+###
+fra_trench_bunker:0 "Trenches to Bunkers"
+fra_trench_bunker_desc:0 "Many of the fortified trench systems that were built during the Great War were placed in exceptionally defensable and tactically valuable areas, converting these areas to forts and bunkers will deter and invading force which tries to attack us through Calais."
+###
+fra_fort_alsace:0 "Fortify Alsace"
+fra_fort_alsace_desc:0 "Our most vunerable border is by far the one we share with Germany. While the river Rhine provides some form of natural defense, wouldn't it be better if we were able to cut down the enemy attempting to ford the river with machine gun fire and artillery barrages?"
+###
+fra_fort_savoy:0 "Fortify Savoy"
+fra_fort_savoy_desc:0 "While the Italians are nominally friendly with us, their backstabbing of the Germans and Austrians during the Great War has shown how careless the Italians hold to alliances they make. Fortifying the Alpine border between us and Italy in Savoy will buy us a great deal of time should the Italians decide to stab us in the back as well."
+###
+fra_fort_spain:0 "Fortify the Pyrenees"
+fra_fort_spain_desc:0 "The civil war in Spain has shaken the political situation in the region to its very core, and the entire Iberian Peninsula seems ready to blow at a moments notice. We must ensure that the mountain range which seperates us from the Spanish is firmly under our control and diligant watch."
+###
+fra_heavy_tanks:0 "Moving Bunkers"
+fra_heavy_tanks_desc:0 "The idea of larger and larger tanks has been in the back of the minds of the worlds tank theorists since their introduction in the Great War. Our own development of these heavy tanks will prove invaluable on the battlefield."
+###
+fra_defense_doctrine:0 "Adopt Defensive Doctrines"
+fra_defense_doctrine_desc:0 "What good is getting involved in war if we are unable to defend our core territory from attack? The further research of defensive doctrines will help keep our citizens safe while simultaniously killing more of our enemies."
+###
+fra_imperial_industry:0 "Industry for an Empire"
+fra_imperial_industry_desc:0 "The French Industry is practically unrivaled on the planet, not counting the sleeping American giant which shows no signs of waking any time soon. We must ensure that this lead is maintained if we are to out-produce our enemies across the globe."
+###
+fra_move_industry:0 "Safeguarding our industry"
+fra_move_industry_desc:0 "A large portion of our industrial base is located in the Calais region near the Belgian border. If the Germans ever choose to invade us again, we must ensure that our valuable industry does not fall into their hands and be used against us."
+###
+fra_industry_loire:0 "To the Loire"
+fra_industry_loire_desc:0 ""
+###
+fra_industry_aquitaine:0 "To Aquitaine"
+fra_industry_aquitaine_desc:0 ""
+###
+fra_industry_rhone:0 "To the Rhone"
+fra_industry_rhone_desc:0 ""
+###
+fra_hydro_electric:0 "Hydroelectric Research"
+fra_hydro_electric_desc:0 "France is a nation of many flowing rivers, and recent technological developments into harnessing the amazing power of these rivers have opened up many doors to us. If we can extrapolate these developments and harness the power of water fully, we will be able to advance our research initatives by a large degree."
+###
+fra_disperse_industry:0 "Disperse Industry"
+fra_disperse_industry_desc:0 "Large industrial plants make for easy targets, and enemy bomber formations will be able to flatten our industrial base should we get into a war without air superiority. Dispersing our industry and hiding them among both urban and rural areas will protect them from the worst of the damage."
+###
+fra_industry_buildup:0 "Massive Industrial Buildup"
+fra_industry_buildup_desc:0 "The German industrial machine is projected to overtake us within a years time at most, a massive buildup of our industry will keep us ahead of the curve and on top of our enemies."
+###
+fra_expand_loire:0 "Expand Industry Along the Loire"
+fra_expand_loire_desc:0 "The factories we moved from the Northeast of our country to the Loire region have shown to be more efficiant and closer to the raw resources that they need to produce. Expanding existing factories and creating new ones will further increase our industrial capacity."
+###
+fra_expand_aquitaine:0 "Expand Industry in Aquitaine"
+fra_expand_aquitaine_desc:0 "The factories we moved from the Northeast of our country to the Aquitane region have shown to be more efficiant and closer to the raw resources that they need to produce. Expanding existing factories and creating new ones will further increase our industrial capacity."
+###
+fra_expand_rhone:0 "Expand Industry Along the Rhone"
+fra_expand_rhone_desc:0 "The factories we moved from the Northeast of our country to the Rhone region have shown to be more efficiant and closer to the raw resources that they need to produce. Expanding existing factories and creating new ones will further increase our industrial capacity."
+###
+fra_rheinish_industry:0 "Rheinish Industrial Initiative"
+fra_rheinish_industry_desc:0 "The Rhine protectorate is full of great minds, French and German alike. We must actively seek these people out and bring them back to France in order to improve our industrial methods and capacity."
+###
+fra_french_industry:0 "A French Industry"
+fra_french_industry_desc:0 "We need not search outside of our own borders for great industrial minds, we need only look harder. The greatest industrial minds of the world are right here at home, a public campaign to find them will yield great results."
+###
+fra_industrial_unification:0 "Industrial Unification"
+fra_industrial_unification_desc:0 "With all of our recent industrial and technological intiatives, it's time we looked at reorganizing and unifying our nations industrial sector in order to keep it running as smooth as possible."
+###
+fra_good_guns:0 "Quality Weaponsmithing"
+fra_good_guns_desc:0 "What use is a rifle if it breaks down after mere hours of use? We need to ensue that the weapons that we put in the hands of our soldiers are reliable and effective, and not prone to breaking down."
+###
+fra_quality_control:0 "Extensive Quality Control"
+fra_quality_control_desc:0 "Once the rifle leaves the factory, it needs to be extensively tested behind the front lines before it's shipped to the men in the field."
+###
+fra_lower_costs:0 "Streamline Weapon Production"
+fra_lower_costs_desc:0 "Our current methods of producing weapons are complicated, slow,and  inefficiant; streamlining this will allow us to increase production of rifles and artillery pieces dramatically."
+###
+fra_mas_contracts:0 "Contracts With MAS"
+fra_mas_contracts_desc:0 "The Manufacture d'armes de Saint-Étienne, or MAS, is a state-owned manufacturing company based in the town of Saint-Étienne. Signing arms contracts will allow us to develop better and more modern rifles."
+###
+fra_women_army:0 "Women in the Army"
+fra_women_army_desc:0 "We have a giant untapped source of manpower in our female population. Women all across the country have shown great intrest in becoming medics, engineers, and even soldiers in our army. We would be fools to let this oppertunity go to waste."
+###
+fra_many_guns:0 "Mass rifle production"
+fra_many_guns_desc:0 "For many years our army has suffered from a critical lack of rifles, and what good is a soldier if they don't have a gun in their hands? We must remedy this crisis as soon as possible."
+###
+fra_many_soldiers:0 "Mass Mobilization Initative"
+fra_many_soldiers_desc:0 "A war cannot be fought without men to fight it, we need to ensure that our regiments are always at full strength if we are to compete with the Prussian military doctrine which ravaged our army in the last war."
+###
+fra_native_regiments:0 "Native Conscription"
+fra_native_regiments_desc:0 "The large native population inside our colonies provides us with a source of cheap manpower which can be used with no consequence whatsoever to us in the near future. Perhaps allowing natives to fight in our army will even decrease their nationalist ideas and make them simply want to be like us good Frenchmen?"
+###
+fra_colonial_regiments:0 "Colonial Conscription"
+fra_colonial_regiments_desc:0 "Frenchmen have been settling Africa for over a hundred years now, and conscripting some of them into our army will give us a much needed boost to our depleted manpower reserves."
+###
+fra_foreign_contracts:0 "Foreign Arms Contracts"
+fra_foreign_contracts_desc:0 "We would be fools to ignore the great minds that lie outside of our own borders. Many nations across europe are making new developments in weapon technology which are changing the face of the battlefield dramatically. We should be able to negotiate contracts as well as some outdated experimental rifles for us to draw our own conclusions from."
+###
+fra_cadet_corps:0 "Support the Cadet Corps"
+fra_cadet_corps_desc:0 "The key to a well-trained army is to have the soldiers of tomorrow training today. Cadet corps will introduce our youth to the military of our nation, and allow them to specialize in specific fields. Not only this, but the Cadet corps will teach them valuable lessons about being a citizen, and advance our society as a whole."
+###
+fra_legacy_begone:0 "A New Legacy"
+fra_legacy_begone_desc:0 "The horros of the Great War are behind us, and a new age has dawned for our military and industry. We will march forward into the next decade with stoicism, confidence, and an unyielding attitude."
+###
+fra_somme_begone:0 "Remember the Somme"
+fra_somme_begone_desc:0 "We must remember those who fell during the Battle of the Somme, and all those who fell in service of our great nation during all our wars. But we must not let their sacrifice be in vein, we must fight on to honour their legacy."
+###
+fra_defensive_mastery:0 "Defensive Mastery"
+fra_defensive_mastery_desc:0 "Our developments of defensive doctrines and tactics has transformed our army into an immovable object which no enemy could ever hope of pushing away, we have created a fortress to keep our people safe for all time."
+###
+fra_african_expeditions:0 "African Expeditions"
+fra_african_expeditions_desc:0 "As a European power, it is our duty to bring light and civilization to the dark continent. We will devote our imperial resources to this great endevour, and fufill our burden."
+###
+fra_trans_africa_railway:0 "The Trans-African Railway Initative"
+fra_trans_africa_railway_desc:0 "Africa is a vast continent, and moving across it without using boats and travelling along the coast is nearly impossible. We will create a great railway which will span from Algeria to the Congo River, and bring civilization to the interior."
+###
+fra_algeria_prospecting:0 "Algerian Oil Prospecting"
+fra_algeria_prospecting_desc:0 "Early prospects have shown that the Algeria region is home to large reserves of oil which we could easily exploit. With the growth of our military, this oil could come in great use, we just need to ensure the convoys safety as they make the trip from Algiers to Marseille"
+###
+fra_southern_refineries:0 "Marseille Refineries"
+fra_southern_refineries_desc:0 "Raw oil is of no use to us, we need to run it through refineries in order to convert it into usable fuel for our army. Constructing new refineries in Marseille where the Algerian oil unloads will quicken this process and provide us with a much higher yield."
+###
+fra_tunisia_oil:0 "Prospect in Tunisia"
+fra_tunisia_oil_desc:0 "Reports from our prospectors in Tunisia appear to have shown that the region is ripe with oil. We would be fools to not exploit this valuable region as soon as possible."
+###
+fra_north_africa_airbases:0 "Expansion of North African Airbases"
+fra_north_africa_airbases_desc:0 "The defence of our North African colonies is paramount to the survival of our nation, and in this new age of warfare control of the skies is paramount to victory on the battlefield. Expanding our deset airbases will allow us to keep our foes at bay from the sky."
+###
+fra_operation_puddle_test:0 "Prepare for "Opération Flaque""
+fra_operation_puddle_test_desc:0 "Should the mainland fall, we need to be prepared to evacuate our army and government to North Africa where we may continue the fight against our enemies. Practicing dry runs of this operation will allow us to execute it flawlessly and in less time."
+###
+fra_med_screens:0 "Improved Mediterranean Screening"
+fra_med_screens_desc:0 "Our convoys are useless unless they can be protected by screening ships. We need to ensure that our possible evacuation to Algeria will be safe and uninterupted by our enemies navy."
+###
+fra_desert_conquest:0 "Conquest of the Desert"
+fra_desert_conquest_desc:0 "Deserts, while largely uninhabitable, still make up a large portion of our African possesions. Finding ways to make use of these deserts would increase the value of our colonies greatly."
+###
+fra_planned_factories:0 "Planned African Factories"
+fra_planned_factories_desc:0 "Africa is a vast place, with tons of room for planned factory complexes. Planning out where factories will be placed will increase overall production effeciancy in the long term."
+###
+fra_colonial_migration:0 "Encourage Colonial Migration"
+fra_colonial_migration_desc:0 "We can never truly claim our African colonies to be an integral part of our country until Frenchmen make up a majority of the population. The only efficiant way to achieve this is to enocurage and subsidize migration to our colonial posessions."
+###
+fra_gold_coast_ports:0 "Gold Coast Ports"
+fra_gold_coast_ports_desc:0 "Making the trip around Africa without the use of the Suez Canal is dangerous at best, and without sufficiant ports our ships run the risk of running out of supply and never reaching their destination. Constructing new ports along the Gold Coast will provide us with a valuable stopping point for our ships to use."
+###
+fra_algerian_forts:0 "Fortify Algeria"
+fra_algerian_forts_desc:0 "Should our enemies ever reach North Africa, we will need hard emplacements in order to keep them from completely overruning us and bringing an end to the French state."
+###
+fra_pan_african_prospecting:0 "Pan-African Resource Extraction"
+fra_pan_african_prospecting_desc:0 "Our African colonies have shown great potential in their resource deposits. We should devote a massive amount of resources into extracting these resources and bringing them back to the mainland where we can use them effectively."
+###
+fra_provisional_africa:0 "Set up the GFPA"
+fra_provisional_africa_desc:0 "The Gouvernement français provisoire en Algérie, or GFPA, is an administrative governent which will be set up in Algiers and will serve as a second capital for our nation, should we lose the mainland to our enemies."
+###
+fra_maintain_air_army:0 "Maintain the Aéronautique Militaire"
+fra_maintain_air_army_desc:0 "The Aéronautique Militaire was formed as a subsection of the army during the Great War, and was used to great effect against the Germans in the Western Front. The Aéronautique Militaire has grown throughout the years and some divisions have become dependant on their support, so why should we split them apart?"
+###
+fra_create_air_army:0 "Create the Armée de l'Air"
+fra_create_air_army_desc:0 "Our airforce has grown larger and more independant of the army in the decades following the Great War. Keeping them tied to the army will limit their capabilities greatly, and as such we must seperate them and officially form the Armée de l'Air."
+###
+fra_paratroopers:0 "Paratrooper Research Advancements"
+fra_paratroopers_desc:0 "Paratroopers are a novel advancement in military technology, and learning to use them effectively could allow us to wreak havoc behind enemy lines and allow us to reach areas that our navy would find impossible."
+###
+fra_helicopters:0 "Experimental Helicopters"
+fra_helicopters_desc:0 "The idea of a helicopter has been in the minds of great invetors since Da Vinci's era. Only now has technology advanced to the point where the idea of functional helicopters are beginning to become a reality. Building experimental models will teach us valuable lessons regarding aeronautics."
+###
+fra_air_ground_radio:0 "Air to Ground Radio"
+fra_air_ground_radio_desc:0 "Giving synchronized radios to our pilots and officers will allow them to quickly and effectively communicate with each other during the heat of battle. This will greatly increase combat capabilities for both our army and aircraft."
+###
+fra_colored_smoke:0 "Colour-coded Smoke Grenades"
+fra_colored_smoke_desc:0 "Giving our soldiers a variety of differently coloured smoke grenades will allow them to designate different zones for our aircraft to operate in, giving them a tactical advantage on the battlefield."
+###
+fra_coordinated_air_support:0 "Coordinated Air Support"
+fra_coordinated_air_support_desc:0 "The Spanish Civil War has shown that a higher level of coordination between the ground and air forces is required in order to achieve success on the battlefield. We must make sure to take advantage of this knowledge before our enemies do."
+###
+fra_radar_tech:0 "RADAR Advancements"
+fra_radar_tech_desc:0 "RADAR has proven to be extremely useful in determining the outcome of a dogfight before it has even begun. As such, we must develop the technology further in order to keep the edge in battle."
+###
+fra_independant_air_command:0 "Independant Fighter Command"
+fra_independant_air_command_desc:0 "Ensuring that our fighter command is fully indepednant will allow them to operate on a more flexible basis, this will of course improve their effectiveness and capabilities in battle."
+###
+fra_flexible_tactics:0 "Promote Flexible Tactics"
+fra_flexible_tactics_desc:0 "Unpradictability in battle is the key to out-manouvering your opponent, as such we must ensure that all our fighter pilots are aware of this fact and use it extensively."
+###
+fra_bomber_formations:0 "Bomber Formations"
+fra_bomber_formations_desc:0 "Arranging our bomber flights into certain formations will allow them to destroy a larger amount of targets in less time and using less explosives, we should follow this path further in order to keep our enemies industry flattened and their planes grounded."
+###
+fra_better_fighter_range:0 "Improve Fighter Range"
+fra_better_fighter_range_desc:0 "Our fighters provide an important escort role to our bombers, but they can only travel so far on a single fuel tank before needing to turn back. Improving their range will allow them to keep our bombers safer for a longer time."
+###
+fra_air_school:0 "Found the École de l'air"
+fra_air_school_desc:0 "The École de l'air is a government sponsored organization aimed at educating todays youth in the ways of piloting and maintaining an aircraft. This will create a new breed of experienced pilots which will be unparalleled in the sky."
+###
+fra_integrate_cadets:0 "Integrate the Air Cadets"
+fra_integrate_cadets_desc:0 "Integrating the Air Cadet Corps fully into our airforce will allow them to gain more firsthand experience and see how an independant airforce truly operates."
+###
+fra_integrated_air:0 "Fully Integrated Airforce"
+fra_integrated_air_desc:0 "Our reforms have allowed us to fully integrate the airforce into the army, greatly increasing the effectiveness of our land forces."
+###
+fra_independant_air:0 "Fully Independant Airforce"
+fra_independant_air_desc:0 "Our reforms have led to our air force becoming fully independant of the army, and they only answer to us and themselves now. This independant airforce will form the backbone of the new French military."
+###
+fra_navy_start:0 "Reform the Marine Nationale"
+fra_navy_start_desc:0 "Our navy is heavily antiquated and outdated, and we cannot run a global empire without a strong navy in every sea. Reforming our navy is the only option we have if we are to maintain our position as the greatest empire on Earth."
+###
+fra_shadow_king:0 "In the Shadow of the King"
+fra_shadow_king_desc:0 "The Royal Navy dwarfs the Marine Nationale in every category, and their position as the top naval power on the globe seems unchallengable. We must attempt to assert our dominence over the sea if we are to remain fully independant from the British sphere and maintain our European hegemony."
+###
+fra_unified_fleet:0 "A Unified Fleet"
+fra_unified_fleet_desc:0 "The Marine Nationale operates under an extremely decentralized leadership style. Unifying the leadership under a group of naval officers will allow for higher coordination and operational integrity."
+###
+fra_expand_ports:0 "Expand Home Dockyards"
+fra_expand_ports_desc:0 "Dockyards are needed to construct additional ships, and we will never be able to rival British naval supremacy if we bottleneck ourselves with insufficiant dockyard production capabilities."
+###
+fra_revive_battleships:0 "Revive the Battleships"
+fra_revive_battleships_desc:0 "Many of our in-production battleships were cancelled after the signing of the Washington Naval Treaty, as well as the strain it was putting on our economy. The time has finally come to revive these beasts of the ocean, and assert our naval supremacy."
+###
+fra_super_heavy:0 "Impractically Large Ships"
+fra_super_heavy_desc:0 "Some say that there is a logical extreme to how large a ship can be before it becomes useless. We don't like those people, and listening to them would be a grave mistake on our behalf."
+###
+fra_mobile_airports:0 "Mobile Airstrips"
+fra_mobile_airports_desc:0 "Carriers allow us to transport our airforce across the globe to areas that they normally would be unable to reach, this will extend our global influence by a large degree."
+###
+fra_carrier_experiments:0 "Experimental Carrier Designs"
+fra_carrier_experiments_desc:0 "The Japanese, Americans, and British all use radically different designs for their aircraft carriers; we should learn from all three of these designs in order to create the perfect carrier."
+###
+fra_alone_weak:0 "Alone we are weak..."
+fra_alone_weak_desc:0 "Our fleet must be made up of many smaller ships in order to be able to quickly reach all areas of the globe and respond to crises wherever they may appear."
+###
+fra_wolfpacks:0 "Wolfpacks"
+fra_wolfpacks_desc:0 "Small, independant groups of submarines can partrol large bodies of water in search of hostile convoys and destroy them before ever being discovered. This is critical in starving out our enemy and defeating them on land."
+###
+fra_undersea_armada:0 "The Undersea Armada"
+fra_undersea_armada_desc:0 "An armada which lies under the surface of the ocean cannot be touched by our enemy, and will be able to perform hit-and-run attacks on the enemies surface fleet."
+###
+fra_destroyers:0 "Destroyer Innovations"
+fra_destroyers_desc:0 "Destroyers are an extremely versitile ship which can perform many tasks ranging from convoy protection to mine-laying and even trade interdiction. Increasing both the quality and quantity of our destroyers will give us an advantage over our enemies."
+###
+fra_quick_response:0 "Quick-Response Task Forces"
+fra_quick_response_desc:0 "Increasing the speed of our small task forces will allow us to deal more damage and take less damage ourselves. These new doctrines will prove invaluable if we are ever caught up in a naval war."
+###
+fra_cruisers:0 "Cruiser initiative"
+fra_cruisers_desc:0 "Cruisers make up the backbone of any strong navy, and we would be fools to ignore this fact. More cruisers will give our fleets more of an advantage in battle."
+###
+fra_merchant_marine:0 "Expand the Merchant Marine"
+fra_merchant_marine_desc:0 "Convoys are the life-blood of our empire, and allow us to ship goods all around the globe and keep the international economy running. Putting more emphasis on our convoys will improve our economy tenfold."
+###
+fra_our_shadow:0 "Casting Our Own Shadow"
+fra_our_shadow_desc:0 "While the Marine Nationale may never match the prestige and global reach of the Royal Navy, we have grown it to a size where we can now cast our own shadow on the rest of the world, and our navy is now nearly uncontested in the entire world."
+###
+fra_global_navy:0 "A Global Navy"
+fra_global_navy_desc:0 "Our navy has grown in speed and strength, and is now able to reach any corner of the globe in a matter of weeks. Our influence across the world has grown as a result and our empire has never been more secure."
+###
+fra_air_navy_coop:0 "Airforce-Navy Cooperation"
+fra_air_navy_coop_desc:0 "Promoting cooperation between our navy and airforce will allow them to operate in tandem and destroy any enemy that dares to oppose our combined military forces."
+###
+fra_coastal_air_def:0 "Coastal Air Defense"
+fra_coastal_air_def_desc:0 "Should the unthinkable happen and the enemies take control of our coastline, we need to ensure that our airforce knows how to slow them down and prevent them from gaining more ground before our land forces can get in position."
+###
+fra_naval_bombers:0 "Naval Bombers"
+fra_naval_bombers_desc:0 "Close Air Support can only do so much damage against an enemy fleet, we need to develop new aircraft which have the sole purpose of destroying ships if we are to truly destroy the enemy before they are able to retreat."
+###
+fra_navy_air_cadets:0 "Air-Navy cadet excercises"
+fra_navy_air_cadets_desc:0 "The Air and Navy cadets operate almost entirely independant of each other. We should encourage cooperation between the two groups in order to promote cooperation and brotherhood between them."
+###
+fra_continental_supremacy:0 "Continental Supremacy"
+fra_continental_supremacy_desc:0 "Ever since the end of the Great War, we have been the hegemon of continental Europe. Maintaining this position is critical for us to ensure the survival of the French nation."
+###
+fra_no_flank:0 "Never another Schlieffen"
+fra_no_flank_desc:0 "The Belgian corridor left France wide open for attack during the first Great War, and our inability to act led to the complete devestation of the Calais region. We must take diplomatic measures to ensure that such a travesty never happens again."
+###
+fra_safeguard:0 "Safeguarding the Low Countries"
+fra_safeguard_desc:0 "The Low Countries are defenseless without our watchful eye, and the resurgant Germany to the East has threathened the region greatly. We must take measures to assrt our influence over the region, and prevent foreign powers from dominating them."
+###
+fra_hispania:0 "Turmoil in Hispania"
+fra_hispania_desc:0 "The Spanish Civil War has brought devestation to the penensula, and many of our citizens living near the border have grown fearful of the conflict crossing over. Intervention in the conflict will ensure a swift end and peaceful resolution to the war in our favour."
+###
+fra_italy_coop:0 "Franco-Italian Cooperation"
+fra_italy_coop_desc:0 "Our largest continential ally, Italy, is lagging for behind both industrially and militarily. We need to increase cooperation between our two governments in order to transform them into a juggernaut with which we can face Germany with."
+
+
+#### EVENTS ####
+
+fra.1.t:0 "The Third Republic"
+fra.1.d:0 "The second French Empire came to an end in 1871 with their defeat in the Franco-Prussian war, and the Third Republic swiftly took its place. The French defeat in the Franco-Prussian war left them bitter and spiteful towards the Germans, and this feeling would last another 40 years before they were allowed their revenge on the fields of the Great War. \n\nWith the end of the world’s most devastating conflict in 1919, the French were quick to enforce harsh demands upon the German nation. Full responsibility for damages caused by the war and a seemingly insurmountable series of debt payments destroyed the German economy and helped to bring France back to their hegemonic status in Europe. These economic burdens placed upon Germany, as well as the allied occupation of the Ruhr and Rhineland, forced Germany to default on their debts, and the nation went bankrupt. \n\nWhen German reperation payments stopped coming in, the French were forced to invade the Rhineland region and set up an Inter-Allied joint commission to administer the region. Along with this invasion of the Rhineland, the Saarland was occupied directly by the French army, in direct opposition from the Italians, British, and Americans, who had all participated in the occupation of the Rhineland. With the cecession of German reperation payments in 1933, exploitation of both the Rhineland and Saarland increased dramatically, leading to the Saarland being incorperated into the French Republic as the Sarre department. \n\nBy 1936, the ruling Bloc National continues to dominate French politics, seemingly unaware of the resurgant German power."
+fra.1.a:0 "Vive la France!"
+###
+fra.2.t:0 "The National Budget - Initial Report"
+fra.2.d:0 "The Special Investigatory Council has given Prime Minister [Root.GetLeader] their initial report on the missing funds. Unfortunately, they have been unable to come up with the source for this deficit, and have found that the Ministry of the Interior and the Ministry for Colonial Affairs are the ones suffering the most from the lack of funds. \n\nThe SIC has requested permission to investigate both the Armed Forces and industrialists to see if there is perhaps a large-scale embezzlement operation which has gone unnoticed for several years."
+fra.2.a:0 "This demands further investigation!"
+###
+fra.3.t:0 "The 1936 national budget"
+fra.3.d:0 "The annual budget report has come in, determining what funds the government has available to allocate to the different ministries and government services. For the third year in a row, we have come up several million Francs short of our projected spending capacity, and nobody has been able to determine where these lost funds are going. This issue has raised several concerns of rampant and widespread corruption throughout the government that has gone unnoticed for the better part of the 1930's, and many are urging that a Special Investigatory Council be created in order to find the source of these missing funds."
+fra.3.a:0 "We must get to the bottom of this debacle!"
+###
+fra.4.t:0 "The National Budget - Investigation of the Army"
+fra.4.d:0 "The SIC has returned to us after much investigation and deliberation. They have concluded that several high-ranking officers within the army and navy have been embezzling funds generated by the world economic boom and storing them in offshore accounts across Europe and America. These officers have been filing false reports with the cooperation of the Minister of the Colonies, Louis Rollin, who is suspected of also partaking in the embezzlement. While these officers "
+fra.4.a:0 "And so the answer draws near..."
+###
+fra.5.t:0 "The National Budget - Investigation of the Capitalists"
+fra.5.d:0 "The SIC has concluded their report on the capitalists, and found them to be innocent of stealing the governments money. Many are upset that this investigation took place at all, and many capitalists were offended at the scrutiny of the investigation; it may be in our best interests to grant them privilages in order to appease them."
+fra.5.a:0 "We must be getting close now..."
+###
+fra.6.t:0 "The National Budget - Investigation of the Government"
+fra.6.d:0 "After a long period of absence, the SIC has returned to the government with a mountain of folders and files. It would appear that the funds missing from the national budget were being siphoned into the personal accounts of sevveral members of the government using offshore accounts in Switzerland. \n\nThis discovery has shaken the Bloc National to its very core, with more and more members of the party being accused of rampant corruption by the day. The government is in chaos, and the Gendarmerie Nationale has been called in to restore order in the parliament and prevent the building from becoming a riot. These reports will soon leak out into the public, and we will undeniably be hit with wave upon wave of criticism from the people."
+fra.6.a:0 "There is only one thing we can do... organize a trial!"
+###
+fra.7.t:0 "The Trial of the Eleven - Result"
+fra.7.d:0 "After several days of deliberation, the jury has appeared once more in front of the grand jury with their conclusion. The Jury has found all eleven members of government guilty of, among other things, embezzlement. The men were all removed from their government positions promptly, but the stain of their legacy still remains with the coalition. The upcoming election in March will prove to be one that decides the fate of France for the next decade, the only thing left to decide is whether the Bloc National will participate, or split up into its constituant parties..."
+fra.7.a:0 "The Bloc National will survive."
+fra.7.b:0 "This scandal has proven too much, disband the Bloc National."
+###
+fra.8.t:0 "The election is over"
+fra.8.d:0 "After a tense couple of days, the ballots have all been tallied and the winner of the election is shortly going to be announced."
+fra.8.a:0 "The Bloc National wins!"
+fra.8.b:0 "The SFIO wins!"
+fra.8.c:0 "The Radical-Socialists win!"
+fra.8.e:0 "The Democratic Republican Alliance wins!"
+fra.8.f:0 "The military storms Paris and declares a Junta!"
+###
+fra.9.t:0 "Supplies from Tunisia"
+fra.9.d:0 "Months have passed since our projects in Tunisia attempted to modernize the region and make it profitable. Early today a shipment of supplies from Tunis has arrived in Toulon, and we have recieved a message from the Resident-General of Tunisia detailing the contents of the shipment."
+fra.9.a:0 "Finally, our investments are paying off"
+###
+fra.10.t:0 "Choosing a Modern Doctrine"
+fra.10.d:0 "With our abandonment of defensive doctrine, we have been forced to choose a new direction for our military to take. We have three equally viable options, but picking the correct doctrine could mean the difference between success and defeat in the wars to come."
+fra.10.a:0 "Mobile warfare will allow us to penetrate enemy lines"
+fra.10.b:0 "Superior firepower will allow us to flatten the enemy"
+fra.10.c:0 "Grand battleplan will allow us to conduct international operations"
+###
+fra.11.t:0 "National restructuring"
+fra.11.d:0 "The Military government of France has prepared a series of documents which will reorganize and restructure the government from the rotten and corrupt democracy into a unitary one-party state led by a central figurehead. The documents will be presented both to parliament and the public in a few days time, and they will be officially ratified shortly after. \n\nThis radical change in French politics is sure to bring instability for a short period of time, but many are optimistic of a quick recovery and return to political dominance in Europe. \n\nThe eyes of the world are upon us, and international reaction will be devicive in securing legitimacy for the new state."
+fra.11.a:0 "And so it is."
+###
+fra.12.t:0 "The Death of the Third Republic"
+fra.12.d:0 "The new French constitution was finally ratified today, and the Third Republic which guided the French people through the First Great War has finally met its ultimate fate. Lasting from 1870 to [GetYear], the Third Republic was one of the longest lasting French governments, but it appears that it simply could not withstand the political turmoil of the 20th Century, being brought to its knees in 1919 and not able to recover before the political and economic scandal along with the crippling effects of Black Wednesday finally broke the Republican institutions. \n\nThe new France is practically unrecognizable from the previous administration, as a unitary one-party state with an undemocratically elected leader. The hope is that this new government of national unity will be able to withstand the strains of the new, modern world, and defend France from the resurgent German dog to the East. \n\nThe citizens of Paris cheered when the new government was announced, and spirits across France are looking up as optimism is high for the future."
+fra.12.a:0 "This is for the best"
+###
+fra.13.t:0 "A Leader for the French People"
+fra.13.d:0 "Philippe Pétain has served as the leader of the provisional French government for several months now, and radical groups such as the Action Française, Parti Social Français and Parti Populaire Français have have slowly been creeping their way into government positions via recommendation from members of the ruling military government. Now many generals are openly demanding Pétain's resignation and the election of a new candidate to head the French government. \n\nPétain himself is shocked at this revelation, and has stated that he has no intention of backing down to demands from his subordinates. However, support for Pétain's resignation is climbing quickly and he may soon be left with no other choice."
+fra.13.a:0 "Philippe Pétain retains his position"
+fra.13.b:0 "Georges Valois assumes control of the government"
+fra.13.c:0 "François de La Rocque is elected leader"
+###
+fra.14.t:0 "The Coronation of Jean III"
+fra.14.d:0 "With the entirety of the country on our side, and our enemies unable to move against us, Prince Jean of the house of Orléans has accepted our invitation to take back the French thone which has been vacant for the past 56 years. We expect a huge crowd in Paris, and security must be top-notch to ensure our King is not assassinated at his very own coronation."
+fra.14.a:0 "Vive le roi!"
+###
+fra.15.t:0 "Workers in Poitou strike!"
+fra.15.d:0 "Despite our revokation of the legality of strikes in France, a group of working in La Rochelle have stopped showing up to work and have demanded increased safety regulations and a higher wage. This has presented somewhat of a crisis in our government, as accepting these demands would tarnish our name severly and cause a serious drop in our authority. However, sending in the military risks escalating the situation and causing more widespread strikes."
+fra.15.a:0 "We must concede to their demands."
+fra.15.b:0 "Order the army to move in and disperse the strikers."
+###
+fra.16.t:0 "Marcel Pagnol releases "César""
+fra.16.d:0 "Famed playwright and filmmaker Marcel Pagnol has released the third film in his "Marseille" trilogy, entitled "César". The first movie in the trilogy to not be adapted from a screenplay and instead based solely on a film script, though many believe that in the future the movie will be re-adaped to fit in with the other two plays on-stage. \n\nThe film is hailed as being a staple of cosmopolitan French culture, and has quickly peaked the charts for the year of 1936. The main points of criticism towards the film are its long run-time, and less-than-exciting storyline for the climax of a trilogy of films and plays. \n\nStill, Pagnol continues to be regarded as a genius not only of film, but other mediums such as poetry and drama. He is seen as one of the embodiments of French contemporary French culture, and his fans wait endlessly for his mind to produce yet another great story."
+fra.16.a:0 "I hope he makes one about me!"
+###
+fra.17.t:0 "Manouvers along the Pas-de-Calais"
+fra.17.d:0 "Ever since the Great War came to an end in 1919, French military staff have been scrutinizing every decision made throughout the course of the war and playing wargames to see what they could have done better. Several diffrent previaling schools of thought have taken hold, and the arguments nearly turned violent before the Chief of Army stepped in to mediate the situation. \n\nWhat followed were a series of live wargames in the Pas-de-Calais region of France, with one side representing Germany and the other representing France. What the officers found was that using conventional tactics, both armies were forced into a state of trench warfare within weeks of the simulated war beginning. A promising new "Guerre éclair" tactic showed many signs of success, involving a lightly armoured spearhead which would punch through the enemy lines before spreading out like a funnel, allowing allied soldiers to capture huge swaths of enemy troops and hostile land. Combined with an air offensive, it was believed that this new "Lightning War" could potentially turn the tide in France's favour during the next major continential war. \n\nIt was not soon after, however, that several officers found major faults with the plan. Fuel and supply shortages were rampant with this doctrine, and the risk of being cutoff from the main army was extremely high if the enemy force were able to break through the spearhead. It was for these reasons that the plan was essentially scrapped by the end of the wargames. \n\nWe may not have found our magical new doctrine, but the army has certainly learned a thing or two about fighting a modern, defensive war."
+fra.17.a:0 "Guerre éclair, doesn't that mean something in German?"
+###
+fra.18.t:0 "The 1936 Tour de France"
+fra.18.d:0 "The 30th edition of the Tour de France concluded today, as the riders crossed the finish line and ended the annual tradition. The top time was a blistering 142 hours and was achieved by the Belgian rider Sylvère Maes. This Tour de France differed from past races in that it was broken up into three seperate parts, and top three in each stage would recieve a boost to their time depending on which position they held at the end of each individual section. \n\nHenri Desgrange insisted that he conduct the race himself, despite having undergone kidney surgery only weeks prior to the start of the race. Still, he was determined to follow the race in a car full of cushions, causing quite the scene whenever he drove through a city full of spectators. After the second stage, Desgrange stopped and handed control of the race over to Jacques Goddet for the final third of the race. \n\nMany cheered on France's own Antonin Magne through the race, and he managed to achieve a respectable second place overall, nearly half an hour behind Sylvère Maes. \n\nWith the Tour de France over, the citizens go back to their daily lives, waiting in anticipation for next years race to begin."
+fra.18.a:0 "How exciting, I can't wait for next year!"
+###
+fra.19.t:0 "Miners Strike in Normandy!"
+fra.19.d:0 "A group of coal miners working around the city of Rouen ordered a limited strike, refusing to go to work and shutting down industry across the region. The local police were sent in to restore order and get the miners back to work, but this strike is seen by many as an example of the weakening power of our government."
+fra.19.a:0 "Unfortunate"
+###
+fra.20.t:0 "The death of Louis Blériot"
+fra.20.d:0 "The famed French aviator, engineer, and inventor Louis Blériot passed away yesterday in his home, after reportedly suffering a heart attack. Louis was the inventor of the first practical headlights for automobiles, and created a profitable business manufactoring and selling them en masse to the public. Louis used much of the money he made from his headlight industry to spearhead the creation of new aircraft and systems for them, and he is credited for creating the first joystick and foot operated rudder pedal combination in early 1908. \n\nMany in both the aviation and automobile industry are deeply saddened by the passing of Louis Blériot, and his funeral is estimated to be attended by over a thousand wealthy businessmen and close associates of him."
+fra.20.a:0 "A terrible loss for us all."
+###
+fra.21.t:0 "The death of Juliette Adam"
+fra.21.d:0 "French author and feminist Juliette Adam passed away yesterday in Southern Paris, she was reportedly with both friends and family when she died. \n\nJuliette Adam was famous for several acomplishments, not least of all her detailed account of her childhood and the discord between her parents which she acutely remembered. She was also remembered for her several accounts of foreign politics during her life, and made several devisive writings criticizing Bismarck and his policy of German revanchism and unification."
+fra.21.a:0 "Truly a model citizen to the end."
+###
+fra.22.t:0 "Military coup!"
+fra.22.d:0 "In the early hours of yesterday morning, a large detachment of French soldiers defending the outskirts of Paris suddenly turned around and stormed the parliament building as well as several other important government offices! The military has declared a junta in place of the democratic government in a seemingly desperate attempt to salvage the military situation and stall the German invasion. \n\nIt is unknown what the true intentions of this military government are, and many believe that this was in fact orchestrated by the far-right Action Française. Regardless, the new military government has directed all of the nations resoures towards the frontline, and for the time being the situation seems to have stabalized."
+fra.22.a:0 "When will this chaos end?"
+###
+fra.23.t:0 "And end to the Junta"
+fra.23.d:0 "The war is over, and we has miraculously come out on top against our German foe. With the end of the war, the question of the ruling military junta was one in the minds of many Frenchmen who had endured the war under their military-driven leadership. This general discontent, along with army elements loyal to the Republic returning home en masse, has persuaded the military junta to step down and allow the democratic government to take back control.\n\nDuring the war, many of France's citizens turned to socialist ideals in the hopes of a brighter future after the war, and as such many are calling for the instilation of the SFIO to form a government with which to repair our shattered nation. Still, both liberal and conservatives alike remain popular within the minds of citizens, and the restoration of a traditional government may be what we need in order to bring about a new era of prosperity."
+fra.23.a:0 "The SFIO will form a government"
+fra.23.b:0 "The Radical-Socialists will form a government"
+fra.23.c:0 "The Democratic Republican Alliance will form a government"
+###
+fra.24.t:0 ""The Future of our Republic""
+fra.24.d:0 "Fighting rages on across our Republic, and in the past days we have begun to see a total collapse of our front lines as German forces punch through our defenses at lightning speed and with brutal efficiancy. Many have declared these to be the final days of the Third Republic, and hope is fleeting. \n\nCharles De Gaulle, recently promoted to Brigadier General for his gallant actions during the early phases of the German invasion, has approached the faltering government with a most radical plan. For the past week he has been desperately drawing up plans for a complete evacuation of our military and political assets across the Mediterranean Sea to our holdings in Algeria so that we may continue the fight there. Little needs to be said of the ambition of this plan, and simply the idea of it has caused great divide in our already weakened government. [ROOT.GetLeader] has been given the unfortunate task of deciding whether or not to accept De Gaulle's plans, and no matter which he chooses many more Frenchmen will die and support for his party will be lost. \n\nGeneral De Gaulle has repeatedly stressed that this is the only way for us to defeat the German menace which ravages our land, and with the sound of battle drawing nearer, we are evidently out of time to ponder the outcome of either decision."
+fra.24.a:0 "We must continue the fight, no matter how far we must flee..."
+fra.24.b:0 "Nonsense, we have them on the back foot!"
+###
+fra.25.t:0 "Corruption in the Army"
+fra.25.d:0 "The SIC revealed a layer of corruption and villiany within our officer corps, and many of our high-ranking officers seem to hold ties to the Action Française league. We cannot allow such rot within our army, and as such we must begin a series of public trials and ban them from military and political life. \n\nThis will be a long and difficult process, and our army will suffer as a result. However, once the trials are over our army will be far more organized and include more modern generals with new and ambitious ideas."
+fra.25.a:0 "Let us hope the Germans remain distracted."
+###
+fra.26.t:0 "Trial of the Generals - First Phase"
+fra.26.d:0 "As the army investigation and trials get fully under way, several generals have been found guilty of various levels of corruption and individual scandal. All of the Generals on trial will recieve punishments, but we can't afford to fire the entire lot of them at once, and as such we must choose a certain group to punish more harsh than the rest."
+fra.26.a:0 "This will take a heavy toll on our military..."
+###
+fra.27.t:0 "Trial of the Generals - Second Phase"
+fra.27.d:0 "The second phase of the military trial has begun, and already several high-ranking members of the military have been found guilty of corruption, bribery, and an assortment of other crimes against the state. The number of innocent generals in our army is dwindling fast, and our military is beginning to fall apart at the seams."
+fra.27.a:0 "Lets hope this doesn't go on much longer"
+###
+fra.28.t:0 "Trial of the Generals - Final Phase"
+fra.28.d:0 "The rotten stench of corruption and robbery has managed to seep into the very top of our military it seems, with naval, army, and air officers being forced to resign left and right at a staggering rate, our military has been absolutely crippled by this investigation, and we can only hope for a swift recovery."
+fra.28.a:0 "Surely it can't get worse than this..."
+###
+fra.29.t:0 "Talented Military Minds"
+fra.29.d:0 "Military colleges across France have been churning out young and spry officers with great effect. The damages to our military from the repeated trials are beginning to wear off, and within a couple of months our army will be more capable than ever."
+fra.29.a:0 "Wonderful news to be sure!"
+###
+fra.30.t:0 "Talented Military Minds"
+fra.30.d:0 "Military colleges across France have been churning out young and spry officers with great effect. The damages to our military from the repeated trials are beginning to wear off, and within a couple of months our army will be more capable than ever."
+fra.30.a:0 "Wonderful news to be sure!"
+###
+fra.31.t:0 "Talented Military Minds"
+fra.31.d:0 "Military colleges across France have been churning out young and spry officers with great effect. The damages to our military from the repeated trials are wearing off, and within a couple of months our army will be more capable than ever."
+fra.31.a:0 "Wonderful news to be sure!"
+###
+fra.32.t:0 "Talented Military Minds"
+fra.32.d:0 "Military colleges across France have been churning out young and spry officers with great effect. The damages to our military from the repeated trials are almost completely worn off, and within a couple of weeks our army will be more capable than ever."
+fra.32.a:0 "Wonderful news to be sure!"
+###
+fra.33.t:0 "Seeds of a Revolution"
+fra.33.d:0 "A situation seems to be developing in Southern France, a large group of industrial workers were seen parading through the strees of Toulouse sporting an all-red flag for the better part of the morning before marching on through the countryside, their numbers growing with each town they pass through. Local police have tried to stop the crowd and force them to disband but all efforts have proven to be ineffective. The government is unwilling to send in troops due to the crisis developing within the military and political scene in general, and any direct military intervention may rile up both the left and right political extremes in our nation. \n\nRegardless, this "Workers March" is gathering steam at an ever-growing rate, and while they are keeping to themselves in the South of France for now, there's no telling if or when they will change course and head straight for Paris."
+fra.33.a:0 "Perhaps this is something we should keep an eye on."
+fra.33.b:0 "We need not concern ourselves with a few disgruntled miners."
+###
+fra.34.t:0 "The Workers March reaches Bordeaux"
+fra.34.d:0 "Yesterday we recieved a telegram from the local police in the city of Bordeaux outlining the extent of the Workers March and their presence in the city. There are apperently mass demonstrations calling for the abolition of the government and the start of new elections. While the majority seem to have relatively democratic demands, some groups are demanding the complete abolition of our republican government and the installation of a communist regime similar to that of the Soviet Union. These people, while small in number, are quickly gaining traction within the already disgruntled mob of citizenry. \n\nWe have been forced to order our divisions out of the Bordeaux region for the time being in an effort to avoid igniting the powder keg of a city, but with time they will surely die down."
+fra.34.a:0 "Things are not looking well for us."
+###
+fra.35.t:0 "The Workers March reaches Poitou"
+fra.35.d:0 "Reports from the city of Poitou have indicated that the Vanguard of the Workers March has entered Poitou, and the local police have been unable to control the gigantic crowd which has flooded into the city. The movement has once more swelled in numbers due to an influx of disgruntled citizens within the city joining their ranks. Several French generals have drawn up plans to forcefully disband this march using several of our experienced divisions currently stationed in Africa, however this idea has been completely blocked due to an unwillingness in the government to fire upon its own citizens and possibly incite another revolution in the nation. \n\nThe Workers March moves on in a generally Northward heading, and many political observers believe that they will dissipate when met with the Loire river and it's low-capacity bridges."
+fra.35.a:0 "When will they stop?"
+###
+fra.36.t:0 "The Workers March crosses the Loire"
+fra.36.d:0 "Against our hopes, and the beliefs of many of our advisors, the Workers March faced no issue crossing the Loire river, and have now proceeded to march even further Nrothward through many small towns and rural areas. Estimates put the volume of the crowd anywhere between 600 and 900 people, and growing constantly. Several recon divisions have been shadowing the March since they passed through La Rochelle, and a clearly defined group appears to be leading the entire march, most of which are wearing red attire and carrying around blood-red flags. It would seem that as time goes on, the March becomes more and more socialist in nature, with many of the participants joining in the singing of "La Internationale" on a daily basis. \n\nThe leadership of our government has become quite frightened, and several divisions have been placed both in and around Paris as a preventitive measure in case the March does reach the city, but many citizens are doubtful that they will be able to stop this march if it continues for much longer."
+fra.36.a:0 "Things are getting dangerous!"
+###
+fra.37.t:0 "The Workers March reaches Normandy"
+fra.37.d:0 "In a surprising event, the Workers March continued to head North after reaching Le Mans rather than turning Eastward towards Paris. It seems they are heading to Caen in order to further bolster their numbers, and their actions have put all of Paris on edge. There is a looming sense of dread hanging over the city, and many anxiously await the day when the dust cloud appears over the horizon and finally reaches the outskirts of the city. The crude barricades that the army has erected in the streets bring back memories of the Paris Commune"
+fra.37.a:0 "They will be in Paris any day now!"
+###
+fra.38.t:0 "The Workers March reaches Paris"
+fra.38.d:0 "It would appear our worst fears have finally been realized, the Workers March has reached Paris in full force, and have begun their push into the city center. Outposts lying in the rural areas outside of the city were quickly overrun by citizenry armed with both firearms and melee weapons, with a few posts even switching sides and joining the march. The East half of Paris is relatively untouched by the march due to the Seine River cutting the city in two, but the Arc de Triomphe has already been overrun and a red banner has been hoisted over the monument. The Palais Bourbon is within spitting distance of the now-rebel army, and many fear that a Second Paris Commune may soon become a reality, and the French military is finding it harder and harder to keep the rebels at bay without resorting to violence. There are confused screams flooding the streets, and few can tell friend from foe on ground level. \n\nShouting overtakes one of the alleyways as a barricade falls, and in a single moment of panic and confusion..."
+fra.38.a:0 "§RWe had no other choice...§!"
+###
+fra.39.t:0 "The aftermath of Bloody Monday"
+fra.39.d:0 "The stench of gunpowder lingers in the air, the smoke still billows from smoldering ruins outside the city, and blood still stains the roads leading to the Eiffel Tower. \n\n"Bloody Monday" the people of Paris are calling it, and rarely has there ever been a more apt name for an event in history. A heavy silence has lingered over the city this past week, and many are waiting to see what the now murderous government will do in response to this tragedy. The fallen citizens of Paris have become Martyrs for both the extreme left and right, claiming that our government is no longer fit to rule the people nor the state over which it presides. There are talks of a second, organized Workers March in Marseille, and several high-ranking generals"
+fra.39.a:0 "What does this mean for our Republic?"
+###
+fra.40.t:0 "Rise of the PSOP"
+fra.40.d:0 "Marceau Pivert, an exiled left-wing member of the SFIO, has founded a new party along Libertarian and Marxist lines known as the "Workers and Peasants' Socialist Party". This party has little support outside of its already fringe movement, and they have found little support from either the SFIO or the PCF, and some believe the party itself may soon splinter and see its members scatter. Still, the PSOP has become a member of the International Revolutionary Marxist Centre, and have been appealing to disenfranchized and disillisioned members of both the SFIO and PCF, and the possibility remains that they may soon gain traction as a popular midddle-ground party for the socialist movement in France."
+fra.40.a:0 "This does not concern us."
+###
+fra.41.t:0 "France proposes guaranteeing Austrian independence"
+fra.41.d:0 "Our French allies have been keeping a close eye on Germany and their expansionist attitude, they have approached us with a request that we both officially and unilaterally declare our support in Austria's favour should the Germans come knocking on Vienna's door. This diplomatic guarantee may be what we need in order to curb Germany's aggressive new government, however we may find ourselves in an unfortunate war with the German war machine for the second time in 40 years. \n\nWe must consider our choices carefully."
+fra.41.a:0 "We will stand by the Austrians"
+fra.41.b:0 "The Austrians are on their own"
+###
+fra.42.t:0 "The Entente Backs Our Independence!"
+fra.42.d:0 "We have recieved official word from Paris and Rome, both France and Italy have declared their full support for our independence from German rule. Both leading members of the Entente made sure to publicize this guarantee as much as possible as to catch Germany's attention with it. Hopefully this declaration will stave off any German attempts at undermining our independence and increase our ties with the Entente."
+fra.42.a:0 "The Habsburgs may be gone, but our diplomatic prowess isn't!"
+###
+fra.43.t:0 "Italy refuses our offer!"
+fra.43.d:0 "The Italian government has decided that they will not join us in guaranteeing Austria's independance and subsequently have stabbed us in the back diplomatically. Relations between us and the Italians have become strained and some are worried that this may once more split the Entente in two. The Austrians have become nervous from this diplomatic scuffle, and are asking that we be the sole protectors of their independence."
+fra.43.a:0 "Fine, I'll do it myself"
+fra.43.b:0 "The Austrians are of little consiquence anyway"
+###
+fra.44.t:0 "The Swiss Question"
+fra.44.d:0 "The French have approached us officially with an interesting offer. They are offering to settle a truly critical territorial dispute between the Swiss and our two nations. There is a sizable Italian and French population living in the South and West of Switzerland respectively, and saving these Italians from the cruel and dictatorial Swiss government should be our top priority."
+fra.44.a:0 "We agree to the French terms"
+fra.44.b:0 "A war with the Swiss is not benificial at this time"
+###
+fra.45.t:0 "The Italians agree"
+fra.45.d:0 "The Italian government has expressed their interest in annexing the Italian-population portions of Switzerland after we annex the Romandie region. We don't expect the Swiss to put up a fight against our combined might, but we should be prepared for war nonetheless."
+fra.45.a:0 "Wonderful news"
+###
+fra.46.t:0 "The Italians decline"
+fra.46.d:0 "The Italian government has expressed their desire not to enter into conflict with the Swiss in the name of rescuing their estranged population. Clearly the Italians do not care for their own people and as such have left us as the protectors of the Swiss Italians."
+fra.46.a:0 "Fine, more land for us"
+###
+fra.47.t:0 "France and Italy demand our territory!"
+fra.47.d:0 "A joint telegram from Paris and Rome has reached our capital today, and it would appear that it holds most unfortunate news. The radical French and Italian governments, having taken power not long ago, have decided it to be in their best interests to prey on their smaller neighbors. The French have demanded the Romandie region, a part of Switzerland inhabited largely by French-speaking Swiss citizens. The Italians on the other hand have demanded the Tessin region, a large border strip in which much of the population speaks an Italian dialect. \n\nThese demands clearly violate our territorial integrity, and our population is ready to fight at all costs. However, the best option may be to relent and live with the consequences of these actions."
+fra.47.a:0 "Alas, we are powerless"
+fra.47.b:0 "We are a nation of mountains, we will not back down so easily!"
+###
+fra.48.t:0 "France demands our territory!"
+fra.48.d:0 "A telegram from Paris has reached our capital today, and it would appear that it holds most unfortunate news. The radical French government, having taken power not long ago, has decided it to be in their best interests to prey on their smaller neighbors. The French have demanded the Romandie region, a part of Switzerland inhabited largely by French-speaking Swiss citizens. \n\nThese demands clearly violate our territorial integrity, and our population is ready to fight at all costs. However, the best option may be to relent and live with the consequences of these actions."
+fra.48.a:0 "Alas, we are powerless"
+fra.48.b:0 "We are a nation of mountains, we will not back down so easily!"
+###
+fra.49.t:0 "The Swiss Have Surrendered"
+fra.49.d:0 "Good news from Berne, the Swiss government has decided to surrender the region of Romandie over to us peacefully, and without a fight. The Swiss military has been evacuated froom the region and our divisions are crossing the border to quickly restore order to the confused citizens. \n\nWe expect the Italian government to place their own demands any day now..."
+fra.49.a:0 "We grow more powerful by the day"
+###
+fra.50.t:0 "The Swiss Stand Defiant"
+fra.50.d:0 "Sadly, the Swiss government appears to have been unable to grasp the gravity of this situation. They have stood defiant of our demands and instead chose to oppose our military and political might. Our officers are ready for a war, and our men are eager to seek glory on the battlefield once more. There are fears that the rugged Swiss terrain may bog our troops down and enter us into another long and protracted conflict, a scenario few are willing to consider."
+fra.50.a:0 "To War!"
+fra.50.b:0 "To War!"
+fra.50.c:0 "We cannot afford such a costly war."
+###
+fra.51.t:0 "The Swiss Have Surrendered"
+fra.51.d:0 "Good news from Berne, the Swiss government has decided to surrender the region of Romandie over to us peacefully, and without a fight. The Swiss military has been evacuated froom the region and our divisions are crossing the border to quickly restore order to the confused citizens."
+fra.51.a:0 "We grow more powerful by the day"
+###
+fra.52.t:0 "The annexation of Tessin"
+fra.52.d:0 "The French government has annexed the Romandie region, and shown the world how weak the Swiss really are. Now would be the perfect time to strike and annex the Tessin region into our own budding empire."
+fra.52.a:0 "Send in the troops!"
+###
+fra.53.t:0 "The Romandie Conflict"
+fra.53.d:0 "Tensions have skyrocketed these past few days on the Franco-Swiss border. Many around the world are holding their breath to see what we will do next, whether we will attack or back down to a nation which has stolen our people and defied our demands. The time has come to invade Switzerland, come hell or high water."
+fra.53.t:0 "Rally the troops!"
+###
+fra.54.t:0 "Black Wednesday hits France!"
+fra.54.d:0 "The economic downturn across the English Channel has finally struck us, and our shambled-together economic defenses were no match for the worlds largest economy collapsing in on itself. The value of the Franc has sank to a never-before-seen low, and it shows no sign of slowing down any time soon. Our economists are doing their best to devise plans to combat this depression, but the French economy will be undoubtedly suffer for months to come, if not more. \n\nOur colonial offices, which are deeply tied to the Metropolitan economy, have seen a near-total collapse of their fledgling economies. Our Indochinese colonies have requested a full bailout of their debts and our companies in French Africa have almost all filed for bankruptcy. \n\nIt is clear that something needs to be done quickly if we are to have any hope of recovering our economy in a timely manner."
+fra.54.a:0 "This is a tragedy!"
+fra.54.b:0 "Whatever will we do?"
+fra.54.c:0 "This does not bode well..."
+fra.54.e:0 "Something must be done!"
+fra.54.f:0 "Can't we just catch a break?"
+###
+fra.55.t:0 "The Situation Improves"
+fra.55.d:0 "Economic policies and initiatives taken by the government have led to a drastic improvement of our economic situation. The worst may finally be behind us and we will soon be back on track to prosperity."
+fra.55.a:0 "Wonderful news!"
+### Event fra.56 uses the same text as 55.
+fra.57.t:0 "Economic Prosperity Returns"
+fra.57.d:0 "The effects of Black Wednesday have finally subsided and prices across France have returned to stable levels. Few will soon forget the effects of this tragedy, and preventative measures have been in place to ensure something of this magnitude never happens again"
+fra.57.a:0 "Is bread finally affordable again?"
+###
+fra.58.t:0 "The Occupation of the Canaries"
+fra.58.d:0 "In the early morning hours of yesterday, a small strike force of French marines departed from Casablanca for the Canary Islands, presently held by the Spanish falangists. The operation lasted a total of 16 hours, and began with the seizure of the the island of Fuerteventura and Gran Canaria. Intense fighting was reported on the island of Tenerife, and the city of Santa Cruz de Tenerife held out despite being entirely surrounded for several hours.\n\nBy midday, the capital city had fallen and the marines had moved onto the final three Western islands in the chain. Small pockets of resistance held out in the forested mountains for over a day before finally being starved and coerced out into surrender. \n\nThe marines set up a local garrison upon the capture of the island chain, and were faced with only minor civilian resistance before finally handing the island chain over to the French government. A local administration is presently being set up and the islands will soon be fully integrated into the colonial sphere."
+fra.58.a:0 "A necessity in order to ensure peace."
+###
+fra.59.t:0 "Occupation of the Pyrenees"
+fra.59.d:0 "French mountaineers have set up defensive positions along the Pyrenees and seized several key towns in the region. There was a surprisingly large loss of life as the entrenched Spanish positions proved to be extremely fortified, but the passes have finally come under our control."
+fra.59.a:0 "A necessity in order to ensure peace."
+###
+fra.60.t:0 "French diplomatic tensions"
+fra.60.d:0 "News from Paris has reached us earlier today detailing French plans to pursue a staunchly anti-British foreign and domestic policy. It would seem that the outcome of the London Naval Conference has finally tipped the scale and pushed the French from our side. While this certainly gives Germany the upper hand diplomatically, we ourselves may be able to benifit from this event, as the French have now diplomatically isolated themselves from the most powerful empire the globe has ever seen."
+fra.60.a:0 "We will watch these events closely..."
+###
+fra.61.t:0 "Rise of the AF"
+fra.61.d:0 "With the appointment of Georges Valois as the head of the French government, the Action Française has risen to prominence and taken the forefront of French politics. Monarchists are entering government positions at a staggering rate, and there is talk of restoring the French monarchy under the house of Orleans. Whether or not these rumours will prove to be true is yet to be seen, but there is a large political shift taking place internally, and we may soon see yet another radical change in French politics."
+fra.61.a:0 "Turmoil may be on the horizon"
+###
+fra.62.t:0 "The French demand Wallonia!"
+fra.62.d:0 "Despite our best hopes, the authoritarian regime in France has begun to look outwards with an expansionist policy. We have recieved an official diplomatic telegram from Paris outlining a list of demands, notably including the transfer of the French-speaking region of Wallonia. \n\nWallonia is an integral part of the Belgian nation, and handing it over to the French would mean practically surrendering our sovereignty to the French. However, victory is unlikely unless we are able to secure the backing of another major European power, and the British appear to be our only choice in that matter. \n\nHow should we proceed?"
+fra.62.a:0 "Alas, we are powerless."
+fra.62.b:0 "The Belgian lion stands her ground!"
+###
+fra.63.t:0 "The Belgians beg for our support!"
+fra.63.d:0 "We've recieved an urgent telegram from Brussels, it would appear the French have demanded that the Belgians give up several sovreign rights as well as the region of Wallonia. The Belgians, ever defiant and determined to remain independent, have requested that we back them both politically and militarily in the case of a French incursion into their territory. Accepting may prevent another major war in Europe from starting, but there is an equal chance of us starting a war with the French which may soon engulf the world in flames,  we must choose carefully."
+fra.63.a:0 "The Belgians have our unconditional support!"
+fra.63.b:0 "We must abandon our European allies for the time being."
+###
+fra.64.t:0 "The Belgians are stalling!"
+fra.64.d:0 "In a long-winded and needlessly verbose response, the Belgians have sent us a response in which they appear to have neither agreed to nor denied our demands, and they are clearly stalling for time. We cannot simply invade the Belgians, as we do not yet have a just cause, and we may risk an international coalition of nations reminiscent of that which brought down Napoleon I in the earth 19th Century. The British are the Belgians most likely ally, and we have no choice but to wait and see what their response is to the situation."
+fra.64.a:0 "Let's hope Albion refuses to meddle in our affairs."
+###
+fra.65.t:0 "Britain gives us their backing!"
+fra.65.d:0 "Joyous news has arrived from London, the British government has given us their full political and military backing against the French demands. While many are worried that another major European war may loom on the horizon, the French are likely to simply back down when we have the backing of an international empire at our side."
+fra.65.a:0 "We should prepare for war either way..."
+###
+fra.66.t:0 "Britain has backed the Belgians"
+fra.66.d:0 "It seems that the Belgian effort to stall us has worked, as they have somehow managed to acquire the full backing of the British Empire. This development has decisively turned the tables from our favour, and much of the government believes that a war with Britain could end disasterously with the current political situation in Europe. Backing down would make us look weak and lead to internal instability, but pressing our claim may drag us into a war in which we have no ability to win."
+fra.66.a:0 "We will face the British lion if we must"
+fra.66.b:0 "They played us like a damn fiddle!"
+###
+fra.67.t:0 "France presses their claims to Wallonia"
+fra.67.d:0 "It would appear that our new alliance with Britain was not enough to convince the wardogs in France to back down, and they have demanded the immediate transfer of Wallonia to French authority or face military action. The fate of two great empires has fallen into our lap, and it is our choice whether or not these behemoths will clash."
+fra.67.a:0 "We have British backing, we can't lose!"
+fra.67.b:0 "Wallonia isn't worth a global conflict."
+###
+fra.68.t:0 "Belgium stands defiant!"
+fra.68.d:0 "It seems the British have given the Belgians enough confidence to deny our demands, and they have left us with no other choice than to press our claims with military force. While this outcome is regretable, there is little doubt that we will be able to best both the British and Belgians on the field."
+fra.68.a:0 "The Armée Royale will not be defeated!"
+###
+fra.69.t:0 "Britain has abandoned us!"
+fra.69.d:0 "Disasterous news, the British have refused to abandon their isolationist policy and have chosen instead to abandon us in our hour of need. We have little left to stall the French with, and they are pressing us further with their territorial and military demands."
+fra.69.a:0 "Can't trust anyone these days, can you?"
+###
+fra.70.t:0 "Britain has abandoned the Belgians!"
+fra.70.d:0 "It appears the British lion wishes to sleep a little while longer, as they have refused to support the Belgians in their effort to stall the inevitable and create a potentially global conflict. Nothing lays in our path now, and we are free to enforce our demands for Wallonia once and for all."
+fra.70.a:0 "Let's finally resolve this matter"
+###
+fra.71.t:0 "The French Ultimatum"
+fra.71.d:0 "We have been abandoned by our allies, and the French have seen fit to enforce their demands upon us. French soldiers wait just across the border for the signal to attack, and we are hopelessly powerless to defeat them diplomatically. Our only hope now is to either cede Wallonia and hope for peace, or use rivers and bunkers to delay the French invasion long enough for a miracle to occur. \n\nThis next decision could dictate the course of our nation for decades to come, think carefully."
+fra.71.a:0 "We will defeat the French on the field!"
+fra.71.b:0 "We will have our revenge one day..."
+###
+fra.72.t:0 "The Belgians continue to defy us!"
+fra.72.d:0 "In a completely unexpected turn, the Belgians have decided that it is in their best interests to refuse our demands and prepare for combat. We fully expect to crush the Belgian army, and many believe we will be in Brussels by the end of the week."
+fra.72.a:0 "To war, by jingo!"
+###
+fra.5000.t:0 "France offers arms contracts!"
+fra.5000.d:0 "The French have approached our government with an offer, they are willing to hand over several factories for a period of 90 days in exchange for some of our newest military technology or a large sum of guns. Accepting this offer would be of great benifit to our industry, but should the French ever come to oppose us, we would be lowering our chances of victory against them."
+fra.5000.a:0 "We will accept their generous offer"
+fra.5000.b:0 "This is not benificial to [root.GetNameDef]"
+###
+fra.5001.t:0 ""
+fra.5001.d:0 ""
+fra.5001.a:0 ""
+###
+fra.5002.t:0 ""
+fra.5002.d:0 ""
+fra.5002.a:0 ""
+###
+fra.5003.t:0 "Successful Circumnavigation!"
+fra.5003.d:0 "After many tense months of waiting, our skilled pilot has returned to France after successfully completing a record-setting circumnavigation of the globe; The pilot needed to make only a limited number of stops for fuel and maintenance. \n\nWe have gained a great deal of prestige from this feat, and we have learned a great deal about aircraft in the process."
+fra.5003.a:0 "Wonderful news"
+###
+fra.5004.t:0 "Unsuccessful Circumnavigation!"
+fra.5004.d:0 "Bad news, it would appear that our pilot that we sent to circumnagivate the globe in a custom D.520 has not arrived at his scheduled stop at Saigon and is now several days behind schedule. It would seem that the aircraft must have suffered a mechanical failure somewhere over the pacific ocean and crashed somewhere. The odds of finding the wreckage are basically zero, and an honorary funeral has been scheduled for the pilot."
+fra.5004.a:0 "How tragic!"
+###
+fra.5005.t:0 "A foreigner from the air"
+fra.5005.d:0 "Something strange appears to have happened at one of our Jiangxi airports. In the waking hours of yesterday morning, an unidentified plane of unknown make and model appeared over the horizon before proceeding to circle the airfield several times and land. When the plane taxied off of the runway, the pilot was greeted by several garrisoned regiments all pointing their rifles at him. The man spoke a language unlike those at the airbase, and was soon identified to be of French origin. \n\nThe man explained that he was sent on a mission to circumnagivate the globe with his aircraft in as little time as possible, but he made a wrong course correction and landed here rather than Saigon where he intended to  be. Inspection of his aircraft showed that it was no longer airworthy and the engine was severely damaged from stress, but the airframe and the pilot are otherwise unharmed.\n\nThe pilot was taken to a nearby city and treated to the local food before being asked if he would like to be sent to Saigon where he could rejoin his comrades. Shockingly, the pilot declined the offer, and it seems he has taken a keen interest in our culture and country, and late in the day he asked if he could stay where he was, and join our Chinese Air Force. It seems that the pilot made his choice, and he was formally accepted into our air force as a pilot."
+fra.5005.a:0 "Give him back his aircraft too."
+fra.5005.b:0 "Dismantle his plane, we must learn its secrets."
+
+#### IDEAS ####
+
+FRA_great_war_legacy:0 "Legacy of the Great War"
+FRA_great_war_legacy_desc:0 "The Great War lasted a horrible six years and saw the death of over two million soldiers and civilians combined. This devestating war has left a scar on our nations that will take decades, if not centuries to fully heal, and the horrors of war are not forgotten on many."
+###
+FRA_somme:0 "Memories of the Somme"
+FRA_somme_desc:0 "The Battle of the Somme was one of the longest and bloodiest battles of the Great War, spanning an incredible 140 days in the Nothern section of the Somme River, the battle has caused our society to recoil in horror at the thought of such an engagement ever taking place again, and few are willing to take up arms once more in defense of the nation."
+###
+FRA_divided_military_staff:0 "Divided Military Staff"
+FRA_divided_military_staff_desc:0 "After the Great War ended, the French military staff lay divided over what policy the nation should adopt when fighting wars of the future. The majority wish to see a continuation of our fortification projects, and the end of German agression deep into French soil. However, many are calling for radical changes and adaptions in the army, realizing the effectiveness of the German Stoßtruppen in the final years of the war, and they champion a doctrine of combined mobile warfare along with support from the air."
+###
+FRA_colonial_profits:0 "Colonial Profits"
+FRA_colonial_profits_desc:0 "The French Colonial Empire covers roughly 11.5 million square kilometers across the globe, making us the second largest empire on Earth, just behind the dastardly British. The expansiveness of our empire has allowed for several economic initiatives to take place and we have been reaping the benifits for years now. The only problem with this is that the French industry has grown somewhat dependant on these colonial profits, and if they should be cut off we may be faced with an industrial crisis."
+###
+FRA_missing_funds:0 "Funds missing from the National Budget"
+FRA_missing_funds_desc:0 "The 1936 national budget has arrived, and with it another couple million Francs have dissapeared into thin air. The government has issued the creation of a Special Investigatory Council in order to track down these missing funds and give them back to the government, we must wait and see what they uncover..."
+###
+FRA_colonial_coop:0 "Colonial Cooperation"
+FRA_colonial_coop_desc:0 "Administrators in the colonies have attempted to encourage inter-colonial trading and labour division. This has led to us directly benifiting as a result."
+###
+FRA_offense_boost:0 "Promotion of Offensive Tactics"
+FRA_offense_boost_desc:0 ""
+###
+FRA_defense_boost:0 "Promotion of Defensive Tactics"
+FRA_offense_boost_desc:0 ""
+###
+FRA_defense_boost2:0 "Promotion of Defensive Tactics"
+FRA_offense_boost2_desc:0 ""
+###
+FRA_defense_boost3:0 "Promotion of Defensive Tactics"
+FRA_offense_boost3_desc:0 ""
+###
+FRA_new_officers:0 "Newly Trained Officers"
+FRA_new_officers_desc:0 "The military colleges across France have raised a new generation of officers, who are ready to face this new age of warfare."
+###
+FRA_offense_boost2:0 "Promotion of Offensive Tactics"
+FRA_offense_boost2_desc:0 ""
+###
+FRA_provisional:0 "Democracy Suspended"
+FRA_provisional_desc:0 ""
+###
+FRA_papal_good:0 "Papal Relations Restored"
+FRA_papal_good_desc:0 ""
+###
+FRA_state_news:0 "State-run Newspaper"
+FRA_state_news_desc:0 ""
+###
+FRA_strike_concede:0 "Conceded to strikers demands"
+FRA_strike_concede_desc:0 "We have given in to the demands of some disgruntled workers, going back on our own word and making our government appear weak."
+###
+FRA_strike_crush:0 "Crushed the strikers"
+FRA_strike_crush_desc:0 "The army has moved in and the strikers have been dispelled, but many across the nation are upset at such a violent reaction to the problem. This scar will take time to fully heal."
+###
+FRA_german_bad:0 "Anti-German Rhetoric"
+FRA_german_bad_desc:0 "It is clear that the German menace will be the cause of the next Great War in Europe, we must inform the people of this reality and rally them behind our justification."
+###
+FRA_royal_glory:0 "Royal Glory"
+FRA_royal_glory_desc:0 "Our Kingdom is divine, as is our king. We must restore the peoples image of our monarch to the god-like status his ancestors once held."
+###
+FRA_recruit_time:0 "Recruitment Initative"
+FRA_recruit_time_desc:0 "The government has taken measues to encourage the young generation of today to take up army and volunteer for the army, and are seeing immediete results"
+###
+FRA_royal_smart:0 "Royalist Education"
+FRA_royal_smart_desc:0 "The youth are being taught about the history of our great monarchy, and some are being encouraged to persue a field in the sciences in order to benifit our kingdom."
+###
+FRA_christ:0 "Spreading Christianity"
+FRA_christ_desc:0 ""
+###
+FRA_revised_money:0 "Revised Financial Planning"
+FRA_revised_money_desc:0 ""
+###
+FRA_christian_africa:0 "Christianization of Africa"
+FRA_christian_africa_desc:0 ""
+###
+FRA_native_rights:0 "Native Representation"
+FRA_native_rights_desc:0 ""
+###
+FRA_peoples_government:0 "The Peoples Government"
+FRA_peoples_government_desc:0 ""
+###
+FRA_new_franc:0 "Reformed Currency"
+FRA_new_franc_desc:0 ""
+###
+FRA_working_women:0 "Working Women"
+FRA_working_women_desc:0 ""
+###
+FRA_cash_back:0 "Import Tariffs and Regulations"
+FRA_cash_back_desc:0 ""
+###
+FRA_cash_back2:0 "Import Tariffs and Regulations"
+FRA_cash_back2_desc:0 ""
+###
+FRA_no_intervention:0 "Laissez-faire Economics"
+FRA_no_intervention_desc:0 ""
+###
+FRA_no_intervention_more:0 "Laissez-faire Economics"
+FRA_no_intervention_more_desc:0 ""
+###
+FRA_german_defense:0 "Patriotic Defense"
+FRA_german_defense_desc:0 ""
+###
+FRA_german_defense2:0 "Patriotic War"
+FRA_german_defense2_desc:0 ""
+###
+FRA_offensive_planning:0 "Offensive Planning"
+FRA_offensive_planning_desc:0 ""
+###
+FRA_extending_recruitment:0 "Extensive Recruitment"
+FRA_extending_recruitment_desc:0 ""
+###
+FRA_extending_recruitment_more:0 "Extensive Recruitment"
+FRA_extending_recruitment_more_desc:0 ""
+###
+FRA_extending_recruitment_even_more:0 "Extensive Recruitment"
+FRA_extending_recruitment_even_more_desc:0 ""
+###
+FRA_junta_control:0 "Military Control"
+FRA_junta_control_desc:0 "The French government has initated a coup of the democratic French government and taken direct control of the internal affairs of the country. While this has boosted their military capabilities, actual political governance has been crippled, and it seems that a peasant revolt may soon be on the horizon if things do not turn around for the nation quickly."
+###
+FRA_air_recon:0 "Aerial Reconnaissance"
+FRA_air_recon_desc:0 ""
+###
+FRA_staff:0 "French General Staff"
+FRA_staff_desc:0 ""
+###
+FRA_military_tech:0 "French Institute of Military Technology"
+FRA_military_tech_desc:0 ""
+###
+FRA_african_staff:0 "African Officers"
+FRA_african_staff_desc:0 ""
+###
+FRA_S_rhine_relief:0 "Rhinish Relief"
+FRA_S_rhine_relief_desc:0 ""
+###
+FRA_fast_as_fuck:0 "Improved Logistical Standards"
+FRA_fast_as_fuck_desc:0 ""
+###
+FRA_fastest_fuck_in_the_west:0 "Improved Reconnaissance and Logistics"
+FRA_fastest_fuck_in_the_west_desc:0 ""
+###
+FRA_spanish_lessons:0 "Lessons from the Spanish Civil War"
+FRA_spanish_lessons_desc:0 ""
+###
+FRA_armor_punch:0 "Armoured Breakthough"
+FRA_armor_punch_desc:0 ""
+###
+FRA_armor_defense:0 "Breakthrough and Defense"
+FRA_armor_defense_desc:0 ""
+###
+FRA_no_die:0 "Breakthrough, Defense, and Reinforcements"
+FRA_no_die_desc:0 ""
+###
+FRA_mechs:0 "Mechanization of the Army"
+FRA_mechs_desc:0 ""
+###
+FRA_bunker_build:0 "Bunker Construction Initiative"
+FRA_bunker_build_desc:0 ""
+###
+FRA_bunker_initiative:0 "Bunker Construction Initative"
+FRA_bunker_initiative_desc:0 ""
+###
+FRA_purge_1:0 "Officer Purge"
+FRA_purge_1_desc:0 ""
+###
+FRA_purge_2:0 "Officer Purge"
+FRA_purge_2_desc:0 ""
+###
+FRA_purge_3:0 "Officer Purge"
+FRA_purge_3_desc:0 ""
+###
+FRA_purge_4:0 "Officer Purge"
+FRA_purge_4_desc:0 ""
+###
+FRA_empire_industry:0 "Imperial Industry"
+FRA_empire_industry_desc:0 ""
+###
+FRA_moving_industry:0 "Relocation of Industry"
+FRA_moving_indystry_desc:0 ""
+###
+FRA_hidden_industry:0 "Hidden Industry"
+FRA_hidden_industry_desc:0 ""
+###
+FRA_unified_industry:0 "Unified National Industry"
+FRA_unified_industry_desc:0 ""
+###
+FRA_quality_guns:0 "Quality Weaponsmithing"
+FRA_quality_guns_desc:0 ""
+###
+FRA_rheinish_minds:0 "Rheinish Industrial Methods"
+FRA_rheinish_minds_desc:0 ""
+###
+FRA_french_minds:0 "French Industrial Methods"
+FRA_french_minds_desc:0 ""
+###
+FRA_guns_that_actually_work:0 "Reliable Weapons"
+FRA_guns_that_actually_work_desc:0 ""
+###
+FRA_cheap_guns:0 "Streamlined Gun Production"
+###
+FRA_many_more_guns:0 "Mass rifle production"
+FRA_many_more_guns_desc:0 ""
+###
+FRA_soldier_initiative:0 "Mass Mobilization Initiative"
+FRA_soldier_initiative_desc:0 ""
+###
+FRA_cadets:0 "Fund the Cadets"
+FRA_cadets_desc:0 ""
+###
+FRA_defense_master:0 "Defensive Mastery"
+FRA_defense_master_desc:0 ""
+###
+FRA_maintain_air_army_idea:0 "Maintain the Aéronautique Militaire"
+FRA_maintain_air_army_idea_desc:0 ""
+###
+FRA_create_air_army_idea:0 "Create the Armée de l'Air"
+FRA_create_air_army_idea_desc:0 ""
+###
+FRA_radio_development:0 "Air-to-Ground Radio Developments"
+FRA_radio_development_desc:0 ""
+###
+FRA_radio_development_smoke:0 "Air-to-Ground Communication Improvements"
+FRA_radio_development_smoke_desc:0 ""
+###
+FRA_flexible_fighters:0 "Flexible Fighter Tactics"
+FRA_flexible_fighters_desc:0 ""
+###
+FRA_air_school_idea:0 "Create the Armée de l'Air"
+FRA_air_school_idea_desc:0 ""
+###
+FRA_integrate_cadets_idea:0 "Create the Armée de l'Air"
+FRA_integrate_cadets_idea_desc:0 ""
+###
+FRA_full_integration:0 "Fully Integrated Airforce"
+FRA_full_integration_desc:0 ""
+###
+FRA_full_independance:0 "Fully Independent Airforce"
+FRA_full_independance_desc:0 ""
+###
+FRA_heavy_ships:0 "Contesting British Naval Supremacy"
+FRA_heavy_ships_desc:0 ""
+###
+FRA_unify_fleet:0 "Unify the Marine Nationale"
+FRA_unify_fleet_desc:0 ""
+###
+FRA_BB_rebuild:0 "Revive the Battleships"
+FRA_BB_rebuild_desc:0 ""
+###
+FRA_we_alone:0 "Consolidate the Fleet"
+FRA_we_alone_desc:0 ""
+###
+FRA_armada:0 "Undersea Armada"
+FRA_armada_desc:0 ""
+###
+FRA_fast_destroyers:0 "Fast Destroyers"
+FRA_fast_destroyers_desc:0 ""
+###
+FRA_merchant_navy:0 "Expand the Merchant Marine"
+FRA_merchant_navy_desc:0 ""
+###
+FRA_coast_def:0 "Coastal Defense"
+FRA_coast_def_desc:0 ""
+###
+FRA_combined_cadets:0 "Air-Navy Cadet Cooperation"
+FRA_combined_cadets_desc:0 ""
+###
+FRA_black_wednesday:0 "Effects of Black Wednesday"
+FRA_black_wednesday_desc:0 ""
+###
+FRA_black_wednesday2:0 "Effects of Black Wednesday"
+FRA_black_wednesday2_desc:0 ""
+###
+FRA_black_wednesday3:0 "Effects of Black Wednesday"
+FRA_black_wednesday3_desc:0 ""
+
+
+#### DECISIONS ####
+
+FRA_relocation_of_industry:0 "Relocation of Metropolitan Industry"
+###
+FRA_move_industry_loire:0 "Move Industry to the Loire"
+FRA_move_industry_loire_desc:0 "The Loire is a major river which divides France in two, placing our vulnerable industry on the far side of this river will allow us to set up defensive lines more quickly and shorten our supply lines should the Germans ever reach the river itself."
+###
+FRA_move_industry_aquitaine:0 "Move Industry to Aquitaine"
+FRA_move_industey_aquitaine_desc:0 "Aquitaine is far from the German border and seperated by mountains, forests, and rivers. Moving our factories there will take a long while, but will safeguard them from the German threat."
+###
+FRA_move_industry_rhone:0 "Move Industry to the Rhone"
+FRA_move_industry_rhone:0 "The Rhone river runs in the Southeast of France, and is one of the most defendable areas of our entire country. Moving our endangered industry to this region will ensure that they won't fall into German hands."
+###
+FRA_arms_contracts:0 "European Arms Contracts"
+###
+FRA_arms_contracts_missions:0 "European Arms Contracts"
+###
+FRA_sign_poland1:0 "Sign arms contracts with Poland"
+FRA_sign_poland1_desc:0 "The Polish are sandwiched between several different powers, all of whom want to take a bite out of their territory. As a result, the Polish state has become highly militarized and is leading the way in military technology and developments."
+###
+FRA_sign_italy1:0 "Sign arms contracts with Italy"
+FRA_sign_italy1_desc:0 "The Italian state is a relatively new player on the world stage, but their military expeditions into Africa and their harsh Alpine front during the Great War taught them many great lessons about how warfare should be conducted in a variety of enviroments."
+###
+FRA_sign_belgium1:0 "Sign arms contracts with Belgium"
+FRA_sign_belgium1_desc:0 "The Belgian proclaimation of neutrality proved not to do much when the Germans invaded their nation during the Great War, as such they have begun to militarize their state in preparation for another invasion at any time, and their defensive capabilities are unrivaled in the region."
+###
+FRA_sign_poland2:0 "Sign arms contracts with Poland"
+FRA_sign_poland2_desc:0 "The Polish are sandwiched between several different powers, all of whom want to take a bite out of their territory. As a result, the Polish state has become highly militarized and is leading the way in military technology and developments."
+###
+FRA_sign_italy2:0 "Sign arms contracts with Italy"
+FRA_sign_italy2_desc:0 "The Italian state is a relatively new player on the world stage, but their military expeditions into Africa and their harsh Alpine front during the Great War taught them many great lessons about how warfare should be conducted in a variety of enviroments."
+###
+FRA_sign_belgium2:0 "Sign arms contracts with Belgium"
+FRA_sign_belgium2_desc:0 "The Belgian proclaimation of neutrality proved not to do much when the Germans invaded their nation during the Great War, as such they have begun to militarize their state in preparation for another invasion at any time, and their defensive capabilities are unrivaled in the region."
+###
+FRA_pan_african_rails:0 "The Trans-African Railway Project"
+###
+FRA_algiers_to_dakhla:0 "Algiers to Dakhla"
+FRA_algiers_to_dakhla_desc:0 ""
+###
+FRA_dakhla_to_dakar:0 "Dakhla to Dakar"
+FRA_dakhla_to_dakar_desc:0 ""
+###
+FRA_dakar_to_porto_novo:0 "Dakar to Proto Novo"
+FRA_dakar_to_porto_novo_desc:0 ""
+###
+FRA_porto_novo_to_brazzaville:0 "Porto Novo to Brazzaville"
+FRA_porto_novo_to_brazzaville_desc:0 ""
+###
+FRA_oil_burning:0 "Scorched Earth Tactics"
+###
+FRA_oil:0 "Ignite vulnerable oil fields"
+FRA_oil_desc:0 "Despite our best efforts, the enemy has begun to encroach upon our valuable oil fields. Letting this precious resource fall into their hands would be a tragic loss, and as such we have the option to set the fields alight and burn all of the oil. This will destroy the fields in the state, and will mean that the oil resource will be lost to us should we reclaim the state where the burning took place. However, this may be the best option if we are to deny our enmies a strategic advantage and retake the initiative from them."
+###
+FRA_tech_decisions:0 "Technological Advancements"
+###
+FRA_circumnavigation:0 "Attempt an Aerial Circumnavigation"
+FRA_circumnavigation_desc:0 "The first aerial circumnavigation was acomplished in 1924 by a team of American pilots, but many years have passed since then and wartime technology has created far more powerful aircraft which are capable of circling the globe in far less time. We should attempt a circumnagivation of our own, we may learn a thing or two from it."
+###
+FRA_foreign_policy:0 "Foreign Policy"
+###
+FRA_italy_industry_coop:0 "Franco-Italian Industrial Cooperation"
+FRA_italy_industry_coop_desc:0 "The Italians are our last real ally on the European continent, as such we should increase the bonds between our nations by way of creating new factories from the workforce of both nations."
+###
+FRA_tripoli_tunisia_industry:0 "Tripoli-Tunisian Industrial Cooperation"
+FRA_tripoli_tunisia_industry_desc:0 "Tripoli and Tunisia both border each other on the North Afrian coast, developing both of these colonies will increase the power of our two empires greatly."
+###
+FRA_democratic_unity:0 "Democratic Unity"
+###
+FRA_anatolia_council:0 "Council of Anatolian Occupied Territories"
+FRA_anatolia_council_desc:0 "Large parts of Anatolia were occupied by Italy and France at the end of the Great War, and the administration of both regions has been inefficiant and unruly ever since. Creating a joint council between us and the Italians will allow us to administer the region with greater efficiancy."
+###
+FRA_italy_rhine:0 "Grant Italy Rheinish Resource Rights"
+FRA_italy_rhine_desc:0 "Italy has been starved of resources ever since their unification, as the peninsula isn't a particularly rich region. Granting a part of the Rheinish resouces to Italy will help to boost their industry"
+###
+FRA_libyan_oil:0 "Extract Libyan Oil"
+FRA_libyan_oil_desc:0 "The Libyan desert is a vast land with many resources hiding under the sand dunes. Extracting these resources will be vital in supplying our empire for years to come."
+###
+FRA_italy_navy:0 "Franco-Italian Naval Excercizes"
+###
+FRA_austria_safety:0 "Ensure Austrian Independence"
+###
+FRA_swiss_attack:0 "The Swiss Question"
+FRA_swiss_attack_desc:0 "The nation of Switzerland is made up of no less than four ethnicities, two of which being French and Italians. With the new autocratic governments ruling France and Italy, the "Swiss Question" has come up once more. Several promient members of the government are calling for the integration of Romandie into France, and even the PPF and PFNC support the idea. We will approach the Italians in order to decide the fate of Switzerland, and hopefully find a satisfying solution. \n\nThe Swiss government of course will not be invited to these talks, but why would they be?"
+###
+FRA_gabon_cameroon_rails:0 "Gabon-Cameroon Railroads"
+FRA_gabon_cameroon_rails_desc:0 "The infrastructure in Central Africa is appauling, but a combined effort between us and the Italians could improve this situation greatly."
+###
+FRA_black_monday:0 "Response to Black Monday"
+FRA_black_monday_desc:0 "The banks have closed and many companies are filing for bankruptcy. Many citizens are demanding their money in cash, and our government is being denounced in the streets. Several plans have been put forward to resolve this crisis, but we have a very limited budget to work with due to the recent economic scandal which rocked the French economic and political scene. If we do not enact these decisions quickly and get our economy back on its feet, we may be faced with something far worse than falling stock prices. \n\nFree Budget: §G[?Root.frenchBudgetAmount] million§! Francs.\nInflation: §Y[?fra_var_inflation]%§!.\nUnemployment: §R[?fra_var_unemployment]%§!."
+###
+FRA_black_protectionism:0 "Raise Tariffs"
+FRA_black_protectionism_desc:0 ""
+###
+FRA_special_tax:0 "Enact Special Tax"
+FRA_special_tax_desc:0 ""
+###
+FRA_siphon_factories:0 "Siphon Funds From Factories"
+FRA_siphon_factories_desc:0 ""
+###
+FRA_cut_mil_spending:0 "Cut Military Spending"
+FRA_cut_mil_spending_desc:0 ""
+###
+FRA_unemployment_funds:0 "Unemployment Funds"
+FRA_unemployment_funds_desc:0 ""
+###
+FRA_public_works_project:0 "Start a Public Works Project"
+FRA_public_works_project_desc:0 ""
+###
+FRA_high_interest:0 "Promote High Interest Savings Accounts"
+FRA_high_interest_desc:0 ""
+###
+FRA_siphon_colonial_funds:0 "Siphon Colonial Resources"
+FRA_siphon_colonial_funds_desc:0 "Our colonies have been devestated by the economic collapse just as we have, but they are little more than colonies. Siphoning funds from the colonial treasury will grant us a quick injection of funds, but selecting this option too many times may destabalize our colonies to the point of collapse..."
+###
+FRA_occupy_canary:0 "Occupy the Canaries"
+FRA_occupy_canary_desc:0 "The Canary Islands are a highly strategic set of islands off the coast of Morocco, presently under the control of the Spanish falangists. We cannot allow a dictatorial and authoritarian regime such as them to have control of such an important area, as such we should launch an invasion of the islands to occupy them."
+###
+FRA_occupy_border:0 "Secure our Southern border"
+FRA_occupy_border_desc:0 "The Spanish Civil War shows no sign of slowing down, and the socialists have endured the past year with strength in Barcelona. The Pyrenees mountains contain several passes which presently lie in Spanish territory, meaning that they could provide easy invasion points in case the socialists prove victorious in the war. We should conduct an operation to secure these passes and prevent a Spanish invasion from ever taking place."
+###
+FRA_eng_menace:0 "The British Menace"
+FRA_eng_menace_desc:0 "The aggressive British have shown their true face, and have pursued a staunchly anti-French foreign policy both in Europe and abroad. As English diplomats scramble to arrange alliances and treaties which aim to diminish our power, the Continential Entente watches dutifully along the coast for the royal ensign on the horizon.\n\n Of course, the best defense is a good offense, and the British will have a difficult time planning attacks against an enemy which is dynamically changing and evolving. As a result, we need to pursue our own anti-British policy and ensure that we don't see a repeat of the Hundred Years War."
+###
+FRA_penetrate_channel:0 "Penetrate the Channel"
+FRA_penetrate_channel_desc:0 "The English channel has been under British hegemony for centuries past, and any naval excercises we attempt in the channel are often met with close supervision from the British. We should send our navy into the channel and send them straight towards the cliffs of Dover, and see what the British response is."
+###
+FRA_demand_wallonia:0 "Demand Wallonia"
+FRA_demand_wallonia_desc:0 "The overwhelming majority of the population living in the Belgian region of Wallonia speaks French, and a degree of them consider themselves ethnically French. A small political ideology exists within both Belgium and France known as Rattachism, which seeks to unite Wallonia with France and integrate it as a département. The rise of our militarist, nationalist, and expansionist government has finally allowed us to justify expressing our demands upon the Belgian government. \n\n§YThe Belgian government is unlikely to accept our demand, and if they have the backing of another major European power our chances of resolving this issue peacefully are practically zero. We should ensure our military is at full capability before sending our demands.§!"
+
+#### FLAGS ####
+
+fra_missing_money:0 "The 1936 National Budget has come in..."
+###
+fra_bad_poli:0 "Our government is in shambles!"
+###
+fra_prov_bad:0 "The Military Government has decided to reform the government."
+###
+fra_nuc_dissolve_rs:0 "§YThe Radical-Socialist Party will win the overwhelming majority of the votes, and the coalition government will be effectively dissolved.§!"
+###
+fra_nuc_dissolve_dra:0 "§YThe Democratic Republican Alliance will win the overwhelming majority of the votes, and the coalition government will be effectively dissolved.§!"
+###
+fra_nuc_org:0 "The Bloc National will be reorganized and the cabinet will be shuffled in preperation for the upcoming election."
+###
+fra_nuc_begone:0 "With the dissolution of the Bloc National, the upcoming elections are sure to show some interesting results."
+###
+fra_mil_dic:0 "The French military has taken control of the French government."
+###
+fra_algiers_to_dakhla_flag:0 "Has completed the §YAlgiers to Dakhla railway.§!"
+###
+fra_dakhla_to_dakar_flag:0 "Has completed the §YDakhla to Dakar railway.§!"
+###
+fra_dakar_to_porto_novo_flag:0 "Has completed the §YDakar to Porto Novo railway.§!"
+###
+fra_porto_novo_to_brazzaville_flag:0 "Has completed the §YPorto Novo to Brazzaville railway.§!"
+###
+FRA_italy_1:0 "Has completed the §YFranco-Italian Industrial Cooperation§!"
+###
+FRA_eng1:0 "Anglo-French tensions have been raised."
+###
+FRA_channel_penetrated_flag:0 "The English Channel has been penetrated."
+
+#### TOOLTIPS ####
+
+fra_nuc_gone:0 "§RThe Bloc National will be disbanded, shaking up French politics drastically...§!"
+###
+fra_auto_bypass:0 "This focus will automatically bypass if you chose this path."
+###
+fra_nuc_good:0 "The Bloc National lives on past the scandal."
+###
+fra_nuc_bad:0 "The Bloc National has been disbanded."
+###
+fra_1936_elections:0 "The 1936 Elections have concluded."
+###
+fra_nuc_win_election:0 "The Bloc National has not been disbanded."
+###
+fra_tunis_shipments:0 "§GWe will recieve shipments of weapons and soldiers from Tunisia every few months.§!"
+###
+fra_prov_allow:0 "§GThe military government will begin reforming the government.§!"
+###
+fra_strike_warn:0 "§RWe could be pushed into conflict with the working class should they attempt an organized strike.§!"
+###
+fra_socialism_warn:0 "§RBanning the Socialist parties will force them to go underground, and they may become radicalized as a result!§!"
+###
+fra_angry_natives:0 "§RWe may face armed revolts in Algeria in the future!§!"
+###
+fra_revolution_warning:0 "§RThe people of France will be outraged by this decision, and unless the Germans are pushed out of French territory the military may attempt to take control of the government if many more Frenchmen fall in the name of a seemingly pointless conflict.§!"
+###
+fra_colonial_boys:0 "§YWe will recieve several colonial divisions in the South of France§!"
+###
+fra_gaulle_mad:0 "De Gaulle disliked that..."
+###
+FRA_Army_Reform_Enabled_tooltip:0 "Add "
+###
+fra_manual_bypass:0 "§RNote: You will have to manually bypass the focus§!"
+###
+fra_red_decisions:0 "§YA series of decisions will be unlocked in order to peacefully deal with the Workers March. \n\nIf these decisions are not completed in time, the disgruntled workers may eventually march on the capital and demand a radical regime change!§!"
+###
+fra_bloodbath:0 "§R\n\nWhat have we done...\n\n§!"
+###
+fra_industry_decisions:0 "§GUnlocks a decision to move industry to a safer location.§!"
+###
+fra_foriegn_contracts_tip:0 "§GUnlocks decisions which allow for the signing of arms contracts with various nations across Europe!§!"
+###
+fra_arms_factory_tip:0 "§YWe will gain§! §GFour§! §YFrench civilian factories for a period of§! §GNinety§! §Ydays§!"
+###
+fra_trans_african_rails:0 "§GUnlocks decisions which will allow us to construct a grand railway from Algeria to the Congo River!§!"
+###
+fra_prov_government_ready:0 "§GProvisional government and administrative buildings will be set up in Algeria, allowing for a smoother transition of power should we ever have to evacuate the mainland...§!"
+###
+fra_foreign_decisions:0 "§GUnlocks relevant foreign policy decisions.§!"
+###
+FRA_blank_tip:0 "\n\n" #fuck you and your stupid syntax pdx
+###
+fra_tree_unlocked:0 "§GA new focus tree has been unlocked§!"
+###
+FRA_100m_money_increase:0 "§G100 million§! Francs will be added to our available budget.\n"
+###
+FRA_150m_money_increase:0 "§G150 million§! Francs will be added to our available budget.\n"
+###
+FRA_200m_money_increase:0 "§G200 million§! Francs will be added to our available budget.\n"
+###
+FRA_400m_money_decrease:0 "§R400 million§! Francs will be subtracted from our available budget.\n"
+###
+FRA_650m_money_decrease:0 "§R650 million§! Francs will be subtracted from our available budget.\n"
+###
+FRA_1_inflation_increase:0 "Inflation will increase by §Y1%§!.\n"
+###
+FRA_2_inflation_increase:0 "Inflation will increase by §Y2%§!.\n"
+###
+FRA_3_inflation_increase:0 "Inflation will increase by §Y3%§!.\n"
+###
+FRA_5_inflation_decrease:0 "Inflation will decrease by §Y5%§!.\n"
+###
+FRA_1_unemployment_decrease:0 "Unemployment will decrease by §G1%§!.\n"
+###
+FRA_2_unemployment_decrease:0 "Unemployment will decrease by §G2%§!.\n"
+###
+fra_cede_wallonia:0 "§RThe regions of Wallonia and Bastogne will be ceded to France in order to maintain peace.§!"
+###
+fra_dont_cede_wallonia:0 "§YWe will attempt to diplomatically stall the French as long as we can as we reach out to the British.§!"
+
+#### OPINION MODIFIERS ####
+
+FRA_Outraged:0 "Outraged"
+###
+FRA_anti_anglo:0 "Anti-English foreign policy"
+###
+FRA_channel_penetrated:0 "Penetrated the English Channel"
+
+#### THREAT NAMES ####
+
+FRA_canary_occupied:0 "Occupation of the Canary Islands"
+###
+FRA_border_occupied:0 "Occupation of the Pyrenees mountain passes"
+###
+FRA_wallonia_occupied:0 "Annexation of Wallonia"
 
 FRA_vanguardist_party:0 "UC" #Révolutionnaires
 FRA_vanguardist_party_long:0 "집산주의 연맹"
