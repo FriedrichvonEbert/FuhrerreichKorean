@@ -13,29 +13,29 @@ SCW_partisans_monarchy_2_desc:0 "에스트레마두라 지방의 사람들은 �
 SCW_partisans_popular_front_1:0 "발렌시아에서의 저항"
 SCW_partisans_popular_front_1_desc:0 "발렌시아 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_popular_front_2:0 "아르곤에서의 저항"
-SCW_partisans_popular_front_2_desc:0 "아르곤 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
+SCW_partisans_popular_front_2:0 "아라곤에서의 저항"
+SCW_partisans_popular_front_2_desc:0 "아라곤 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
 SCW_partisans_republic_1:0 "라만차에서의 저항"
 SCW_partisans_republic_1_desc:0 "라만차 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_republic_2:0 "카스티유에서의 저항"
-SCW_partisans_republic_2_desc:0 "카스티유 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
+SCW_partisans_republic_2:0 "카스티야에서의 저항"
+SCW_partisans_republic_2_desc:0 "카스티야 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
-SCW_partisans_falangists_1:0 "레옹에서의 저항"
-SCW_partisans_falangists_1_desc:0 "레옹 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
+SCW_partisans_falangists_1:0 "레온에서의 저항"
+SCW_partisans_falangists_1_desc:0 "레온 지방의 사람들은 이 지역의 점령자들에게 완전히 만족하고 있지않습니다. 어쩌면 그들에게 우리가 더 나을것이라는걸 확신시킬수있지않을까요?"
 
 #Tooltips
 SCW_uprising:0 "이 지역에서 이미 봉기가 일어났습니다"
 SCW_SPM_partisan_granada_tooltip:0 "파르티잔 사단이 그라나다에서 봉기할것입니다\n"
-SCW_SPM_partisan_jaen_tooltip:0 "파르티잔 사단이 장에서 봉기할것입니다\n"
+SCW_SPM_partisan_jaen_tooltip:0 "파르티잔 사단이 하엔에서 봉기할것입니다\n"
 SCW_SPM_partisan_extremadura_tooltip:0 "두개의 파르티잔 사단이 에스트레마두라에서 봉기할것입니다\n"
 SCW_SPA_partisan_valencia_tooltip:0 "파르티잔 사단이 발렌시아에서 봉기할것입니다\n"
 SCW_SPA_partisan_murica_tooltip:0 "파르티잔 사단이 무르시아에서 봉기할것입니다\n"
-SCW_SPA_partisan_aragon_tooltip:0 "두개의 파르티잔 사단이 아르곤에서 봉기할것입니다\n"
+SCW_SPA_partisan_aragon_tooltip:0 "두개의 파르티잔 사단이 아라곤에서 봉기할것입니다\n"
 SCW_SPR_partisan_la_mancha_tooltip:0 "두개의 파르티잔 사단이 라만차에서 봉기할것입니다/n"
-SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티유에서 봉기할것입니다"
-SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레옹에서 봉기할것입니다"
+SCW_SPR_partisan_castille_tooltip:0 "두개의 파르티잔 사단이 카스티야에서 봉기할것입니다"
+SCW_SPR_partisan_leon_tooltip:0 "두개의 파르티잔 사단이 레온에서 봉기할것입니다"
 
 #Ideas
 SCW_idea:0 "스페인 내전"
