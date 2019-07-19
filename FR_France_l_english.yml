@@ -21,30 +21,30 @@ continental_entente_research_desc:0 "협상국 연구협회는 프랑스가 이�
 #### Political Parties ####
 
 FRA_vanguardist_party:0 "PFNC"
-FRA_vanguardist_party_long:0 "Parti français national-collectiviste"
+FRA_vanguardist_party_long:0 "프랑스 국가집산당"
 FRA_collectivist_party:0 "PCF"
-FRA_collectivist_party_long:0 "Parti communiste français"
-FRA_libertarian_socialist_party:0 "Anarchistes"
-FRA_libertarian_socialist_party_long:0 "Mouvement anarchiste français"
+FRA_collectivist_party_long:0 "프랑스 공산당"
+FRA_libertarian_socialist_party:0 "무정부주의자들"
+FRA_libertarian_socialist_party_long:0 "프랑스 무정부주의운동"
 FRA_social_democrat_party:0 "SFIO"
-FRA_social_democrat_party_long:0 "Section Française de l'Internationale Ouvrière"
+FRA_social_democrat_party_long:0 "노동자 인터내셔널 프랑스 지부"
 FRA_social_liberal_party:0 "PR"
-FRA_social_liberal_party_long:0 "Parti républicain, radical et radical-socialiste"
+FRA_social_liberal_party_long:0 "공화당, 급진사회주의파"
 FRA_market_liberal_party:0 "AD"
-FRA_market_liberal_party_long:0 "Alliance Démocratique" 
+FRA_market_liberal_party_long:0 "민주동맹" 
 FRA_social_conservative_party:0 "FR"
-FRA_social_conservative_party_long:0 "Fédération Républicaine"
+FRA_social_conservative_party_long:0 "공화연맹"
 FRA_authoritarian_democrat_party:0 "PSF"
-FRA_authoritarian_democrat_party_long:0 "Parti Social Français"
-FRA_paternal_autocrat_party:0 "Military Junta"
-FRA_paternal_autocrat_party_long:0 "Military Junta"
+FRA_authoritarian_democrat_party_long:0 "프랑스 사회당"
+FRA_paternal_autocrat_party:0 "군사 정부"
+FRA_paternal_autocrat_party_long:0 "군사 정부"
 FRA_national_populist_party:0 "PPF"
-FRA_national_populist_party_long:0 "Parti Populaire Français"
+FRA_national_populist_party_long:0 "프랑스 민중당"
 FRA_valkist_party:0 "SF"
 FRA_valkist_party_long:0 "Solidarité Française"
 
 #### TRAITS ####
-cia:0 "Head of the CIA"
+cia:0 "CIA의 총수"
 hothead:0 "소인"
 marshal_of_france:0 "프랑스 육군원수"
 
@@ -77,32 +77,32 @@ FRA_grant_autonomy:0 "Granted Autonomy"
 
 #### FOCUS ####
 
-fra_invest_budget:0 "Investigation of the National Budget"
-fra_invest_budget_desc:0 "The national budgets from 1933-1935 have come up short several million Francs of what they were anticipated to be. A full investigation of the budget will hopefully discover the source of these missing funds and allow us to adjust for the expenses accordingly."
+fra_invest_budget:0 "국가 예산 조사"
+fra_invest_budget_desc:0 "정해진 것과는 달리, 1933년-1935년의 국가예산 중 수백만 달러가 부족한 상태입니다. 예산들에 대한 대규모 조사를 펼친다면, 아마 이 사라진 예산들을 찾아 원래 쓰여야 하는 곳에 투입할 수 있게 될 것입니다."
 ###
 fra_invest_army:0 "Investigation of the Army"
 fra_invest_army_desc:0 "The initial report of the national budget has proven ineffective, and we must dig deeper in order to find the source of this leak and plug it."
 ###
-fra_promote_defense:0 "The Best Offense..."
-fra_promote_defense_desc:0 "If the Great War taught us anything, it's that nothing can defeat a flawless defensive doctrine. If we are to survive the next major European war, we must be able to replicate this success with impunity as to minimize French deaths."
+fra_promote_defense:0 "최고의 공격은..."
+fra_promote_defense_desc:0 "대전쟁이 우리에게 남긴 교훈이 있다면, 그건 아마 그 무엇도 완벽한 방어를 깨트릴 순 없다는 것일 겁니다. 만약 우리가 다음 전쟁에서도 살아남고자 한다면, 우린 이 '완벽한 방어'를 재현하여, 인명손실을 최소한으로 줄일 수 있도록 해야만 합니다."
 ###
 fra_fort_research:0 "Experimental Fortification Research"
-fra_fort_research_desc:0 "The French countryside is a great place to test new styles of forts and see which ones preform better under certain conditions. When these tests are done we will be able to find the most efficiant and effective system for stopping the enemy in their tracks."
+fra_fort_research_desc:0 "프랑스의 시골 지역은 새 방어시설들을 시험하여 특정 조건 하에서는 어떤 방어시설이 더 좋은지를 알아보기에 그야말로 완벽한 장소입니다. 이 시험들을 마치고 나면, 우린 어떤 방어시설이 적을 가장 잘 막을 수 있을지 알 수 있게 될 것입니다."
 ###
 fra_allocate_fort_funds:0 "Allocate funds to the Calais-Metz Line"
 fra_allocate_fort_funds_desc:0 "Our weakness in the Great War was the Belgian border and the terrible natural defenses in the Pas De Calais. A string of fortifications stretching from the coastline to Metz will deter the Germans from invading through the same route they used some 20 years ago."
 ###
-fra_good_defense:0 "...Is a perfect defense"
-fra_good_defense_desc:0 "With our defensive projects completed, we have turned the entirety of France into one huge bunker. No enemy would ever dare attack us now!"
+fra_good_defense:0 "...바로 완벽한 방어다"
+fra_good_defense_desc:0 "우리의 방어 계획들이 완료되었으니, 이제 프랑스는 일종의 거대한 요새가 된 셈입니다. 그 누구도 감히 프랑스를 공격하지 못 할 것입니다!"
 ###
 fra_promote_offense:0 "Out with the Old..."
 fra_promote_offense_desc:0 "The offensives of 1918-1919 have shown that simply staying in a defensive stance will never win a war on it's own. A large-scale offensive is needed in order to capitulate the enemy, and we need to be able to perfect this art if we are to emulate the victory we saw at the end of the Great War."
 ###
-fra_fund_military_uni:0 "Fund Military Colleges"
-fra_fund_military_uni_desc:0 "In order to win a war, a nation needs a full roster of competant generals who have been trained in the arts of modern warfare. Funding military colleges throughout metropolitan France will allow us to train new officers and fufill this need."
+fra_fund_military_uni:0 "군사대학 자금 지원"
+fra_fund_military_uni_desc:0 "전쟁에서 승리하려면, 어떤 국가든지간에 현대전을 잘 알고 있는 훌륭한 장군들이 필요한 법입니다. 우리가 프랑스 본토 곳곳에 있는 군사대학들에게 자금을 제공한다면, 새 장교들을 훈련시켜 이런 훌륭한 장군을 양성할 수 있을 것입니다."
 ###
-fra_modern_doctrine:0 "A Modern Doctrine"
-fra_modern_doctrine_desc:0 "We have decided that the defensive doctrine which has served us in the last war is no longer good enough for a modern army. It's about time we chose a new direction."
+fra_modern_doctrine:0 "현대적인 교리"
+fra_modern_doctrine_desc:0 "저번 전쟁에서 사용했던 '방어 교리'는 이제 현대식 군대엔 알맞지 않다는 것이 결정됐으므로, 이제 새로운 교리를 결정해야 할 때입니다."
 ###
 fra_in_new:0 "...In with the new"
 fra_in_new_desc:0 "Our doctrine has been revived, our army modernized, and our generals fresh. Our military is able to take on the threats of the new world, wherever they may be."
