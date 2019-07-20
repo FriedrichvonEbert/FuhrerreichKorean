@@ -138,7 +138,7 @@ fra_soclib_win:0 "The Parti Radical"
 fra_soclib_win_desc:0 "Promoting secularism, moderate social reform, and the promotion of private industry, the PR is seen by many French voters as a middle-of-the-road party that manages to satisfy the needs of both the conservatives and socialists. This moderate party platform has secured many voters, but has also scared many into believing that in attempting to satisfy all parties, they will end up satisfying none."
 ###
 fra_soccon_win:0 "공화연맹의 승리"
-fra_soccon_win_desc:0 "The Great War shook French politics and society to its very core, and a wave of conservative support in the wake of the devestation led to the rise of the Bloc National as well as the Fédération Républicaine's dominance over the coalition. With the financial scandal, the Fédération Républicaine has seen fit to do away with bipartisanism and instead run independantly. This decision has led them to win the recent election."
+fra_soccon_win_desc:0 "대전쟁은 프랑스의 정치와 사회를 완전히 뒤흔들어 놓았으며, 대전쟁의 참상은 보수주의에 대한 대규모 지지를 일으켰고, 이에 따라 공화연맹이 주도하는 국가블록이 집권하게 되었습니다. 최근 있었던 예산 스캔들로 인해 공화연맹은 다른 당과 협력하는 대신 독자적 노선을 걷기로 결정했으며, 이 덕분에 공화연맹은 이번 총선에서 승리하게 되었습니다. "
 ###
 fra_nuc_win:0 "The Bloc National"
 fra_nuc_win_desc:0 "Against all odds, the National Bloc National has managed to pull ahead of the financial scandal which unfolded within their very own party, and have managed to win the election by a hair. Onlookers gaze with curious eyes to see which policies will be enacted, and which side of the political spectrum the coalition will drift towards in the next four years."
@@ -263,7 +263,7 @@ fra_land_grants_desc:0 "France is a vast nation with many tracts of unused virgi
 fra_women_working:0 "Women in the Workforce"
 fra_women_working_desc:0 "For too long have women been locked out of this nations industry and development, instead being relegated to maintaining the home. Giving women the same opportunities as men in the workforce will not only make us look better, but increase our popularity."
 ###
-fra_womens_vote:0 "Womens Sufferage"
+fra_womens_vote:0 "여성의 투표권"
 fra_womens_vote_desc:0 "The radical dream of womens sufferage has become a rising issue in French politics in the past few years, and it has reached a point where the issue can no longer simply be ignored. Granting women the vote will undoubtedly increase our popularity, but we must remember that not all women will vote for us, and this has the chance of creating further political divisions in the government."
 ###
 fra_liberal_success:0 "Liberal Success"
@@ -296,7 +296,7 @@ fra_no_german_desc:0 "The French people enduring an unbelievable amount of suffe
 fra_on_the_attack:0 "On the Offensive"
 fra_on_the_attack_desc:0 "The defensive stage of this war is finally over, and we are encroaching on German territory with great ferocity and speed. We must ensure our military command is geared for what may be the deadliest and hardest phase of this war thus far."
 ###
-fra_march_to_berlin:0 "The March to Berlin"
+fra_march_to_berlin:0 "베를린으로의 진군"
 fra_march_to_berlin_desc:0 "The Reich is on the back foot, and our victories across the front are numerous. The war in Europe is rapidly drawing to a close; and the faster we reach Berlin, the faster our boys can go back home."
 ###
 fra_triumph:0 "Triumph in Berlin"
