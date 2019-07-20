@@ -80,8 +80,8 @@ FRA_grant_autonomy:0 "Granted Autonomy"
 fra_invest_budget:0 "국가 예산 조사"
 fra_invest_budget_desc:0 "정해진 것과는 달리, 1933년-1935년의 국가예산 중 수백만 달러가 부족한 상태입니다. 예산들에 대한 대규모 조사를 펼친다면, 아마 이 사라진 예산들을 찾아 원래 쓰여야 하는 곳에 투입할 수 있게 될 것입니다."
 ###
-fra_invest_army:0 "Investigation of the Army"
-fra_invest_army_desc:0 "The initial report of the national budget has proven ineffective, and we must dig deeper in order to find the source of this leak and plug it."
+fra_invest_army:0 "군대 조사"
+fra_invest_army_desc:0 "국가 예산에 대한 조사는 아직 성과를 거두지 못하고 있음으로, 따라서 우리는 사라진 예산을 찾아, 이를 정해진 곳에 투입하기 위해선 국가예산에 대한 조사를 좀 더 심층적으로 진행해야만 할 것입니다."
 ###
 fra_promote_defense:0 "최고의 공격은..."
 fra_promote_defense_desc:0 "대전쟁이 우리에게 남긴 교훈이 있다면, 그건 아마 그 무엇도 완벽한 방어를 깨트릴 순 없다는 것일 겁니다. 만약 우리가 다음 전쟁에서도 살아남고자 한다면, 우린 이 '완벽한 방어'를 재현하여, 인명손실을 최소한으로 줄일 수 있도록 해야만 합니다."
@@ -89,23 +89,23 @@ fra_promote_defense_desc:0 "대전쟁이 우리에게 남긴 교훈이 있다면
 fra_fort_research:0 "Experimental Fortification Research"
 fra_fort_research_desc:0 "프랑스의 시골 지역은 새 방어시설들을 시험하여 특정 조건 하에서는 어떤 방어시설이 더 좋은지를 알아보기에 그야말로 완벽한 장소입니다. 이 시험들을 마치고 나면, 우린 어떤 방어시설이 적을 가장 잘 막을 수 있을지 알 수 있게 될 것입니다."
 ###
-fra_allocate_fort_funds:0 "Allocate funds to the Calais-Metz Line"
-fra_allocate_fort_funds_desc:0 "Our weakness in the Great War was the Belgian border and the terrible natural defenses in the Pas De Calais. A string of fortifications stretching from the coastline to Metz will deter the Germans from invading through the same route they used some 20 years ago."
+fra_allocate_fort_funds:0 "칼레-메츠 방어선 구축"
+fra_allocate_fort_funds_desc:0 "우리가 대전쟁에서 마른 강까지 밀렸던 이유에는, 벨기에 국경지대와 파 드 칼레의 지형이 방어에는 알맞지 않았던 것도 있습니다. 칼레의 해안가에서부터 메츠 시까지 이어지는 방어선을 구축한다면, 20년 전과 똑같은 방향으로 침공해오는 독일군을 막아낼 수 있을 것입니다."
 ###
 fra_good_defense:0 "...바로 완벽한 방어다"
 fra_good_defense_desc:0 "우리의 방어 계획들이 완료되었으니, 이제 프랑스는 일종의 거대한 요새가 된 셈입니다. 그 누구도 감히 프랑스를 공격하지 못 할 것입니다!"
 ###
 fra_promote_offense:0 "Out with the Old..."
-fra_promote_offense_desc:0 "The offensives of 1918-1919 have shown that simply staying in a defensive stance will never win a war on it's own. A large-scale offensive is needed in order to capitulate the enemy, and we need to be able to perfect this art if we are to emulate the victory we saw at the end of the Great War."
+fra_promote_offense_desc:0 "우리가 1918년-1919년 동안 펼쳤던 공세들은, 단순히 방어만 한다고 해서 승리를 거둘 수는 없다는 것을 보여주었습니다. 적을 쓰러트리기 위해서는 대규모 공세가 필요하며, 그러므로 우리가 대전쟁에서 이뤄냈던 승리를 다음 전쟁에서도 이뤄내려면, 이 '대규모 공세'라는 것을 완벽하게 만들어야만 할 것입니다."
 ###
 fra_fund_military_uni:0 "군사대학 자금 지원"
 fra_fund_military_uni_desc:0 "전쟁에서 승리하려면, 어떤 국가든지간에 현대전을 잘 알고 있는 훌륭한 장군들이 필요한 법입니다. 우리가 프랑스 본토 곳곳에 있는 군사대학들에게 자금을 제공한다면, 새 장교들을 훈련시켜 이런 훌륭한 장군을 양성할 수 있을 것입니다."
 ###
 fra_modern_doctrine:0 "현대적인 교리"
-fra_modern_doctrine_desc:0 "저번 전쟁에서 사용했던 '방어 교리'는 이제 현대식 군대엔 알맞지 않다는 것이 결정됐으므로, 이제 새로운 교리를 결정해야 할 때입니다."
+fra_modern_doctrine_desc:0 "저번 전쟁에서 쓰였던 '방어 교리'는 이제 현대식 군대엔 알맞지 않다는 것이 결정됐으므로, 이제 새로운 교리를 결정해야 할 때입니다."
 ###
 fra_in_new:0 "...In with the new"
-fra_in_new_desc:0 "Our doctrine has been revived, our army modernized, and our generals fresh. Our military is able to take on the threats of the new world, wherever they may be."
+fra_in_new_desc:0 "군 교리는 새로워졌고, 군대는 현대화되었으며, 새 장교들은 복무할 준비를 마쳤으니, 이제 우리 군대는 이 새로운 세계의 위협을 물리칠 준비가 되었습니다. 그 위협이 무엇이든지 간에 말이지요."
 ###
 fra_invest_ic:0 "Investigation of the Capitalists"
 fra_invest_ic_desc:0 "The capitalists have long reigned without restrictions or supervision in France, it's about time we payed them a visit and asked them if they know anything about the shortage of funds."
@@ -128,8 +128,8 @@ fra_prov_govt_desc:0 "The sitting government is clearly unable to deal with the 
 fra_nuc_alive:0 "The Bloc National survives"
 fra_nuc_alive_desc:0 "The trial of the eleven forced a shakeup in the French government, and the Bloc National has come out of it stronger than ever. Now we are ready to face the new decade with renewed vigour and determination to lead Franc further to greatness."
 ###
-fra_1936_election:0 "The 1936 election"
-fra_1936_election_desc:0 "With the financial scandal finally behind us, the government is ready to begin the 1936 elections which were originally slated for early March."
+fra_1936_election:0 "1936년도 총선"
+fra_1936_election_desc:0 "마침내 경제 스캔들 문제가 해결되었으니, 이제는 원래 3월 초반에 예정되어 있었던 1936년도 총선을 시작할 때입니다."
 ###
 fra_socdem_win:0 "The SFIO"
 fra_socdem_win_desc:0 "Following the rapid decline of the Bloc National, the Section française de l'Internationale ouvrière has won the 1936 election. The party aims to universally increase rights and living standards not only for the male population, but the females and subjects of the Republic in the colonies. This radical approach is sure to shake up the French social sphere, and we will have to see what comes of these sweeping reforms."
@@ -152,8 +152,8 @@ fra_africa_missionary_desc:0 "In order to consolidate metropolitan France, we mu
 fra_more_jobs:0 "Promote Industrial Opertunities"
 fra_more_jobs_desc:0 "Our industry is beginning to fall behind that of the British and German nations, injecting funds and clearing land will give our industry the room to grow that it so desperatly needs."
 ###
-fra_extend_healthcare:0 "Extended Healthcare"
-fra_extend_healthcare_desc:0 "Despite being a civilized and Western colonial power, our healthcare system is extremely outdated and bloated. Modernizing this system will allow us to heal our citizens and soldiers alike with greater efficiancy."
+fra_extend_healthcare:0 "확장된 의료복지체계"
+fra_extend_healthcare_desc:0 "우리가 식민지까지 가진 강대국이기는 하지만, 우리의 의료복지체계는 낡고, 썩어있는 상태입니다. 의료복지체계를 현대화한다면, 우린 우리의 시민과 병사들을 더 효율적으로 치료할 수 있게 될 것입니다."
 ###
 fra_revise_finance:0 "Revise the financial plans"
 fra_revise_finance_desc:0 "The 1936 Financial Scandal rocked France to its very core, and we are in desperate need of radical reorganization if we are to continue governing the nation effectively."
