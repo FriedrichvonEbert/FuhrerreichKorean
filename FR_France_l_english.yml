@@ -81,7 +81,7 @@ fra_invest_budget:0 "국가 예산 조사"
 fra_invest_budget_desc:0 "정해진 것과는 달리, 1933년-1935년의 국가예산 중 수백만 달러가 부족한 상태입니다. 예산들에 대한 대규모 조사를 펼친다면, 아마 이 사라진 예산들을 찾아 원래 쓰여야 하는 곳에 투입할 수 있게 될 것입니다."
 ###
 fra_invest_army:0 "군대 조사"
-fra_invest_army_desc:0 "국가 예산에 대한 조사는 아직 성과를 거두지 못하고 있음으로, 따라서 우리는 사라진 예산을 찾아, 이를 정해진 곳에 투입하기 위해선 국가예산에 대한 조사를 좀 더 심층적으로 진행해야만 할 것입니다."
+fra_invest_army_desc:0 "국가 예산에 대한 조사는 아직 성과를 거두지 못하고 있으므로, 따라서 우리는 사라진 예산을 찾아, 이를 정해진 곳에 투입하기 위해선 국가예산에 대한 조사를 좀 더 심층적으로 진행해야만 할 것입니다."
 ###
 fra_promote_defense:0 "최고의 공격은..."
 fra_promote_defense_desc:0 "대전쟁이 우리에게 남긴 교훈이 있다면, 그건 아마 그 무엇도 완벽한 방어를 깨트릴 순 없다는 것일 겁니다. 만약 우리가 다음 전쟁에서도 살아남고자 한다면, 우린 이 '완벽한 방어'를 재현하여, 인명손실을 최소한으로 줄일 수 있도록 해야만 합니다."
@@ -95,7 +95,7 @@ fra_allocate_fort_funds_desc:0 "우리가 대전쟁에서 마른 강까지 밀�
 fra_good_defense:0 "...바로 완벽한 방어다"
 fra_good_defense_desc:0 "우리의 방어 계획들이 완료되었으니, 이제 프랑스는 일종의 거대한 요새가 된 셈입니다. 그 누구도 감히 프랑스를 공격하지 못 할 것입니다!"
 ###
-fra_promote_offense:0 "Out with the Old..."
+fra_promote_offense:0 "새 술은..."
 fra_promote_offense_desc:0 "우리가 1918년-1919년 동안 펼쳤던 공세들은, 단순히 방어만 한다고 해서 승리를 거둘 수는 없다는 것을 보여주었습니다. 적을 쓰러트리기 위해서는 대규모 공세가 필요하며, 그러므로 우리가 대전쟁에서 이뤄냈던 승리를 다음 전쟁에서도 이뤄내려면, 이 '대규모 공세'라는 것을 완벽하게 만들어야만 할 것입니다."
 ###
 fra_fund_military_uni:0 "군사대학 자금 지원"
@@ -104,19 +104,19 @@ fra_fund_military_uni_desc:0 "전쟁에서 승리하려면, 어떤 국가든지�
 fra_modern_doctrine:0 "현대적인 교리"
 fra_modern_doctrine_desc:0 "저번 전쟁에서 쓰였던 '방어 교리'는 이제 현대식 군대엔 알맞지 않다는 것이 결정됐으므로, 이제 새로운 교리를 결정해야 할 때입니다."
 ###
-fra_in_new:0 "...In with the new"
+fra_in_new:0 "...새 부대에"
 fra_in_new_desc:0 "군 교리는 새로워졌고, 군대는 현대화되었으며, 새 장교들은 복무할 준비를 마쳤으니, 이제 우리 군대는 이 새로운 세계의 위협을 물리칠 준비가 되었습니다. 그 위협이 무엇이든지 간에 말이지요."
 ###
-fra_invest_ic:0 "Investigation of the Capitalists"
-fra_invest_ic_desc:0 "The capitalists have long reigned without restrictions or supervision in France, it's about time we payed them a visit and asked them if they know anything about the shortage of funds."
+fra_invest_ic:0 "자본가 조사"
+fra_invest_ic_desc:0 "프랑스 자본가들은 여태까지 아무런 규제나 감독 없이 사업을 해왔으니, 이제 이 자본가들이 예산 부족에 대해 알고 있는 것이 있는지 한번 물어볼 때입니다."
 ###
-fra_give_land:0 "Redistribute Siezed Land"
-fra_give_land_desc:0 "During the investigation of the capitalists, hundreds of acres of delapidated and illegally owned land were siezed and handed over to temporary government control with the intent of granting it back when available. It would appear that the time has now come, and several wealthy individuals have approchaed us in Normandy and Aquitaine with the intent to purchase this land from us."
+fra_give_land:0 "압류된 토지 재분배"
+fra_give_land_desc:0 "자본가들을 조사하던 도중, 정부는 자본가들이 불법적으로 소유하고 있던 수백 에이커의 버려진 토지를 압류하게 되었었고, 이후 때가 되면 사회에 반환하기로 했었는데, 아무래도 그 때가 온 것 같습니다. 여러 부유한 지주들이 노르망디와 아퀴텐의 압류된 토지들을 구매하겠다는 의사를 표해왔습니다."
 ###
 fra_invest_government:0 "Investigation of the Government"
 fra_invest_government_desc:0 "The investigations of both the capitalists and the army have proven fruitless, and the only place left to look is the government itself. While some members are opposed to such brazen action, the majority agree that it must be done to prove our innocence in the scandal. After the government invesgitation is over we can move to smaller ministries which may be siphoning funds on a smaller scale."
 ###
-fra_the_trial:0 "Trial of the Eleven"
+fra_the_trial:0 "11인의 재판"
 fra_the_trial_desc:0 "The financial scandal has developed into a full-blown crisis, and we have been forced to put eleven members of our very own government in front of a special court in order to determine the severity of their punishment. The Bloc National will be shaken forever by the end of this trial, but what remains to be seen is whether the coalition will be able to survive..."
 ###
 fra_nuc_dead:0 "The Bloc National disbanded"
@@ -129,15 +129,15 @@ fra_nuc_alive:0 "The Bloc National survives"
 fra_nuc_alive_desc:0 "The trial of the eleven forced a shakeup in the French government, and the Bloc National has come out of it stronger than ever. Now we are ready to face the new decade with renewed vigour and determination to lead Franc further to greatness."
 ###
 fra_1936_election:0 "1936년도 총선"
-fra_1936_election_desc:0 "마침내 경제 스캔들 문제가 해결되었으니, 이제는 원래 3월 초반에 예정되어 있었던 1936년도 총선을 시작할 때입니다."
+fra_1936_election_desc:0 "마침내 예산 스캔들 문제가 해결되었으니, 이제는 원래 3월 초반에 예정되어 있었던 1936년도 총선을 시작할 때입니다."
 ###
-fra_socdem_win:0 "The SFIO"
+fra_socdem_win:0 "SFIO의 승리"
 fra_socdem_win_desc:0 "Following the rapid decline of the Bloc National, the Section française de l'Internationale ouvrière has won the 1936 election. The party aims to universally increase rights and living standards not only for the male population, but the females and subjects of the Republic in the colonies. This radical approach is sure to shake up the French social sphere, and we will have to see what comes of these sweeping reforms."
 ###
 fra_soclib_win:0 "The Parti Radical"
 fra_soclib_win_desc:0 "Promoting secularism, moderate social reform, and the promotion of private industry, the PR is seen by many French voters as a middle-of-the-road party that manages to satisfy the needs of both the conservatives and socialists. This moderate party platform has secured many voters, but has also scared many into believing that in attempting to satisfy all parties, they will end up satisfying none."
 ###
-fra_soccon_win:0 "The Fédération Républicaine"
+fra_soccon_win:0 "공화연맹의 승리"
 fra_soccon_win_desc:0 "The Great War shook French politics and society to its very core, and a wave of conservative support in the wake of the devestation led to the rise of the Bloc National as well as the Fédération Républicaine's dominance over the coalition. With the financial scandal, the Fédération Républicaine has seen fit to do away with bipartisanism and instead run independantly. This decision has led them to win the recent election."
 ###
 fra_nuc_win:0 "The Bloc National"
@@ -173,11 +173,11 @@ fra_taming_tunisia_desc:0 "The Tunisian protectorate has always been underdevelo
 fra_algeria_adventure:0 "Adventures in Algeria"
 fra_algeria_adventure_desc:0 "The Algerian desert may be impassible, but there is a stretch of land South of the coastline which is fertile and practically begging to be developed. Exploiting this land could allow us to expand our industry into areas where our enemies will never be able to reach."
 ###
-fra_prov_election:0 "Death of the Republic"
+fra_prov_election:0 "공화국의 죽음"
 fra_prov_election_desc:0 "The French Third Republic has proven itself woefully incapable of handling the troubled political climate that the 20th Century has brought, and many believe that the time for radical change has come. A complete restructuring of the constitution will bring about a new era of French politics and prosperity."
 ###
-fra_af_control:0 "AF in Control"
-fra_af_control_desc:0 "With the provisional elections at an end, the Action Française has been democratically elected and the balance of power in the French political sphere has changed dramatically. We must reorganize the parliament in an equally dramatic measure to ensure a smooth transition of power."
+fra_af_control:0 "AF의 집권"
+fra_af_control_desc:0 "공정하게 치러졌던 총선이 끝나고, 악시옹 프랑세즈가 민주적으로 집권하게 되었으며, 동시에 프랑스의 정치판 또한 대국적으로 뒤바뀌었습니다. 우린 부드러운 정권 교체를 위해, 의회 또한 대국적으로 재조직해야만 할 것입니다."
 ###
 fra_papal_love:0 "Papal Reconciliation"
 fra_papal_love_desc:0 "The Republic has long sought to distance itself from the Pope, and since the days of the revolution the seperation of church and state has been one of the defining aspects of our nation. This period of hostility will come to an end with the new regime, and our relationship with Rome will be restored to its former pride."
@@ -191,8 +191,8 @@ fra_party_news_desc:0 "From the founding of our party at the turn of the Century
 fra_restore_chin:0 "Restoration of the Monarchy"
 fra_restore_chin_desc:0 "With the support of the Pope, the people, and the military, it's time to invite the exiled Orléanist prince to take the French throne. The Republican experiment will be ended once and for all, and the divine monarchy will reign supreme!"
 ###
-fra_illegal_strikes:0 "Revoke the legality of Strikes"
-fra_illegal_strikes_desc:0 "France has had a history of industrial workers going on strike whenever they feel their every demand is not met in full, and our government has always caved into them. No more will this be the case, we will not give in to any more of their socialist demands."
+fra_illegal_strikes:0 "파업 불법화"
+fra_illegal_strikes_desc:0 "프랑스의 노동자들은, 옛날부터 자신들의 요구가 완전히 충족되지 않으면 항상 파업을 해 왔었으며, 정부는 항상 그들의 요구에 순응했었습니다. 그렇지만 이제는 아닙니다. 우리는 이제 더이상 그들의 '사회주의적'인 요구를 들어주지 않을 것입니다."
 ###
 fra_german_menace:0 "The German Menace"
 fra_german_menace_desc:0 "German aggression has been rising steadily for years now, and we can no longer sit idly by while the war machine across the Rhine continues to turn. Spreading the word of German agression to our people will ensure victory in the battles to come."
