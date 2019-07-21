@@ -132,7 +132,7 @@ fra_1936_election:0 "1936년도 총선"
 fra_1936_election_desc:0 "마침내 예산 스캔들 문제가 해결되었으니, 이제는 원래 3월 초반에 예정되어 있었던 1936년도 총선을 시작할 때입니다."
 ###
 fra_socdem_win:0 "SFIO의 승리"
-fra_socdem_win_desc:0 "Following the rapid decline of the Bloc National, the Section française de l'Internationale ouvrière has won the 1936 election. The party aims to universally increase rights and living standards not only for the male population, but the females and subjects of the Republic in the colonies. This radical approach is sure to shake up the French social sphere, and we will have to see what comes of these sweeping reforms."
+fra_socdem_win_desc:0 "국가블록의 지지율이 대폭 하락하면서, 국제 인터내셔널 프랑스 지부가 1936년도 총선에서 승리하게 되었습니다. SFIO는 남성뿐만이 아니라 여성과 식민지인들의 권리와 생활수준 또한 전체적으로 높이는 것을 목표로 하고 있는데, SFIO의 이러한 급진적인 시도는 대규모 개혁과, 프랑스 사회의 크나큰 변화 또한 가져올 것으로 보입니다."
 ###
 fra_soclib_win:0 "The Parti Radical"
 fra_soclib_win_desc:0 "Promoting secularism, moderate social reform, and the promotion of private industry, the PR is seen by many French voters as a middle-of-the-road party that manages to satisfy the needs of both the conservatives and socialists. This moderate party platform has secured many voters, but has also scared many into believing that in attempting to satisfy all parties, they will end up satisfying none."
@@ -236,8 +236,8 @@ fra_demolish_republic_desc:0 "Spectres of the Republic still hang over the daily
 fra_colonial_rights:0 "Native Representation in the colonies"
 fra_colonial_rights_desc:0 "The French colonial administration has been run almost exclusively by those born and raised in metropolitan France. Allowing the native population to partake in colonial administration will increase the stability and security of our overseas holdings."
 ###
-fra_social_patriotism:0 "Socialist Patriotism"
-fra_social_patriotism_desc:0 "After years of corrupt and weak government, a party for the people has finally been elected to power in France. The people cheer our rule and excitedly await the reforms and bills we intend to pass."
+fra_social_patriotism:0 "사회주의적 애국주의"
+fra_social_patriotism_desc:0 "부패하고, 약한 정부는 이제 가고, 민중을 위한 당이 마침내 집권하게 되었습니다. 사람들은 우리의 집권을 지지하고 있으며, 우리가 만드려는 법안과 개혁들을 즐겁게 기다리고 있습니다."
 ###
 fra_peoples_govt:0 "A Government for the People"
 fra_peoples_govt_desc:0 "As per the intention of the original French revolution, the government will serve the people to their needs and desires. We will create a haven for the oppressed peoples of Europe and usher in a new age of civil stability and consumerism."
@@ -248,8 +248,8 @@ fra_regulate_franc_desc:0 "The financial scandal in our nation proved how instab
 fra_safe_rhine:0 "Safeguard our interests in the Rhine"
 fra_safe_rhine_desc:0 "French control of the Rhineland has proven to be of great economic benifit, but it has also come with great risk; armed revolt and invervention from Germany loom over us as a persistant and constant threat. The construction of some basic fortifications should suffice for the time being while we organize a more planned defense."
 ###
-fra_fight_religion:0 "A War on Religion"
-fra_fight_religion_desc:0 "Church and State have been seperated for over three decades now, yet religion still holds dear in the hearts of many citizens. We need to work diligantly to fully seperate religion from the lives of French citizens if we are to advance socially as a nation."
+fra_fight_religion:0 "종교와의 전쟁"
+fra_fight_religion_desc:0 "종교와 국가가 공식적으로 분리된 지 벌써 30년이 넘었지만, 여전히 종교는 여러 국민들에게 있어 중요한 존재로서 남아 있습니다. 만약 우리가 완전한 국가로 진보하고자 한다면, 우리는 국민들의 삶과 종교를 분리하기 위해 부지런히 노력해야만 할 것입니다."
 ###
 fra_communes:0 "Promote Social Communes"
 fra_communes_desc:0 "Social Communes are groups of citizens which look after each other and help each other through hard times, promoting the extension and formalization of these groups will help us crush unemployment and poverty, and consiquently increasing our popularity."
@@ -293,11 +293,11 @@ fra_rhine_martial_law_desc:0 "The Rhinish state is in chaos with fighting taking
 fra_no_german:0 "Not a single Stahlhelm on French soil!"
 fra_no_german_desc:0 "The French people enduring an unbelievable amount of suffering during the first Great War, North-East France was permenantly scarred from the battles that took place. We must ensure that the barbaric Germans lay not a single step on our soil, lest they tarnish what unmolested territory we have left."
 ###
-fra_on_the_attack:0 "On the Offensive"
+fra_on_the_attack:0 "공격 개시"
 fra_on_the_attack_desc:0 "The defensive stage of this war is finally over, and we are encroaching on German territory with great ferocity and speed. We must ensure our military command is geared for what may be the deadliest and hardest phase of this war thus far."
 ###
 fra_march_to_berlin:0 "베를린으로의 진군"
-fra_march_to_berlin_desc:0 "The Reich is on the back foot, and our victories across the front are numerous. The war in Europe is rapidly drawing to a close; and the faster we reach Berlin, the faster our boys can go back home."
+fra_march_to_berlin_desc:0 "독일군은 점차 밀려나고 있으며, 우린 최전선에서 수많은 승리를 거두고 있습니다. 전쟁은 이제 막바지에 다다른 상태이며, 그리고 우리가 베를린을 더 빨리 점령할수록, 우리 병사들도 더 빨리 집으로 돌아갈 수 있을 것입니다."
 ###
 fra_triumph:0 "Triumph in Berlin"
 fra_triumph_desc:0 "We have come out victorious in the Second Great War, and the German Reich once more stands defeated under our iron boot. The city of Berlin is a place of celebration for the occupying powers, and looting has been reported across the city. We should organize an official military parade through the Brandenburg Gate in order to show the world of our superiority."
@@ -323,8 +323,8 @@ fra_general_staff_desc:0 "The German General Staff has proven a deadly tool in w
 fra_integrate_colony_army:0 "Integrate Colonial Divisions"
 fra_integrate_colony_army_desc:0 "The French colonies have trained their divisions in tactics unfamiliar to the European powers, and as such they may be an effective fighting force on the frontline in the next war. Borrowing some colonial divisions will show us whether or not this is true."
 ###
-fra_mas_40:0 "The MAS 40"
-fra_mas_40_desc:0 "The development of new weapons is a crucial part of winning wars, and new technological developments have given us the oppertunity to create a truly modern weapon, the MAS-40. Finishing up research and production of this rifle should be one of our top priorities."
+fra_mas_40:0 "MAS-40"
+fra_mas_40_desc:0 "새 무기를 개발하는 것은 전쟁의 승리에 있어 매우 중요한 것인데, 우린 최근 있었던 기술 개발 덕분에 진짜 '현대 무기'를 만들어낼 수 있었습니다, 바로 MAS-40이죠. 우리는 이 소총의 연구를 끝내고, 생산을 시작하는 것을 최우선 목표로 삼아야만 할 것입니다."
 ###
 fra_mil_institute:0 "French Institute of Military Technology"
 fra_mil_institute_desc:0 "We need to develop new ways of fighting on land, air, and sea, if we are to stay ahead of our enemies and achieve victory on all aspects of battle."
@@ -410,7 +410,7 @@ fra_industry_aquitaine_desc:0 ""
 fra_industry_rhone:0 "To the Rhone"
 fra_industry_rhone_desc:0 ""
 ###
-fra_hydro_electric:0 "Hydroelectric Research"
+fra_hydro_electric:0 "수력발전 연구"
 fra_hydro_electric_desc:0 "France is a nation of many flowing rivers, and recent technological developments into harnessing the amazing power of these rivers have opened up many doors to us. If we can extrapolate these developments and harness the power of water fully, we will be able to advance our research initatives by a large degree."
 ###
 fra_disperse_industry:0 "Disperse Industry"
@@ -446,7 +446,7 @@ fra_quality_control_desc:0 "Once the rifle leaves the factory, it needs to be ex
 fra_lower_costs:0 "Streamline Weapon Production"
 fra_lower_costs_desc:0 "Our current methods of producing weapons are complicated, slow,and  inefficiant; streamlining this will allow us to increase production of rifles and artillery pieces dramatically."
 ###
-fra_mas_contracts:0 "Contracts With MAS"
+fra_mas_contracts:0 "MAS와의 계약"
 fra_mas_contracts_desc:0 "The Manufacture d'armes de Saint-Étienne, or MAS, is a state-owned manufacturing company based in the town of Saint-Étienne. Signing arms contracts will allow us to develop better and more modern rifles."
 ###
 fra_women_army:0 "Women in the Army"
