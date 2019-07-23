@@ -27,7 +27,7 @@ ITA_national_populist_party_long:0 "Associazione Nazionalista Italiana"
 ITA_valkist_party:0 "FISN"
 ITA_valkist_party_long:0 "Fasci Italiani del Sindacalismo Nazionale"
 
-##### Ideas ####
+#### Ideas ####
 
 ITA_umberto_ii:0 "Victor Emmanuel III"
 ITA_umberto_ii_desc:0 "The "Soldier King" reminds the Italians of their recent victories in the Great War. His presence and their loyalty to him is a great source of unity for many people in Italy but a growing republican movement, coming from both the Far Right and the Left, may undermine this core figure of Italian nationhood."
@@ -428,7 +428,7 @@ ITA_abyssinia_issue_desc:0 "Abyssinia for decades has been a colonial goal for I
 ITA_tripoli_car_club:0 "Tripoli Grand Prix"
 ITA_tripoli_car_club_desc:0 "Motor racing is a highly popular sport in Italy. To help promote tourism and investment in Libya it has been suggested that we fund the creation of the Tripoli Grand Prix, an attraction that thousands across the world will flock to experience."
 ITA_sponsor_settlements:0 "Sponsor Italian Settlements"
-ITA_sponsor_settlements_desc:0 "The rate of Italian settlement in Libya has never matched government expectations. If we wish to assimilate this region we must sponsor and subsidies the creation of new Italian settlements in the region."
+ITA_sponsor_settlements_desc:0 "The rate of Italian settlement in Libya has never matched government expectations. If we wish to assimilate this region we must sponsor and subsidies the creation of new Italian settlements in the region. The time has come to integrate the 4th shore into Italy properly."
 ITA_deport_cyrenaicans:0 "Deport Cyrenaicans"
 ITA_deport_cyrenaicans_desc:0 "The people of Cyrenaica were the largest supporters of the Senussi Order's guerrilla campaign in Libya. Many of them may still secretly hold pro-independence sympathies. We must deport and divide this community so they can never again organize against Italian rule."
 ITA_panfilla_issue:0 "The Sale of Panfilia"
@@ -1269,13 +1269,13 @@ ita.183.d:0 "Italy as a naval power requires certain strategic bases to fully be
 ita.183.a:0 "We can allow this for now"
 ita.183.b:0 "We will not bend to Italy's every demand"
 #
-ita.184.t:0 "[From.GetName] refuses to hand over [177.GetName]"
-ita.184.d:0 "Despite the fact that both our states seek to expel the foreign influence of Britain from the Mediterranean, [From.GetName] has refused to hand over control of [177.GetName]. We will now be forced to tackle our enemies from bases situated far away within Italy itself."
-ita.184.a:0 "Damn them"
+ita.184.t:0 "[From.GetName] agrees to hand over [177.GetName]"
+ita.184.d:0 "Seeing the strategic value of the Italian Navy, [From.GetName] has agreed to transfer control of [177.GetName] to our country. With this western base our two nations will be able to easily tackle the British in Gibraltar if such a need arises."
+ita.184.a:0 "A wise choice"
 #
-ita.185.t:0 "[From.GetName] agrees to hand over [177.GetName]"
-ita.185.d:0 "Seeing the strategic value of the Italian Navy, [From.GetName] has agreed to transfer control of [177.GetName] to our country. With this western base our two nations will be able to easily tackle the British in Gibraltar if such a need arises."
-ita.185.a:0 "A wise choice"
+ita.185.t:0 "[From.GetName] refuses to hand over [177.GetName]"
+ita.185.d:0 "Despite the fact that both our states seek to expel the foreign influence of Britain from the Mediterranean, [From.GetName] has refused to hand over control of [177.GetName]. We will now be forced to tackle our enemies from bases situated far away within Italy itself."
+ita.185.a:0 "Damn them"
 #
 ita.186.t:0 "Who shall we offer the lease of [768.GetName] to?"
 ita.186.d:0 "Italy holds a very enviable strategic position in the central Mediterranean. From Italian bases our navy can strike nearly anywhere within the Mediterranean, a fact that many of our neighbors are well aware of. To help raise funds for the state some liberal Italian ministers have suggested that we could lease some of our naval bases a foreign power. [768.GetName] is a good candidate for this since it lies within squarely within the Western Mediterranean, a dense shipping region. While leasing this port would help generate much needed funds it has yet to be decided to whom we would offer this lease too. Many Great Powers would surely be more than happy to take us up on this offer."
@@ -2437,12 +2437,11 @@ ITA_commie_coup:0 "Communist coup in Italy"
 ITA_libyan_war:0 "War in Libya"
 
 ### foreign relations ### 
-# add_opinion_modifier = { target = ITA modifier = ITA_electhreaten_us }
 
 ITA_elecsupport_france:0 "Pro-France electoral results"
 ITA_elecsupport_ussr:0 "Pro-Soviet electoral results"
 ITA_elecsupport_ussrlight:0 "Pro-Soviet electoral results"
-ITA_elecanti_usa:0 "Anti-American electoral results"
+ITA_electhreaten_us:0 "Anti-American electoral results"
 ITA_no_compromise_from_france:0 "France declined territorial conference with Italy"
 ITA_no_compromise_from_france_light:0 "France declined territorial conference with Italy"
 ITA_expelled_by_france:0 "France has expelled Italy from [FRA.GetFactionName]"
@@ -2492,7 +2491,6 @@ ITA_france_supports_king:0 "France gives refuge to Victor Emmanuel"
 ITA_sov_friend:0 "Italo-Soviet Friendship Pact"
 ITA_ger_friend:0 "Italo-German Labor Agreement"
 
-
 ### Flags ###
 
 ITA_con_ppi:0 "PPI leans to the Right"
@@ -2532,7 +2530,7 @@ ITA_purge_syndies_tip:0 "A random state under §RSyndicalist Control§! will ret
 ITA_austria_guarantee_tip:0 "§RIf Austria is annexed or becomes a puppet of The [GER.GetName] relations with The [ITA.GetName] will greatly sour.§!\n\n"
 ITA_french_colonies_tip:0 "§GWill unlock decisions to build up anti-French defenses in Africa§!"
 ITA_british_consessions_tip:0 "§RIf Italy accepts this offer we will surrender all our basses in the Mediterranean to them§!"
-ITA_british_colonies_tip:0 "§GWill unlock decisions to build up anti-British defenses in Africa§!"
+ITA_british_colonies_tip:0 "§GWill unlock on map decisions to build up anti-British defenses in Africa§!"
 ITA_french_exercise_tip:0 "§GWill unlock decisions to cooperate with the French to improve each other's military§!"
 ITA_british_exercise_tip:0 "§GWill unlock decisions to cooperate with the British to improve each other's military§!"
 ITA_pressure_decolonization:0 "§GWill unlock decisions to weaken Europe's control over Africa§!"
@@ -2556,7 +2554,7 @@ ITA_ethiopia_border_tip:0 "Must own at least one state in §YEast Africa§!"
 
 ### World News ###
 itanews.20.t:0 "[ITA.GetRulingParty] have won the [GetYear] Italian election"
-itanews.20.d:0 "The [GetYear] Italian elections are sure to go down as one of the most important in the nation's history. Political infighting within the Partito Popolare Italiano and rising popularity of radical ideological factions were destined to shake up the Italian political landscape like never before but despite all of this, The [ITA.GetRulingParty] have won an electoral majority brining [ITA.GetRulingIdeologyNoun] to power in Italy."
+itanews.20.d:0 "[This.GetNewspaperHeader]The [GetYear] Italian elections are sure to go down as one of the most important in the nation's history. Political infighting within the Partito Popolare Italiano and rising popularity of radical ideological factions were destined to shake up the Italian political landscape like never before but despite all of this, The [ITA.GetRulingParty] have won an electoral majority brining [ITA.GetRulingIdeologyNoun] to power in Italy."
 itanews.20.a:0 "Interesting"
 ### Research ###
 latin_committee_name:0 "The Latin Research Committee"
