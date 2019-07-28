@@ -227,10 +227,10 @@ fra_colonial_rights:0 "Native Representation in the colonies"
 fra_colonial_rights_desc:0 "The French colonial administration has been run almost exclusively by those born and raised in metropolitan France. Allowing the native population to partake in colonial administration will increase the stability and security of our overseas holdings."
 ###
 fra_social_patriotism:0 "사회주의적 애국주의"
-fra_social_patriotism_desc:0 "부패하고, 약한 정부는 이제 가고, 민중을 위한 당이 마침내 집권하게 되었습니다. 사람들은 우리의 집권을 지지하고 있으며, 우리가 만드려는 법안과 개혁들을 즐겁게 기다리고 있습니다."
+fra_social_patriotism_desc:0 "부패하고 약한 정부는 이제 가고, 민중을 위하는 당이 마침내 집권했습니다. 사람들은 우리의 집권을 지지하고 있으며, 우리가 만드려는 법안과 개혁들을 즐겁게 기다리고 있습니다."
 ###
-fra_peoples_govt:0 "A Government for the People"
-fra_peoples_govt_desc:0 "As per the intention of the original French revolution, the government will serve the people to their needs and desires. We will create a haven for the oppressed peoples of Europe and usher in a new age of civil stability and consumerism."
+fra_peoples_govt:0 "민중을 위한 정부"
+fra_peoples_govt_desc:0 "프랑스 혁명가들이 바랬던 것처럼, 정부는 이제 민중이 바라는 것과, 필요로 하는 것만을 위해 존재하게 될 것입니다. 우린 탄압받는 유럽 사람들을 위한 피난처가 될 것이며, 다가오는 격동의 시대를 이끄는 국가가 될 것입니다."
 ###
 fra_regulate_franc:0 "Regulating the Franc"
 fra_regulate_franc_desc:0 "The financial scandal in our nation proved how instable currency can be, and drastic measures must be taken in order to stabalize the Franc and ensure economic prosperity."
@@ -265,11 +265,11 @@ fra_reverse_cash_drain_desc:0 "France has long been importing more goods than sh
 fra_gold_flow:0 "The Gold Must Flow!"
 fra_gold_flow_desc:0 "Spreading wealth to the people will allow them to make larger purchases, and continue the economic cycle which has kept our nation afloat through the global economic downturn of the 1920s."
 ###
-fra_intervention_economics:0 "Laissez-faire Economics"
-fra_intervention_economics_desc:0 "Any self-sustaining economy needs no government intervention whatsoever in order to survive, however many people may disagree. Government intervention will only ruin our economy and cause all of the progress we've made to be erased."
+fra_intervention_economics:0 "자유방임 경제"
+fra_intervention_economics_desc:0 "많은 사람들이 반대하는 설이지만, 자급자족할 수 있는 경제가 살아남으려면, 정부의 개입은 전무해야 한다는 것이 정설입니다. 우리가 만약 경제에 개입한다면, 경제는 오히려 더 나빠질 것이며, 여태까지 성장해왔던 경제는 하루아침에 사라지고 말 것입니다."
 ###
-fra_decentralize_economy:0 "Decentralize the Economy"
-fra_decentralize_economy_desc:0 "Further government control of the economy has proven time and again to show nothing but negative results, so the only logical conclusion is to fully decentralize and relinquish control of the economy, letting economic trends have their way."
+fra_decentralize_economy:0 "경제 분권화"
+fra_decentralize_economy_desc:0 "정부의 경제개입이 오히려 경제에 악영향을 끼친다는 것이 또다시 확인됐으므로,우린 경제를 완전히 분산화시키고, 정부의 개입을 차단하여, 경제가 알아서 돌아가도록 해야만 할 것입니다."
 ###
 fra_unshakable_economics:0 "Unshakable Economics"
 fra_unshakable_economics_desc:0 "We have managed to bring the French economy back from the brink of collapse, and have forged a new economic system which will undoubtedly stand the test of time against war, famine, disease, and anything else the world has to throw at us."
@@ -297,9 +297,9 @@ fra_loosen_conscription_desc:0 "The German menace is encroaching on our territor
 ###
 fra_even_lower_soldiers:0 "Further Loosen Conscription"
 fra_even_lower_soldiers_desc:0 "The Germans march closer to Paris by the day, and the situation grows more desperate by the day. We need to give guns to everyone who can fire one in order to save our country from a repeat of the Franco-Prussian war."
-###
-fra_desperate_defense:0 "The Old and Decrepit"
-fra_desperate_defense_desc:0 "The final days of France draw near, now not even the elderly and the infirm are free from conscription into the army. If it breaths and speaks French, we must put a gun in its hands."
+###                      
+fra_desperate_defense:0 "늙고 병들었더라도"
+fra_desperate_defense_desc:0 "프랑스의 마지막이 점차 다가오고 있으니, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 만약 살아있는 프랑스인이라면, 누구든 총을 들어야만 합니다."
 ###
 fra_ground_eyes:0 "Eyes on the Ground..."
 fra_ground_eyes_desc:0 "To fight a war blind is to commit yourself to certain defeat, we need to know where our enemies are at all times if we want to achieve victory in this new age of fast and mobile warfare where every second counts."
@@ -364,11 +364,11 @@ fra_reinforcements_desc:0 "A faster army means that we will be able to reinforce
 fra_mechanize_army:0 "Mechanizing the Army"
 fra_mechanize_army_desc:0 "Our motorized project is complete, and we have seen great success across the board. New developments with experimental half-tracks have shown even greater potential, and clearly the way to military success is with full mechanization of the army."
 ###
-fra_hold_line:0 "Hold the Line"
-fra_hold_line_desc:0 "If the Great War taught us anything, it's that preventing the Germans from reaching our industrial heartland is the only way to prevent the complete annihalation of our state. Holding the enemy back at the front line will allow us to gather strength and push them back to where they came from!"
+fra_hold_line:0 "전선을 사수하라"
+fra_hold_line_desc:0 " 대전쟁이 우리에게 남긴 교훈이 있다면, 그건 국가의 멸망을 막으려면 독일군이 절대 우리 산업 중심지를 건드리지 못하게 해야만 한다는 것입니다. 일단 적군을 최전선에서 막아낼 수만 있다면, 병력을 모아 적을 충분히 몰아낼 수 있을 것입니다!"
 ###
-fra_trench_bunker:0 "Trenches to Bunkers"
-fra_trench_bunker_desc:0 "Many of the fortified trench systems that were built during the Great War were placed in exceptionally defensable and tactically valuable areas, converting these areas to forts and bunkers will deter and invading force which tries to attack us through Calais."
+fra_trench_bunker:0 "참호를 요새로"
+fra_trench_bunker_desc:0 "대전쟁 도중 건설된 여러 요새화된 참호선들은 대부분 방어하기 매우 편리하면서도 전술적으로 중요한 곳에 지어졌습니다. 이런 참호선들을 요새와 엄폐호들로 전환한다면, 칼레 방향으로 쳐들어오는 적을 더 쉽게 막아낼 수 있을 것입니다."
 ###
 fra_fort_alsace:0 "Fortify Alsace"
 fra_fort_alsace_desc:0 "Our most vunerable border is by far the one we share with Germany. While the river Rhine provides some form of natural defense, wouldn't it be better if we were able to cut down the enemy attempting to ford the river with machine gun fire and artillery barrages?"
