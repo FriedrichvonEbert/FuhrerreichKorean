@@ -133,11 +133,11 @@ fra_soccon_win_desc:0 "대전쟁은 프랑스의 정치와 사회를 완전히 �
 fra_nuc_win:0 "The Bloc National"
 fra_nuc_win_desc:0 "Against all odds, the National Bloc National has managed to pull ahead of the financial scandal which unfolded within their very own party, and have managed to win the election by a hair. Onlookers gaze with curious eyes to see which policies will be enacted, and which side of the political spectrum the coalition will drift towards in the next four years."
 ###
-fra_algeria_rights:0 "Native Algerian Rights"
-fra_algeria_rights_desc:0 "The African population in Algeria has been living in Metropolitan France ever since the conquest of the Algerian coastline in the 1870s, and yet they do not enjoy the same personal rights that the Frenchmen living there do. If we are to ever stop the violent uprisings and protests in the region, we must be ready to give these natives the same rights and privilages as the French."
+fra_algeria_rights:0 "알제리인들의 권리"
+fra_algeria_rights_desc:0 "알제리인들은 우리가 1870년대 알제리의 해안선을 정복했을때부터 이미 프랑스 본토로 이주해왔으나, 하지만 알제리인들의 권리는 여전히 프랑스인들보다 못한 수준입니다. 알제리인들의 시위와 폭동을 멈추려면, 우린 알제리인들에게 프랑스인들과 똑같은 권리와 특권을 보장해줘야만 할 것입니다."
 ###
 fra_africa_missionary:0 "Missionaries in Africa"
-fra_africa_missionary_desc:0 "In order to consolidate metropolitan France, we must convert the natives of Algeria to Catholicism. This will not be an easy process, and we may face armed resistance if we go through with this plan; however, it must be done in order to strenghen our position."
+fra_africa_missionary_desc:0 "프랑스 본토를 완전히 통솔하고자 한다면, 우린 알제리인들을 카톨릭교로 개종시켜야만 합니다. 이는 어려운 일일 것이며, 어쩌면 알제리인들이 무장봉기를 일으킬지도 모르지만, 우리의 힘을 강하게 하기 위해선 필요한 일입니다."
 ###
 fra_more_jobs:0 "Promote Industrial Opertunities"
 fra_more_jobs_desc:0 "Our industry is beginning to fall behind that of the British and German nations, injecting funds and clearing land will give our industry the room to grow that it so desperatly needs."
@@ -148,7 +148,7 @@ fra_extend_healthcare_desc:0 "우리가 식민지까지 가진 강대국이기�
 fra_revise_finance:0 "Revise the financial plans"
 fra_revise_finance_desc:0 "The 1936 Financial Scandal rocked France to its very core, and we are in desperate need of radical reorganization if we are to continue governing the nation effectively."
 ###
-fra_business_subsidy:0 "Business Subsidies"
+fra_business_subsidy:0 "사업 보조금"
 fra_business_subsidy_desc:0 "The capitalists have been struggling to reorganize and recoup their losses after the investigation, and have requested subsidies in order to construct new factories across France and get the nations industry back on its feet."
 ###
 fra_unified_govt:0 "A Unified Government"
