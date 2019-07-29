@@ -25,7 +25,7 @@ HUN_market_liberal_party_long:0 "독립과 48년당"
 HUN_social_conservative_party:0 "KNP"
 HUN_social_conservative_party_long:0 "기독교 국민당"
 HUN_authoritarian_democrat_party:0 "FKgP"
-HUN_authoritarian_democrat_party_long:0 "독립소작동 농업노동자시민당"
+HUN_authoritarian_democrat_party_long:0 "독립소작농 농업노동자시민당"
 HUN_paternal_autocrat_party:0 "MNEP"
 HUN_paternal_autocrat_party_long:0 "헝가리 국민통합당"
 HUN_national_populist_party:0 "화살십자당"
@@ -59,8 +59,8 @@ hun_est_bist_desc:0 "보안 기관인 '비즈톤샤그'는 우리 비밀 경찰�
 hun_venge:0 "불타오르는 복수심"
 hun_venge_desc:0 "우리는 모든 국민이 공동의 명분 앞에 하나로 모아 곧 있음 일어날 위대한 원정에 준비시켜야 합니다."
 ###
-hun_demand_alfold:0 "알폴드 반환 요구"
-hun_demand_alfold_desc:0 "알폴드는 헝가리인으로 가득합니다. 그 땅은 루마니아에게 정치적으로나 경제적으로나 짐만 될 뿐입니다. 알폴드 반환을 요구하는 순간 그 땅은 올바른 지도자에게 돌아와야 할 것입니다."
+hun_demand_alfold:0 "알푈드 반환 요구"
+hun_demand_alfold_desc:0 "알푈드는 헝가리인으로 가득합니다. 그 땅은 루마니아에게 정치적으로나 경제적으로나 짐만 될 뿐입니다. 알폴드 반환을 요구하는 순간 그 땅은 올바른 지도자에게 돌아와야 할 것입니다."
 ###
 hun_demand_transylvania:0 "트란실바니아냐 전쟁이냐"
 hun_demand_transylvania_desc:0 "트란실바니아는 헝가리의 필연적인 부분입니다. 루마니아가 그곳을 점령하면서 많은 헝가리계 소수 민족들이 큰 고통을 겪고 있습니다. 우리는 트란실바니아를 적법한 주인에게 돌려줄 것인지, 아니면 부쿠레슈티가 불타 없어져도 되는지 물어볼 것입니다."
@@ -77,98 +77,98 @@ hun_entrench_party_desc:0 "우리가 헝가리를 통치한 건 4년 정도이�
 hun_economic_boost:0 "경제 성장 촉진"
 hun_economic_boost_desc:0 "대전쟁의 종결 이후로 헝가리 경제는 완전히 침체기이거나 비교적 불경기인 상황 사이를 맴돌고 있습니다. 우리는 더 많은 공장을 지어서 경제 성장에 박차를 가해 이 막대한 빚과 인플레이션에서 벗어나야 합니다."
 ###
-hun_focus_civ:0 "Civilian Industry Focus민간 산업 중점"
-hun_focus_civ_desc:0 "We cannot neglect the civilian industrial sector, and the war machine cannot continue to roll forward without a strong backbone in the nations heartland. The construction of additional civilian factories will allow us to produce more factories and goods, further increasing our economy."
+hun_focus_civ:0 "민간 산업 중점"
+hun_focus_civ_desc:0 "우리는 민간 산업을 등한시할 수 없습니다. 군수 생산은 국가의 중심부의 단단한 기반 없이 돌아가지 않습니다. 민간 공장을 더 지어 더 많은 공장과 제품을 생산하고, 나아가 경제 성장에 이룩할 것입니다."
 ###
-hun_focus_mil:0 "Military Industry Focus군수 산업 "
-hun_focus_mil_dsc:0 "The Hungarian military will need all the help it can get in producing more equipment to fight our wars. Neglecting our military sector would be a complete strategic error, and one that we cannot afford to make."
+hun_focus_mil:0 "군수 산업 중점"
+hun_focus_mil_dsc:0 "헝가리 군대는 전쟁에서 싸우기 위해 보다 많은 장비가 필요할 것입니다. 우리의 군대를 무시하는 건 전략적 실책이 될 것이고, 그건 즉 우리의 실패로 이어집니다."
 ###
-hun_end_republic:0 "End the Republic공화국의 끝"
-hun_end_republic_desc:0 "We have finally gathered enough popular support to declare the Republic dead, and end any traces of democracy left in the country. The new Hungarian State will rise from the ashes of the Republic, and we will spring forth unto the world with great fury."
+hun_end_republic:0 "공화국의 끝"
+hun_end_republic_desc:0 "마침내 우리는 충분한 대중의 지지를 얻었고 공화국의 종결을 선언하고 국가에 남은 민주주의의 흔적들을 모조리 없앨 수 있게 되었습니다. 공화국의 잔해 속에서 새로운 헝가리가 탄생하고, 우리는 거대한 분노와 함께 세계로 뻗어나갈 것입니다."
 ###
-hun_state_as_one:0 "The State As One하나의 국가"
+hun_state_as_one:0 "하나의 국가"
 hun_state_as_one_desc:0 ""
 ###
-hun_join_stahlpakt:0 "Join Stahlpakt강철조약 가입"
-hun_join_stahlpakt_desc:0 "Our foreign policy nicely matches up with Germany's. An alliance between our nation would help secure our place as one of the great powers in a post war Europe."
+hun_join_stahlpakt:0 "강철조약 가입"
+hun_join_stahlpakt_desc:0 "우리의 대외 정책은 독일의 정책과 잘 맞아떨어집니다. 나라 간의 동맹은 우리를 전후 유럽의 열강의 자리로 이끌 것입니다."
 ###
-hun_collab_with_iron_guard:0 "Collaboration With The Iron Guard철위대와의 합작"
-hun_collab_with_iron_guard_desc:0 "The political situation in Romania may now be advantageous to us. It seems that the Iron Guard faction of Romania will be willing to work with us if we extend the first olive branch."
+hun_collab_with_iron_guard:0 "철위대와의 합작"
+hun_collab_with_iron_guard_desc:0 "루마니아의 정치 상황이 이제 우리에게 유리하게 흘러갈지도 모릅니다. 우리가 먼저 화해를 청한다면 루마니아의 철위대 세력은 우리와 함께해 줄 것으로 보입니다."
 ###
-hun_carpathian_agreement:0 "The Carpathian Agreement카르파디아 협정"
-hun_carpathian_agreement_desc:0 "To secure a long term alliance with the Romanians, longstanding disputes must be settled. The return of Alfold will heal the wounds between our two nations"
+hun_carpathian_agreement:0 "카르파디아 협정"
+hun_carpathian_agreement_desc:0 "루마니아와의 긴 동맹을 보장하기 위해 오랜 갈등은 반드시 해결되야 합니다. 알푈드를 돌려받는다면 두 국가 간의 상처는 아물 것입니다."
 ###
-hun_autarky:0 "Autarky경제 자립 정책"
-hun_autarky_desc:0 "Relying on foreign trade to keep our economy afloat will lead to complete subjugation by the major European powers. We must show the world that we can be entirely self-sufficiant, even when placed under economic sanctions or when the enemy is on our doorstep."
+hun_autarky:0 "경제 자립책"
+hun_autarky_desc:0 "우리가 어떻게든 파산을 면하려고 해외 무역에 의지하고만 있으면 유럽의 열강에 완전히 지배당하게 될 것입니다. 우리는 경제 제재하에 있거나 적이 바로 코앞에 있어도 자립할 수 있다는 걸 세계에게 보여 줘야 합니다."
 ###
-hun_trianon_begone:0 "Renounce the Treaty of Trianon트리아농 조약 번복"
-hun_trianon_begone_desc:0 "With our military and economy built back up to sufficiant levels, we can finally declare the Treaty of Trianon null and void, and finally move on from this shameful period in our nations history."
+hun_trianon_begone:0 "트리아농 조약 파기"
+hun_trianon_begone_desc:0 "우리의 군대와 경제가 충분히 돌아왔습니다. 마침내 우리는 트리아농 조약이 아무런 효력이 없음을 선언하고, 우리 역사의 수치스러운 시기에서 벗어날 수 있습니다."
 ###
-hun_secret_training:0 "Secret Training Camps비밀 훈련소"
-hun_secret_training_desc:0 "The Treaty of Trianon completely barred us from having a full-time military of any sort, we must raise an army in secret as to avoid attracting unwanted attention."
+hun_secret_training:0 "비밀 훈련소"
+hun_secret_training_desc:0 "트리아농 조약은 우리가 어떤 정규군이든 보유하지 못하게 했습니다. 우리는 주의를 끌지 않도록 비밀리에 군대를 모집해야 합니다."
 ###
-hun_camo_airbase:0 "Camouflaged Airbases위장 공군 기지"
-hun_camo_airbase_desc:0 "Keeping our military aircraft under nets of camouflage and inside underground bunkers will allow us to build up our air force without attracting unwanted attention."
+hun_camo_airbase:0 "위장 공군 기지"
+hun_camo_airbase_desc:0 "군용기를 위장망으로 덮거나 지하 벙커에 넣어 둔다면 주의를 끌지 않고도 공군력을 증강시킬 수 있을 것입니다."
 ###
-hun_tank_focus:0 "Armor Focus기갑 중점"
-hun_tank_focus_desc:0 "Tanks are the only way to break through tough defensive structures, we must make sure that our armor divisions are up to strengh for the battles that will be fought."
+hun_tank_focus:0 "기갑 중점"
+hun_tank_focus_desc:0 "전차는 단단한 방어 시설을 뚫고 나아갈 수 있는 유일한 방법입니다. 우리는 교전 시에 기갑 부대가 군을 이끌 수 있도록 해야 합니다."
 ###
-hun_planned_econ:0 "Planned Economy계획 경제"
-hun_planned_econ_desc:0 "Total dominance over our nations economy will allow us to ensure that another economic crisis will never befall us again. We will plan out where each factory is placed, who will run them, and exactly what they will produce."
+hun_planned_econ:0 "경제 계획"
+hun_planned_econ_desc:0 "우리 경제를 전부 지도한다면 경제 위기가 다시는 일어나지 않을 것입니다. 우리는 공장이 어디에 지어질지, 누가 운영할지, 정확히 무엇을 생산할지 전부 정해야 합니다."
 ###
-hun_devolved_econ:0 "Devolved Economy위임 경제"
-hun_devolved_econ_desc:0 "With the Hungarian economy built back up, we must now let go of our authoritarian iron grip on it. Allowing the economy to grow on it's own will create an organic economy which will be able to flourish on it's own."
+hun_devolved_econ:0 "경제 위임"
+hun_devolved_econ_desc:0 "헝가리 경제가 회복되었으니 이제 지도권을 내려 놓을 때입니다. 경제가 알아서 성장할 수 있게 하면 스스로 번영할 수 있는 자체 경제 성장을 이뤄낼 것입니다."
 ###
-hun_danube_forts_1:0 "Defense of the Danube다뉴브 방어"
-hun_danube_forts_1_desc:0 "The Danube is our greatest natural defensive structure, we must fortify the banks of the river in order to defend Budapest from attacks on either side."
+hun_danube_forts_1:0 "다뉴브에서의 방어"
+hun_danube_forts_1_desc:0 "다뉴브 강은 우리의 가장 큰 천연 방어 시설입니다. 강둑을 강화해 부다페스트를 방어할 수 있도록 해야 합니다."
 ###
-hun_danube_forts_2:0 "Extension of the Danube Fortifications다뉴브 방어 시설 연장"
-hun_danube_forts_2_desc:0 "The Danube Fortification project has proved to be a resounding success, we must extend this project to fortify both banks of the river, creating an impregnable string of bunkers that no enemy would dare attempt to assail."
+hun_danube_forts_2:0 "다뉴브 방어 시설 연장"
+hun_danube_forts_2_desc:0 "다뉴브 강 요새화 계획은 엄청난 성과를 이뤄냈습니다. 적들이 공격할 엄두조차 못 내는 벙커로 된 난공불락의 숲을 만들어 양 강둑을 요새화하는 이 계획을 확대해야 합니다."
 ###
-hun_revive_airforce:0 "Revive the Magyar Légierő헝가리 공군 회복"
-hun_revive_airforce_desc:0 "The Treaty of Trianon banned the Hungarian nation from having an airforce of any kind. With our repurposed cropdusters already filling up the hangers, it's time we take back the skies from our enemies with real aircraft."
+hun_revive_airforce:0 "헝가리 공군 회복"
+hun_revive_airforce_desc:0 "트리아농 조약은 헝가리 공군을 단 하나도 허용하지 않았습니다. 개조된 농약 살포기가 다 준비되었으니 우리의 군용기로 빼앗긴 하늘을 되찾을 차례입니다."
 ###
-hun_offense_airforce:0 "An offensive Airforce공격 공군"
-hun_offense_airforce_desc:0 "Taking the initiative and striking the enemy in their homeland is the best way to ensure that they will not be able to enter our airspace and bomb our factories into submission."
+hun_offense_airforce:0 "공격 공군"
+hun_offense_airforce_desc:0 "적보다 먼저 치고나가 공격하는 것은 그들이 우리 영공에 쳐들어와 공장을 폭격하지 못하게 하는 가장 좋은 방법입니다."
 ###
-hun_defense_airforce:0 "A Defensive Airforce방어 공군"
-hun_defense_airforce_desc:0 "We will not be drawn into the enemies traps and ambushes, we will force them to come within range of our AA guns and pick them out of the sky at our leisure."
+hun_defense_airforce:0 "방위 공군"
+hun_defense_airforce_desc:0 "우리는 적의 함정이나 매복에 제발로 들어가거나 하지 않을 것입니다. 우리는 적들이 대공 사격 범위에 들어오게 해 여유롭게 그들을 격추할 것입니다."
 ###
-hun_new_airbases:0 "Construct new airbases새 공군 기지 건설"
-hun_new_airbases_desc:0 "Planes are no good if they have nowhere to land and repair, we must comission the construction of new airbases across our country so they will always have somewhere to retreat to in case they get overwhelmed and overextended."
+hun_new_airbases:0 "새 공군 기지 건설"
+hun_new_airbases_desc:0 "수리할 곳이 없으면 군용기는 아무 소용 없습니다. 우리는 나라를 가로지르는 새 공군기지를 지어 위험할 때 언제든 후퇴할 수 있도록 해야 합니다."
 ###
-hun_expand_air_training:0 "Expand Air Training Programs공군 훈련 프로그램 확장"
-hun_expand_air_training_desc:0 "What good are pilots if they have no idea how to fly and adapt to situations? Expanded training programs will give us access to an elite airforce that will be feared throughout Carpathia, nay the entirety of Europe."
+hun_expand_air_training:0 "공군 훈련 프로그램 확대"
+hun_expand_air_training_desc:0 "조종사들이 날 줄도 모르고 상황에 적응하지도 못한다면 무슨 소용이 있겠습니까? 훈련 프로그램을 확대하면 카르파티아, 아니 유럽 전체를 두려움에 떨게 할 엘리트 공군을 조직할 수 있을 것입니다."
 ###
-hun_experimental_air:0 "Experimental fighter models실험적 전투기 모델"
-hun_experimental_air_desc:0 "Preliminary tests show that swept wing aircraft are able to both turn faster and reach greater speeds than conventional aircraft, we should persue this theory further so that we may maintain the initative."
+hun_experimental_air:0 "실험적 전투기 모델"
+hun_experimental_air_desc:0 "예비 시험 결과, 후퇴익기는 기존 항공기보다 빠른 회전과 높은 속도를 지니고 있습니다. 이 이론을 더 밀어붙여 개발 주도권을 지켜야 합니다."
 ###
-hun_expand_experiment:0 "Expand the Department부서 확장"
-hun_expand_experiment_desc:0 "To split the atom is a seemingly impossible task, and one that our nation cannot acomplish alone. However, expanding our experimental research department will put us ahead of the game and allow us to contribute more to the development of this new wonder weapon."
+hun_expand_experiment:0 "부서 확장"
+hun_expand_experiment_desc:0 "핵분열은 우리 혼자서는 해낼 수 없는 일처럼 보이지만, 실험적 연구부를 확장하면 우리는 경쟁에서 앞설 수 있고, 이 놀라운 신무기를 개발하는 데 더 많은 노력을 가할 수 있을 것입니다."
 ###
-hun_revive_navy:0 "Revive the Navy해군 회복"
-hun_revive_navy_desc:0 "The Hungarians were barred from having a navy both by the Treaty of Trianon's disarmament policy and the fact that our coastline was given to the Serbian government. Now that we have regained our coastline, we may begin to rebuild our navy and wrest control of the sea from the Italians and British."
+hun_revive_navy:0 "해군 회복"
+hun_revive_navy_desc:0 "트리아농 조약의 군축 방침도 한 몫 했지만 우리 해안이 세르비아 정부에게 넘어갔기 때문에 헝가리는 해군을 가질 수 없었습니다. 해안을 되찾은 지금, 해군을 다시 창설하고 이탈리아와 영국의 제해권을 장악해야 합니다."
 ###
-hun_navy_doctrine:0 "Choose a naval doctrine해군 교리 선택"
-hun_navy_doctrine_desc:0 "A modern fleet cannot survive without proper naval doctrine to guide it, we must choose carefully to ensure the future success of our growing navy in the wars to come."
+hun_navy_doctrine:0 "해군 교리 선택"
+hun_navy_doctrine_desc:0 "함대를 지휘할 해군 교리가 없으면 살아남을 수 없습니다. 다가올 전쟁에 대비해 해군력을 확실히 키우기 위해선 신중하게 정해야 합니다."
 ###
-hun_undersea_navy:0 "An Undersea Navy해저 해군"
-hun_undersea_navy_desc:0 "Our enemies outmatch our still growing navy. An indirect approach against their ships would be the best strategy for our nation until we can get our naval situation in order"
+hun_undersea_navy:0 "해저 해군"
+hun_undersea_navy_desc:0 "우리 해군은 쭉 성장하고 있지만 적에 비해 아직 약합니다. 해군 상황이 나아질 때까지는 적함에 간접적으로 접근하는 것이 우리로선 가장 좋은 전략인 것 같습니다."
 ###
-hun_cruisar_effort:0 "Cruiser Effort순양함 집중"
-hun_cruisar_effort_desc:0 "All modern navies need smaller assisting ships to support their battleships and carriers. We'll need advanced Cruisers if we wish to match the naval power of our rivals."
+hun_cruisar_effort:0 "순양함 집중"
+hun_cruisar_effort_desc:0 "현대식 해군은 전함과 항공 모함을 도울 작은 지원함이 요구됩니다. 적들과 동등한 힘을 얻으려면 보다 나은 순양함이 필요할 것입니다."
 ###
-hun_floating_fortress:0 "Floating Fortress해상 요새"
-hun_floating_fortress_desc:0 "For nearly a century the battleship has been the pride of many navies. It's firepower and armor is unmatched by any class of ship. Any self respecting nation should have at least one."
+hun_floating_fortress:0 "해상 요새"
+hun_floating_fortress_desc:0 "거의 한 세기동안 전함은 해군의 자랑이었습니다. 전함의 화력과 방어력은 다른 함선과는 비교가 되지 않았습니다. 자존심 센 나라라면 적어도 하나쯤은 가지고 있습니다."
 ###
-hun_mediterranean_wolves:0 "Mediterranean Wolves지중해의 늑대"
+hun_mediterranean_wolves:0 "지중해의 늑대"
 hun_mediterranean_wolves_desc:0 ""
 ###
-hun_flexible_ships:0 "Flexible Ships가변적 선박"
+hun_flexible_ships:0 "가변적 함선"
 hun_flexible_ships_desc:0 ""
 ###
-hun_carrier_research:0 "Carrier Research항공 모함 연구"
-hun_carrier_research_desc:0 "Aircraft Carriers are the future of both naval and air warfare. Their flexibility and the range of their aircraft make them a devastating piece of any naval encounter."
+hun_carrier_research:0 "항공 모함 연구"
+hun_carrier_research_desc:0 "항공 모함은 해공 모두의 미래입니다. 항공 모함의 유연함과 군용기의 긴 거리는 해전에서 아주 파괴적인 효과를 냅니다."
 ###
 hun_doctrine_evaluate:0 "Land Doctrine Evaluation육군 교리 심사"
 hun_doctrine_evaluate_desc:0 "With the reconstruction of our land forces well underway, it's about time that we chose a doctrine to lead our men. This choice could drastically affect the outcome of the wars we will fight, so we much choose carefully."
