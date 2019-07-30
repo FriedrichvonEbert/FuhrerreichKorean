@@ -170,41 +170,41 @@ hun_flexible_ships_desc:0 ""
 hun_carrier_research:0 "항공 모함 연구"
 hun_carrier_research_desc:0 "항공 모함은 해공 모두의 미래입니다. 항공 모함의 유연함과 군용기의 긴 거리는 해전에서 아주 파괴적인 효과를 냅니다."
 ###
-hun_doctrine_evaluate:0 "Land Doctrine Evaluation육군 교리 심사"
-hun_doctrine_evaluate_desc:0 "With the reconstruction of our land forces well underway, it's about time that we chose a doctrine to lead our men. This choice could drastically affect the outcome of the wars we will fight, so we much choose carefully."
+hun_doctrine_evaluate:0 "육군 교리 검토"
+hun_doctrine_evaluate_desc:0 "우리 육군의 재정비가 순조롭게 진행되고 있으므로, 이제 그들을 이끌 교리를 선택합시다. 이 선택은 앞으로의 전쟁에서 아주 큰 영향을 끼칠 것입니다. 신중을 기해서 고를 필요가 있습니다."
 ###
-hun_combined_arms:0 "Combined Arms제병 협동"
-hun_combined_arms_desc:0 "The days of independant infantry operations is long gone, and if we do not keep up with history, we will be forced to repeat the mistakes of our fathers in the Great War."
+hun_combined_arms:0 "제병 협동"
+hun_combined_arms_desc:0 "개별 보병 작전의 시대는 끝난 지 오랩니다. 시대에 뒤쳐진다면 우린 대전쟁 때의 선조들과 같은 실수를 반복할 수밖에 없습니다."
 ###
-hun_independant_army:0 "Independant Army Operations독립된 육군 작전"
-hun_independant_army_desc:0 "Infantry form the backbone of the army, and can surely be trusted to be left on their own without singlehandedly losing the war."
+hun_independant_army:0 "개별 군사 작전"
+hun_independant_army_desc:0 "보병은 군대의 주축을 이루고 있고, 개별적으로 행동해도 지는 일은 없을 것입니다."
 ###
-hun_youth_army:0 "Youthful Militarism젊은 군국주의"
-hun_youth_army_desc:0 "We need to educate the youth of our nation to understand the necessity of warfare in this modern age. Should we ever be overrun in battle, the youth will be our last line of defense in our struggle against the imperialist bastards that surround us."
+hun_youth_army:0 "젊은 군국주의"
+hun_youth_army_desc:0 " 나라의 청년들에게 현재 전쟁의 필요성을 가르쳐 줘야 합니다. 우리가 전쟁에서 밀리게 된다면 청년들은 우리를 둘러싸고 있는 제국주의 놈들에게 대항할 최후의 방어선이 될 것입니다."
 ###
-hun_more_doctrine:0 "Extended Doctrine Research연장된 교리 연구"
-hun_more_doctrine_desc:0 "Recent breakthroughs in doctrinal theory has allowed us to develop new tactics that have previously been unimaginable by our military staff. Putting these ideas in the field will surely bring us success in combat."
+hun_more_doctrine:0 "연장된 교리 연구"
+hun_more_doctrine_desc:0 "최근에 교리 연구가 예전 같았으면 상상도 못했을 새로운 전략을 발명하는 성과를 냈습니다. 이 아이디어를 실전에 적용한다면 분명 전투에서 좋은 효과를 발휘할 것입니다."
 ###
-hun_sub_rails:0 "Subsidize the Rail Industry철도 산업 지원"
-hun_sub_rails_desc:0 "Rails are the most efficiant way to transport soldiers, civilians, and materials across the country. We must subsidize this industry in preperation for our expansion into Carpathia and the Balkans."
+hun_sub_rails:0 "철도 산업 지원"
+hun_sub_rails_desc:0 "철도는 나라를 가로질러 군대, 시민, 자원을 수송하기 가장 효율적인 방법입니다. 카르파티아와 발칸 반도 쪽으로 진군할 것에 대비해 철도 산업을 지원해야 합니다."
 ###
-hun_state_factory:0 "State-Controlled Factories국가 통제하의 공장"
-hun_state_factory_desc:0 "Allowing private companies to run their own factories means that we have less direct control over what and how much is produced. Constructing factories that are owned directly by the state will increase not onl our efficiancy but our production output as well."
+hun_state_factory:0 "국가 통제하의 공장"
+hun_state_factory_desc:0 "개인 기업이 공장을 운영하게 하면 무엇이 얼마나 만들어지고 있는지 알 턱이 없습니다. 나라에서 직접 관리하는 공장을 지어 생산량과 효율을 증진시킬 수 있습니다."
 ###
-hun_south_slovakia:0 "The Question of South Slovakia남 슬로바키아 문제"
-hun_south_slovakia_desc:0 "Southern Slovakia is full of Hungarians who were ripped from their motherland by the Treaty of Trianon. With that treaty no longer standing in our way, we are free to demand the return of these lands to their rightful overlords."
+hun_south_slovakia:0 "남 슬로바키아 문제"
+hun_south_slovakia_desc:0 "남 슬로바키아에는 트리아농 조약으로 인해 조국에서 떨어져 나오게 된 헝가리인이 대부분을 이루고 있습니다. 그 조약은 이제 한낱 종잇쪼가리에 불과하므로, 우리는 그 땅이 정당한 주인의 품에 돌아올 수 있도록 요구할 수 있습니다."
 ###
-hun_slovak_fate:0 "The Fate of Slovakia슬로바키아의 운명"
-hun_slovak_fate_desc:0 "With the return of South Slovakia to our control, we have shown the world the weakness of the Slovak people and their unwillingness to put up a fight. We will demand the return of the Northern provinces to our rule, and begin the restoration of greater Hungary."
+hun_slovak_fate:0 "슬로바키아의 운명"
+hun_slovak_fate_desc:0 "남 슬로바키아가 우리 곁으로 돌아왔습니다. 우리는 슬로바키아인들이 얼마나 나약하고 싸움을 꺼리는지 모두에게 보여주었습니다. 우리는 북부 지방의 반환을 요구할 것이며, 대헝가리 재건의 시작을 알릴 것입니다."
 ###
-hun_nat_col:0 "agricultural Collectivization농업 공영화"
-hun_nat_col_desc:0 "The farming system across our country still resembles that of the days of Hungarian feudalism, and is laughably unproductive. Siezing agricultural production and evenly redistributing it will increase food production tenfold and allow us to feed our ever expanding empire."
+hun_nat_col:0 "농업 공영화"
+hun_nat_col_desc:0 "우리나라의 농업 시스템은 봉건제 시대에서 변한 것이 없습니다. 웃음이 나올 정도로 비생산적입니다. 농작물 생산을 통제하고 균등하게 재분배한다면 식품 생산량이 열 배 가까이 상승할 것이고 계속해서 팽챙 중인 제국을 먹여 살릴 수 있습니다."
 ###
-hun_german_invest:0 "German Industrial Investment독일의 산업 투자"
-hun_german_invest_desc:0 "One way of kickstarting our war economy is to attract foreign investment from other nations. The Germans are famed worldwide for their industrial skills, and we could easily learn a thing or two from them in the art of industry."
+hun_german_invest:0 "독일의 산업 투자"
+hun_german_invest_desc:0 "전시 경제를 활성화하는 방법 중엔 다른 나라로부터 투자를 받게끔 하는 것도 있습니다. 독일의 공업 기술은 전세계적으로 유명합니다. 우리는 그들의 공업 기술에 관한 지식을 쉽게 배울 수 있을 것입니다."
 ###
-hun_ger_army:0 "Found the NMÖONMÖO 조직"
-hun_ger_army_desc:0 "The NMÖO, or German-Hungarian Volunteer Division, is a proposed group of soldiers made up entirely of ethnic Germans living within Hungary with the intent of bolstering our army with highly trained soldiers using German officers to train and equip them. Most of these soldiers would be sent to our army, but a small number will be transferred to Germany as a form of payment."
+hun_ger_army:0 "NMÖO 조직"
+hun_ger_army_desc:0 "독일계 헝가리인 의용대인 NMÖO는 독일 장교에게 아주 제대로 훈련받은 우리나라 군인들을 지원해 주기 위해 헝가리에 거주하는 독일 민족으로 구성된 군대입니다. 대부분의 병사들은 군대로 보내질 것이지만, 일부는 훈련에 대한 보답으로 독일로 가게 됩니다."
 
 
 ################
