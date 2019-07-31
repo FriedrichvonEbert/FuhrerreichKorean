@@ -271,8 +271,8 @@ fra_intervention_economics_desc:0 "많은 사람들이 반대하는 설이지만
 fra_decentralize_economy:0 "경제 분권화"
 fra_decentralize_economy_desc:0 "정부의 경제개입이 오히려 경제에 악영향을 끼친다는 것이 또다시 확인됐으므로,우린 경제를 완전히 분산화시키고, 정부의 개입을 차단하여, 경제가 알아서 돌아가도록 해야만 할 것입니다."
 ###
-fra_unshakable_economics:0 "Unshakable Economics"
-fra_unshakable_economics_desc:0 "We have managed to bring the French economy back from the brink of collapse, and have forged a new economic system which will undoubtedly stand the test of time against war, famine, disease, and anything else the world has to throw at us."
+fra_unshakable_economics:0 "굳건한 경제"
+fra_unshakable_economics_desc:0 "마침내 우린 무너지는 프랑스 경제를 되살리는데 성공했으며, 그리고 새로운 경제체제 또한 만들어냈습니다. 이 새로운 체제와 함께라면, 우리 경제는 전쟁이 일어나건, 기근이 들건, 전염병이 돌건, 세계에 무슨 일이 있던 굳건히 견뎌낼 수 있을 것입니다."
 ###
 fra_watch_rhine:0 "Watch on the Rhine"
 fra_watch_rhine_desc:0 "The Rhine river has been under French control since the end of the Great War in 1919, and we have left the area vastly under-protected due to the friendly republican regime in Germany. With the rise of Dresslers nationalistic and militaristic regime, we need to bolster our defenses on the river Rhine in case of a pre-emptive German attack, and ensure that not a single German boot steps onto French soil."
@@ -286,20 +286,20 @@ fra_no_german_desc:0 "The French people enduring an unbelievable amount of suffe
 fra_on_the_attack:0 "공격 개시"
 fra_on_the_attack_desc:0 "The defensive stage of this war is finally over, and we are encroaching on German territory with great ferocity and speed. We must ensure our military command is geared for what may be the deadliest and hardest phase of this war thus far."
 ###
-fra_march_to_berlin:0 "베를린으로의 진군"
+fra_march_to_berlin:0 "베를린을 향한 진군"
 fra_march_to_berlin_desc:0 "독일군은 점차 밀려나고 있으며, 우린 최전선에서 수많은 승리를 거두고 있습니다. 전쟁은 이제 막바지에 다다른 상태이며, 그리고 우리가 베를린을 더 빨리 점령할수록, 우리 병사들도 더 빨리 집으로 돌아갈 수 있을 것입니다."
 ###
-fra_triumph:0 "Triumph in Berlin"
-fra_triumph_desc:0 "We have come out victorious in the Second Great War, and the German Reich once more stands defeated under our iron boot. The city of Berlin is a place of celebration for the occupying powers, and looting has been reported across the city. We should organize an official military parade through the Brandenburg Gate in order to show the world of our superiority."
+fra_triumph:0 "베를린에서의 승리"
+fra_triumph_desc:0 "우린 이번 대전쟁에서도 또다시 승리했으며, 그리고 독일 제국 또한 또다시 우리의 군홧발 아래에 놓여 있습니다. 베를린에선 승전국들의 축하연이 일어지고 있으며, 베를린 여기저기에선 '노획'이 벌어지고 있습니다. 우린 브란덴부르크 문을 통과하는 군대 행진을 조직하여, 세계에 우리의 힘을 보여줘야 합니다."
 ###
 fra_loosen_conscription:0 "Loosen Recruitment Requirements"
-fra_loosen_conscription_desc:0 "The German menace is encroaching on our territory once again, and we need every able body to fight on the frontline in order to push them back across the Rhine."
+fra_loosen_conscription_desc:0 "독일군이 또다시 파리를 향해 진군해 오고 있습니다. 독일군을 라인 강 너머로 몰아내려면, 우린 싸울 수 있는 사람이라면 누구든지 동원해야만 합니다."
 ###
 fra_even_lower_soldiers:0 "Further Loosen Conscription"
-fra_even_lower_soldiers_desc:0 "The Germans march closer to Paris by the day, and the situation grows more desperate by the day. We need to give guns to everyone who can fire one in order to save our country from a repeat of the Franco-Prussian war."
+fra_even_lower_soldiers_desc:0 "독일군은 파리를 향해 계속 진군해오고 있으며, 전황은 계속 악화되고만 있습니다. 1871년같은 꼴을 면하려면 우린 총을 쏠 수 있는 사람이라면 누구든지 총을 들게 해야만 합니다."
 ###                      
-fra_desperate_defense:0 "늙고 병들었더라도"
-fra_desperate_defense_desc:0 "프랑스의 마지막이 점차 다가오고 있으니, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 만약 살아있는 프랑스인이라면, 누구든 총을 들어야만 합니다."
+fra_desperate_defense:0 "늙고 병든 사람도"
+fra_desperate_defense_desc:0 "프랑스의 패배가 얼마 남지 않았습니다. 패배를 면하려면, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 만약 살아있는 프랑스인이라면, 누구든 총을 들어야만 할 것입니다."
 ###
 fra_ground_eyes:0 "Eyes on the Ground..."
 fra_ground_eyes_desc:0 "To fight a war blind is to commit yourself to certain defeat, we need to know where our enemies are at all times if we want to achieve victory in this new age of fast and mobile warfare where every second counts."
@@ -325,13 +325,13 @@ fra_entente_tech_desc:0 "The Entente is home to some of the brightest minds on t
 fra_doctrine_school:0 "School of Doctrine"
 fra_doctrine_school_desc:0 "Military doctrine is far more important than the military leaders of today give it credit for, and it is vital that we do not forget this fact when building up our army."
 ###
-fra_african_officers:0 "African Officers"
-fra_african_officers_desc:0 "Several military schools in our African colonies have produced some exceptional officers which show great potential in the military. Inviting these officers would be a great way to improve our military and increase releations with our African subjects."
+fra_african_officers:0 "아프리카인 장교들"
+fra_african_officers_desc:0 "우리 아프리카 식민지에 있는 몇몇 교관학교에서 큰 잠재력을 가진 훌륭한 장교들을 양성해냈습니다. 이 장교들을 우리 군대로 초대한다면 우리 군대의 능력 향상에 큰 도움이 될 것이며, 식민지들과의 관계 개선에도 도움이 될 것입니다."
 ###
 fra_drumroll_arty:0 "Drumroll Artillery"
 fra_drumroll_arty_desc:0 "During the later stages of the Great War, the Canadian army used a form of rolling artillery bombardment in order to cover their soldiers movements as they advanced upon enemy positions. Our officers have hypothesized that a modified form of this rolling artillery could be used to more effectively bombard enemy positions and keep their heads down at the same time."
 ###
-fra_anti_tank:0 "Anti-tank emplacements"
+fra_anti_tank:0 "Anti-Tank Emplacements"
 fra_anti_tank_desc:0 "Our spies have shown that both the Wehrmacht and the Royal Army are beginning to utilize tanks in innovative and deadly ways, we must develop new guns capable of destroying these vehicles if we are to survive an invasion from either nation."
 ###
 fra_rockets:0 "Experimental Rocket Developments"
@@ -343,10 +343,10 @@ fra_curie_institute_desc:0 "Marie Curie was a famous French chemist who made an 
 fra_mobile_age:0 "The Age of Mobile Warfare"
 fra_mobile_age_desc:0 "The writing is on the wall, stationary combat and slow-moving formations will not win us battles in this modern age. We need to motorize our army and practice new methods of transportation and supply if we are to succeed."
 ###
-fra_mobile_army:0 "Mobilizing the Army"
+fra_mobile_army:0 "Army Mobilazation"
 fra_mobile_army_desc:0 "In order to win on the battlefield we need to be able to get our troops to where they need to be, before the enemy is able to out-manouver us. Improving logistics should allow us to achieve this with ease."
 ###
-fra_mobile_recon:0 "Improved Reconnaissance"
+fra_mobile_recon:0 "Improved Reconnaisance"
 fra_mobile_recon_desc:0 "The faster our scouts can reach vantage points the faster they can relay the enemy position back to high command, therefor we should attempt to mobilize our recon units."
 ###
 fra_scw_lessons:0 "Lessons from the Spanish Civil War"
@@ -361,7 +361,7 @@ fra_motorized_defense_desc:0 "Putting our soldiers in a tin can on wheels and sh
 fra_reinforcements:0 "Improved Reinforcement Rate"
 fra_reinforcements_desc:0 "A faster army means that we will be able to reinforce our depleted divisions at a much greater rate, allowing them to stay in the fight and stay stronger for a much greater period of time."
 ###
-fra_mechanize_army:0 "Mechanizing the Army"
+fra_mechanize_army:0 "군대 기계화Mechanizing the Army"
 fra_mechanize_army_desc:0 "Our motorized project is complete, and we have seen great success across the board. New developments with experimental half-tracks have shown even greater potential, and clearly the way to military success is with full mechanization of the army."
 ###
 fra_hold_line:0 "전선을 사수하라"
@@ -373,13 +373,13 @@ fra_trench_bunker_desc:0 "대전쟁 도중 건설된 여러 요새화된 참호�
 fra_fort_alsace:0 "Fortify Alsace"
 fra_fort_alsace_desc:0 "Our most vunerable border is by far the one we share with Germany. While the river Rhine provides some form of natural defense, wouldn't it be better if we were able to cut down the enemy attempting to ford the river with machine gun fire and artillery barrages?"
 ###
-fra_fort_savoy:0 "Fortify Savoy"
-fra_fort_savoy_desc:0 "While the Italians are nominally friendly with us, their backstabbing of the Germans and Austrians during the Great War has shown how careless the Italians hold to alliances they make. Fortifying the Alpine border between us and Italy in Savoy will buy us a great deal of time should the Italians decide to stab us in the back as well."
+fra_fort_savoy:0 "사보이 요새화"
+fra_fort_savoy_desc:0 "이탈리아가 지금은 우리와 동맹이기는 하지만, 대전쟁 도중 오스트리아와 독일을 배신했던 것을 생각하면, 이탈리아가 우리를 배신하지 않을 거라고 보장할 수는 없습니다. 이탈리아와 접하고 있는 사보이 지역을 요새화한다면, 아마 이탈리아가 우릴 배신하더라도 막아낼 수 있을 것입니다."
 ###
 fra_fort_spain:0 "Fortify the Pyrenees"
 fra_fort_spain_desc:0 "The civil war in Spain has shaken the political situation in the region to its very core, and the entire Iberian Peninsula seems ready to blow at a moments notice. We must ensure that the mountain range which seperates us from the Spanish is firmly under our control and diligant watch."
 ###
-fra_heavy_tanks:0 "Moving Bunkers"
+fra_heavy_tanks:0 "움직이는 요새"
 fra_heavy_tanks_desc:0 "The idea of larger and larger tanks has been in the back of the minds of the worlds tank theorists since their introduction in the Great War. Our own development of these heavy tanks will prove invaluable on the battlefield."
 ###
 fra_defense_doctrine:0 "Adopt Defensive Doctrines"
