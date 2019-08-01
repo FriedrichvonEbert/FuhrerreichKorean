@@ -690,7 +690,7 @@ ENG_invite_belgium:0 "벨기에 초대"
 ENG_invite_denmark:0 "덴마크 초대"
 ENG_invite_norway:0 "노르웨이 초대"
 ENG_invite_spain:0 "스페인 초대"
-ENG_jutland_p:0 "유틀란트 합의"
+ENG_jutland_p:0 "유틀란트 협정"
 ENG_dover_p:0 "도버 조약"
 
 ALL_london_nt:0 "런던 해군 군축조약 조인국"
@@ -910,7 +910,7 @@ ENG_statute_westminster_desc:0 "Proposed in the Imperial Conferences of 1917-18 
 
 ENG_imp_fed:0 "제국 연방"
 ENG_imp_fed_desc:0 "Proposed at the turn of the century, the idea of an Imperial Federation survived the Great War, but only barely. Proposed as an alternative to an ever decentralised Empire, the Imperial Federation has only in recent years become attractive as a political idea due to advances in technology and communication."
-ENG_ris:0 "The Royal Imperial Society"
+ENG_ris:0 "왕립 제국학회"
 ENG_ris_desc:0 "Intellectuals from across the Empire meet regularly in London for conferences on new technological developments, but through the other days of the eyar remain relatively separated. To ensure research continues unabated across the Empire we can established a new society to foster technoligical development."
 ENG_sup_loyal:0 "Support Overseas Loyalists"
 ENG_sup_loyal_desc:0 "With our decision to pursue an Imperial Federation many of those living in the Dominions have been angered greatly by this new proposal. In order to solidify the case for the Imperial Federation we must work closely with, and support those loyalists to the Empire who live overseas."
@@ -920,7 +920,7 @@ ENG_imp_parl:0 "Construct an Imperial Parliament"
 ENG_imp_parl_desc:0 "Created to house the Imperial Representatives across the Empire, each Dominion will create their own Imperial Parliament which will convene once every three months to discuss Imperial affairs."
 ENG_dom_integ:0 "자치령 의회 통합"
 ENG_dom_integ_desc:0 "With the Imperial Parliament constructed the time has arrived to formally convert existing Members of Parliament of the Dominion nations and the British Isles to Members of the Imperial Parliament. Ostensibly a ceremonial affair, it will signal that the Imperial Federation is quickly becoming a reality."
-ENG_common_eco:0 "Common Economic Policy"
+ENG_common_eco:0 "통합 경제 정책"
 ENG_common_eco_desc:0 "Imperial economics have in recent years seen its power undermined by Dominion Governments unwilling to cooperate with the rest of the Empire for the sake of unity. Only through merging our economic efforts once more will Imperial economic power be brought to bare on the world."
 ENG_imp_command:0 "제국군 연합사령부"
 ENG_imp_command_desc:0 "Perhaps one of the most divisive issues of the Great War was the deaths of hundreds of thousands of Dominion troops at the hands of British military leaders. This hurdle cannot be overcome easily, and to ensure that each Dominion has a say in military matters may weaken us politically, it will ensure Dominion loyalty in the long term."
@@ -953,7 +953,7 @@ ENG_affirm_sow_desc:0 "With the Dominions having been granted far greater autono
 
 #####Military Focuses#####
 
-ENG_mil_review:0 "Royal Military Review"
+ENG_mil_review:0 "왕립군 재검토"
 ENG_mil_review_desc:0 "It has been almost two decades since the end of the Great War and there are some in the upper echelons of the Government who worry the military is suffering from severe atrophy. With this in mind the Government is prepared to order an immediate review of the Armed Forces."
 
 # - Army
@@ -1058,7 +1058,7 @@ ENG_escort_vessels:0 "호위함"
 ENG_escort_vessels_desc:0 "While carriers are a powerful ship-class and the planes they transport more than able to deal damage to opposing fleets, they are not indestructible. Recent naval exercises have shown that without a large number of escort vessels carriers are easily dispatched by even a relatively small force. To ensure their safety we must design a new wave of Cruiser vessels."
 ENG_exp_shipyards1:0 "해군 조선소 확장"
 ENG_exp_shipyards1_desc:0 "If Project Dauntless is to come to succeed we will not only need reaserchers to design these new carriers, but also shipyards large enough to accomodate their construction. As such the Admiralty has requested additional Government funding to expand several pre-existing dockyards from which these new carriers will be constructed and launched."
-ENG_reorg_admiralty:0 "해군 인사 재조정"
+ENG_reorg_admiralty:0 "해군 인사 재편성"
 ENG_reorg_admiralty_desc:0 "Now with Project Dauntless in full swing we can finally deal with the bloat in our naval command structure. Many of the old guard still do not quite understand the tactics of aerial warfare or how to apply them at sea. If we pull up some young commanders from the Navy as well as perhaps some higher ups in the RAF we may be able to balance out this issue."
 ENG_csg:0 "항공모함 타격전대"
 ENG_csg_desc:0 "Up until now we have been focusing on using the Carriers and their payloads to assault enemy vessels on the water, but planes are not solely a naval weapon. If we organize our carrier aircraft into proper strike groups we could effectively use our navy to penetrate deeper inland allowing us to further support the British Army and RAF from the safety of the seas."
@@ -1133,7 +1133,7 @@ ENG_pub_works:0 "Public Works"
 ENG_pub_works_desc:0 "While conservatives in parliament argue that we don’t have the money to 'build fountains and plant trees' Mosley assures us that these projects will not only create jobs for unemployed labourers, but also give invaluable experience for our workforce in the coming years."
 ENG_pensions:0 "Retirement Pensions Scheme"
 ENG_pensions_desc:0 "Everyone needs money in order to live. Not least of all our senior citizens. While they can not work due to the ill effects of age they are still a vital part of our economy. By creating a pension policy, they will have money which they can use to survive and also to spend, not only will this keep them safe, but it may even help keep businesses open."
-ENG_infra_projects:0 "Infrastructure Projects"
+ENG_infra_projects:0 "기반시설 프로젝트"
 ENG_infra_projects_desc:0 "Britain is a modern nation and as such has miles upon miles of road and rail. Not only does existing infrastructure need to be kept in good condition, new expansion must be made to accomodate the growing population of Britain."
 ENG_home_market:0 "Concentrate on the Home Market"
 ENG_home_market_desc:0 "Britain can sustain itself if we all work together. If we invest in homebound industries, especially those for which our people have a great need, we can build up more men from poverty and protecting our people from the loss of basic necessities."
@@ -1229,21 +1229,21 @@ ENG_international_ops:0 "International Operations"
 
 #Naval Imperialism
 
-ENG_london_conf:0 "London Naval Conference"
+ENG_london_conf:0 "런던 해군 군축조약"
 ENG_london_conf_desc:0 "Originally signed in april of 1930 between ourselves, Portugal and Greece. The London Naval Treaty is in desperate need of ratification, and expansion. By offering protection to other nations we can impose limitations on their ability to produce naval vessels, ensuring our continued naval hegemony."
-ENG_london_exp1:0 "Invite New Members"
-ENG_london_exp2:0 "Expand Membership"
-ENG_jutland_pact:0 "Jutland Naval Accord"
-ENG_dover_pact:0 "Dover Naval Agreement"
+ENG_london_exp1:0 "새로운 회원국 초대"
+ENG_london_exp2:0 "회원국 확대"
+ENG_jutland_pact:0 "유틀란트 해군 협약"
+ENG_dover_pact:0 "도버 해군 협정"
 
 #Imperialism
 
-ENG_imperialism_focus:0 "Imperial Burdens"
+ENG_imperialism_focus:0 "제국의 짐"
 ENG_imperialism_focus_desc:0 "''God has called upon the British to bring civilisation to every corner of the globe, to deliver the barbarians of the world from the darkness into the light. We are the torch in the darkness, the light in the void of barbarism. For the sake of mankind we must not fail.'' - King Edward VIII"
 
 ENG_euro_focus:0 "제국주의"
 
-ENG_dip_denmark:0 "Secure the Danish Straits"
+ENG_dip_denmark:0 "덴마크 해협 확보"
 ENG_natlantic_trade:0 "북대서양 무역"
 ENG_dip_norway:0 "Norwegian Naval Guarantees"
 ENG_dip_sweden:0 "Swedish Safeguards"
@@ -1348,7 +1348,7 @@ ENG_imp_council_desc:0 "With the creation of the ISAC and the aid it has brought
 #####News Events#####
 
 #uknews.1.d:0 "조지 5세 폐하가 서거하셨습니다. 오늘 아침 버킹엄 궁전의 정문에 붙은 포고문에 따르면, 국왕께서는 어젯밤 그의 가족들에게 둘러싸인 채로 평화롭게 임종을 맞았습니다. 동시에 그의 아들, 웨일스 공 에드워드 8세가 새로운 국왕으로 즉위했습니다. \n\n조지 5세는 그의 부왕의 서거 이후 황제라는 칭호를 계승하고 25년간 대영제국을 통치하며 대전쟁에서 승리를 지켜냈습니다. 군사적 문제에 대한 용기와 열정으로 잘 알려진 폐하께서는 서부전선의 최전방 부대를 직접 방문하기도 하셨습니다. \n\n위니펙부터 웰링턴까지 수천 명의 대영제국 시민들이, 가족과 조국을 사랑하는 군주이자 영국 역사상 가장 사랑받는 군주 중 한 사람의 죽음을 애도하기 위해 거리를 가득 채웠습니다."
-uknews.1.d:0 "[This.GetNewspaperHeader]조지 5세 폐하가 서거하셨습니다. 오늘 아침 버킹엄 궁전의 정문에 붙은 포고문에 따르면, 국왕께서는 어젯밤 그의 가족들에게 둘러싸인 채로 평화롭게 임종을 맞았습니다. 동시에 그의 아들, 웨일스 공 에드워드 8세가 새로운 국왕으로 즉위했습니다. \n\n조지 5세는 그의 부왕의 서거 이후 황제라는 칭호를 계승하고 25년간 대영제국을 통치하며 대전쟁에서 승리를 지켜냈습니다. 군사적 문제에 대한 용기와 열정으로 잘 알려진 폐하께서는 서부전선의 최전방 부대를 직접 방문하기도 하셨습니다. \n\n위니펙부터 웰링턴까지 수천 명의 대영제국 시민들이, 가족과 조국을 사랑하는 군주이자 영국 역사상 가장 사랑받는 군주 중 한 사람의 죽음을 애도하기 위해 거리를 가득 채웠습니다."
+uknews.1.d:0 "[This.GetNewspaperHeader]조지 5세가 사망했습니다. 오늘 아침 버킹엄 궁전의 정문에 붙은 포고문에 따르면, 국왕은 어젯밤 그의 가족들에게 둘러싸인 채로 평화롭게 임종을 맞았습니다. 동시에 그의 아들, 웨일스 공 에드워드 8세가 새로운 국왕으로 즉위했습니다. \n\n조지 5세는 그의 부왕의 서거 이후 황제라는 칭호를 계승하고 25년간 대영제국을 통치하며 대전쟁에서 승리를 지켜냈습니다. 군사적 문제에 대한 용기와 열정으로 잘 알려진 그는 서부전선의 최전방 부대를 직접 방문하기도 했습니다. \n\n위니펙부터 웰링턴까지 수천 명의 대영제국 시민들이, 가족과 조국을 사랑하는 군주이자 영국 역사상 가장 사랑받는 군주 중 한 사람의 죽음을 애도하기 위해 거리를 가득 채웠습니다."
 uknews.2.d:0 "[This.GetNewspaperHeader]Last week saw a tumultuous five days for the London Stock Market. Fuelled by fears of a shortage of goods and resources due to the on-going revolt in colonial Africa and India, the stock exchange continued to vary wildly as news dripped out from Westminster regarding efforts to prevent further insurrection throughout the Empire.\n\nAs the day proceeded, mass selling ensued as panic-stricken investors lost confidence in the Imperial economy and the British Government's ability to tackle the colonial crisis.\n\nThe effects of the 1936 London Stock Market Crash are sure to be felt world-wide."
 uknews.3.d:0 "[This.GetNewspaperHeader]In a display of their power and in order to further extend their control over the North Sea, the British have landed troops onto the Danish Atlantic Possessions bringing them under their control. The blockade imposed by the UK on the Danes continues and shows no signs of stopping, as the Danes are unable to breakthrough. Furthermore, any attempts for international intervention have failed.\n\nIt seems that nothing can break the Steel Wall of ships that ensnares the Danish; they shall be starved into submission."
 uknews.4.d:0 "[This.GetNewspaperHeader]Reports from the Panama Canal over the past several days have indicated that there was sporadic fighting occurring in several key strategic locations near the Canal, however it was not until this morning that the United States Government officially confirmed what had happened.\n\nAt 5 o'clock on Friday last week a contigent of Royal Marines landed near the Canal with the intention of resting control of the area and handing ownership over to the British Empire. Washington has since threatened a severe reaction to the seizure, and it is still unsure if this may lead to war between the British Empire and the United States."
