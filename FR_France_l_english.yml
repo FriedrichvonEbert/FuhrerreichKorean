@@ -244,14 +244,14 @@ fra_fight_religion_desc:0 "종교와 국가가 공식적으로 분리된 지 벌
 fra_communes:0 "Promote Social Communes"
 fra_communes_desc:0 "Social Communes are groups of citizens which look after each other and help each other through hard times, promoting the extension and formalization of these groups will help us crush unemployment and poverty, and consiquently increasing our popularity."
 ###
-fra_equality:0 "Equal Oppertunities"
-fra_equality_desc:0 "Each Frenchman should have the same opportunity to achieve what they desire, without the restriction of social class or economic standing. The construction of new institutions and social programs will help us to achieve this dream."
+fra_equality:0 "동등한 기회"
+fra_equality_desc:0 "모든 프랑스인들은 재산이나, 사회적 지위와는 관계 없이, 원하는 것을 얻는 것에 있어 동등한 기회를 가져야만 합니다. 교육시설을 짓고, 새 복지계획을 시행한다면, 이를 실현하는데 큰 도움이 될 것입니다."
 ###
 fra_land_grants:0 "Land Grants"
 fra_land_grants_desc:0 "France is a vast nation with many tracts of unused virgin land, just begging to be developed. Granting this land to industrial companies will allow us to build more factories and further increase our industrial output."
 ###
-fra_women_working:0 "Women in the Workforce"
-fra_women_working_desc:0 "For too long have women been locked out of this nations industry and development, instead being relegated to maintaining the home. Giving women the same opportunities as men in the workforce will not only make us look better, but increase our popularity."
+fra_women_working:0 "여성 노동자"
+fra_women_working_desc:0 "여성들은 여태까지 집안에만 갇혀 있어서 사무실이나 공장에서 일할 기회가 없었습니다. 여성들에게도 남성들처럼 일할 기회를 준다면, 생산량 증대에도 도움이 될 뿐만 아니라, 우리 정당의 지지율 또한 높아지게 될 것입니다."
 ###
 fra_womens_vote:0 "여성의 투표권"
 fra_womens_vote_desc:0 "The radical dream of womens sufferage has become a rising issue in French politics in the past few years, and it has reached a point where the issue can no longer simply be ignored. Granting women the vote will undoubtedly increase our popularity, but we must remember that not all women will vote for us, and this has the chance of creating further political divisions in the government."
@@ -272,7 +272,7 @@ fra_decentralize_economy:0 "경제 분권화"
 fra_decentralize_economy_desc:0 "정부의 경제개입이 오히려 경제에 악영향을 끼친다는 것이 또다시 확인됐으므로,우린 경제를 완전히 분산화시키고, 정부의 개입을 차단하여, 경제가 알아서 돌아가도록 해야만 할 것입니다."
 ###
 fra_unshakable_economics:0 "굳건한 경제"
-fra_unshakable_economics_desc:0 "마침내 우린 무너지는 프랑스 경제를 되살리는데 성공했으며, 그리고 새로운 경제체제 또한 만들어냈습니다. 이 새로운 체제와 함께라면, 우리 경제는 전쟁이 일어나건, 기근이 들건, 전염병이 돌건, 세계에 무슨 일이 있던 굳건히 견뎌낼 수 있을 것입니다."
+fra_unshakable_economics_desc:0 "마침내 우린 무너지는 프랑스 경제를 되살리는데 성공했으며, 그리고 새로운 경제체제도 만들어냈습니다. 이 새로운 체제만 있다면, 우리 경제는 세계에 전쟁이 일어나건, 기근이 들건, 전염병이 돌건, 무슨 일이 생기던 굳건히 견뎌낼 수 있을 것입니다."
 ###
 fra_watch_rhine:0 "Watch on the Rhine"
 fra_watch_rhine_desc:0 "The Rhine river has been under French control since the end of the Great War in 1919, and we have left the area vastly under-protected due to the friendly republican regime in Germany. With the rise of Dresslers nationalistic and militaristic regime, we need to bolster our defenses on the river Rhine in case of a pre-emptive German attack, and ensure that not a single German boot steps onto French soil."
@@ -296,10 +296,10 @@ fra_loosen_conscription:0 "Loosen Recruitment Requirements"
 fra_loosen_conscription_desc:0 "독일군이 또다시 파리를 향해 진군해 오고 있습니다. 독일군을 라인 강 너머로 몰아내려면, 우린 싸울 수 있는 사람이라면 누구든지 동원해야만 합니다."
 ###
 fra_even_lower_soldiers:0 "Further Loosen Conscription"
-fra_even_lower_soldiers_desc:0 "독일군은 파리를 향해 계속 진군해오고 있으며, 전황은 계속 악화되고만 있습니다. 1871년같은 꼴을 면하려면 우린 총을 쏠 수 있는 사람이라면 누구든지 총을 들게 해야만 합니다."
+fra_even_lower_soldiers_desc:0 "독일군은 파리를 향해 계속 진군해오고 있으며, 전황은 계속 악화되고만 있습니다. 1871년같은 꼴을 면하려면, 우린 총을 쏠 수 있는 사람이라면 누구든지 총을 들게 해야만 합니다."
 ###                      
 fra_desperate_defense:0 "늙고 병든 사람도"
-fra_desperate_defense_desc:0 "프랑스의 패배가 얼마 남지 않았습니다. 패배를 면하려면, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 만약 살아있는 프랑스인이라면, 누구든 총을 들어야만 할 것입니다."
+fra_desperate_defense_desc:0 "프랑스의 끝이 다가오고 있으니, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 살아있는 프랑스인이라면 누구든 총을 들어야만 할 것입니다."
 ###
 fra_ground_eyes:0 "Eyes on the Ground..."
 fra_ground_eyes_desc:0 "To fight a war blind is to commit yourself to certain defeat, we need to know where our enemies are at all times if we want to achieve victory in this new age of fast and mobile warfare where every second counts."
@@ -314,7 +314,7 @@ fra_integrate_colony_army:0 "Integrate Colonial Divisions"
 fra_integrate_colony_army_desc:0 "The French colonies have trained their divisions in tactics unfamiliar to the European powers, and as such they may be an effective fighting force on the frontline in the next war. Borrowing some colonial divisions will show us whether or not this is true."
 ###
 fra_mas_40:0 "MAS-40"
-fra_mas_40_desc:0 "새 무기를 개발하는 것은 전쟁의 승리에 있어 매우 중요한 것인데, 우린 최근 있었던 기술 개발 덕분에 진짜 '현대 무기'를 만들어낼 수 있었습니다, 바로 MAS-40이죠. 우리는 이 소총의 연구를 끝내고, 생산을 시작하는 것을 최우선 목표로 삼아야만 할 것입니다."
+fra_mas_40_desc:0 "새 무기를 개발하는 것은 전쟁의 승리에 있어 매우 중요한 것인데, 우린 최근 있었던 기술 개발 덕분에 진짜 '현대 무기'를 만들어낼 수 있었습니다, 바로 MAS-40이지요. 우리는 이 소총의 연구를 끝내고, 생산을 시작하는 것을 최우선 목표로 삼아야만 할 것입니다."
 ###
 fra_mil_institute:0 "French Institute of Military Technology"
 fra_mil_institute_desc:0 "We need to develop new ways of fighting on land, air, and sea, if we are to stay ahead of our enemies and achieve victory on all aspects of battle."
@@ -322,7 +322,7 @@ fra_mil_institute_desc:0 "We need to develop new ways of fighting on land, air, 
 fra_entente_tech:0 "Entente Joint Research Initiative"
 fra_entente_tech_desc:0 "The Entente is home to some of the brightest minds on this planet, organizing and combining their works for the benifit of our faction will greatly increase research potential for us all."
 ###
-fra_doctrine_school:0 "School of Doctrine"
+fra_doctrine_school:0 "교리 학교"
 fra_doctrine_school_desc:0 "Military doctrine is far more important than the military leaders of today give it credit for, and it is vital that we do not forget this fact when building up our army."
 ###
 fra_african_officers:0 "아프리카인 장교들"
@@ -340,8 +340,8 @@ fra_rockets_desc:0 "Early research on solid fuel combustion and propellants capa
 fra_curie_institute:0 "The Curie Institute"
 fra_curie_institute_desc:0 "Marie Curie was a famous French chemist who made an uncountable number of advancements in the scientific field, and was a great asset to the scientific community worldwide. We will construct an institute dedicated to her legacy and the preservation of science until the end of time."
 ###
-fra_mobile_age:0 "The Age of Mobile Warfare"
-fra_mobile_age_desc:0 "The writing is on the wall, stationary combat and slow-moving formations will not win us battles in this modern age. We need to motorize our army and practice new methods of transportation and supply if we are to succeed."
+fra_mobile_age:0 "기동전의 시대"
+fra_mobile_age_desc:0 "예전처럼 느리고 둔하게 움직이는 군대는 절대 현대전에서 승리할 수 없습니다. 우리가 전쟁에서 승리하고자 한다면, 우린 군대를 차량화시키고, 군대가 새 수송수단과 보급수단을 쓰도록 만들어야만 합니다."
 ###
 fra_mobile_army:0 "Army Mobilazation"
 fra_mobile_army_desc:0 "In order to win on the battlefield we need to be able to get our troops to where they need to be, before the enemy is able to out-manouver us. Improving logistics should allow us to achieve this with ease."
@@ -361,20 +361,20 @@ fra_motorized_defense_desc:0 "Putting our soldiers in a tin can on wheels and sh
 fra_reinforcements:0 "Improved Reinforcement Rate"
 fra_reinforcements_desc:0 "A faster army means that we will be able to reinforce our depleted divisions at a much greater rate, allowing them to stay in the fight and stay stronger for a much greater period of time."
 ###
-fra_mechanize_army:0 "군대 기계화Mechanizing the Army"
+fra_mechanize_army:0 "군 기계화"
 fra_mechanize_army_desc:0 "Our motorized project is complete, and we have seen great success across the board. New developments with experimental half-tracks have shown even greater potential, and clearly the way to military success is with full mechanization of the army."
 ###
-fra_hold_line:0 "전선을 사수하라"
+fra_hold_line:0 "전선 사수"
 fra_hold_line_desc:0 " 대전쟁이 우리에게 남긴 교훈이 있다면, 그건 국가의 멸망을 막으려면 독일군이 절대 우리 산업 중심지를 건드리지 못하게 해야만 한다는 것입니다. 일단 적군을 최전선에서 막아낼 수만 있다면, 병력을 모아 적을 충분히 몰아낼 수 있을 것입니다!"
 ###
 fra_trench_bunker:0 "참호를 요새로"
 fra_trench_bunker_desc:0 "대전쟁 도중 건설된 여러 요새화된 참호선들은 대부분 방어하기 매우 편리하면서도 전술적으로 중요한 곳에 지어졌습니다. 이런 참호선들을 요새와 엄폐호들로 전환한다면, 칼레 방향으로 쳐들어오는 적을 더 쉽게 막아낼 수 있을 것입니다."
 ###
-fra_fort_alsace:0 "Fortify Alsace"
-fra_fort_alsace_desc:0 "Our most vunerable border is by far the one we share with Germany. While the river Rhine provides some form of natural defense, wouldn't it be better if we were able to cut down the enemy attempting to ford the river with machine gun fire and artillery barrages?"
-###
+fra_fort_alsace:0 "알자스 요새화"
+fra_fort_alsace_desc:0 "아마 방어시설이 가장 필요한 지역은, 사악한 독일과 맞닿아 있는 알자스 지역일 것입니다. 라인 강 덕분에 방어가 쉽기는 하지만, 강을 넘어온 적과 싸우는것보단, 강을 넘어오려는 적을 기관총과 포격으로 저지하는게, 더 쉽고 편하지 않을까요?
+
 fra_fort_savoy:0 "사보이 요새화"
-fra_fort_savoy_desc:0 "이탈리아가 지금은 우리와 동맹이기는 하지만, 대전쟁 도중 오스트리아와 독일을 배신했던 것을 생각하면, 이탈리아가 우리를 배신하지 않을 거라고 보장할 수는 없습니다. 이탈리아와 접하고 있는 사보이 지역을 요새화한다면, 아마 이탈리아가 우릴 배신하더라도 막아낼 수 있을 것입니다."
+fra_fort_savoy_desc:0 "이탈리아는 현재 우리와 동맹 관계를 맺고 있습니다 그렇지만 대전쟁 도중 이탈리아가 오스트리아와 독일을 배신했던 것을 생각하면 이탈리아가 우리를 배신하지 않을 거라고 보장할 수는 없습니다. 이탈리아와 접하고 있는 사보이 지역을 요새화한다면, 아마 이탈리아가 우릴 배신하더라도 막아낼 수 있을 것입니다."
 ###
 fra_fort_spain:0 "Fortify the Pyrenees"
 fra_fort_spain_desc:0 "The civil war in Spain has shaken the political situation in the region to its very core, and the entire Iberian Peninsula seems ready to blow at a moments notice. We must ensure that the mountain range which seperates us from the Spanish is firmly under our control and diligant watch."
@@ -382,22 +382,22 @@ fra_fort_spain_desc:0 "The civil war in Spain has shaken the political situation
 fra_heavy_tanks:0 "움직이는 요새"
 fra_heavy_tanks_desc:0 "The idea of larger and larger tanks has been in the back of the minds of the worlds tank theorists since their introduction in the Great War. Our own development of these heavy tanks will prove invaluable on the battlefield."
 ###
-fra_defense_doctrine:0 "Adopt Defensive Doctrines"
+fra_defense_doctrine:0 "Adopt Defensive Doctrine"
 fra_defense_doctrine_desc:0 "What good is getting involved in war if we are unable to defend our core territory from attack? The further research of defensive doctrines will help keep our citizens safe while simultaniously killing more of our enemies."
 ###
-fra_imperial_industry:0 "Industry for an Empire"
+fra_imperial_industry:0 "제국을 위한 산업"
 fra_imperial_industry_desc:0 "The French Industry is practically unrivaled on the planet, not counting the sleeping American giant which shows no signs of waking any time soon. We must ensure that this lead is maintained if we are to out-produce our enemies across the globe."
 ###
 fra_move_industry:0 "Safeguarding our industry"
 fra_move_industry_desc:0 "A large portion of our industrial base is located in the Calais region near the Belgian border. If the Germans ever choose to invade us again, we must ensure that our valuable industry does not fall into their hands and be used against us."
 ###
-fra_industry_loire:0 "To the Loire"
+fra_industry_loire:0 "루아르로"
 fra_industry_loire_desc:0 ""
 ###
-fra_industry_aquitaine:0 "To Aquitaine"
+fra_industry_aquitaine:0 "아퀴텐으로"
 fra_industry_aquitaine_desc:0 ""
 ###
-fra_industry_rhone:0 "To the Rhone"
+fra_industry_rhone:0 "론으로"
 fra_industry_rhone_desc:0 ""
 ###
 fra_hydro_electric:0 "수력발전 연구"
@@ -463,8 +463,8 @@ fra_cadet_corps_desc:0 "The key to a well-trained army is to have the soldiers o
 fra_legacy_begone:0 "A New Legacy"
 fra_legacy_begone_desc:0 "The horros of the Great War are behind us, and a new age has dawned for our military and industry. We will march forward into the next decade with stoicism, confidence, and an unyielding attitude."
 ###
-fra_somme_begone:0 "Remember the Somme"
-fra_somme_begone_desc:0 "We must remember those who fell during the Battle of the Somme, and all those who fell in service of our great nation during all our wars. But we must not let their sacrifice be in vein, we must fight on to honour their legacy."
+fra_somme_begone:0 "솜 전투를 기억하라"
+fra_somme_begone_desc:0 "우리는 솜 전투에서 쓰러진 병사들은 물론, 조국을 수호하다 전사한 병사들 모두를 기려야만 합니다. 그렇지만 이게 그냥 주저앉아 울어야만 한다는 것은 아닙니다. 대신, 우린 쓰러진 이들을 위해서라도 싸워나가야만 합니다."
 ###
 fra_defensive_mastery:0 "Defensive Mastery"
 fra_defensive_mastery_desc:0 "Our developments of defensive doctrines and tactics has transformed our army into an immovable object which no enemy could ever hope of pushing away, we have created a fortress to keep our people safe for all time."
@@ -505,7 +505,7 @@ fra_colonial_migration_desc:0 "We can never truly claim our African colonies to 
 fra_gold_coast_ports:0 "Gold Coast Ports"
 fra_gold_coast_ports_desc:0 "Making the trip around Africa without the use of the Suez Canal is dangerous at best, and without sufficiant ports our ships run the risk of running out of supply and never reaching their destination. Constructing new ports along the Gold Coast will provide us with a valuable stopping point for our ships to use."
 ###
-fra_algerian_forts:0 "Fortify Algeria"
+fra_algerian_forts:0 "알제리 요새화"
 fra_algerian_forts_desc:0 "Should our enemies ever reach North Africa, we will need hard emplacements in order to keep them from completely overruning us and bringing an end to the French state."
 ###
 fra_pan_african_prospecting:0 "Pan-African Resource Extraction"
@@ -672,13 +672,13 @@ fra.7.d:0 "After several days of deliberation, the jury has appeared once more i
 fra.7.a:0 "The Bloc National will survive."
 fra.7.b:0 "This scandal has proven too much, disband the Bloc National."
 ###
-fra.8.t:0 "The election is over"
+fra.8.t:0 "총선이 끝나다"
 fra.8.d:0 "After a tense couple of days, the ballots have all been tallied and the winner of the election is shortly going to be announced."
-fra.8.a:0 "The Bloc National wins!"
-fra.8.b:0 "The SFIO wins!"
-fra.8.c:0 "The Radical-Socialists win!"
-fra.8.e:0 "The Democratic Republican Alliance wins!"
-fra.8.f:0 "The military storms Paris and declares a Junta!"
+fra.8.a:0 "국가블록이 승리하다!"
+fra.8.b:0 "SFIO가 승리하다!"
+fra.8.c:0 "급진사회주의자들이 승리하다!"
+fra.8.e:0 "민주공화동맹이 승리하다!"
+fra.8.f:0 "군대가 파리를 점거하고 군사정권을 수립하다!"
 ###
 fra.9.t:0 "Supplies from Tunisia"
 fra.9.d:0 "Months have passed since our projects in Tunisia attempted to modernize the region and make it profitable. Early today a shipment of supplies from Tunis has arrived in Toulon, and we have recieved a message from the Resident-General of Tunisia detailing the contents of the shipment."
@@ -721,7 +721,7 @@ fra.17.t:0 "Manouvers along the Pas-de-Calais"
 fra.17.d:0 "Ever since the Great War came to an end in 1919, French military staff have been scrutinizing every decision made throughout the course of the war and playing wargames to see what they could have done better. Several diffrent previaling schools of thought have taken hold, and the arguments nearly turned violent before the Chief of Army stepped in to mediate the situation. \n\nWhat followed were a series of live wargames in the Pas-de-Calais region of France, with one side representing Germany and the other representing France. What the officers found was that using conventional tactics, both armies were forced into a state of trench warfare within weeks of the simulated war beginning. A promising new "Guerre éclair" tactic showed many signs of success, involving a lightly armoured spearhead which would punch through the enemy lines before spreading out like a funnel, allowing allied soldiers to capture huge swaths of enemy troops and hostile land. Combined with an air offensive, it was believed that this new "Lightning War" could potentially turn the tide in France's favour during the next major continential war. \n\nIt was not soon after, however, that several officers found major faults with the plan. Fuel and supply shortages were rampant with this doctrine, and the risk of being cutoff from the main army was extremely high if the enemy force were able to break through the spearhead. It was for these reasons that the plan was essentially scrapped by the end of the wargames. \n\nWe may not have found our magical new doctrine, but the army has certainly learned a thing or two about fighting a modern, defensive war."
 fra.17.a:0 "Guerre éclair, doesn't that mean something in German?"
 ###
-fra.18.t:0 "The 1936 Tour de France"
+fra.18.t:0 "1936년도 투르 드 프랑스"
 fra.18.d:0 "The 30th edition of the Tour de France concluded today, as the riders crossed the finish line and ended the annual tradition. The top time was a blistering 142 hours and was achieved by the Belgian rider Sylvère Maes. This Tour de France differed from past races in that it was broken up into three seperate parts, and top three in each stage would recieve a boost to their time depending on which position they held at the end of each individual section. \n\nHenri Desgrange insisted that he conduct the race himself, despite having undergone kidney surgery only weeks prior to the start of the race. Still, he was determined to follow the race in a car full of cushions, causing quite the scene whenever he drove through a city full of spectators. After the second stage, Desgrange stopped and handed control of the race over to Jacques Goddet for the final third of the race. \n\nMany cheered on France's own Antonin Magne through the race, and he managed to achieve a respectable second place overall, nearly half an hour behind Sylvère Maes. \n\nWith the Tour de France over, the citizens go back to their daily lives, waiting in anticipation for next years race to begin."
 fra.18.a:0 "How exciting, I can't wait for next year!"
 ###
@@ -737,7 +737,7 @@ fra.21.t:0 "The death of Juliette Adam"
 fra.21.d:0 "French author and feminist Juliette Adam passed away yesterday in Southern Paris, she was reportedly with both friends and family when she died. \n\nJuliette Adam was famous for several acomplishments, not least of all her detailed account of her childhood and the discord between her parents which she acutely remembered. She was also remembered for her several accounts of foreign politics during her life, and made several devisive writings criticizing Bismarck and his policy of German revanchism and unification."
 fra.21.a:0 "Truly a model citizen to the end."
 ###
-fra.22.t:0 "Military coup!"
+fra.22.t:0 "군대의 쿠데타!"
 fra.22.d:0 "In the early hours of yesterday morning, a large detachment of French soldiers defending the outskirts of Paris suddenly turned around and stormed the parliament building as well as several other important government offices! The military has declared a junta in place of the democratic government in a seemingly desperate attempt to salvage the military situation and stall the German invasion. \n\nIt is unknown what the true intentions of this military government are, and many believe that this was in fact orchestrated by the far-right Action Française. Regardless, the new military government has directed all of the nations resoures towards the frontline, and for the time being the situation seems to have stabalized."
 fra.22.a:0 "When will this chaos end?"
 ###
@@ -948,14 +948,14 @@ fra.70.t:0 "Britain has abandoned the Belgians!"
 fra.70.d:0 "It appears the British lion wishes to sleep a little while longer, as they have refused to support the Belgians in their effort to stall the inevitable and create a potentially global conflict. Nothing lays in our path now, and we are free to enforce our demands for Wallonia once and for all."
 fra.70.a:0 "Let's finally resolve this matter"
 ###
-fra.71.t:0 "The French Ultimatum"
+fra.71.t:0 "프랑스의 최후통첩"
 fra.71.d:0 "We have been abandoned by our allies, and the French have seen fit to enforce their demands upon us. French soldiers wait just across the border for the signal to attack, and we are hopelessly powerless to defeat them diplomatically. Our only hope now is to either cede Wallonia and hope for peace, or use rivers and bunkers to delay the French invasion long enough for a miracle to occur. \n\nThis next decision could dictate the course of our nation for decades to come, think carefully."
-fra.71.a:0 "We will defeat the French on the field!"
-fra.71.b:0 "We will have our revenge one day..."
+fra.71.a:0 "우린 맞서 싸울 것이다!"
+fra.71.b:0 "언젠가는 복수할 날이 오겠지..."
 ###
-fra.72.t:0 "The Belgians continue to defy us!"
-fra.72.d:0 "In a completely unexpected turn, the Belgians have decided that it is in their best interests to refuse our demands and prepare for combat. We fully expect to crush the Belgian army, and many believe we will be in Brussels by the end of the week."
-fra.72.a:0 "To war, by jingo!"
+fra.72.t:0 "벨기에가 요구를 거부하다!"
+fra.72.d:0 "우리 예상과는 달리, 벨기에가 우리 요구를 거부하고 전쟁을 선택했습니다. 우리 장교단은 벨기에군은 우리 군대에 비하면 한참 부족한 수준이므로 , 이번 주말이면 아마 브뤼셀을 점령할 수 있을 거라고 보고 있습니다."
+fra.72.a:0 "To War, By Jingo!"
 ###
 fra.5000.t:0 "France offers arms contracts!"
 fra.5000.d:0 "The French have approached our government with an offer, they are willing to hand over several factories for a period of 90 days in exchange for some of our newest military technology or a large sum of guns. Accepting this offer would be of great benifit to our industry, but should the French ever come to oppose us, we would be lowering our chances of victory against them."
@@ -985,8 +985,8 @@ fra.5005.b:0 "Dismantle his plane, we must learn its secrets."
 
 #### IDEAS ####
 
-FRA_great_war_legacy:0 "Legacy of the Great War"
-FRA_great_war_legacy_desc:0 "The Great War lasted a horrible six years and saw the death of over two million soldiers and civilians combined. This devestating war has left a scar on our nations that will take decades, if not centuries to fully heal, and the horrors of war are not forgotten on many."
+FRA_great_war_legacy:0 "대전쟁의 유산"
+FRA_great_war_legacy_desc:0 "20세기 최대의 전쟁이였던 대전쟁은, 6년이라는 기간 동안 총 2백만 명의 시민과 병사들을 잡아먹고서야 끝났습니다. 대전쟁은 프랑스에게 완전히 회복하는데 수십년, 어쩌면 수백년이 걸릴지도 모를 상처를 남겼으며, 대전쟁의 참상은 수많은 프랑스인들의 기억 속에 여전히 생생하게 남아 있습니다."
 ###
 FRA_somme:0 "Memories of the Somme"
 FRA_somme_desc:0 "The Battle of the Somme was one of the longest and bloodiest battles of the Great War, spanning an incredible 140 days in the Nothern section of the Somme River, the battle has caused our society to recoil in horror at the thought of such an engagement ever taking place again, and few are willing to take up arms once more in defense of the nation."
