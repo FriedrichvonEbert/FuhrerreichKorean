@@ -741,13 +741,13 @@ fra.22.t:0 "군대의 쿠데타!"
 fra.22.d:0 "In the early hours of yesterday morning, a large detachment of French soldiers defending the outskirts of Paris suddenly turned around and stormed the parliament building as well as several other important government offices! The military has declared a junta in place of the democratic government in a seemingly desperate attempt to salvage the military situation and stall the German invasion. \n\nIt is unknown what the true intentions of this military government are, and many believe that this was in fact orchestrated by the far-right Action Française. Regardless, the new military government has directed all of the nations resoures towards the frontline, and for the time being the situation seems to have stabalized."
 fra.22.a:0 "When will this chaos end?"
 ###
-fra.23.t:0 "And end to the Junta"
+fra.23.t:0 "군사정권의 종식"
 fra.23.d:0 "The war is over, and we has miraculously come out on top against our German foe. With the end of the war, the question of the ruling military junta was one in the minds of many Frenchmen who had endured the war under their military-driven leadership. This general discontent, along with army elements loyal to the Republic returning home en masse, has persuaded the military junta to step down and allow the democratic government to take back control.\n\nDuring the war, many of France's citizens turned to socialist ideals in the hopes of a brighter future after the war, and as such many are calling for the instilation of the SFIO to form a government with which to repair our shattered nation. Still, both liberal and conservatives alike remain popular within the minds of citizens, and the restoration of a traditional government may be what we need in order to bring about a new era of prosperity."
 fra.23.a:0 "The SFIO will form a government"
 fra.23.b:0 "The Radical-Socialists will form a government"
 fra.23.c:0 "The Democratic Republican Alliance will form a government"
 ###
-fra.24.t:0 ""The Future of our Republic""
+fra.24.t:0 ""공화국의 미래""
 fra.24.d:0 "Fighting rages on across our Republic, and in the past days we have begun to see a total collapse of our front lines as German forces punch through our defenses at lightning speed and with brutal efficiancy. Many have declared these to be the final days of the Third Republic, and hope is fleeting. \n\nCharles De Gaulle, recently promoted to Brigadier General for his gallant actions during the early phases of the German invasion, has approached the faltering government with a most radical plan. For the past week he has been desperately drawing up plans for a complete evacuation of our military and political assets across the Mediterranean Sea to our holdings in Algeria so that we may continue the fight there. Little needs to be said of the ambition of this plan, and simply the idea of it has caused great divide in our already weakened government. [ROOT.GetLeader] has been given the unfortunate task of deciding whether or not to accept De Gaulle's plans, and no matter which he chooses many more Frenchmen will die and support for his party will be lost. \n\nGeneral De Gaulle has repeatedly stressed that this is the only way for us to defeat the German menace which ravages our land, and with the sound of battle drawing nearer, we are evidently out of time to ponder the outcome of either decision."
 fra.24.a:0 "We must continue the fight, no matter how far we must flee..."
 fra.24.b:0 "Nonsense, we have them on the back foot!"
@@ -848,7 +848,7 @@ fra.47.t:0 "France and Italy demand our territory!"
 fra.47.d:0 "A joint telegram from Paris and Rome has reached our capital today, and it would appear that it holds most unfortunate news. The radical French and Italian governments, having taken power not long ago, have decided it to be in their best interests to prey on their smaller neighbors. The French have demanded the Romandie region, a part of Switzerland inhabited largely by French-speaking Swiss citizens. The Italians on the other hand have demanded the Tessin region, a large border strip in which much of the population speaks an Italian dialect. \n\nThese demands clearly violate our territorial integrity, and our population is ready to fight at all costs. However, the best option may be to relent and live with the consequences of these actions."
 fra.47.a:0 "Alas, we are powerless"
 fra.47.b:0 "We are a nation of mountains, we will not back down so easily!"
-###
+### 
 fra.48.t:0 "France demands our territory!"
 fra.48.d:0 "A telegram from Paris has reached our capital today, and it would appear that it holds most unfortunate news. The radical French government, having taken power not long ago, has decided it to be in their best interests to prey on their smaller neighbors. The French have demanded the Romandie region, a part of Switzerland inhabited largely by French-speaking Swiss citizens. \n\nThese demands clearly violate our territorial integrity, and our population is ready to fight at all costs. However, the best option may be to relent and live with the consequences of these actions."
 fra.48.a:0 "Alas, we are powerless"
@@ -897,7 +897,7 @@ fra.58.d:0 "In the early morning hours of yesterday, a small strike force of Fre
 fra.58.a:0 "A necessity in order to ensure peace."
 ###
 fra.59.t:0 "Occupation of the Pyrenees"
-fra.59.d:0 "French mountaineers have set up defensive positions along the Pyrenees and seized several key towns in the region. There was a surprisingly large loss of life as the entrenched Spanish positions proved to be extremely fortified, but the passes have finally come under our control."
+fra.59.d:0 "우리 산악병들이 피레네 산맥 주변에 진지를 세우고는 주변 마을들을 점거했습니다. 스페인군의 요새들 때문에 상당한 손실을 입기는 했지만, 피레네는 이제 우리 손 안에 들어왔습니다."
 fra.59.a:0 "A necessity in order to ensure peace."
 ###
 fra.60.t:0 "French diplomatic tensions"
@@ -908,7 +908,7 @@ fra.61.t:0 "Rise of the AF"
 fra.61.d:0 "With the appointment of Georges Valois as the head of the French government, the Action Française has risen to prominence and taken the forefront of French politics. Monarchists are entering government positions at a staggering rate, and there is talk of restoring the French monarchy under the house of Orleans. Whether or not these rumours will prove to be true is yet to be seen, but there is a large political shift taking place internally, and we may soon see yet another radical change in French politics."
 fra.61.a:0 "Turmoil may be on the horizon"
 ###
-fra.62.t:0 "The French demand Wallonia!"
+fra.62.t:0 "프랑스가 왈로니아를 요구하다!"
 fra.62.d:0 "Despite our best hopes, the authoritarian regime in France has begun to look outwards with an expansionist policy. We have recieved an official diplomatic telegram from Paris outlining a list of demands, notably including the transfer of the French-speaking region of Wallonia. \n\nWallonia is an integral part of the Belgian nation, and handing it over to the French would mean practically surrendering our sovereignty to the French. However, victory is unlikely unless we are able to secure the backing of another major European power, and the British appear to be our only choice in that matter. \n\nHow should we proceed?"
 fra.62.a:0 "Alas, we are powerless."
 fra.62.b:0 "The Belgian lion stands her ground!"
