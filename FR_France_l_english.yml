@@ -589,7 +589,7 @@ fra_carrier_experiments_desc:0 "The Japanese, Americans, and British all use rad
 fra_alone_weak:0 "Alone we are weak..."
 fra_alone_weak_desc:0 "Our fleet must be made up of many smaller ships in order to be able to quickly reach all areas of the globe and respond to crises wherever they may appear."
 ###
-fra_wolfpacks:0 "Wolfpacks"
+fra_wolfpacks:0 "울프팩"
 fra_wolfpacks_desc:0 "Small, independant groups of submarines can partrol large bodies of water in search of hostile convoys and destroy them before ever being discovered. This is critical in starving out our enemy and defeating them on land."
 ###
 fra_undersea_armada:0 "The Undersea Armada"
@@ -672,8 +672,8 @@ fra.7.d:0 "After several days of deliberation, the jury has appeared once more i
 fra.7.a:0 "The Bloc National will survive."
 fra.7.b:0 "This scandal has proven too much, disband the Bloc National."
 ###
-fra.8.t:0 "총선이 끝나다"
-fra.8.d:0 "After a tense couple of days, the ballots have all been tallied and the winner of the election is shortly going to be announced."
+fra.8.t:0 "총선의 끝"
+fra.8.d:0 "치열한 선거가 끝나고, 투표가 모두 집계되었습니다. 조만간 어떤 정당이 이번 총선에서 승리했는지가 발표될 것입니다."
 fra.8.a:0 "국가블록이 승리하다!"
 fra.8.b:0 "SFIO가 승리하다!"
 fra.8.c:0 "급진사회주의자들이 승리하다!"
@@ -704,9 +704,9 @@ fra.13.a:0 "Philippe Pétain retains his position"
 fra.13.b:0 "Georges Valois assumes control of the government"
 fra.13.c:0 "François de La Rocque is elected leader"
 ###
-fra.14.t:0 "The Coronation of Jean III"
+fra.14.t:0 "장 3세의 즉위식"
 fra.14.d:0 "With the entirety of the country on our side, and our enemies unable to move against us, Prince Jean of the house of Orléans has accepted our invitation to take back the French thone which has been vacant for the past 56 years. We expect a huge crowd in Paris, and security must be top-notch to ensure our King is not assassinated at his very own coronation."
-fra.14.a:0 "Vive le roi!"
+fra.14.a:0 "만수무강하소서!"
 ###
 fra.15.t:0 "Workers in Poitou strike!"
 fra.15.d:0 "Despite our revokation of the legality of strikes in France, a group of working in La Rochelle have stopped showing up to work and have demanded increased safety regulations and a higher wage. This has presented somewhat of a crisis in our government, as accepting these demands would tarnish our name severly and cause a serious drop in our authority. However, sending in the military risks escalating the situation and causing more widespread strikes."
@@ -876,13 +876,13 @@ fra.53.t:0 "The Romandie Conflict"
 fra.53.d:0 "Tensions have skyrocketed these past few days on the Franco-Swiss border. Many around the world are holding their breath to see what we will do next, whether we will attack or back down to a nation which has stolen our people and defied our demands. The time has come to invade Switzerland, come hell or high water."
 fra.53.t:0 "Rally the troops!"
 ###
-fra.54.t:0 "Black Wednesday hits France!"
-fra.54.d:0 "The economic downturn across the English Channel has finally struck us, and our shambled-together economic defenses were no match for the worlds largest economy collapsing in on itself. The value of the Franc has sank to a never-before-seen low, and it shows no sign of slowing down any time soon. Our economists are doing their best to devise plans to combat this depression, but the French economy will be undoubtedly suffer for months to come, if not more. \n\nOur colonial offices, which are deeply tied to the Metropolitan economy, have seen a near-total collapse of their fledgling economies. Our Indochinese colonies have requested a full bailout of their debts and our companies in French Africa have almost all filed for bankruptcy. \n\nIt is clear that something needs to be done quickly if we are to have any hope of recovering our economy in a timely manner."
-fra.54.a:0 "This is a tragedy!"
-fra.54.b:0 "Whatever will we do?"
+fra.54.t:0 "검은 수요일이 프랑스에게 닥치다!"
+fra.54.d:0 "해협 너머에서 시작된 대공황이 마침내 우리에게도 닥쳐왔습니다. 우리의 아주 소박한 경제는 세계 최대의 경제가 무너지면서 똑같이 무너지고 있습니다. 프랑의 가치는 역사상 최소 수준으로 떨어졌으며, 회복할 기미는 보이지 않고 있습니다. 여러 경제학자들이 이번 대공황에서 벗어날 방법을 열심히 모색하고는 있지만, 우리 경제는 적어도 수개월, 아니면 수년동안 시달릴 것으로 보입니다. \n\n 프랑스 본토의 경제가 무너지면서, 본토 경제와 매우 밀접한 관계를 맺고 있는 식민지들의 경제 또한 무너지고 있습니다. 프랑스령 인도차이나는 이미 구제금융을 신청했으며, 프랑스령 아프리카의 회사들은 거의 파산 상태까지 몰려있는 상황입니다. \n\n경제를 살리려면, 지금 당장 뭐든지 해야만 합니다."
+fra.54.a:0 "정말 끔찍한 소식이구만!"
+fra.54.b:0 "뭔갈 한다고 해서 달라질까?"
 fra.54.c:0 "This does not bode well..."
-fra.54.e:0 "Something must be done!"
-fra.54.f:0 "Can't we just catch a break?"
+fra.54.e:0 "뭐라도 해야만 해!"
+fra.54.f:0 "그냥 잠깐 좀 쉬면 안돼?"
 ###
 fra.55.t:0 "The Situation Improves"
 fra.55.d:0 "Economic policies and initiatives taken by the government have led to a drastic improvement of our economic situation. The worst may finally be behind us and we will soon be back on track to prosperity."
@@ -890,7 +890,7 @@ fra.55.a:0 "Wonderful news!"
 ### Event fra.56 uses the same text as 55.
 fra.57.t:0 "Economic Prosperity Returns"
 fra.57.d:0 "The effects of Black Wednesday have finally subsided and prices across France have returned to stable levels. Few will soon forget the effects of this tragedy, and preventative measures have been in place to ensure something of this magnitude never happens again"
-fra.57.a:0 "Is bread finally affordable again?"
+fra.57.a:0 "이제 다들 빵을 살 수 있게 된 건가?"
 ###
 fra.58.t:0 "The Occupation of the Canaries"
 fra.58.d:0 "In the early morning hours of yesterday, a small strike force of French marines departed from Casablanca for the Canary Islands, presently held by the Spanish falangists. The operation lasted a total of 16 hours, and began with the seizure of the the island of Fuerteventura and Gran Canaria. Intense fighting was reported on the island of Tenerife, and the city of Santa Cruz de Tenerife held out despite being entirely surrounded for several hours.\n\nBy midday, the capital city had fallen and the marines had moved onto the final three Western islands in the chain. Small pockets of resistance held out in the forested mountains for over a day before finally being starved and coerced out into surrender. \n\nThe marines set up a local garrison upon the capture of the island chain, and were faced with only minor civilian resistance before finally handing the island chain over to the French government. A local administration is presently being set up and the islands will soon be fully integrated into the colonial sphere."
@@ -910,21 +910,21 @@ fra.61.a:0 "Turmoil may be on the horizon"
 ###
 fra.62.t:0 "프랑스가 왈로니아를 요구하다!"
 fra.62.d:0 "Despite our best hopes, the authoritarian regime in France has begun to look outwards with an expansionist policy. We have recieved an official diplomatic telegram from Paris outlining a list of demands, notably including the transfer of the French-speaking region of Wallonia. \n\nWallonia is an integral part of the Belgian nation, and handing it over to the French would mean practically surrendering our sovereignty to the French. However, victory is unlikely unless we are able to secure the backing of another major European power, and the British appear to be our only choice in that matter. \n\nHow should we proceed?"
-fra.62.a:0 "Alas, we are powerless."
+fra.62.a:0 "어쩔 수 없다, 요구를 들어주자."
 fra.62.b:0 "The Belgian lion stands her ground!"
 ###
-fra.63.t:0 "The Belgians beg for our support!"
-fra.63.d:0 "We've recieved an urgent telegram from Brussels, it would appear the French have demanded that the Belgians give up several sovreign rights as well as the region of Wallonia. The Belgians, ever defiant and determined to remain independent, have requested that we back them both politically and militarily in the case of a French incursion into their territory. Accepting may prevent another major war in Europe from starting, but there is an equal chance of us starting a war with the French which may soon engulf the world in flames,  we must choose carefully."
-fra.63.a:0 "The Belgians have our unconditional support!"
-fra.63.b:0 "We must abandon our European allies for the time being."
+fra.63.t:0 "벨기에가 도움을 요청하다!"
+fra.63.d:0 "브뤼셀에서 긴급한 전보가 날아왔습니다. 프랑스가 벨기에에게 왈로니아 지역과 함께 여러 국가주권을 내놓으라고 요구를 보냈다고 합니다. 굳세게 버티고 있는 벨기에는, 만약 프랑스가 침공해온다면 군사 및 외교적 지원을 보내달라고 요청했습니다. 이를 들어준다면 또다시 대규모 전쟁이 일어나는 것을 막을 수 있을 수도 있지만, 동시에 우리와 프랑스가 전쟁을 하게 되면서, 유럽 수준이 아닌 세계 수준의 대규모 전쟁이 벌어질 수도 있으니, 우린 신중하게 선택해야만 할 것입니다."
+fra.63.a:0 "우린 무조건 벨기에를 지원할 것이다!"
+fra.63.b:0 "안타깝지만, 지금은 벨기에를 도와줄 수가 없다."
 ###
 fra.64.t:0 "The Belgians are stalling!"
 fra.64.d:0 "In a long-winded and needlessly verbose response, the Belgians have sent us a response in which they appear to have neither agreed to nor denied our demands, and they are clearly stalling for time. We cannot simply invade the Belgians, as we do not yet have a just cause, and we may risk an international coalition of nations reminiscent of that which brought down Napoleon I in the earth 19th Century. The British are the Belgians most likely ally, and we have no choice but to wait and see what their response is to the situation."
 fra.64.a:0 "Let's hope Albion refuses to meddle in our affairs."
 ###
-fra.65.t:0 "Britain gives us their backing!"
-fra.65.d:0 "Joyous news has arrived from London, the British government has given us their full political and military backing against the French demands. While many are worried that another major European war may loom on the horizon, the French are likely to simply back down when we have the backing of an international empire at our side."
-fra.65.a:0 "We should prepare for war either way..."
+fra.65.t:0 "영국이 우리를 지원하다!"
+fra.65.d:0 "기쁜 소식입니다, 영국 정부가 우리에게 대규모 군사지원 및 외교적 지원을 보내기로 했다고 합니다. 많은 사람들이 또다시 대규모 전쟁이 벌어지지는 않을까 걱정하고는 있지만, 이제 대영제국이 우리 편을 들어주기로 했으니, 아마 프랑스는 전쟁보다는 포기를 택할 것입니다."
+fra.65.a:0 "어쨌든 전쟁을 준비하기는 해야겠군..."
 ###
 fra.66.t:0 "Britain has backed the Belgians"
 fra.66.d:0 "It seems that the Belgian effort to stall us has worked, as they have somehow managed to acquire the full backing of the British Empire. This development has decisively turned the tables from our favour, and much of the government believes that a war with Britain could end disasterously with the current political situation in Europe. Backing down would make us look weak and lead to internal instability, but pressing our claim may drag us into a war in which we have no ability to win."
@@ -940,8 +940,8 @@ fra.68.t:0 "Belgium stands defiant!"
 fra.68.d:0 "It seems the British have given the Belgians enough confidence to deny our demands, and they have left us with no other choice than to press our claims with military force. While this outcome is regretable, there is little doubt that we will be able to best both the British and Belgians on the field."
 fra.68.a:0 "The Armée Royale will not be defeated!"
 ###
-fra.69.t:0 "Britain has abandoned us!"
-fra.69.d:0 "Disasterous news, the British have refused to abandon their isolationist policy and have chosen instead to abandon us in our hour of need. We have little left to stall the French with, and they are pressing us further with their territorial and military demands."
+fra.69.t:0 "영국이 우리를 저버리다!"
+fra.69.d:0 "끔찍한 소식입니다, 영국이 우리를 포기하고는 고립정책을 유지하기로 했다고 합니다. 영국이 이번 분쟁에서 빠지면서, 프랑스는 자신들의 요구를 더 강하게 밀어붙이고 있습니다. 이제 조만간 최후통첩을 보낼 생각인 것 같습니다."
 fra.69.a:0 "Can't trust anyone these days, can you?"
 ###
 fra.70.t:0 "Britain has abandoned the Belgians!"
@@ -949,13 +949,13 @@ fra.70.d:0 "It appears the British lion wishes to sleep a little while longer, a
 fra.70.a:0 "Let's finally resolve this matter"
 ###
 fra.71.t:0 "프랑스의 최후통첩"
-fra.71.d:0 "We have been abandoned by our allies, and the French have seen fit to enforce their demands upon us. French soldiers wait just across the border for the signal to attack, and we are hopelessly powerless to defeat them diplomatically. Our only hope now is to either cede Wallonia and hope for peace, or use rivers and bunkers to delay the French invasion long enough for a miracle to occur. \n\nThis next decision could dictate the course of our nation for decades to come, think carefully."
+fra.71.d:0 "영국이 우릴 저버리면서, 프랑스를 막는 건 이제 아무것도 없게 되었습니다. 프랑스군은 이미 국경 바로 너머에서 공격명령만을 기다리고 있으며, 프랑스는 외교적으로도 우릴 찍어누르고 있습니다. 우리가 할 수 있는 것은 이제 왈로니아를 떼어주고 평화를 바라던지, 강과 요새들을 이용하여 프랑스를 막아내면서 기적이 일어나기만을 기다리던지, 둘 중 하나 뿐입니다.\n\n이번 선택은 우리 나라의 운명을 결정지을지도 모릅니다. 신중하게 선택하십시오."
 fra.71.a:0 "우린 맞서 싸울 것이다!"
 fra.71.b:0 "언젠가는 복수할 날이 오겠지..."
 ###
-fra.72.t:0 "벨기에가 요구를 거부하다!"
-fra.72.d:0 "우리 예상과는 달리, 벨기에가 우리 요구를 거부하고 전쟁을 선택했습니다. 우리 장교단은 벨기에군은 우리 군대에 비하면 한참 부족한 수준이므로 , 이번 주말이면 아마 브뤼셀을 점령할 수 있을 거라고 보고 있습니다."
-fra.72.a:0 "To War, By Jingo!"
+fra.72.t:0 "벨기에가 우리 요구를 거부하다!"
+fra.72.d:0 "우리 예상과는 달리, 벨기에가 우리 요구를 거부하고 전쟁을 택했습니다. 우리 장교단은 벨기에군은 우리 군대에 비하면 한참 부족한 수준이므로 , 이번 주말이면 아마 브뤼셀을 점령할 수 있을 거라고 보고 있습니다."
+fra.72.a:0 "징고의 이름으로, 공격하라!"
 ###
 fra.5000.t:0 "France offers arms contracts!"
 fra.5000.d:0 "The French have approached our government with an offer, they are willing to hand over several factories for a period of 90 days in exchange for some of our newest military technology or a large sum of guns. Accepting this offer would be of great benifit to our industry, but should the French ever come to oppose us, we would be lowering our chances of victory against them."
@@ -1424,7 +1424,7 @@ FRA_channel_penetrated_flag:0 "The English Channel has been penetrated."
 
 fra_nuc_gone:0 "§RThe Bloc National will be disbanded, shaking up French politics drastically...§!"
 ###
-fra_auto_bypass:0 "This focus will be bypassed via an event."
+fra_auto_bypass:0 "이 포커스는 이벤트를 통해 건너뛰어질 것입니다."
 ###
 fra_nuc_good:0 "The Bloc National lives on past the scandal."
 ###
@@ -1452,7 +1452,7 @@ fra_gaulle_mad:0 "De Gaulle disliked that..."
 ###
 FRA_Army_Reform_Enabled_tooltip:0 "Add "
 ###
-fra_manual_bypass:0 "§RNote: You will have to manually bypass the focus§!"
+fra_manual_bypass:0 "§참고: 플레이어분이 직접 중점 창에서 중점을 건너뛰어야만 합니다§!"
 ###
 fra_red_decisions:0 "§YA series of decisions will be unlocked in order to peacefully deal with the Workers March. \n\nIf these decisions are not completed in time, the disgruntled workers may eventually march on the capital and demand a radical regime change!§!"
 ###
