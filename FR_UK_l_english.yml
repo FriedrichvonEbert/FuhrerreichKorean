@@ -134,7 +134,7 @@ ENG_triton_sunk:0 "프랑스에 대한 적개심"
 
 ENG_t_imp:0 "Third Wave Imperialism"
 ENG_t_inter:0 "Defender of Democracy"
-ENG_t_isol:0 "Splendid Isolation"
+ENG_t_isol:0 "명예로운 고립"
 ENG_t_monroe:0 "Rebuked the Monroe Doctrine"
 ENG_t_arab:0 "Colonialism in Arabia"
 ENG_t_irq:0 "Intervention in Iraq"
@@ -276,7 +276,7 @@ ENG_neo_feudalism:0 "Powerful Aristocracy"
 ENG_neo_feudalism_desc:0 "In order to cement our rule across the nation our King - Edward VIII - has instructed the nobility of the British Isles to go forth and bring his rule to the British people. Unfortunately, 'his rule' is often interpreted differently."
 ENG_new_household_guard:0 "The Household Guard"
 ENG_new_household_guard_desc:0 "Functioning as the elite bodyguard of the Monarchy, the duties of the Household Guard have since been expanded significantly. No longer will the weeds of revolution grow untamed on British soil."
-ENG_the_barb:0 "The BARB"
+ENG_the_barb:0 "BARB"
 ENG_the_barb_desc:0 "The British Anti-Revolutionary Brigade, or BARB for short, has been established by a council of military leaders led by Churchill himself. They will find revolutionary elements across our fair isles and crush those who seek to drive our nation to ruin."
 ENG_sparta_education:0 "Molon labe"
 ENG_sparta_education_desc:0 "An Ancient Greek phrase used by the Spartan King at Thermopylae has seen widespread use in recent months among the officer-caste of our Armed Forces. Becoming almost a cultural phenomenon among the middle and upper classes of our country, it has come to represent the spirit of Britons in the face of adversity."
@@ -302,7 +302,7 @@ ENG_air_invest:0 "항공기 투자"
 ENG_invict:0 "인빅투스"
 ENG_invict_desc:0 "지나가야 할 문이 얼마나 좁은지,\n얼마나 가혹한 형벌이 기다리는지는 신경쓰지 않는다.\n나는 내 운명의 주인이며,\n내 영혼의 선장이다."
 ENG_decent_comm:0 "Officer Initiative"
-ENG_hguard:0 "The Home Guard"
+ENG_hguard:0 "향토방위군"
 
 IMP_workshop:0 "Factory Boost"
 IMP_infrastructure:0 "Infrastructure Boost"
@@ -635,7 +635,7 @@ ENG_reform_entente:0 "협상국 재결성"
 ENG_reform_entente_desc:0 "With both ourselves and the French at war with the Germans once more several notable members of our Government have begun suggesting that we officially reach out to the French Government and propose that the Entente Cordiale be reborn once more until the German menace is defeated."
 
 ENG_league_germany:0 "영국-독일 동맹"
-ENG_league_germany_desc:0 "While both of our nations were on opposing sides in the Great War, with both ourselves and Germany at war with France many believe the time has arrived to offer a formal alliance to the Germans."
+ENG_league_germany_desc:0 "우리 두 국가는 대전쟁 당시 적이었지만, 많은 사람들은 공통의 적인 프랑스와 전쟁중인 지금이야말로 독일인들에게 공식적인 동맹을 제안할 때라고 믿고 있습니다."
 
 ENG_kill_yemen:0 "예멘 이맘국 분쇄"
 
@@ -778,16 +778,16 @@ ENG_aristocracy_desc:0 "Many of the King's greatest supporters in his interventi
 ENG_faith_nation:0 "국가의 신앙"
 ENG_faith_nation_desc:0 "Nominally a bulwark against radicalism, the Church of England has been a staunch supporter of our King in his quest to crush radicalism across the nation and impose order and justice. While some believe that the Church is an antiquated institition, there is much to be gained from an alliance."
 ENG_household_guard:0 "왕실 근위대"
-ENG_household_guard_desc:0 "Established as an elite bodyguard for the Monarchy, the Household Guard played a prominent role in securing power over the faltering democratic Government which preceeded us. Questions have been raised as to what their true role should be in the coming years."
+ENG_household_guard_desc:0 "국왕을 위한 정예 경호원들로서 창설된 왕실 근위대는 우리가 흔들리는 민주 정부를 바로잡고 권력을 확보하는 데 핵심적인 역할을 했습니다. 또한 앞으로 그들이 맡게 될 진정한 역할이 무엇인지에 대한 의문 역시 제기되어 왔습니다."
 ENG_expand_privy:0 "추밀원 확장"
 ENG_expand_privy_desc:0 "Created to act as an advisory body for the Monarchy, the Privy Council has in recent years simply been filled to the brim with sycophantic politicians. The time has come for a change in its composition."
 ENG_destiny:0 "우리의 길과 운명"
-ENG_destiny_desc:0 "Providence has guided the King to this day, his actions in the Manchester Workers Crisis have proven correct. Stability and Peace and have returned to our fair Isles, and our rule is secure. Now a final question remains: Where does Britain's destiny lie?"
+ENG_destiny_desc:0 "신의 섭리가 지금까지 국왕을 인도해왔고, 맨체스터 노동자 위기에서 그가 취한 행동은 결국 옳았음이 증명되었습니다. 안정과 평화가 브리튼 제도에 돌아왔으며 우리의 통제력은 확고합니다. 이제 마지막 질문만이 남았습니다: 영국의 운명은 어디에 달렸는가?"
 
 # - Jack's Dictatorship
 
 ENG_junta:0 "군사 정부"
-ENG_junta_desc:0 "'발사!' 명령이 떨어졌고, 폭도들은 영국군보다 먼저 쓰러졌습니다. 사회주의자들이 도망치자 한 사람이 나타나 연설을 시작했습니다. 잭 처칠 대령은 그와 그의 부하들이 영국 땅에서 영국 국민들을 죽일 수밖에 없도록 만든 정치인들을 비난하며 고풍스러운 어구를 곁들였습니다. 다시는 그런 정치인들이 영국 국민에게 강제적인 조치를 취하게 만들도록 허용하지 않을 것입니다. 그리고 이를 확실하게 하는 방법은 하나 뿐입니다."
+ENG_junta_desc:0 "'발사!' 명령이 떨어졌고, 폭도들은 영국군보다 먼저 쓰러졌습니다. 사회주의자들이 도망치자 한 사람이 나타나 연설을 시작했습니다. 고풍스러운 어구로, 잭 처칠 대령은 그와 그의 부하들이 영국 땅에서 영국 국민들을 죽일 수밖에 없도록 만든 정치인들을 비난했습니다. 다시는 그런 정치인들이 영국 국민에게 강제적인 조치를 취하게 만들도록 허용하지 않을 것입니다. 그리고 이를 확실하게 하는 방법은 하나 뿐입니다."
 ENG_establish_barb:0 "BARB 설립"
 ENG_establish_barb_desc:0 "The streets whisper rebellion, radicalism hides in the shadows everywhere. To root out these insidious and grave threats to our nation a new organisation must be set up to destroy threats wherever they may be found."
 ENG_purge_opposition:0 "숙청"
@@ -806,7 +806,7 @@ ENG_dictatorship_desc:0 "With Parliament cleansed of unwanted elements and Churc
 # - Mosley as Premier
 
 ENG_england_lives:0 "잉글랜드는 살아있다!"
-ENG_england_lives_desc:0 "Life once more surges through the British Isles. Gone are the decadent and decrepit policies of old. Today's new age stands ready to be seized by Mosley and his disciples."
+ENG_england_lives_desc:0 "브리튼 제도에 생기가 돌아왔습니다. 낡고 퇴폐적인 옛 정책들에게 죽음을! 모즐리와 그의 사도들이 이 새로운 시대를 이끌어나갈 것입니다."
 ENG_subjugate_labour:0 "노동당 예속"
 ENG_subjugate_labour_desc:0 "Our wayward cousins need to be shown the true path to socialism and peace in our land. Labour must be brought around to our way of thinking, something that can be easily accomplished by influencing some of their key members."
 ENG_overcome_lords:0 "상원 압살"
@@ -818,7 +818,7 @@ ENG_national_program_desc:0 "One of the key economic policies of Mosley's Econom
 ENG_brit_spirit:0 "영국의 유구한 정신"
 ENG_brit_spirit_desc:0 "The Britain of Tomorrow must also be one of the Past. There are many great and admirable qualities that the British people harbour, but in recent years they have been influenced by foreign meddling and interference. Britain's spirit must be awakened, and once more the world shall tremble at her approach."
 ENG_marches_on:0 "그리고 앞으로 나아간다!"
-ENG_marches_on_desc:0 "The Light of Britain shines brightly once more, the guiding light to lead Mankind to its destiny. We will illuminate the path for all other nations to follow, a path of tomorrow, a path to socialism."
+ENG_marches_on_desc:0 "다시 한 번 밝게 빛나는 영국의 빛은 모든 인류를 운명으로 인도하는 등불입니다. 우리는 다른 모든 국가들이 따라야 할 길, 내일의 길, 즉 사회주의의 길을 비출 것입니다."
 
 # - Navy with a State
 
@@ -891,9 +891,9 @@ ENG_ire_reinforce_constab:0 "아일랜드 보안대 확충"
 ENG_ire_reinforce_constab_desc:0 "The RIC is struggling to police the entirety of Ireland, and its numbers continue to dwindle from IRB attacks. To ensure that Ireland remains stable we must bring in extra reinforcements for the RIC from other parts of the United Kingdom in preparation for solving the IRB problem."
 
 ENG_crush_brotherhood:0 "형제단 분쇄"
-ENG_crush_brotherhood_desc:0 "The time has arrived for the Irish Republican Brotherhood to be dealt with swiftly. Ireland stands at a precipice, our choices in the coming weeks will determine the fate of Ireland and the United Kingdom as a whole."
+ENG_crush_brotherhood_desc:0 "아일랜드 공화주의 형제단에게는 신속한 대처가 필요합니다. 아일랜드는 벼랑 끝에 서 있으며, 우리의 선택이 아일랜드와 영국의 운명을 결정짓게 될 것입니다."
 ENG_ire_discussion:0 "정치적 논의 장려"
-ENG_ire_discussion_desc:0 "Since the Great War Ireland there has been a growing minority within the country that are content with the status quo. Engaging this group in Irish political discussions is crucial in creating the correct atmosphere for independence in Ireland."
+ENG_ire_discussion_desc:0 "대전쟁 이후, 아일랜드 내에서는 현상유지에 만족하는 소수집단들이 점점 늘어나고 있습니다. 아일랜드의 정치적 논의에 이 집단을 참여시키는 것은 아일랜드 독립을 위한 적절한 분위기를 형성하는 데 중요합니다."
 ENG_ire_create_parliament:0 "아일랜드 의회 수립"
 ENG_ire_create_parliament_desc:0 "While Parliament House in Dublin has existed since 1729, the creation of a formal Parliament requires more than a building to house Irish MPs. By beginning the slow transfer of additional power to the Irish Parliament it will at last become a fully functioning parliament with the ability to govern without British interference."
 ENG_ire_united:0 "통일 아일랜드"
