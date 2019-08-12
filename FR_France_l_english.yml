@@ -374,9 +374,9 @@ fra_fort_alsace:0 "알자스 요새화"
 fra_fort_alsace_desc:0 "아마 방어시설이 가장 필요한 지역은, 사악한 독일과 맞닿아 있는 알자스 지역일 것입니다. 라인 강 덕분에 방어가 쉽기는 하지만, 강을 넘어온 적과 싸우는것보단, 강을 넘어오려는 적을 기관총과 포격으로 저지하는게, 더 쉽고 편하지 않을까요?
 
 fra_fort_savoy:0 "사보이 요새화"
-fra_fort_savoy_desc:0 "이탈리아는 현재 우리와 동맹 관계를 맺고 있습니다 그렇지만 대전쟁 도중 이탈리아가 오스트리아와 독일을 배신했던 것을 생각하면 이탈리아가 우리를 배신하지 않을 거라고 보장할 수는 없습니다. 이탈리아와 접하고 있는 사보이 지역을 요새화한다면, 아마 이탈리아가 우릴 배신하더라도 막아낼 수 있을 것입니다."
+fra_fort_savoy_desc:0 "이탈리아는 현재 우리와 동맹 관계를 맺고 있습니다. 그렇지만 대전쟁 도중 이탈리아가 오스트리아와 독일을 배신했던 것을 생각하면, 이탈리아가 우리를 배신하지 않을 거라고 보장할 수는 없습니다. 이탈리아와 접하고 있는 사보이 지역을 요새화한다면, 아마 이탈리아가 우릴 배신하더라도 막아낼 수 있을 것입니다."
 ###
-fra_fort_spain:0 "Fortify the Pyrenees"
+fra_fort_spain:0 "피레네 요새화"
 fra_fort_spain_desc:0 "The civil war in Spain has shaken the political situation in the region to its very core, and the entire Iberian Peninsula seems ready to blow at a moments notice. We must ensure that the mountain range which seperates us from the Spanish is firmly under our control and diligant watch."
 ###
 fra_heavy_tanks:0 "움직이는 요새"
@@ -439,11 +439,11 @@ fra_lower_costs_desc:0 "Our current methods of producing weapons are complicated
 fra_mas_contracts:0 "MAS와의 계약"
 fra_mas_contracts_desc:0 "The Manufacture d'armes de Saint-Étienne, or MAS, is a state-owned manufacturing company based in the town of Saint-Étienne. Signing arms contracts will allow us to develop better and more modern rifles."
 ###
-fra_women_army:0 "Women in the Army"
+fra_women_army:0 "싸우는 여성"
 fra_women_army_desc:0 "We have a giant untapped source of manpower in our female population. Women all across the country have shown great intrest in becoming medics, engineers, and even soldiers in our army. We would be fools to let this oppertunity go to waste."
 ###
-fra_many_guns:0 "Mass rifle production"
-fra_many_guns_desc:0 "For many years our army has suffered from a critical lack of rifles, and what good is a soldier if they don't have a gun in their hands? We must remedy this crisis as soon as possible."
+fra_many_guns:0 "소총 대량생산"
+fra_many_guns_desc:0 "수년간 우리 병사들은 총이 부족해 적과 싸울 수가 없었습니다. 총이 없는데, 대체 어떻게 싸우겠습니까? 우린 이 문제를 최대한 빨리 해결해야만 합니다."
 ###
 fra_many_soldiers:0 "Mass Mobilization Initative"
 fra_many_soldiers_desc:0 "A war cannot be fought without men to fight it, we need to ensure that our regiments are always at full strength if we are to compete with the Prussian military doctrine which ravaged our army in the last war."
@@ -911,7 +911,7 @@ fra.61.a:0 "Turmoil may be on the horizon"
 fra.62.t:0 "프랑스가 왈로니아를 요구하다!"
 fra.62.d:0 "Despite our best hopes, the authoritarian regime in France has begun to look outwards with an expansionist policy. We have recieved an official diplomatic telegram from Paris outlining a list of demands, notably including the transfer of the French-speaking region of Wallonia. \n\nWallonia is an integral part of the Belgian nation, and handing it over to the French would mean practically surrendering our sovereignty to the French. However, victory is unlikely unless we are able to secure the backing of another major European power, and the British appear to be our only choice in that matter. \n\nHow should we proceed?"
 fra.62.a:0 "어쩔 수 없다, 요구를 들어주자."
-fra.62.b:0 "The Belgian lion stands her ground!"
+fra.62.b:0 "우린 절대 굴복하지 않을 것이다!"
 ###
 fra.63.t:0 "벨기에가 도움을 요청하다!"
 fra.63.d:0 "브뤼셀에서 긴급한 전보가 날아왔습니다. 프랑스가 벨기에에게 왈로니아 지역과 함께 여러 국가주권을 내놓으라고 요구를 보냈다고 합니다. 굳세게 버티고 있는 벨기에는, 만약 프랑스가 침공해온다면 군사 및 외교적 지원을 보내달라고 요청했습니다. 이를 들어준다면 또다시 대규모 전쟁이 일어나는 것을 막을 수 있을 수도 있지만, 동시에 우리와 프랑스가 전쟁을 하게 되면서, 유럽 수준이 아닌 세계 수준의 대규모 전쟁이 벌어질 수도 있으니, 우린 신중하게 선택해야만 할 것입니다."
@@ -922,34 +922,34 @@ fra.64.t:0 "The Belgians are stalling!"
 fra.64.d:0 "In a long-winded and needlessly verbose response, the Belgians have sent us a response in which they appear to have neither agreed to nor denied our demands, and they are clearly stalling for time. We cannot simply invade the Belgians, as we do not yet have a just cause, and we may risk an international coalition of nations reminiscent of that which brought down Napoleon I in the earth 19th Century. The British are the Belgians most likely ally, and we have no choice but to wait and see what their response is to the situation."
 fra.64.a:0 "Let's hope Albion refuses to meddle in our affairs."
 ###
-fra.65.t:0 "영국이 우리를 지원하다!"
+fra.65.t:0 "영국이 우릴 지원하다!"
 fra.65.d:0 "기쁜 소식입니다, 영국 정부가 우리에게 대규모 군사지원 및 외교적 지원을 보내기로 했다고 합니다. 많은 사람들이 또다시 대규모 전쟁이 벌어지지는 않을까 걱정하고는 있지만, 이제 대영제국이 우리 편을 들어주기로 했으니, 아마 프랑스는 전쟁보다는 포기를 택할 것입니다."
 fra.65.a:0 "어쨌든 전쟁을 준비하기는 해야겠군..."
 ###
 fra.66.t:0 "Britain has backed the Belgians"
 fra.66.d:0 "It seems that the Belgian effort to stall us has worked, as they have somehow managed to acquire the full backing of the British Empire. This development has decisively turned the tables from our favour, and much of the government believes that a war with Britain could end disasterously with the current political situation in Europe. Backing down would make us look weak and lead to internal instability, but pressing our claim may drag us into a war in which we have no ability to win."
-fra.66.a:0 "We will face the British lion if we must"
-fra.66.b:0 "They played us like a damn fiddle!"
+fra.66.a:0 "영국이 싸우겠다면, 우리도 싸울 것이다."
+fra.66.b:0 "우릴 아주 장난감처럼 갖고 노는구만!"
 ###
-fra.67.t:0 "France presses their claims to Wallonia"
+fra.67.t:0 "프랑스가 왈로니아를 요구하다!"
 fra.67.d:0 "It would appear that our new alliance with Britain was not enough to convince the wardogs in France to back down, and they have demanded the immediate transfer of Wallonia to French authority or face military action. The fate of two great empires has fallen into our lap, and it is our choice whether or not these behemoths will clash."
-fra.67.a:0 "We have British backing, we can't lose!"
-fra.67.b:0 "Wallonia isn't worth a global conflict."
+fra.67.a:0 "영국이 우리 편에 섰다, 들어줄 이유가 없다!"
+fra.67.b:0 "고작 땅 한줌 때문에 세계대전을 일으킬 수는 없지."
 ###
 fra.68.t:0 "Belgium stands defiant!"
 fra.68.d:0 "It seems the British have given the Belgians enough confidence to deny our demands, and they have left us with no other choice than to press our claims with military force. While this outcome is regretable, there is little doubt that we will be able to best both the British and Belgians on the field."
 fra.68.a:0 "The Armée Royale will not be defeated!"
 ###
 fra.69.t:0 "영국이 우리를 저버리다!"
-fra.69.d:0 "끔찍한 소식입니다, 영국이 우리를 포기하고는 고립정책을 유지하기로 했다고 합니다. 영국이 이번 분쟁에서 빠지면서, 프랑스는 자신들의 요구를 더 강하게 밀어붙이고 있습니다. 이제 조만간 최후통첩을 보낼 생각인 것 같습니다."
+fra.69.d:0 "끔찍한 소식입니다, 영국이 우리를 포기하고는 고립정책을 유지하기로 했다고 합니다. 영국이 이렇게 이번 분쟁에서 빠지면서, 프랑스는 자신들의 요구를 더 강하게 밀어붙이고 있습니다. 이제 조만간 최후통첩을 보낼 생각인 것 같습니다..."
 fra.69.a:0 "Can't trust anyone these days, can you?"
 ###
-fra.70.t:0 "Britain has abandoned the Belgians!"
+fra.70.t:0 "영국이 벨기에를 저버리다!"
 fra.70.d:0 "It appears the British lion wishes to sleep a little while longer, as they have refused to support the Belgians in their effort to stall the inevitable and create a potentially global conflict. Nothing lays in our path now, and we are free to enforce our demands for Wallonia once and for all."
 fra.70.a:0 "Let's finally resolve this matter"
 ###
 fra.71.t:0 "프랑스의 최후통첩"
-fra.71.d:0 "영국이 우릴 저버리면서, 프랑스를 막는 건 이제 아무것도 없게 되었습니다. 프랑스군은 이미 국경 바로 너머에서 공격명령만을 기다리고 있으며, 프랑스는 외교적으로도 우릴 찍어누르고 있습니다. 우리가 할 수 있는 것은 이제 왈로니아를 떼어주고 평화를 바라던지, 강과 요새들을 이용하여 프랑스를 막아내면서 기적이 일어나기만을 기다리던지, 둘 중 하나 뿐입니다.\n\n이번 선택은 우리 나라의 운명을 결정지을지도 모릅니다. 신중하게 선택하십시오."
+fra.71.d:0 "영국이 우릴 저버렸으니, 프랑스의 앞을 막는 장애물은 이제 모두 사라졌습니다. 프랑스군은 이미 국경 바로 너머에서 공격명령만을 기다리고 있으며, 외교적인 해결책은 아무것도 없으니, 이제 우리가 할 수 있는 것은 왈로니아를 떼어주고 평화를 빌던지, 강과 요새들을 이용하여 프랑스를 막아내면서 기적이 일어나기만을 기다리던지, 둘 중 하나 뿐입니다.\n\n이번 선택은 우리 나라의 운명을 결정지을지도 모릅니다. 신중하게 선택하십시오."
 fra.71.a:0 "우린 맞서 싸울 것이다!"
 fra.71.b:0 "언젠가는 복수할 날이 오겠지..."
 ###
@@ -988,8 +988,8 @@ fra.5005.b:0 "Dismantle his plane, we must learn its secrets."
 FRA_great_war_legacy:0 "대전쟁의 유산"
 FRA_great_war_legacy_desc:0 "20세기 최대의 전쟁이였던 대전쟁은, 6년이라는 기간 동안 총 2백만 명의 시민과 병사들을 잡아먹고서야 끝났습니다. 대전쟁은 프랑스에게 완전히 회복하는데 수십년, 어쩌면 수백년이 걸릴지도 모를 상처를 남겼으며, 대전쟁의 참상은 수많은 프랑스인들의 기억 속에 여전히 생생하게 남아 있습니다."
 ###
-FRA_somme:0 "Memories of the Somme"
-FRA_somme_desc:0 "The Battle of the Somme was one of the longest and bloodiest battles of the Great War, spanning an incredible 140 days in the Nothern section of the Somme River, the battle has caused our society to recoil in horror at the thought of such an engagement ever taking place again, and few are willing to take up arms once more in defense of the nation."
+FRA_somme:0 "솜 전투의 기억"
+FRA_somme_desc:0 "솜 전투는 대전쟁 사상 최대의 전투였으며, 솜 강 북쪽에서 무려 140일이라는 기간 동안이나 계속되다 우리 협상국의 승리로 끝났습니다. 비록 우리가 승리하기는 했지만, 전투 도중 생긴 수많은 사상자와 참상은, 우리 국민들이 전쟁을 두려워하게 만들었으며, 이로 인해 우리 국민들은 군 입대를 주저하고 있습니다."
 ###
 FRA_divided_military_staff:0 "Divided Military Staff"
 FRA_divided_military_staff_desc:0 "After the Great War ended, the French military staff lay divided over what policy the nation should adopt when fighting wars of the future. The majority wish to see a continuation of our fortification projects, and the end of German agression deep into French soil. However, many are calling for radical changes and adaptions in the army, realizing the effectiveness of the German Stoßtruppen in the final years of the war, and they champion a doctrine of combined mobile warfare along with support from the air."
@@ -1452,7 +1452,7 @@ fra_gaulle_mad:0 "De Gaulle disliked that..."
 ###
 FRA_Army_Reform_Enabled_tooltip:0 "Add "
 ###
-fra_manual_bypass:0 "§참고: 플레이어분이 직접 중점 창에서 중점을 건너뛰어야만 합니다§!"
+fra_manual_bypass:0 "§참고: 플레이어 여러분이 직접 중점 창에서 중점을 건너뛰셔야만 합니다§!"
 ###
 fra_red_decisions:0 "§YA series of decisions will be unlocked in order to peacefully deal with the Workers March. \n\nIf these decisions are not completed in time, the disgruntled workers may eventually march on the capital and demand a radical regime change!§!"
 ###
