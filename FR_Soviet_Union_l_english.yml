@@ -43,7 +43,7 @@ sov.improveindustry.tt:0 "§G이것은 우리의 산업화 수준을 항상시�
 sov.helpagriculture.tt:0 "\n§G이것은 우리 식량 상황을 개선 시킬 것입니다§!\n"
 SOV_regime_stabilized:0 "§G우리 체제가 안정화 될 때만, 우리의 개혁을 시작 할 수 있을 것입니다§!"
 SOV_carrot_stick_reforms:0 "£decision_icon_small §HDecisions§! 이것은 §H노동자를 위한 법률§!을 위한 개혁을 해금 할 것입니다."
-SOV_power_struggle_tooltip:0 "§H키로프§!와 §실랴프니코프§!간의 권력 투쟁이 대두되었습니다. 그들은 인민들의 지지를 얻어내고 소비에트 연방의 지도자가 되기 위해 싸울 것입니다.§!"
+SOV_power_struggle_tooltip:0 "§H키로프§!와 §H실랴프니코프§!간의 권력 투쟁이 대두되었습니다. 그들은 인민들의 지지를 얻어내고 소비에트 연방의 지도자가 되기 위해 싸울 것입니다.§!"
 Kirov_15:0 "§M키로프 지지도§!가 §Y15§!만큼 증가할 것입니다\n"
 Kirov_10:0 "§M키로프 지지도§!가 §Y10§!만큼 증가할 것입니다\n"
 Kirov_7:0 "§M키로프 지지도§!가 §Y7§!만큼 증가할 것입니다\n"
@@ -69,7 +69,7 @@ SOV_government_min_3:0 "우리 정부의 안정도가 £stability_texticon §H3�
 SOV_government_min_5:0 "우리 정부의 안정도가 £stability_texticon §H5§!만큼 §R감소§!할 것입니다"
 SOV_government_min_10:0 "우리 정부의 안정도가 £stability_texticon §H10§!만큼 §R감소§!할 것입니다"
 SOV_supressed_revolt:0 "§G우리의 쿠데타가 성공했습니다.!§!"
-SOV_load_focus_trees:0 "T§정치적 포커스§!트리가 §열릴 것입니다.§!"
+SOV_load_focus_trees:0 "§H정치적 포커스§!트리가 §H열릴 것입니다.§!"
 SOV_construction_aborted:0 "§R소비에트 궁전 건설은 무산되었습니다§!"
 SOV_troika:0 "트로이카 포커스 트리"
 SOV_3collectivization:0 "This will §Hincrease§! the land £national_unity_texticon collectivized by §H3%§!"
@@ -81,7 +81,7 @@ SOV_minus_5collectivization:0 "This will §Mdecrease§! the land £national_unit
 SOV_minus_10collectivization:0 "This will §Mdecrease§! the land £national_unity_texticon collectivized by §H10%§!"
 SOV_internal_passport:0 "우리는 국내 여권을 통해서 대부분의 농민들의 농지 탈출을 막아낼 수 있을 것입니다."
 SOV_did_repressive_measures:0 "Has enacted §HRepressive Measures§!."
-SOV_internal_passport_flag:0 "§국내 여권§이 만들어질 것입니다!"
+SOV_internal_passport_flag:0 "§H국내 여권§!이 만들어질 것입니다!"
 SOV_railways_damaged:0 "트란스-시베리아 철도의 일부와 다른 중요한 철도 중심지들이 공격받았습니다."
 SOV_regain_army:0 "우리는 대부분 군대의 통제권을 되찾았습니다.."
 SOV_unlocks_kulaks:0 "This unlocks £decision_icon_small §Hdecisions§! to liquidate the kulaks"
