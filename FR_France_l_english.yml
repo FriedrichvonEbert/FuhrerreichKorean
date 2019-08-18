@@ -637,13 +637,13 @@ fra_safeguard_desc:0 "The Low Countries are defenseless without our watchful eye
 fra_hispania:0 "Turmoil in Hispania"
 fra_hispania_desc:0 "The Spanish Civil War has brought devestation to the penensula, and many of our citizens living near the border have grown fearful of the conflict crossing over. Intervention in the conflict will ensure a swift end and peaceful resolution to the war in our favour."
 ###
-fra_italy_coop:0 "Franco-Italian Cooperation"
-fra_italy_coop_desc:0 "Our largest continential ally, Italy, is lagging for behind both industrially and militarily. We need to increase cooperation between our two governments in order to transform them into a juggernaut with which we can face Germany with."
+fra_italy_coop:0 "이탈리아와의 협력"
+fra_italy_coop_desc:0 "우리 동맹국들 중 가장 거대한 나라인 이탈리아는, 군사적으로나 경제적으로나 상당히 뒤쳐저 있습니다. 이탈리아와 우리 사이의 협력을 늘린다면, 이탈리아는 조금 더 강력한 국가가 될 수 있을 것입니다."
 
 
 #### EVENTS ####
 
-fra.1.t:0 "The Third Republic"
+fra.1.t:0 "제 3 공화국"
 fra.1.d:0 "The second French Empire came to an end in 1871 with their defeat in the Franco-Prussian war, and the Third Republic swiftly took its place. The French defeat in the Franco-Prussian war left them bitter and spiteful towards the Germans, and this feeling would last another 40 years before they were allowed their revenge on the fields of the Great War. \n\nWith the end of the world’s most devastating conflict in 1919, the French were quick to enforce harsh demands upon the German nation. Full responsibility for damages caused by the war and a seemingly insurmountable series of debt payments destroyed the German economy and helped to bring France back to their hegemonic status in Europe. These economic burdens placed upon Germany, as well as the allied occupation of the Ruhr and Rhineland, forced Germany to default on their debts, and the nation went bankrupt. \n\nWhen German reperation payments stopped coming in, the French were forced to invade the Rhineland region and set up an Inter-Allied joint commission to administer the region. Along with this invasion of the Rhineland, the Saarland was occupied directly by the French army, in direct opposition from the Italians, British, and Americans, who had all participated in the occupation of the Rhineland. With the cecession of German reperation payments in 1933, exploitation of both the Rhineland and Saarland increased dramatically, leading to the Saarland being incorperated into the French Republic as the Sarre department. \n\nBy 1936, the ruling Bloc National continues to dominate French politics, seemingly unaware of the resurgant German power."
 fra.1.a:0 "Vive la France!"
 ###
@@ -708,12 +708,12 @@ fra.14.t:0 "장 3세의 즉위식"
 fra.14.d:0 "With the entirety of the country on our side, and our enemies unable to move against us, Prince Jean of the house of Orléans has accepted our invitation to take back the French thone which has been vacant for the past 56 years. We expect a huge crowd in Paris, and security must be top-notch to ensure our King is not assassinated at his very own coronation."
 fra.14.a:0 "만수무강하소서!"
 ###
-fra.15.t:0 "Workers in Poitou strike!"
+fra.15.t:0 "포와투의 노동자들이 파업을 개시하다!"
 fra.15.d:0 "Despite our revokation of the legality of strikes in France, a group of working in La Rochelle have stopped showing up to work and have demanded increased safety regulations and a higher wage. This has presented somewhat of a crisis in our government, as accepting these demands would tarnish our name severly and cause a serious drop in our authority. However, sending in the military risks escalating the situation and causing more widespread strikes."
 fra.15.a:0 "We must concede to their demands."
 fra.15.b:0 "Order the army to move in and disperse the strikers."
 ###
-fra.16.t:0 "Marcel Pagnol releases "César""
+fra.16.t:0 "마르셀 파뇰이 "세잘"을 출시하다"
 fra.16.d:0 "Famed playwright and filmmaker Marcel Pagnol has released the third film in his "Marseille" trilogy, entitled "César". The first movie in the trilogy to not be adapted from a screenplay and instead based solely on a film script, though many believe that in the future the movie will be re-adaped to fit in with the other two plays on-stage. \n\nThe film is hailed as being a staple of cosmopolitan French culture, and has quickly peaked the charts for the year of 1936. The main points of criticism towards the film are its long run-time, and less-than-exciting storyline for the climax of a trilogy of films and plays. \n\nStill, Pagnol continues to be regarded as a genius not only of film, but other mediums such as poetry and drama. He is seen as one of the embodiments of French contemporary French culture, and his fans wait endlessly for his mind to produce yet another great story."
 fra.16.a:0 "I hope he makes one about me!"
 ###
@@ -729,15 +729,15 @@ fra.19.t:0 "Miners Strike in Normandy!"
 fra.19.d:0 "A group of coal miners working around the city of Rouen ordered a limited strike, refusing to go to work and shutting down industry across the region. The local police were sent in to restore order and get the miners back to work, but this strike is seen by many as an example of the weakening power of our government."
 fra.19.a:0 "Unfortunate"
 ###
-fra.20.t:0 "The death of Louis Blériot"
-fra.20.d:0 "The famed French aviator, engineer, and inventor Louis Blériot passed away yesterday in his home, after reportedly suffering a heart attack. Louis was the inventor of the first practical headlights for automobiles, and created a profitable business manufactoring and selling them en masse to the public. Louis used much of the money he made from his headlight industry to spearhead the creation of new aircraft and systems for them, and he is credited for creating the first joystick and foot operated rudder pedal combination in early 1908. \n\nMany in both the aviation and automobile industry are deeply saddened by the passing of Louis Blériot, and his funeral is estimated to be attended by over a thousand wealthy businessmen and close associates of him."
+fra.20.t:0 "루이 블레리오의 사망"
+fra.20.d:0 "유명한 조종사이자, 기술자이며, 동시에 발명가이기도 했던 루이 블레리오가, 어제 자신의 집에서 심장마비로 인해 사망했습니다. Louis was the inventor of the first practical headlights for automobiles, and created a profitable business manufactoring and selling them en masse to the public. Louis used much of the money he made from his headlight industry to spearhead the creation of new aircraft and systems for them, and he is credited for creating the first joystick and foot operated rudder pedal combination in early 1908. \n\nMany in both the aviation and automobile industry are deeply saddened by the passing of Louis Blériot, and his funeral is estimated to be attended by over a thousand wealthy businessmen and close associates of him."
 fra.20.a:0 "A terrible loss for us all."
 ###
 fra.21.t:0 "The death of Juliette Adam"
 fra.21.d:0 "French author and feminist Juliette Adam passed away yesterday in Southern Paris, she was reportedly with both friends and family when she died. \n\nJuliette Adam was famous for several acomplishments, not least of all her detailed account of her childhood and the discord between her parents which she acutely remembered. She was also remembered for her several accounts of foreign politics during her life, and made several devisive writings criticizing Bismarck and his policy of German revanchism and unification."
 fra.21.a:0 "Truly a model citizen to the end."
 ###
-fra.22.t:0 "군대의 쿠데타!"
+fra.22.t:0 "군의 쿠데타!"
 fra.22.d:0 "In the early hours of yesterday morning, a large detachment of French soldiers defending the outskirts of Paris suddenly turned around and stormed the parliament building as well as several other important government offices! The military has declared a junta in place of the democratic government in a seemingly desperate attempt to salvage the military situation and stall the German invasion. \n\nIt is unknown what the true intentions of this military government are, and many believe that this was in fact orchestrated by the far-right Action Française. Regardless, the new military government has directed all of the nations resoures towards the frontline, and for the time being the situation seems to have stabalized."
 fra.22.a:0 "When will this chaos end?"
 ###
@@ -872,15 +872,15 @@ fra.52.t:0 "The annexation of Tessin"
 fra.52.d:0 "The French government has annexed the Romandie region, and shown the world how weak the Swiss really are. Now would be the perfect time to strike and annex the Tessin region into our own budding empire."
 fra.52.a:0 "Send in the troops!"
 ###
-fra.53.t:0 "The Romandie Conflict"
+fra.53.t:0 "로망디 전쟁"
 fra.53.d:0 "Tensions have skyrocketed these past few days on the Franco-Swiss border. Many around the world are holding their breath to see what we will do next, whether we will attack or back down to a nation which has stolen our people and defied our demands. The time has come to invade Switzerland, come hell or high water."
-fra.53.t:0 "Rally the troops!"
+fra.53.t:0 "진격하라!"
 ###
-fra.54.t:0 "검은 수요일이 프랑스에게 닥치다!"
+fra.54.t:0 "검은 수요일이 프랑스에게 닥쳐오다!"
 fra.54.d:0 "해협 너머에서 시작된 대공황이 마침내 우리에게도 닥쳐왔습니다. 우리의 아주 소박한 경제는 세계 최대의 경제가 무너지면서 똑같이 무너지고 있습니다. 프랑의 가치는 역사상 최소 수준으로 떨어졌으며, 회복할 기미는 보이지 않고 있습니다. 여러 경제학자들이 이번 대공황에서 벗어날 방법을 열심히 모색하고는 있지만, 우리 경제는 적어도 수개월, 아니면 수년동안 시달릴 것으로 보입니다. \n\n 프랑스 본토의 경제가 무너지면서, 본토 경제와 매우 밀접한 관계를 맺고 있는 식민지들의 경제 또한 무너지고 있습니다. 프랑스령 인도차이나는 이미 구제금융을 신청했으며, 프랑스령 아프리카의 회사들은 거의 파산 상태까지 몰려있는 상황입니다. \n\n경제를 살리려면, 지금 당장 뭐든지 해야만 합니다."
 fra.54.a:0 "정말 끔찍한 소식이구만!"
 fra.54.b:0 "뭔갈 한다고 해서 달라질까?"
-fra.54.c:0 "This does not bode well..."
+fra.54.c:0 "정말 안타까운 일이구만..."
 fra.54.e:0 "뭐라도 해야만 해!"
 fra.54.f:0 "그냥 잠깐 좀 쉬면 안돼?"
 ###
@@ -955,7 +955,7 @@ fra.71.b:0 "언젠가는 복수할 날이 오겠지..."
 ###
 fra.72.t:0 "벨기에가 우리 요구를 거부하다!"
 fra.72.d:0 "우리 예상과는 달리, 벨기에가 우리 요구를 거부하고 전쟁을 택했습니다. 우리 장교단은 벨기에군은 우리 군대에 비하면 한참 부족한 수준이므로 , 이번 주말이면 아마 브뤼셀을 점령할 수 있을 거라고 보고 있습니다."
-fra.72.a:0 "징고의 이름으로, 공격하라!"
+fra.72.a:0 "징고의 이름으로, 공격!"
 ###
 fra.5000.t:0 "France offers arms contracts!"
 fra.5000.d:0 "The French have approached our government with an offer, they are willing to hand over several factories for a period of 90 days in exchange for some of our newest military technology or a large sum of guns. Accepting this offer would be of great benifit to our industry, but should the French ever come to oppose us, we would be lowering our chances of victory against them."
@@ -989,7 +989,7 @@ FRA_great_war_legacy:0 "대전쟁의 유산"
 FRA_great_war_legacy_desc:0 "20세기 최대의 전쟁이였던 대전쟁은, 6년이라는 기간 동안 총 2백만 명의 시민과 병사들을 잡아먹고서야 끝났습니다. 대전쟁은 프랑스에게 완전히 회복하는데 수십년, 어쩌면 수백년이 걸릴지도 모를 상처를 남겼으며, 대전쟁의 참상은 수많은 프랑스인들의 기억 속에 여전히 생생하게 남아 있습니다."
 ###
 FRA_somme:0 "솜 전투의 기억"
-FRA_somme_desc:0 "솜 전투는 대전쟁 사상 최대의 전투였으며, 솜 강 북쪽에서 무려 140일이라는 기간 동안이나 계속되다 우리 협상국의 승리로 끝났습니다. 비록 우리가 승리하기는 했지만, 전투 도중 생긴 수많은 사상자와 참상은, 우리 국민들이 전쟁을 두려워하게 만들었으며, 이로 인해 우리 국민들은 군 입대를 주저하고 있습니다."
+FRA_somme_desc:0 "솜 전투는 대전쟁 사상 최대의 전투였으며, 솜 강 북쪽에서 무려 140일 동안이나 계속되다, 우리 협상국의 승리로 끝났습니다. 비록 우리가 승리하기는 했지만, 전투 도중 생긴 수많은 사상자와 참상은, 우리 국민들이 전쟁을 두려워하게 만들었으며, 이로 인해 우리 국민들은 군 입대를 주저하고 있습니다."
 ###
 FRA_divided_military_staff:0 "Divided Military Staff"
 FRA_divided_military_staff_desc:0 "After the Great War ended, the French military staff lay divided over what policy the nation should adopt when fighting wars of the future. The majority wish to see a continuation of our fortification projects, and the end of German agression deep into French soil. However, many are calling for radical changes and adaptions in the army, realizing the effectiveness of the German Stoßtruppen in the final years of the war, and they champion a doctrine of combined mobile warfare along with support from the air."
