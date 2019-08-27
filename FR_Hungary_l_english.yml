@@ -21,7 +21,7 @@ HUN_social_democrat_party_long:0 "헝가리 사회민주당"
 HUN_social_liberal_party:0 "LE"
 HUN_social_liberal_party_long:0 "자유 야당"
 HUN_market_liberal_party:0 "F48P"
-HUN_market_liberal_party_long:0 "독립과 48년당"
+HUN_market_liberal_party_long:0 "독립 48년당"
 HUN_social_conservative_party:0 "KNP"
 HUN_social_conservative_party_long:0 "기독교 국민당"
 HUN_authoritarian_democrat_party:0 "FKgP"
@@ -430,7 +430,7 @@ hun_ger_industry_desc:0 ""
 ### FACTIONS ###
 ################
 
-hun_trans_pact:0 "Carpathian Alliance"
+hun_trans_pact:0 "카르파티아 동맹"
 
 ################
 ### TOOLTIPS ###
