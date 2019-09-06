@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 #### Political Parties ####
 
@@ -62,14 +62,57 @@ jap.18.d:0 "중국에서 반일 감정이 고조되는 가운데 상하이 시�
 jap.19.d:0 "일본 외교관은 이러한 반일감정을 저지하기 위해 일본군을 우리 영토에 배치하고 최근의 상하이 사건을 조사하기 위한 지원을 할 수 있는 능력을 포함한 여러 가지 요구 사항을 방금 우리에게 보냈습니다. 이러한 요구는 우리의 주권과 독립을 포기하는 사항이 될 것입니다! 그러나 우리의 지도자 [From.GetLeader]께서는 아직 아무런 결정도 내리지 않았습니다. 아마도 그는 굴복하거나 굴복하지 않을 것이고, 우리는 기다리는 방법밖에 없습니다."
 
 jap.20.d:0 "우리의 지지자로서 일본인들은 제5차 봉천-직계 군벌 전쟁에서 어느 정도 양보를 얻어냈습니다. 하지만 이제 그들의 정부는 훨씬 더 제국주의적 성향이 확대되기 시작했습니다. 우리는 그들의 팽창의 길에 놓여있습니다. 일본이 우리에게 최후통첩을 보냈듯이, 우리는 일본을 이길 수 없는 전쟁에서 이기려 해야 할까요? 아니면 제국주의 제국에 복종해야 할까요?"
+
+jap.201.d:0 "Despite the fact our nation's great might clearly exceeds their own, Fengtian has ignored our ultimatum."
+
+jap.202.d:0 "Realizing Japan's great might and diplomatic conviction, Fengtian has accepted our ultimatum."
+
 #Zhili ultimatum
-jap.21.d:0 "칭다오, 다롄, 만주 반도에서 일어난 여러 사건에 이어, 일본인은 우리에게 최후통첩을 보내왔습니다. 우리는 최후통첩을 받아들이거나 그들과 전쟁을 해야 합니다. 우리는 전쟁을 하기는 어렵지만, 일본 통치하에서 우리의 여론이 직계의 미래를 의심하고 있기 때문에, 우리도 굴복할 수는 없습니다. 우리가 아는 것은 여기에 직계의 미래가 있고, 우리는 그것에 굴복해야 할 것이라는 것입니다."
+jap.21.d:0 "Following multiple incidents in Qingdao, Dailian and the Manchurian peninsular, the Japanese has had enough and now sent us an ultimatum. To submit or to go to war with them. While we cannot afford to fight a war with their technological might, we cannot afford to submit either, as the entire population is doubtful of the future of Zhili under Japanese rule. All we know is that the fate and future of Zhili lies here, and we depend on it."
+
+jap.211.d:0 "Despite the fact our nation's great might clearly exceeds their own, The Zhili Clique has ignored our ultimatum."
+
+jap.212.d:0 "Realizing Japan's great might and diplomatic conviction, The Zhili Clique has accepted our ultimatum."
+
 #France peace proposal
 jap.22.d:0 "일본이 우리의 유일한 아시아 영토를 침략한뒤, 우리는 더이상 아시아 영토를 유지할 여력을 잃었습니다. 따라서 전쟁을 계속 진행할수 없을 것입니다. 일본인들은 스위스를 통해 우리에게 휴전, 심지어 종전을 요구합니다. 우리가 그렇게 한다면 우리는 태평양 영토를 포기해야 할 것이기에 우리는 이것을 신중히 고려해야 합니다."
 #Russo-Japanese coalition
 jap.23.d:0 "일본은 러시아내전 당시 우리를 여러번 도와주었고, 우리에게 소련을 타도하자고 동맹제안을 해왔습니다. 우리가 만약 제안을 받아들인다면, 일본은 우리를 지지 해줄 것이고, 거대한 소련의 위협을 없애는 강력한 동맹을 얻게 될 것입니다."
 
 jap.24.d:0 "일본은 영국과 동맹을 맺어 군사적으로 협력하고 있습니다. 이것은 이번에는 다른 칼이 태평양에서 우리를 가리키고 있다는 것을 의미합니다. 두 나라가 우리와 어떻게 싸울지는 알 수 없지만, 두 나라가 우리에게 맞서 싸울 것이라는 것은 확실합니다."
+
+jap.25.d:0 "Improved relations with the United States has emboldened the Japanese to once again increase the size of their Navy which is making our most isolated colonies even more vulnerable. We must counter this hostile move from the Japanese by any means we have."
+
+jap.26.d:0 ""
+
+jap.27.d:0 "Diplomats from the great and powerful nation of Japan have sent us an offer to form an anti-French alliance with them. The annexation of Siamese controlled Laos by the French following Franco-Siamese War of 1893 is still a contentious issue between our two nations and many within our country wish to reverse this. While the Japanese clearly intend to pressure French interests in South East Asia some ministers are weary of becoming too dependent on the Japanese."
+
+jap.28.d:0 "Realizing our shared interests in French Indochina, The Siamese have agreed to our offer of an alliance."
+
+jap.29.d:0 "Despite our shared interests in French Indochina, The Siamese have refused our offer of an alliance."
+
+jap.30.d:0 "It's clear that we and Japan hold a shared interest in weakening Soviet influence in the Far East. Military personal from Japan have come to us with a plan to test Soviet defenses in the strategic region of Yakutsk. Our military with supplies from Japan will raid this region in a small scale buy highly coordinated attack. While the USSR outnumbers us greatly Tokyo believes that focused and decisive operations can quickly defeat Soviet divisions before they can be reinforced by reserves from Europe, an evolution of the strategy used by Japan to defeat Russia in 1905. While the Japanese envoy is highly confident in this plan, local Russian officers are understandably weary of provoking the USSR but we should also be weary of upsetting our Japanese ally."
+
+jap.31.d:0 "With the persuading of our military envoy, The Russian have agreed to out plan to raid the Soviet strategic position in Yakutsk."
+
+jap.32.d:0 "Despite the efforts of our military envoy to Chita, The Russians have rejected our plan to attack the Soviet defenses in Yakutsk. While many back in Tokyo wish to drop the issue for now the Japanese military have little patience for the Russians and are preparing plans to install a more \"amenable\" government in Chita."
+
+jap.33.d:0 "Reports from our Siberian garrisons have relayed that White forces have crossed our border into our Far Eastern territory of Yakutsk. The scale of this raid isn't fully known as of yet but in any case we must quickly reinforce this position and push the whites back!"
+
+jap.34.d:0 "The \"Yakutsk Incident\" as some have begun to call it has come to a quick end. The sudden break out of violence between these two states has shocked the international community, some of whom suspect Japan in sparking the incident. All that really matters though is our decisive victory."
+
+jap.35.d:0 "The \"Yakutsk Incident\" as some have begun to call it has come to a quick end. The sudden break out of violence between these two states has shocked the international community, some of whom suspect Japan in sparking the incident. Our surprise defeat has shocked many of our ministers and officers who are now demanding significant reforms to better prepare our army against future battles."
+
+jap.36.d:0 "Realizing our shared ambitions against the Soviet Union, Russia has agreed to form an alliance with us."
+
+jap.37.d:0 "Despite our historic and continued support for their little regime, Russia has refused to form an alliance with us."
+
+jap.38.d:0 "Our attempts to find a peaceful solution to the growing political power of the Japanese Army has failed. When they threatened Japan's democracy we offered them an inch which they saw as an opportunity to take a mile. Slowly but surely Japan's civil government fell to the interests of the military. Under growing internal pressure even the Emperor himself has given into the demands of the military. What ever kind of democracy may have existed in Japan is now just a foot note in history."
+
+
+jap.48.d:0 "Despite our efforts to improve relations with Britain and her people, the British Navy has refused to hand over the designs of the HMS Trafalgar. This modern ship is quite powerful and if we are to retain our place as thee dominate power in the Pacific we must create a ship that can match it's strength."
+
+jappol.11.d:0 "To help secure the very survival of Japan's democratic government we must reform how the military operates. Currently many of our top generals operate autonomously far from the supervision of Tokyo and as such they have very little interest in parliamentary politics. While this state of affairs has allowed for our military and nation to achieve many stunning victories against our enemies it has also turned Japan into a nation that effectively has two conflicting governments. If we are to secure the stability of our nation we must reign in Japan's most ambitious commanders and install loyalists in their place."
 
 jappol.16.d:0 "경찰이 최근 민주정부에 대한 음모에 가담했다는 의혹을 받는 일본 제국 해군 병사를 연행했습니다. 어떠한 정보유출도 없었지만 9월 6일 사건 이후에도 불구하고 해군은 포기하지 않았다는 이야기입니다. 의병의 봉기가 멈췄던 음모를 알았으니 우리는 민주주의를 지키기 위하여 이 문제에 대한 해결책을 생각해야 합니다."
 
@@ -161,7 +204,7 @@ jap.44.d:0 "HMS 트라팔가르의 시험이 계속되면서 우리는 무너지
 
 jap.45.d:0 "우리의 외교부서가 일본해군이 HMS 트라팔가르의 설계를 두고 일본 의회에서 편지를 보내 왔다고 알려왔습니다. 편지의 내용은 트라팔가르의 설계를 요청하는 내용이었으며, 우리 정부는 우리가 설계를 넘겨야 할지 말아야 할지를 놓고 치열한 논쟁을 벌이고 있습니다. 만약 일본에 설계를 넘긴다면 일본이 거의 같은 배를 만들어 우리 설계의 약점을 분석하게 될것이지만, 넘겨주지 않는다면 우리의 관계가 크게 손상될 것입니다. 우리는 이러한 위협을 감수해야 하나요, 말아야 하나요?"
 
-jap.46.d:0 "A messager from the Admiralty has just reached the Foreign Office, swearing as he bust into the halls of the office, informing the Foreign Secretary about the arrest of a \"sneaky bugger lurking inside the Admiralty, near the archives\". The lurker is believed by both the Scotland Yard and the Admiralty as an spy for the Japanese government, our supposed ally. Now we do not have a suitable respond just yet, but we shall accuse the Japanese for shady actions for some mere designs!"
+jap.46.d:0 "A messenger from the Admiralty has just reached the Foreign Office, swearing as he bust into the halls of the office, informing the Foreign Secretary about the arrest of a \"sneaky bugger lurking inside the Admiralty, near the archives\". The lurker is believed by both the Scotland Yard and the Admiralty as an spy for the Japanese government, our supposed ally. Now we do not have a suitable respond just yet, but we shall accuse the Japanese for shady actions for some mere designs!"
 
 jap.47.d:0 "우리 외교부는 방금 영국 외교관으로부터 '이른 크리스마스 선물'을 받았으며, '제독이 좋아할 것'이라는 문서를 받았습니다. 분석 결과, 이 문서는 HMS 트라팔가르의 설계인 것으로 보이며, 해군은 매우 만족해 하고 있습니다. 곧 설계분석을 시작할 것이며, 우리는 영국에 깊은 감사를 표할 것입니다."
 
@@ -180,6 +223,8 @@ jap_us_excercise:0 "미국과의 군사훈련을 취소합니다."
 jap_spawn_korean_units_2:0 "§Y2§!개의 완전 무장한 §Y조선인 자원병§!이 생성됩니다."
 jap_spawn_korean_units_3:0 "§Y3§!개의 완전 무장한 §Y조선인 자원병§!이 생성됩니다."
 jap_spawn_588_bombers:0 "술라웨시에 §Y588 폭격기 편대§!"
+JAP_brothers_tip:0 "Owns any state in §YFrench Indochina§!"
+JAP_korean_tip:0 "Owns any state in §YKorea§!"
 
 #####Ideas#####
 
@@ -474,6 +519,7 @@ jap_SEA_bulwark_desc:0 "우리는 인도네시아의 나머지 섬을 점령하�
 
 #UK-CW DIPLOMACY
 jap_alliance_eng:0 "히로타-이든 중립 조약"
+jap_alliance_eng_desc:0 ""						  
 jap_trade_agreement_empire:0 "영국-일본 무역 협정"
 jap_trade_from_BEA:0 "영국 동아시아 무역"
 jap_trade_from_BEA_desc:0 "영국-일본 무역 협정으로, 우리는 동아시아의 영국 식민지에 무역 가능성을 모색하기 위해 몇몇 관리들을 파견할 것입니다."
@@ -635,71 +681,7 @@ jap_chinese_project:0 "중국 계획"
 jap_chinese_project_desc:0 "이른바 '중국 계획'은 우리에게 협력하고 있는 중국 정부를 우리의 통제하에 놓으려는 계획입니다."
 jap_three_race_coprosperity:0 "삼족공영"
 jap_three_race_coprosperity_desc:0 "중국인들과 한국인들이 우리에게 협력하면서, 그들은 우리와 함께 일하며 발전하고, 그렇지 않으면 우리가 쉽게 그들을 떠날수 있다는 것을 확실히 해야 합니다."
-jap_promote_koreans:0 "ina:0 "인도차이나 공격"
-
-623
-
-jap_strike_indochina_desc:0 "우리의 작전은 준비되었고, 우리는 인도차이나 침공 준비만을 기다리고 있습니다."
-
-624
-
-jap_three_musketeers_i_mean_indochinese_bros:0 "세 인도차이나 형제"
-
-625
-
-jap_three_musketeers_i_mean_indochinese_bros_desc:0 "인도차이나 반도는 과거 라오스, 베트남, 캄보디아에 의해 통치되었습니다. 우리는 그들이 우리에게 협력하여 반도를 통치하도록 할 것입니다."
-
-626
-
-jap_pressure_siam:0 "시암 압박"
-
-627
-
-jap_pressure_siam_desc:0 "우리는 시암의 왕에게 우리의 의지에 충성을 바치고 향후있을 프랑스령 인도차이나 공격에 대한 지원을 하도록 압박할 것입니다."
-
-628
-
-jap_shanghai_incident:0 "상하이 사건"
-
-629
-
-jap_shanghai_incident_desc:0 "갈수록 커지는 중국 내 반일감정은 제1차 청일전쟁 이후 계속해서 증가세를 보이며 상하이 사건으로 정점을 찍었습니다. 우리는 여전히 그 사건에 대해 아무런 반응을 보이지 않고 있습니다. 우리는 이 시간을 우리 내부에서 토론하는 데 사용할 것입니다."
-
-630
-
-jap_defeat_cliques:0 "군벌 타도"
-
-631
-
-jap_defeat_cliques_desc:0 "중국 민족주의자들이 우리의 지배하에 있는 가운데, 우리는 군벌이 통제하고 있는 부분을 공동정부 통제하로 통합할 것입니다."
-
-632
-
-jap_korean_project:0 "조선 계획"
-
-633
-
-jap_korean_project_desc:0 "한국이 제국에 편입됨에 따라, 우리는 한국인들을 우리의 신민으로써 배려한다는 것을 보여주기 위하여 한국인들을 위한 계획을 실행할 것입니다."
-
-634
-
-jap_chinese_project:0 "중국 계획"
-
-635
-
-jap_chinese_project_desc:0 "이른바 '중국 계획'은 우리에게 협력하고 있는 중국 정부를 우리의 통제하에 놓으려는 계획입니다."
-
-636
-
-jap_three_race_coprosperity:0 "삼족공영"
-
-637
-
-jap_three_race_coprosperity_desc:0 "중국인들과 한국인들이 우리에게 협력하면서, 그들은 우리와 함께 일하며 발전하고, 그렇지 않으면 우리가 쉽게 그들을 떠날수 있다는 것을 확실히 해야 합니다."
-
-638
-
-jap_promote_koreans:0 "종ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ인 모병"
+jap_promote_koreans:0 "Promote Korean Servicemen"
 jap_promote_koreans_desc:0 "우리는 한국인 모병을 홍보하고 우리를 위해 복무하는 한국인들이 배척받지 않도록 한국인들을 안정시킬 것입니다."
 jap_korean_army:0 "조선인 군대"
 jap_korean_army_desc:0 "대한제국 육군의 잔해가 아직 남아있을때 우리는 한국인 군대를 창설할 것입니다."
@@ -805,7 +787,6 @@ JAP_add_papua:0 "파푸아 뉴기니 수송"
 JAP_add_eastern_islands:0 "동부 열도선 수송"
 
 JAP_limit_exports_to_US:0 "미국으로의 수출 제한"
-
 
 #Opinion Modifiers
 JAP_aggression:0 "일본의 침략"
