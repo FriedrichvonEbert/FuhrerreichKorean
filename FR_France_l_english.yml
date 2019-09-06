@@ -11,32 +11,42 @@ continental_entente_research_desc:0 "협상국 연구협회는 프랑스가 이�
 #### Political Parties ####
 
 FRA_vanguardist_party:0 "PFNC"
-FRA_vanguardist_party_long:0 "프랑스 국가집산당"
+FRA_vanguardist_party_long:0 "프랑스 국가집산당 \n§gA fringe political movement in France, the PFNC was formed during the February 1934 riots as a far-left split of Parti Populaire Français, which itself was a breakaway of the Parti Communiste Français. The party soon asserted itself as the most radical of the leftist parties in France, supporting racist doctrine refusing to cooperate with the government in any way. The party supports both Rattachism and pan-European nationalism, seeking to unify Europe under a single centralized government with the French at the top calling the shot. \nDespite being an extreme party, the PFNC is highly antagonistic towards the Parti Populaire Français and other radicals on both the left and right. The original leader of the PFNC, Marcel Déat, has shown to have highly radical opinions even by the standards of the party, and some have even branded him as a lover of Dressler's Germany. \n Should the PFNC come to power, France may find herself devoid of allies and with enemies on all sides.§!"
+###
 FRA_collectivist_party:0 "PCF"
-FRA_collectivist_party_long:0 "프랑스 공산당"
+FRA_collectivist_party_long:0 "프랑스 공산당 \n§gThe Parti Communiste Français is the mainline Communist party presently active in France. Originally formed as a more radical offshoot of the SFIO in late 1920, the PCF quickly became the primary communist organization in France during the 20s and 30s, gaining great influence within the working class and having the power to call strikes at will, even if said strikes were few and far between. The PCF has affirmed itself as a revolutionary party and even included people such as Nguyen Sinh Cung, who was in fact one of its founding members. \nThe party has steadily gained popularity throughout the early 19th Century, and polls show that support for the PCF is higher than ever due to the resurgent German power in the East and expanding Soviet influence across Europe. Maurice Thorez, the parties leader, is an outspoken communist with ties to the government and much political experience. \nMany believe that if leftism were to come to France, the PCF would be the vanguard and the one's taking charge of the political situation.§!"
+###
 FRA_libertarian_socialist_party:0 "무정부주의자들"
-FRA_libertarian_socialist_party_long:0 "프랑스 무정부주의운동"
+FRA_libertarian_socialist_party_long:0 "프랑스 무정부주의운동 \n§gA collection of Anarchists and libertarian socialist movements led by Sébastien Faure under a common banner, the Anarchistes wish to see a great degree of decentralization come to France and a peaceful, democratic transition to revolution. \nWhile the Anarchiste movement may be small in number and low in popularity, they may prove invaluable in the case of a leftist government coming to power in France, democratically or otherwise.§!"
+###
 FRA_social_democrat_party:0 "SFIO"
-FRA_social_democrat_party_long:0 "노동자 인터내셔널 프랑스 지부"
+FRA_social_democrat_party_long:0 "노동자 인터내셔널 프랑스 지부 \n§gThe SFIO was born out of a merger between the Socialist Party of France and the French Socialist party in 1905 under pressure of the Second Internationale, and quickly found themselves sandwiched between the radical working-class syndicalists and middle-class liberals under the banner of the Radical Party. \nThe SFIO was weakened not long after their creation when members of the Confédération générale du travail refused to cooperate with the party due to them being seen as radicals. These members of the CGT would form the Parti républicain-socialiste in the years leading up to the Great War, but would find themselves unable to stay afloat whilst trying to uphold both socialist and reformist policies, and the party would be be destroyed in 1934 with many of its members rejoining the SFIO. \nThe outbreak of the Great War saw futher divide in the party as members argued between pacifism and patriotism. The post-war domination of French politics by the Fédération Républicaine kept the SFIO out of the spotlight, but the upcoming elections may prove to be their greatest chance yet of achieving success.§!"
+###
 FRA_social_liberal_party:0 "PR"
-FRA_social_liberal_party_long:0 "공화당, 급진사회주의파"
+FRA_social_liberal_party_long:0 "공화당, 급진사회주의파 \n§gBorn shortly after the turn of the Century in 1901, the PR is the foremost of the radicalist democratic parties presently operating in France. Originally quite left leaning, the PR has gradually moved futher towards the center with the rising popularity of the SFIO capturing the hearts and minds of the workers and labourors of France. \nAfter the Great War, the PR participated in minor government roles whilst being constantly overshadowed by the FR-AD coalition government which dominated French politics during the 20s and 30s. \nPopular support for the PR has never been large, and they must work together with other larger parties in order to push their agenda, but a coalition government involving the PR would certainly be a drastic change from the status quo.§!"
+###
 FRA_market_liberal_party:0 "AD"
-FRA_market_liberal_party_long:0 "민주동맹" 
+FRA_market_liberal_party_long:0 "민주동맹 \n§gCreated in 1901 as a splinter of the Parti Républicain, the AD was a large supporter of the Bloc des gauches from 1899 to 1906. The AD distinguished itself from the right by supporting the 1905 Seperation of State and Church Act, something which many of the right-leaning parties had opposed due to their pro-Catholic policies. The party was formalized in 1911 under the name "Parti Démocratique Républicain". \nThe AD made a transition to the right in the years leading up to and including the Great War, and in 1919 they formed the Bloc National in cooperation with the Fédération Républicaine. This coalition proved to be highly successful, and the postwar economic boom that the French economy experienced further solidified their popularity with the French people. This "blue wave" was more beneficial to the FR than the AD, but both parties remained dominant in French politics up to 1936.§!"
+###
 FRA_social_conservative_party:0 "FR"
-FRA_social_conservative_party_long:0 "공화연맹"
+FRA_social_conservative_party_long:0 "공화연맹 \n§gThe FR was fromed in 1903 in an attempt to unite conservatives in France who opposed the Bloc des gauches as well as partially the defense of Jewish officer Alfred Dreyfus, the party made up the conservative bourgeoisie of France who were generally opposed to social reform and supportive of minor decentralization throughout the country. \nThe formation of the Bloc National in 1919 was a breakthrough for the previously minor party, and they soon came to dominate the French elections all throughout the 1920s and 30s. Almost every single French Prime Minister during this time came from the FR, with only a select few belonging to the AD, leading to little social change taking place. This lack of change has gradually pushed more and more of the French people towards the PR, yet support for the Bloc National remains high. \nSome believe that it would take nothing short of a devestating scandal to shatter the FR's popularity.§!"
+###
 FRA_authoritarian_democrat_party:0 "PSF"
-FRA_authoritarian_democrat_party_long:0 "프랑스 사회당"
+FRA_authoritarian_democrat_party_long:0 "프랑스 사회당 \n§gA nationalist French party in early 1936 and can trace its origins to the far-right political league known as the Croix-de-Feu, which was itself only founded in 1927. The Croix-de-Feu supported the ideas of François de La Rocque, which served as the league's ceremonial leader. The sitting government attempted to ban all of the leagues after the February 1934 riots, but due to the league's influences in the already right-leaning government, the act failed and the leagues were allowed to continue their operation unimpeded. \nThe Croix-de-Feu's reorganization into an political party took place shortly after the attempt to ban it and the other leagues failed in late 1935, and by 1936 they had transformed themselves into the PSF. \nThe transition from pressure league to political party saw them drift further from the radical far-right and more towards the moderate right, yet they still uphold nationalist and patriotic French values whilst upholding democratic traditions and being fiercely opposed to communism.§!"
+###
 FRA_paternal_autocrat_party:0 "군사 정부"
-FRA_paternal_autocrat_party_long:0 "군사 정부"
+FRA_paternal_autocrat_party_long:0 "군사 정부 \n§gSupport for a military junta is limited to radicals within the military, and the only possibility of a military junta taking power would be in the event of total government collapse and the need for a powerful force to fill the power vacuum.§!"
+###
 FRA_national_populist_party:0 "PPF"
-FRA_national_populist_party_long:0 "프랑스 민중당"
+FRA_national_populist_party_long:0 "프랑스 민중당 \n§gEasily the most radical of France's right-leaning parties, the PPF upholds extreme nationalism, racist rhetoric, and privatization of industries. The PPF was created mainly from members of the PCF who found a disdain for the PFNC's policies and were generally dissatisfied with the left's failure in recent decades. n\The PPF is outspokenly anti-communist and uses iconography and symbolism to gather support, most of which is based just North of Paris. The PPF has little support in the French political sphere, and not even the equally radial PFNC are willing to cooperate with the party. As such, it will take nothing more than a total collapse of not only the French government but the state itself for the PPF to assert their dominance at the top of the political food chain.§!"
+###
 FRA_valkist_party:0 "SF"
-FRA_valkist_party_long:0 "Solidarité Française"
+FRA_valkist_party_long:0 "Solidarité Française \n§gFrance's only Valkist movement, the Solidarité Française have virtually no internal support outside of some Germans living in Alsace-Lorraine and the Sarre. Many in French politics believe that the SF are openly working against the French state in order to bring about a collaberationist regime which is submissive to Germany. The SF has no real centralized leadership and is only united in their unique ideology which differs greatly from all others on the spectrum.§!"
 
 #### TRAITS ####
 cia:0 "CIA의 총수"
 hothead:0 "소인"
-marshal_of_france:0 "프랑스 육군원수"
+FRA_marshal_of_france:0 "프랑스 육군원수"
 
 #WT
 FRA_world:0 "프랑스 제국주의"
@@ -343,10 +353,10 @@ fra_curie_institute_desc:0 "Marie Curie was a famous French chemist who made an 
 fra_mobile_age:0 "기동전의 시대"
 fra_mobile_age_desc:0 "예전처럼 느리고 둔하게 움직이는 군대는 절대 현대전에서 승리할 수 없습니다. 우리가 전쟁에서 승리하고자 한다면, 우린 군대를 차량화시키고, 군대가 새 수송수단과 보급수단을 쓰도록 만들어야만 합니다."
 ###
-fra_mobile_army:0 "Army Mobilazation"
+fra_mobile_army:0 "Mobilizing the Army"
 fra_mobile_army_desc:0 "In order to win on the battlefield we need to be able to get our troops to where they need to be, before the enemy is able to out-manouver us. Improving logistics should allow us to achieve this with ease."
 ###
-fra_mobile_recon:0 "Improved Reconnaisance"
+fra_mobile_recon:0 "Improved Reconnaissance"
 fra_mobile_recon_desc:0 "The faster our scouts can reach vantage points the faster they can relay the enemy position back to high command, therefor we should attempt to mobilize our recon units."
 ###
 fra_scw_lessons:0 "Lessons from the Spanish Civil War"
@@ -372,7 +382,7 @@ fra_trench_bunker_desc:0 "대전쟁 도중 건설된 여러 요새화된 참호�
 ###
 fra_fort_alsace:0 "알자스 요새화"
 fra_fort_alsace_desc:0 "아마 방어시설이 가장 필요한 지역은, 사악한 독일과 맞닿아 있는 알자스 지역일 것입니다. 라인 강 덕분에 방어가 쉽기는 하지만, 강을 넘어온 적과 싸우는것보단, 강을 넘어오려는 적을 기관총과 포격으로 저지하는게, 더 쉽고 편하지 않을까요?
-
+###
 fra_fort_savoy:0 "사보이 요새화"
 fra_fort_savoy_desc:0 "이탈리아는 현재 우리와 동맹 관계를 맺고 있습니다. 그렇지만 대전쟁 도중 이탈리아가 오스트리아와 독일을 배신했던 것을 생각하면, 이탈리아가 우리를 배신하지 않을 거라고 보장할 수는 없습니다. 이탈리아와 접하고 있는 사보이 지역을 요새화한다면, 아마 이탈리아가 우릴 배신하더라도 막아낼 수 있을 것입니다."
 ###
@@ -461,7 +471,7 @@ fra_cadet_corps:0 "Support the Cadet Corps"
 fra_cadet_corps_desc:0 "The key to a well-trained army is to have the soldiers of tomorrow training today. Cadet corps will introduce our youth to the military of our nation, and allow them to specialize in specific fields. Not only this, but the Cadet corps will teach them valuable lessons about being a citizen, and advance our society as a whole."
 ###
 fra_legacy_begone:0 "A New Legacy"
-fra_legacy_begone_desc:0 "The horros of the Great War are behind us, and a new age has dawned for our military and industry. We will march forward into the next decade with stoicism, confidence, and an unyielding attitude."
+fra_legacy_begone_desc:0 "The horrors of the Great War are behind us, and a new age has dawned for our military and industry. We will march forward into the next decade with stoicism, confidence, and an unyielding attitude."
 ###
 fra_somme_begone:0 "솜 전투를 기억하라"
 fra_somme_begone_desc:0 "우리는 솜 전투에서 쓰러진 병사들은 물론, 조국을 수호하다 전사한 병사들 모두를 기려야만 합니다. 그렇지만 이게 그냥 주저앉아 울어야만 한다는 것은 아닙니다. 대신, 우린 쓰러진 이들을 위해서라도 싸워나가야만 합니다."
@@ -627,15 +637,6 @@ fra_navy_air_cadets_desc:0 "The Air and Navy cadets operate almost entirely inde
 ###
 fra_continental_supremacy:0 "Continental Supremacy"
 fra_continental_supremacy_desc:0 "Ever since the end of the Great War, we have been the hegemon of continental Europe. Maintaining this position is critical for us to ensure the survival of the French nation."
-###
-fra_no_flank:0 "Never another Schlieffen"
-fra_no_flank_desc:0 "The Belgian corridor left France wide open for attack during the first Great War, and our inability to act led to the complete devestation of the Calais region. We must take diplomatic measures to ensure that such a travesty never happens again."
-###
-fra_safeguard:0 "Safeguarding the Low Countries"
-fra_safeguard_desc:0 "The Low Countries are defenseless without our watchful eye, and the resurgant Germany to the East has threathened the region greatly. We must take measures to assrt our influence over the region, and prevent foreign powers from dominating them."
-###
-fra_hispania:0 "Turmoil in Hispania"
-fra_hispania_desc:0 "The Spanish Civil War has brought devestation to the penensula, and many of our citizens living near the border have grown fearful of the conflict crossing over. Intervention in the conflict will ensure a swift end and peaceful resolution to the war in our favour."
 ###
 fra_italy_coop:0 "이탈리아와의 협력"
 fra_italy_coop_desc:0 "우리 동맹국들 중 가장 거대한 나라인 이탈리아는, 군사적으로나 경제적으로나 상당히 뒤쳐저 있습니다. 이탈리아와 우리 사이의 협력을 늘린다면, 이탈리아는 조금 더 강력한 국가가 될 수 있을 것입니다."
@@ -957,6 +958,141 @@ fra.72.t:0 "벨기에가 우리 요구를 거부하다!"
 fra.72.d:0 "우리 예상과는 달리, 벨기에가 우리 요구를 거부하고 전쟁을 택했습니다. 우리 장교단은 벨기에군은 우리 군대에 비하면 한참 부족한 수준이므로 , 이번 주말이면 아마 브뤼셀을 점령할 수 있을 거라고 보고 있습니다."
 fra.72.a:0 "징고의 이름으로, 공격!"
 ###
+fra.73.t:0 "Complete Economic Collapse"
+fra.73.d:0 "The worst has finally come, the funds we allocated specifically to deal with the economic collapse have all been used up and we are officially bankrupt. Requests for additional funding have been blatently denied by the ministy of finance, who no longer trust us to spend the money wisely. \n\nOur economy has been completely trashed, and individual sectors of the government have begun to pool their resources to overcome the crisis as best as possible. While we believe this will pass, it will be a long while yet."
+fra.73.a:0 "Oops?"
+###
+fra.74.t:0 "Provisional Government Militia Forms!"
+fra.74.d:0 "Thanks to our efforts with setting up the GFPA, we have managed to wrangle up a small army which was waiting in Africa. We now have a force to defend our coasts from the Germans and, god willing, assist us in returning to the mainland one day in the future."
+fra.74.a:0 "Joyous news!"
+###
+fra.75.t:0 "The Autonomy of Paris"
+fra.75.d:0 "In the time leading up to the Franco-Prussian war and the short-lived Paris Commune, the population of Paris began to grow more and more discontent with the rule of Emperor Napoleon III and began to demand more autonomous rights which were already enjoyed by smaller towns across France. These wishes were unmet by the Emperor, and only three months after Paris surrendered to the Prussian army in 1871, the city declared an independent Commune headed by the radicalized national guard who were originally charged with defending the city. \n\nWhilst the Commune was defeated a mere ten days after its foundation at the hands of the French armed forces, its legacy remained strong in the hearts and minds of Parisian citizens. The Communard spirit still holds strong in some of the cities population, and many still call for increased independance and autonomy; Now that these wishes have after so long finally been granded, the citizens of Paris cheer for the government and champion further decentralization throughout the country, and whilst we aren't prepared to take such extreme measures to replecate the old Paris Commune, listening to the people may actually prove useful for once."
+fra.75.a:0 "A Victory For The People!"
+###
+fra.76.t:0 "Bordeaux Protests Parisian autonomy!"
+fra.76.d:0 "As expected, we have recieved localized backlash due to our granting of Parisian autonomy in the city of Bordeaux on the Western coast of France. The citizens are engaging in small-scale rioting and demanding the same privilages as Paris. We cannot give in to these demands, as it will almost certainly cause a domino effect which will lead to the complete decentralization and overall weakening of our state. All we can do now is hunker down and wait for the wave of unrest to pass."
+fra.76.a:0 "Blast!"
+###
+fra.77.t:0 "Marseille Protests Parisian autonomy!"
+fra.77.d:0 "As expected, we have recieved localized backlash due to our granting of Parisian autonomy in the city of Marseille on the Mediterranean coast of France. The citizens are engaging in small-scale rioting and demanding the same privilages as Paris. We cannot give in to these demands, as it will almost certainly cause a domino effect which will lead to the complete decentralization and overall weakening of our state. All we can do now is hunker down and wait for the wave of unrest to pass."
+fra.77.a:0 "Blast!"
+###
+fra.78.t:0 "Orléans Protests Parisian autonomy!"
+fra.78.d:0 "As expected, we have recieved localized backlash due to our granting of Parisian autonomy in the city of Orléans, not too far south of Paris itself. The citizens are engaging in small-scale rioting and demanding the same privilages as Paris. We cannot give in to these demands, as it will almost certainly cause a domino effect which will lead to the complete decentralization and overall weakening of our state. All we can do now is hunker down and wait for the wave of unrest to pass."
+fra.78.a:0 "Blast!"
+###
+fra.79.t:0 "Nantes Protests Parisian autonomy!"
+fra.79.d:0 "As expected, we have recieved localized backlash due to our granting of Parisian autonomy in the city of Nantes, a city with strong Breton ties. The citizens are engaging in small-scale rioting and demanding the same privilages as Paris. We cannot give in to these demands, as it will almost certainly cause a domino effect which will lead to the complete decentralization and overall weakening of our state. All we can do now is hunker down and wait for the wave of unrest to pass."
+fra.79.a:0 "Blast!"
+###
+fra.80.t:0 "Vichy Protests Parisian autonomy!"
+fra.80.d:0 "As expected, we have recieved localized backlash due to our granting of Parisian autonomy in the city of Vichy, a relatively insigificant town with little historical significance whatsoever. The citizens are engaging in small-scale rioting and demanding the same privilages as Paris. We cannot give in to these demands, as it will almost certainly cause a domino effect which will lead to the complete decentralization and overall weakening of our state. All we can do now is hunker down and wait for the wave of unrest to pass. \n\nOddly, Philippe Pétain has requested to personally lead a division to the city in order to "quell the unrest", but this requst was promptly denied when it became clear he simply wished to sightsee and take a quick vacation."
+fra.80.a:0 "Blast!"
+###
+fra.81.t:0 "The Battle Against Unionization"
+fra.81.d:0 "Through discreet planning and covert actions, we have successfully managed to decrease the popularity and membership of unions slightly across the industrialized sectors of the nation. While this has directly benifited the industry, much of the industrial working population has grown discontent with the government and have joined more radical socialist parties in replacement of the more popular moderate parties. These radical parties are nowhere near large enough to directly threaten national stability, but many members of government are calling this policy an overall failure and a stain on the party's track record."
+fra.81.a:0 "At least we did something!"
+###
+fra.82.t:0 "This event gives the country monarch points every week"
+fra.82.d:0 "You're not supposed to see this event, please contact darknight1342 if you are presently reading this event in-game. \n\nHey if nobody can read this event, I can say whatever I want right? \n\nUhhhh, I'd like to thank my mom and my dad for helping me get to where I am. I'd like to give a big shoutout to my main man Elmo, keeping it real since 2002. \n\nWhat the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to t-"
+fra.82.a:0 "Bottom Text :P"
+###
+fra.83.t:0 "Change in legitimacy!"
+fra.83.d:0 "Due to shifting public opinion and recent government policies, our percieved legitimacy has changed dramatically."
+###
+fra.88.t:0 "King Jean criticized for bending to the will of regional resistance."
+fra.88.d:0 ""
+fra.88.a:0 "All a necessary step to securing peace."
+###
+fra.89.t:0 "King Jean criticized for violent repression of civil disobedience."
+fra.89.d:0 ""
+fra.89.a:0 "Drastic measures needed to be taken."
+###
+fra.90.t:0 "King Jean praised for balanced approach to regional unrest."
+fra.90.d:0 ""
+fra.90.a:0 "A good start to our kings reign."
+###
+fra.91.t:0 "Blueprints of the Tsar Tank discovered!"
+fra.91.d:0 "French military theorists and champions of mobile warfare rejoice today, as the long-lost blueprints to the Russian Tsar Tank have been miraculously recovered by French spies operating in Eastern Europe. The blueprints were quickly and covertly secured and transported back to France via boat, where upon reaching the mainland a great effort was made to preserve the documents and create copies in case the original was destroyed or damaged beyond recognition. \n\nAfter many weeks of analysis and pouring over the details of this monsterous machine, a conclusion was reached that the tank was a complete and utter failure in planning and practicality, and simply highlighted how out-of-touch Russian high command was during the Great War. This grand échec has proven to be a complete waste of time and effort, and was good for little more than a quick laugh when our researchers and theorists realized how laughable this vehicle was. \n\nAdmittadly, we did learn something from this little debacle, however it seems unlikely we will be able to make any use of it."
+fra.91.a:0 "Wow, this is useless!"
+###
+fra.92.t:0 "Residence for the King, Paris or Versallies?"
+fra.92.d:0 ""
+fra.92.a:0 "Paris will be his home!"
+fra.92.b:0 "Versallies will be his home!"
+fra.92.c:0 "The king does not need to make his residence known to the public, he lives where he wishes!"
+###
+fra.93.t:0 "Rapprochement with the Spanish?"
+fra.93.d:0 "The Monarchist factions have proven themselves the strongest out of the warring powers in the region, and have asserted complete control over the entirety of the formerly united Spanish lands. With the recent developments in our own country, we are finally ideologically alligned with the monarchist Spanish government, and the question of diplomatic rapprochement is hot on the minds of both nations citizens. \n\nThere was much friction during the early phase of the Spanish Civil War, but many believe that reconciliation is now possible between our two governments, and perhaps an alliance in the future. Shall we invest in this endevour?"
+fra.93.a:0 "A worthwile investment."
+fra.93.b:0 "Spain? Do they even have a standing army?"
+fra.93.c:0 "The first step to reconciliation is the returning of their occupied lands."
+###
+fra.94.t:0 "Annexing the Spanish Republic?"
+fra.94.d:0 ""
+fra.94.a:0 "The Republic dies for a second time!"
+fra.94.b:0 "The Republic is still useful to us."
+###
+fra.95.t:0 "The 1940 Election"
+fra.95.d:0 "[GetYear] is finally upon us, and the elections are as well."
+fra.95.a:0 "The SFIO wins!"
+fra.95.b:0 "The RS wins!"
+fra.95.c:0 "The AD wins!"
+fra.95.e:0 "The FR wins!"
+###
+fra.96.t:0 "Outlawing the Solidarité Française"
+fra.96.d:0 "France's only Valkist movement, the Solidarité Française, have been rumoured to be working in conjunction with the German government for quite some time now. If this movement is freely allowed to use subterfuge to undermine the French state, what does that say about other radical parties that may wish to overthrow the current government? [ROOT.GetLeader] has expressed his disdain for the movement on multiple occasions, and now many in the party are calling for the complete outlaw and the disbandment of the party."
+fra.96.a:0 "They are enemies of the state and must be treated as such"
+fra.96.b:0 "This movement will die on its own, no need for government intervention."
+###
+fra.97.t:0 "Aftershocks of the Scandal"
+fra.97.d:0 "Even though the Bloc National managed to survive the government-wide scandal, the scars left on their public image have refused to heal. Calls for the coalition's dissolution are becoming rampant with the 1940 election looming ever closer on the horizon, and many in the government believe that the coalition has served its purpose and no longer needs to exist. \n\nEven those inside the ruling government have begun to agree that the survival of the French state is more important than their coalition."
+fra.97.a:0 "Times are certainly changing"
+###
+fra.98.t:0 "The Pétain Constitution"
+fra.98.d:0 "With Pétain's power no longer in question from opposing forces, the time has come to draft a new constitution with the purpose of solidifying his rule and reorganizing the government into a more efficiant system. Many of Pétain's supporters believe that an authoritarian constitution which strips power away from the legislative government and consolidates it under Pétain himself would be the best option for ensuring a peaceful reign. \n\nAlternatively, some critics of Pétain believe that a devolved government would be far better for internal stability as one man surely cannot run an entire country by himself. Although these people are fewer in number, they do make a good point. \n\nThe decision is Pétain's to make, which style of constitution will we create?"
+fra.98.a:0 "A unity consitution with Pétain at the top"
+fra.98.b:0 "A devolved constitution with a strong government"
+###
+fra.99.t:0 "The Saar Issue"
+fra.99.d:0 ""
+fra.99.a:0 "Crush the Saarland Valkists!"
+fra.99.b:0 "Perhaps we can come to an agreement"
+###
+fra.100.t:0 "Petain assumes control of the Free French Army"
+fra.100.d:0 "Petain has arrived in Algiers and assumed direct command of the French Army in Africa, making him the de facto head of state."
+fra.100.a:0 "He will lead us to victory"
+###
+fra.101.t:0 "Gabon declares independence!"
+fra.101.d:0 "Fuckin natives man jeez"
+fra.101.a:0 "Unbelievable!"
+###
+fra.102.t:0 "Gabon revolts against the French traitors!"
+fra.102.d:0 "ayy lmao"
+fra.102.a:0 "Send them equipment!"
+fra.102.b:0 "It's a trick, send no reply..."
+###
+fra.103.t:0 "Dahomey declares independence!"
+fra.103.d:0 "aye aye aye"
+fra.103.a:0 "Unbelievable!"
+###
+fra.104.t:0 "Militia uprising in Poitiers!"
+fra.104.d:0 "Xd"
+fra.104.a:0 "They will be crushed"
+###
+fra.105.t:0 "Militia uprising in Pas de Calais!"
+fra.105.d:0 "Xd"
+fra.105.a:0 "They will be crushed"
+###
+fra.106.t:0 "Militia uprising in Burgundy!"
+fra.106.d:0 "Xd"
+fra.106.a:0 "They will be crushed"
+###
+fra.107.t:0 "Reconquest of Marseille!"
+fra.107.d:0 "After a fierce naval battle off the coast of Provence early this morning, our forces landed south of Marseille and captured the entirety of the city within the day. Urban combat was rampant and some dug-in positions were unable to be cleared for several hours, and the city is still being sweeped for German and collaberationist positions which have yet to be discovered. \n\n[Root.GetLeader] arrived after the majority of the enemy forces were cleared out, and gave a patriotic speech in the city square to the surrounding soldiers. "Our ultimate victory is finally upon us, my fellow Frenchmen. Today was our first victory, but it is far from our last. Soon we will arrive in Paris to the cheer and applause of our countrymen and women, and our wives will greet us with open arms. The German's days are numbered, and we are the harbingers of their death!". \n\nWith this swift victory, morale of the collaberationist French army has dropped significantly. We should take advantage of this break and press our advance, for a stalemate in metropolitan France will end with our inevitable defeat."
+fra.107.a:0 "Victory is near!"
+###
 fra.5000.t:0 "France offers arms contracts!"
 fra.5000.d:0 "The French have approached our government with an offer, they are willing to hand over several factories for a period of 90 days in exchange for some of our newest military technology or a large sum of guns. Accepting this offer would be of great benifit to our industry, but should the French ever come to oppose us, we would be lowering our chances of victory against them."
 fra.5000.a:0 "We will accept their generous offer"
@@ -1256,6 +1392,30 @@ FRA_black_wednesday2_desc:0 ""
 ###
 FRA_black_wednesday3:0 "Effects of Black Wednesday"
 FRA_black_wednesday3_desc:0 ""
+###
+FRA_combined_air_navy:0 "Air-Navy cooperation"
+FRA_combined_air_navy_desc:0 ""
+###
+FRA_bw_disaster:0 "Economic Disaster"
+FRA_bw_disaster_desc:0 "The economic crisis has been terribly mismanaged and abused, leading to what appears to be a complete collapse of our economy. While this will pass, it will take some time."
+###
+FRA_very_low_legitimacy:0 "Very Low Legitimacy"
+FRA_very_low_legitimacy_desc:0 ""
+###
+FRA_low_legitimacy:0 "Low Legitimacy"
+FRA_low_legitimacy_desc:0 ""
+###
+FRA_med_legitimacy:0 "Average Legitimacy"
+FRA_med_legitimacy_desc:0 ""
+###
+FRA_high_legitimacy:0 "High Legitimacy"
+FRA_high_legitimacy_desc:0 ""
+###
+FRA_very_high_legitimacy:0 "Very High Legitimacy"
+FRA_very_high_legitimacy_desc:0 ""
+###
+FRA_patriotic:0 "Patriotic Spirit"
+FRA_patriotic_desc:0 "French forces have landed at Marseille and taken control of the surrounding area. There is a patriotic spirit surrounding the loyalist French army which is allowing them to fight harder."   
 
 
 #### DECISIONS ####
@@ -1387,6 +1547,71 @@ FRA_penetrate_channel_desc:0 "The English channel has been under British hegemon
 ###
 FRA_demand_wallonia:0 "Demand Wallonia"
 FRA_demand_wallonia_desc:0 "The overwhelming majority of the population living in the Belgian region of Wallonia speaks French, and a degree of them consider themselves ethnically French. A small political ideology exists within both Belgium and France known as Rattachism, which seeks to unite Wallonia with France and integrate it as a département. The rise of our militarist, nationalist, and expansionist government has finally allowed us to justify expressing our demands upon the Belgian government. \n\n§YThe Belgian government is unlikely to accept our demand, and if they have the backing of another major European power our chances of resolving this issue peacefully are practically zero. We should ensure our military is at full capability before sending our demands.§!"
+###
+FRA_internal_decisions:0 "Internal Decisions"
+###
+FRA_parisian_autonomy:0 "Grant Parisian Autonomy"
+FRA_parisian_autonomy_desc:0 "The citizens and workers of Paris have long cried out for increased autonomy and self-governance like that enjoyed by our smaller metropolitan cities. They wish for their own elected council and less direct administration from the French government. Granting these rights will certainly gain us some popular support, but other cities may be displeased by our clear favour towards the capital region."
+###
+FRA_curb_unions:0 "Curb Unionization"
+FRA_curb_unions_desc:0 "Unionization rates in France skyrocketed during the 1920s and 30s, and soon became a hotbed for communist activity and organization. Whilst we cannot outright ban unionization, as that would undoubtedly lead to mass striking across the entire nation and bring our industry to a complete standstill, we can take certain measures to decrease rising unionization rates and make union members inelligable for token government benifits. \n\nThis action will certainly upset the socialist movements within France and may potentially alienate us from the industrial workers, but may be a necesary step in avoiding a complete socialist takeover of our nation."
+###
+FRA_expand_marseille:0 "Expand the Marseille Port"
+FRA_expand_marseille_desc:0 "The city and port of Marseille are of vital importance when it comes to controlling the Mediterranian Sea, and without it we would be strategically isolated from our colonies in North Africa. Expanding the port will allow us to exert more influence over the Mediterranian as well as Algeria and our protectorates in Morocco and Tunisia."
+###
+FRA_secure_bosphorus:0 "Secure the Bosphorus"
+FRA_secure_bosphorus_desc:0 "Recent political developments in Anatolia have dearly threatened our access to the Black Sea and international trade through the Bosphorus strait, and the radical Turkish government has made it clear that they intend to nationalize the strait and prevent foriegn ships from entering what they claim to be sovreign waters. Diplomatic efforts have failed and the time has come to force the Turks to open the Bosphorus to us."
+###
+FRA_secure_siam:0 "Secure Siam"
+FRA_secure_siam_desc:0 "The Siamese nation exists primarily as a buffer state between French Indochina and the British posessions in Malaya and India, but international interest in subdueing the nation has left us with little other choice than to invade the primitive kingdom ourselves to secure our interests in the region. The jungle terrain and extensive rivers will allow us to gain a defensive position against the British if they decide to press an attack into the region, which should give us enough time to send reinforcements and prepare for a counterattack."
+###
+FRA_royal_decrees:0 "Securing Royal Authority"
+FRA_royal_decrees_desc:0 "With the French monarchy finally restored, and the king once more the head of both state and government, our nation is soon to reach its political zenith. But for this zenith to occur, we require the entire state to be in full support of our policies and commands. Several regions in France have denounced the kings return, and we are presently in a period of great civil strife. \n\nIn order to restore order to the nation we will need to either reach a compromise with or militarily intervene in each of the rebellious regions. We must be wary however, as militarily dealing with the resistance may lower our legitimacy and turn what support we have against us! \nWe should aim to keep our legitimacy above §G20%§!.\n\nOur current available §YRoyal Authority:§! §G[?Root.FrenchMonarchPower]§! \n\nOur current §Yperceived legitimacy:§! §G[?Root.FrenchLegitimacy]%§!"
+###
+FRA_subdue_provence:0 "Subdue Provence"
+FRA_subdue_provence_desc:0 "We will march regiments into Provence and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_provence:0 "Negotiate with Provence"
+FRA_negotiate_provence_desc:0 "Negotiating with the Provençal government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_subdue_aquitaine:0 "Subdue Aquitaine"
+FRA_subdue_aquitaine_desc:0 "We will march regiments into Aquitaine and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_aquitaine:0 "Negotiate with Aquitaine"
+FRA_negotiate_aquitaine_desc:0 "Negotiating with the Aquitainian government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_subdue_normandy:0 "Subdue Normandy"
+FRA_subdue_normandy_desc:0 "We will march regiments into Normandy and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_normandy:0 "Negotiate with Normandy"
+FRA_negotiate_normandy_desc:0 "Negotiating with the Norman government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_subdue_burgundy:0 "Subdue Burgundy"
+FRA_subdue_burgundy_desc:0 "We will march regiments into Burgundy and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_burgundy:0 "Negotiate with Burgundy"
+FRA_negotiate_burgundy_desc:0 "Negotiating with the Burgundian government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_subdue_lorraine:0 "Subdue Lorraine"
+FRA_subdue_aquitaine_desc:0 "We will march regiments into Lorraine and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_lorraine:0 "Negotiate with Lorraine"
+FRA_negotiate_lorraine_desc:0 "Negotiating with the Lorrainian government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_subdue_toulouse:0 "Subdue Toulouse"
+FRA_subdue_toulouse_desc:0 "We will march regiments into Toulouse and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_toulouse:0 "Negotiate with Toulouse"
+FRA_negotiate_toulouse_desc:0 "Negotiating with the Toulousian government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_subdue_brittany:0 "Subdue Brittany"
+FRA_subdue_brittany_desc:0 "We will march regiments into Brittany and subdue the region with force! \n\n§RRrequires at least 25 Royal Authority§!"
+###
+FRA_negotiate_brittany:0 "Negotiate with Brittany"
+FRA_negotiate_brittany_desc:0 "Negotiating with the Breton government will allow us to reach a peaceful settlement.\n\n§RRrequires at least 40 Royal Authority§!"
+###
+FRA_restore_peerage:0 "Restore French Peerage"
+FRA_restore_peerage_desc:0 "Peerage in France was abolished in 1848, destroying the royal foundations that our country was built on. Restoring peerage"   
 
 #### FLAGS ####
 
@@ -1419,6 +1644,10 @@ FRA_italy_1:0 "Has completed the §YFranco-Italian Industrial Cooperation§!"
 FRA_eng1:0 "Anglo-French tensions have been raised."
 ###
 FRA_channel_penetrated_flag:0 "The English Channel has been penetrated."
+###
+FRA_trans_africa:0 "The Trans-African Railway has been greenlit!"
+###
+FRA_crown_resist:0 "Is presently resisting the crown."   
 
 #### TOOLTIPS ####
 
@@ -1484,6 +1713,10 @@ FRA_400m_money_decrease:0 "§R400 million§! Francs will be subtracted from our 
 ###
 FRA_650m_money_decrease:0 "§R650 million§! Francs will be subtracted from our available budget.\n"
 ###
+FRA_50m_money_decrease:0 "§R50 million§! Francs will be subtracted from our available budget.\n"
+###
+FRA_25m_money_decrease:0 "§R25 million§! Francs will be subtracted from our available budget.\n"
+###																																				   
 FRA_1_inflation_increase:0 "Inflation will increase by §Y1%§!.\n"
 ###
 FRA_2_inflation_increase:0 "Inflation will increase by §Y2%§!.\n"
@@ -1499,6 +1732,12 @@ FRA_2_unemployment_decrease:0 "Unemployment will decrease by §G2%§!.\n"
 fra_cede_wallonia:0 "§RThe regions of Wallonia and Bastogne will be ceded to France in order to maintain peace.§!"
 ###
 fra_dont_cede_wallonia:0 "§YWe will attempt to diplomatically stall the French as long as we can as we reach out to the British.§!"
+###
+fra_resistance_over:0 "§Gremoves the effects of Republican resistance in this state.\n\n§!"
+###
+fra_gain_5_authority:0 "§YWe will gain§! §G5§! §YRoyal Authority for dealing with the resistance militarily§!"
+###
+fra_gain_5_legit:0 "§YWe will gain§! §G5§! §YLegitimacy for dealing with the resistance peacefully§!"   
 
 #### OPINION MODIFIERS ####
 
@@ -1507,6 +1746,8 @@ FRA_Outraged:0 "Outraged"
 FRA_anti_anglo:0 "Anti-English foreign policy"
 ###
 FRA_channel_penetrated:0 "Penetrated the English Channel"
+###
+FRA_spain_reconcile:0 "Franco-Spanish diplomatic reconciliation"   
 
 #### THREAT NAMES ####
 
