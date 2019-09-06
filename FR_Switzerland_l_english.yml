@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 SWI_FUHRERREICH_DESC:0 "스위스는 수 세기 넘게 그 누구와도 싸워본 적이 없습니다 - 나폴레옹 시대 전까진 말이죠. 지난 20년동안 계속되었던 자유주의 정당의 집권은, 1935년의 총파업과 함께 위협받았습니다. 스위스는 여전히 안정적이긴 하지만, 예전에 있었던 사회주의자들의 총파업과, 독일의 침공 위협 탓에, 스위스에겐 친구는 많지만, 동맹은 얼마 없습니다..."
 
@@ -57,6 +57,8 @@ SWI_chief_ambassadorship_founded_in_lugano_opinion:0 "루가노의 대사"
 
 #### Ideas ####
 
+SWI_Vorarlberg:0 "The Status of Vorarlberg"
+SWI_Vorarlberg_desc:0 "In 1919, the people of Vorarlberg, formally a region in Austria, voted overwelming to join Switzerland. However, this move has caused religious and enthic tension. The majority Protestant and Italian cantons were against the intergration of Vorarlberg. With the world seemingly erupting in tension again, the question has caught the public eye once again. What should be done with Vorarlberg?"
 SWI_arms_industry:0 "스위스 군수 산업"
 SWI_arms_industry_desc:0 "스위스는 뛰어난 군수공학자들로 유명했습니다. 위계적인 공장과 스위스 고유의 견습생 프로그램을 사용하여, 스위스는 공장-현장의 유기적 생산방식을 완벽하게 구현한것으로 보입니다."
 SWI_die_schweizer_armee:0 "스위스군"
@@ -301,6 +303,7 @@ SWI_factories_for_planes:0 "비행기 공장"
 SWI_owl_defense:0 "부엉이 태세"
 
 ### EVENTS ###
+swi.99.d:0 "What are you doing? Have you really played this game so much that you have decided to play Switzerland? This nation has nothing to it, it's neutral and boring. Get a life."
 swi.1.d:0 "For the past century, since the era of Napoleon, the Swiss nation has not engaged in a foreign war. While The Great War almost brought our nation to the brink of the maelstrom a couple of times, no threat was ever enough to ensure that we had no choice. Our country has continued to develop upward and onward- while the Swiss Banking Act gave small but continuous profit from one of our most influential trade sectors, some socialist agitation in the form of the SPdS led to one of the most devastating strikes in recent memory, which shut down many factories and rail systems. Negotiations were swift and bloodless, but the divide was no less felt. Through three successive elections, the Federal Council, has seen no change, and a joint Freisinnig-Demokratische Partei/Christlichdemokratische Volkpartei coalition rules this country. The liberal order remains strong, and our enemies are few! Even as we approach the next decade, we remain strong in Our Glorious Alps."
 swi.2.d:0 "The French and the Germans are both remilitarizing- but one clearly moreso than the other. Two wonderful markets ready for product- and we must enter it first!"
 swi.3.d:0 "The Swiss Government has bought several domestically produced guns, and would like to sell them to us. Their prices are wanting, but the product is no less powerful..."
