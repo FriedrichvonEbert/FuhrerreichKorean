@@ -61,18 +61,18 @@ jap.18.d:0 "중국에서 반일 감정이 고조되는 가운데 상하이 시�
 
 jap.19.d:0 "일본 외교관은 이러한 반일감정을 저지하기 위해 일본군을 우리 영토에 배치하고 최근의 상하이 사건을 조사하기 위한 지원을 할 수 있는 능력을 포함한 여러 가지 요구 사항을 방금 우리에게 보냈습니다. 이러한 요구는 우리의 주권과 독립을 포기하는 사항이 될 것입니다! 그러나 우리의 지도자 [From.GetLeader]께서는 아직 아무런 결정도 내리지 않았습니다. 아마도 그는 굴복하거나 굴복하지 않을 것이고, 우리는 기다리는 방법밖에 없습니다."
 
-jap.20.d:0 "우리의 지지자로서 일본인들은 제5차 봉천-직계 군벌 전쟁에서 어느 정도 양보를 얻어냈습니다. 하지만 이제 그들의 정부는 훨씬 더 제국주의적 성향이 확대되기 시작했습니다. 우리는 그들의 팽창의 길에 놓여있습니다. 일본이 우리에게 최후통첩을 보냈듯이, 우리는 일본을 이길 수 없는 전쟁에서 이기려 해야 할까요? 아니면 제국주의 제국에 복종해야 할까요?"
+jap.20.d:0 "우리의 지지자로서 일본인들은 제5차 봉천-직계 군벌 전쟁에서 어느 정도 양보를 얻어냈습니다. 하지만 이제 그들의 정부는 훨씬 더 제국주의적 성향이 확대되기 시작했습니다. 우리는 그들의 팽창의 길에 놓여있습니다. 일본이 우리에게 최후통첩을 보냈듯이, 우리는 일본을 이길 수 없는 전쟁에서 이기려 해야 할까요? 아니면 제국주의에 복종해야 할까요?"
 
-jap.201.d:0 "Despite the fact our nation's great might clearly exceeds their own, Fengtian has ignored our ultimatum."
+jap.201.d:0 "우리의 세력이 그들의 힘을 압도한다는 사실에도 불구하고, 봉천정부는 우리의 최후통첩을 무시해 왔습니다."
 
-jap.202.d:0 "Realizing Japan's great might and diplomatic conviction, Fengtian has accepted our ultimatum."
+jap.202.d:0 "일본의 위대한 군대와 외교적 힘을 경험한 봉천은 우리의 최후통첩을 받아들였습니다."
 
 #Zhili ultimatum
-jap.21.d:0 "Following multiple incidents in Qingdao, Dailian and the Manchurian peninsular, the Japanese has had enough and now sent us an ultimatum. To submit or to go to war with them. While we cannot afford to fight a war with their technological might, we cannot afford to submit either, as the entire population is doubtful of the future of Zhili under Japanese rule. All we know is that the fate and future of Zhili lies here, and we depend on it."
+jap.21.d:0 "칭다오, 다롄, 만주반도에서 일어난 일련의 사건에 이어, 일본인들은 우리에게 최후통첩을 보내왔습니다. 우리에게는 항복하거나, 맞서 싸우거나 둘중 하나의 선택지 외에는 없습니다. 우리의 전력은 일본과 상대가 되지 않지만, 일제의 통치 아래에서 우리 직계의 미래는 확실하지 않기에 우리는 쉽게 결정할수 없습니다. 우리가 알고 있는 사실은 직계의 운명이 여기에 있다는 사실 뿐입니다."
 
-jap.211.d:0 "Despite the fact our nation's great might clearly exceeds their own, The Zhili Clique has ignored our ultimatum."
+jap.211.d:0 "우리의 세력이 명백하게 그들을 압도한다는 사실에도 불구하고, 직계 군벌은 우리의 최후통첩을 무시했습니다."
 
-jap.212.d:0 "Realizing Japan's great might and diplomatic conviction, The Zhili Clique has accepted our ultimatum."
+jap.212.d:0 "일본의 위대한 군대와 외교적 힘을 경험한 직계는 우리의 최후통첩을 받아들였습니다."
 
 #France peace proposal
 jap.22.d:0 "일본이 우리의 유일한 아시아 영토를 침략한뒤, 우리는 더이상 아시아 영토를 유지할 여력을 잃었습니다. 따라서 전쟁을 계속 진행할수 없을 것입니다. 일본인들은 스위스를 통해 우리에게 휴전, 심지어 종전을 요구합니다. 우리가 그렇게 한다면 우리는 태평양 영토를 포기해야 할 것이기에 우리는 이것을 신중히 고려해야 합니다."
@@ -81,19 +81,19 @@ jap.23.d:0 "일본은 러시아내전 당시 우리를 여러번 도와주었고
 
 jap.24.d:0 "일본은 영국과 동맹을 맺어 군사적으로 협력하고 있습니다. 이것은 이번에는 다른 칼이 태평양에서 우리를 가리키고 있다는 것을 의미합니다. 두 나라가 우리와 어떻게 싸울지는 알 수 없지만, 두 나라가 우리에게 맞서 싸울 것이라는 것은 확실합니다."
 
-jap.25.d:0 "Improved relations with the United States has emboldened the Japanese to once again increase the size of their Navy which is making our most isolated colonies even more vulnerable. We must counter this hostile move from the Japanese by any means we have."
+jap.25.d:0 "미국과의 관계 개선은 일본의 해군 규모를 확장시키도록 도왔고, 이는 우리의 고립된 식민지를 취약하게 만들고 있습니다. 우리는 어떠한 수단을 써서라도 일본으로부터의 이러한 적대적인 움직임에 대응해야 합니다."
 
 jap.26.d:0 ""
 
-jap.27.d:0 "Diplomats from the great and powerful nation of Japan have sent us an offer to form an anti-French alliance with them. The annexation of Siamese controlled Laos by the French following Franco-Siamese War of 1893 is still a contentious issue between our two nations and many within our country wish to reverse this. While the Japanese clearly intend to pressure French interests in South East Asia some ministers are weary of becoming too dependent on the Japanese."
+jap.27.d:0 "강대국인 일본의 외교관들이 그들과 함께 반프랑스 동맹을 맺자는 제안을 보내왔습니다. 1893년 프랑스-시암 전쟁 이후 프랑스에 의해 지배된 라오스는 여전히 분쟁을 일으키고 있으며, 우리나라 내부의 많은 이들이 다시 라오스를 되찾길 원하고 있습니다. 일본은 동아시아에서 프랑스를 압박할 의도를 가지고 있지만, 일부 장관들은 일본에게 의존하게 될 것이라고 불만을 표시하고 있습니다."
 
-jap.28.d:0 "Realizing our shared interests in French Indochina, The Siamese have agreed to our offer of an alliance."
+jap.28.d:0 "프랑스령 인도차이나에 대한 우리의 공통된 관심사를 깨닫고 시암은 우리의 동맹제의에 동의했습니다."
 
-jap.29.d:0 "Despite our shared interests in French Indochina, The Siamese have refused our offer of an alliance."
+jap.29.d:0 "프랑스령 인도차이나에 대한 우리의 공통된 관심사에도 불구하고, 시암은 우리의 동맹 제의를 거부했습니다."
 
-jap.30.d:0 "It's clear that we and Japan hold a shared interest in weakening Soviet influence in the Far East. Military personal from Japan have come to us with a plan to test Soviet defenses in the strategic region of Yakutsk. Our military with supplies from Japan will raid this region in a small scale buy highly coordinated attack. While the USSR outnumbers us greatly Tokyo believes that focused and decisive operations can quickly defeat Soviet divisions before they can be reinforced by reserves from Europe, an evolution of the strategy used by Japan to defeat Russia in 1905. While the Japanese envoy is highly confident in this plan, local Russian officers are understandably weary of provoking the USSR but we should also be weary of upsetting our Japanese ally."
+jap.30.d:0 "우리와 일본은 극동에서 소련의 영향력을 약화시키는 데 공통된 관심사를 가지고 있다는 것이 분명합니다. 일본에서 온 요원이 야쿠츠크에서 소련의 방어를 시험할 계획을 가지고 우리에게 접근해 왔습니다. 일본으로부터 물자를 공급받은 우리 군은 소규모로 이 지역을 급습할 것입니다. 소련은 우리보다 훨씬 많은 숫자이지만, 일본이 1905년 러시아를 물리치기 위해 사용한 전략의 진화를 통해 집중적이고 결정적인 작전들이 소련의 영향력을 약화시킬 수 있다고 믿습니다. 이 요원은 계획에 대해 매우 자신있어하지만, 우리측 장교들은 소련을 자극하는 것에 지쳤고, 실행하지 않을시 일본을 화나게 할수도 있다는 점에 지겨워 합니다."
 
-jap.31.d:0 "With the persuading of our military envoy, The Russian have agreed to out plan to raid the Soviet strategic position in Yakutsk."
+jap.31.d:0 "우리측 특사의 설득으로, 러시아군은 야쿠츠크에서 소련의 전략적 요충지를 급습할 계획을 세우기로 합의했습니다."
 
 jap.32.d:0 "Despite the efforts of our military envoy to Chita, The Russians have rejected our plan to attack the Soviet defenses in Yakutsk. While many back in Tokyo wish to drop the issue for now the Japanese military have little patience for the Russians and are preparing plans to install a more \"amenable\" government in Chita."
 
