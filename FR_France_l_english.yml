@@ -16,7 +16,7 @@ FRA_vanguardist_party_long:0 "프랑스 국가집산당 \n§gA fringe political 
 FRA_collectivist_party:0 "PCF"
 FRA_collectivist_party_long:0 "프랑스 공산당 \n§gThe Parti Communiste Français is the mainline Communist party presently active in France. Originally formed as a more radical offshoot of the SFIO in late 1920, the PCF quickly became the primary communist organization in France during the 20s and 30s, gaining great influence within the working class and having the power to call strikes at will, even if said strikes were few and far between. The PCF has affirmed itself as a revolutionary party and even included people such as Nguyen Sinh Cung, who was in fact one of its founding members. \nThe party has steadily gained popularity throughout the early 19th Century, and polls show that support for the PCF is higher than ever due to the resurgent German power in the East and expanding Soviet influence across Europe. Maurice Thorez, the parties leader, is an outspoken communist with ties to the government and much political experience. \nMany believe that if leftism were to come to France, the PCF would be the vanguard and the one's taking charge of the political situation.§!"
 ###
-FRA_libertarian_socialist_party:0 "무정부주의자들"
+FRA_libertarian_socialist_party:0 "무정부주의자"
 FRA_libertarian_socialist_party_long:0 "프랑스 무정부주의운동 \n§gA collection of Anarchists and libertarian socialist movements led by Sébastien Faure under a common banner, the Anarchistes wish to see a great degree of decentralization come to France and a peaceful, democratic transition to revolution. \nWhile the Anarchiste movement may be small in number and low in popularity, they may prove invaluable in the case of a leftist government coming to power in France, democratically or otherwise.§!"
 ###
 FRA_social_democrat_party:0 "SFIO"
@@ -57,23 +57,23 @@ FRA_reconciling_britain:0 "대영제국과의 화해"
 FRA_literally_japan:0 "프랑스의 포츠머스 공격"
 
 #### Decisions ####
-FRA_Mutual_Defence_Fund_France:0 "Utilize funds from the MDF"
+FRA_Mutual_Defence_Fund_France:0 "MDF 자금 활용"
 FRA_Mutual_Defence_Fund_France_desc:0 ""
-FRA_Mutual_Defence_Fund_Belgium:0 "Utilize funds from the MDF"
+FRA_Mutual_Defence_Fund_Belgium:0 "MDF 자금 활용"
 FRA_Mutual_Defence_Fund_Belgium_desc:0 ""
-FRA_punish_the_germans:0 "Punish the Huns"
-FRA_attack_thailand:0 "Bring Civilization to Siam"
-FRA_attack_yunnan:0 "Probe into China"
-FRA_attack_philly:0 "Establish Control over the Philippines"
-FRA_attack_iraq:0 "Offensives into Mesopotamia"
-FRA_develop_VIN:0 "Industrialize Indochina"
-FRA_develop_MOR:0 "Bring Business to North Africa"
-FRA_develop_NFA:0 "Support French West-African Industry"
-FRA_develop_NFQ:0 "Send Machinery to French Equatorial Africa"
-FRA_attack_eng:0 "Attack the United Kingdom"
+FRA_punish_the_germans:0 "독일 공격"
+FRA_attack_thailand:0 "시암 문명화"
+FRA_attack_yunnan:0 "중국 공격"
+FRA_attack_philly:0 "필리핀에 대한 통제권 확립"
+FRA_attack_iraq:0 "메소포타미아에서의 위협"
+FRA_develop_VIN:0 "인도차이나 공업화"
+FRA_develop_MOR:0 "북아프리카로 산업 이전"
+FRA_develop_NFA:0 "프랑스령 서아프리카 산업 지원"
+FRA_develop_NFQ:0 "프랑스령 적도아프리카 기계화 지원"
+FRA_attack_eng:0 "영국 공격"
 
 #### Autonomy Strings ####
-FRA_grant_autonomy:0 "Granted Autonomy"
+FRA_grant_autonomy:0 "자치권 승인"
 
 #### FOCUS ####
 
@@ -86,7 +86,7 @@ fra_invest_army_desc:0 "국가 예산에 대한 조사는 아직 성과를 거�
 fra_promote_defense:0 "최고의 공격은..."
 fra_promote_defense_desc:0 "대전쟁이 우리에게 남긴 교훈이 있다면, 그건 아마 그 무엇도 완벽한 방어를 깨트릴 순 없다는 것일 겁니다. 만약 우리가 다음 전쟁에서도 살아남고자 한다면, 우린 이 '완벽한 방어'를 재현하여, 인명손실을 최소한으로 줄일 수 있도록 해야만 합니다."
 ###
-fra_fort_research:0 "Experimental Fortification Research"
+fra_fort_research:0 "실험적 요새 연구"
 fra_fort_research_desc:0 "프랑스의 시골 지역은 새 방어시설들을 시험하여 특정 조건 하에서는 어떤 방어시설이 더 좋은지를 알아보기에 그야말로 완벽한 장소입니다. 이 시험들을 마치고 나면, 우린 어떤 방어시설이 적을 가장 잘 막을 수 있을지 알 수 있게 될 것입니다."
 ###
 fra_allocate_fort_funds:0 "칼레-메츠 방어선 구축"
@@ -113,19 +113,19 @@ fra_invest_ic_desc:0 "프랑스 자본가들은 여태까지 아무런 규제나
 fra_give_land:0 "압류된 토지 재분배"
 fra_give_land_desc:0 "자본가들을 조사하던 도중, 정부는 자본가들이 불법적으로 소유하고 있던 수백 에이커의 버려진 토지를 압류하게 되었었고, 이후 때가 되면 사회에 반환하기로 했었는데, 아무래도 그 때가 온 것 같습니다. 여러 부유한 지주들이 노르망디와 아퀴텐의 압류된 토지들을 구매하겠다는 의사를 표해왔습니다."
 ###
-fra_invest_government:0 "Investigation of the Government"
+fra_invest_government:0 "정권 조사"
 fra_invest_government_desc:0 "The investigations of both the capitalists and the army have proven fruitless, and the only place left to look is the government itself. While some members are opposed to such brazen action, the majority agree that it must be done to prove our innocence in the scandal. After the government invesgitation is over we can move to smaller ministries which may be siphoning funds on a smaller scale."
 ###
 fra_the_trial:0 "11인의 재판"
 fra_the_trial_desc:0 "The financial scandal has developed into a full-blown crisis, and we have been forced to put eleven members of our very own government in front of a special court in order to determine the severity of their punishment. The Bloc National will be shaken forever by the end of this trial, but what remains to be seen is whether the coalition will be able to survive..."
 ###
-fra_nuc_dead:0 "The Bloc National disbanded"
+fra_nuc_dead:0 "해체된 국민 연합"
 fra_nuc_dead_desc:0 "With the conclusion of the trial of the eleven, the remaining leaders of the Bloc National have found it impossible to keep the coalition together and run an effective government with popular support."
 ###
-fra_prov_govt:0 "Military Takeover"
+fra_prov_govt:0 "군사 혁명"
 fra_prov_govt_desc:0 "The sitting government is clearly unable to deal with the mountain of problems which our country has faced in the past months. The financial scandal, the Indochinese revolt, and rising German aggression have put far too much strain on the French government. The French military, outraged by the total investigation by the government into them, has forcefully taken control of Paris, declaring a "Government of National Salvation" in order to stabalize the situation."
 ###
-fra_nuc_alive:0 "The Bloc National survives"
+fra_nuc_alive:0 "살아남은 국민 연합"
 fra_nuc_alive_desc:0 "The trial of the eleven forced a shakeup in the French government, and the Bloc National has come out of it stronger than ever. Now we are ready to face the new decade with renewed vigour and determination to lead Franc further to greatness."
 ###
 fra_1936_election:0 "1936년도 총선"
@@ -134,43 +134,43 @@ fra_1936_election_desc:0 "마침내 예산 스캔들 문제가 해결되었으�
 fra_socdem_win:0 "SFIO의 승리"
 fra_socdem_win_desc:0 "국가블록의 지지율이 대폭 하락하면서, 국제 인터내셔널 프랑스 지부가 1936년도 총선에서 승리하게 되었습니다. SFIO는 남성뿐만이 아니라 여성과 식민지인들의 권리와 생활수준 또한 전체적으로 높이는 것을 목표로 하고 있는데, SFIO의 이러한 급진적인 시도는 대규모 개혁과, 프랑스 사회의 크나큰 변화 또한 가져올 것으로 보입니다."
 ###
-fra_soclib_win:0 "The Parti Radical"
+fra_soclib_win:0 "급진당"
 fra_soclib_win_desc:0 "Promoting secularism, moderate social reform, and the promotion of private industry, the PR is seen by many French voters as a middle-of-the-road party that manages to satisfy the needs of both the conservatives and socialists. This moderate party platform has secured many voters, but has also scared many into believing that in attempting to satisfy all parties, they will end up satisfying none."
 ###
 fra_soccon_win:0 "공화연맹의 승리"
 fra_soccon_win_desc:0 "대전쟁은 프랑스의 정치와 사회를 완전히 뒤흔들어 놓았으며, 대전쟁의 참상은 보수주의에 대한 대규모 지지를 일으켰고, 이에 따라 공화연맹이 주도하는 국가블록이 집권하게 되었습니다. 최근 있었던 예산 스캔들로 인해 공화연맹은 다른 당과 협력하는 대신 독자적 노선을 걷기로 결정했으며, 이 덕분에 공화연맹은 이번 총선에서 승리하게 되었습니다. "
 ###
-fra_nuc_win:0 "The Bloc National"
+fra_nuc_win:0 "국민 연합"
 fra_nuc_win_desc:0 "Against all odds, the National Bloc National has managed to pull ahead of the financial scandal which unfolded within their very own party, and have managed to win the election by a hair. Onlookers gaze with curious eyes to see which policies will be enacted, and which side of the political spectrum the coalition will drift towards in the next four years."
 ###
 fra_algeria_rights:0 "알제리인들의 권리"
 fra_algeria_rights_desc:0 "알제리인들은 우리가 1870년대 알제리의 해안선을 정복했을때부터 이미 프랑스 본토로 이주해왔으나, 하지만 알제리인들의 권리는 여전히 프랑스인들보다 못한 수준입니다. 알제리인들의 시위와 폭동을 멈추려면, 우린 알제리인들에게 프랑스인들과 똑같은 권리와 특권을 보장해줘야만 할 것입니다."
 ###
-fra_africa_missionary:0 "Missionaries in Africa"
+fra_africa_missionary:0 "아프리카에 선교사 파견"
 fra_africa_missionary_desc:0 "프랑스 본토를 완전히 통솔하고자 한다면, 우린 알제리인들을 카톨릭교로 개종시켜야만 합니다. 이는 어려운 일일 것이며, 어쩌면 알제리인들이 무장봉기를 일으킬지도 모르지만, 우리의 힘을 강하게 하기 위해선 필요한 일입니다."
 ###
-fra_more_jobs:0 "Promote Industrial Opertunities"
+fra_more_jobs:0 "산업 확장 촉진"
 fra_more_jobs_desc:0 "Our industry is beginning to fall behind that of the British and German nations, injecting funds and clearing land will give our industry the room to grow that it so desperatly needs."
 ###
 fra_extend_healthcare:0 "확장된 의료복지체계"
 fra_extend_healthcare_desc:0 "우리가 식민지까지 가진 강대국이기는 하지만, 우리의 의료복지체계는 낡고, 썩어있는 상태입니다. 의료복지체계를 현대화한다면, 우린 우리의 시민과 병사들을 더 효율적으로 치료할 수 있게 될 것입니다."
 ###
-fra_revise_finance:0 "Revise the financial plans"
+fra_revise_finance:0 "재무 계획 수정"
 fra_revise_finance_desc:0 "The 1936 Financial Scandal rocked France to its very core, and we are in desperate need of radical reorganization if we are to continue governing the nation effectively."
 ###
 fra_business_subsidy:0 "사업 보조금"
 fra_business_subsidy_desc:0 "The capitalists have been struggling to reorganize and recoup their losses after the investigation, and have requested subsidies in order to construct new factories across France and get the nations industry back on its feet."
 ###
-fra_unified_govt:0 "A Unified Government"
+fra_unified_govt:0 "통일 정부"
 fra_unified_govt_desc:0 "The scandals and political instability are finally behind us, and we can now move forward with a unified and whole government which is able to govern our empire with impunity."
 ###
-fra_colony_coop:0 "Encourage Colonial Cooperation"
+fra_colony_coop:0 "식민지 협동 장려"
 fra_colony_coop_desc:0 "As it stands, our colonies act mostly independant of each other, requesting materials from France itself rather than the lands just across the border. By encouraging communication and cooperation between the colones, they can run more independantly and we can reap the benifits."
 ###
-fra_taming_tunisia:0 "Taming Tunisia"
+fra_taming_tunisia:0 "튀니지 이용"
 fra_taming_tunisia_desc:0 "The Tunisian protectorate has always been underdeveloped in relation to the rest of France and her colonies, if we are to change this we can mold the colony to suit exactly our needs."
 ###
-fra_algeria_adventure:0 "Adventures in Algeria"
+fra_algeria_adventure:0 "알제리 탐험"
 fra_algeria_adventure_desc:0 "The Algerian desert may be impassible, but there is a stretch of land South of the coastline which is fertile and practically begging to be developed. Exploiting this land could allow us to expand our industry into areas where our enemies will never be able to reach."
 ###
 fra_prov_election:0 "공화국의 죽음"
@@ -179,61 +179,61 @@ fra_prov_election_desc:0 "The French Third Republic has proven itself woefully i
 fra_af_control:0 "AF의 집권"
 fra_af_control_desc:0 "공정하게 치러졌던 총선이 끝나고, 악시옹 프랑세즈가 민주적으로 집권하게 되었으며, 동시에 프랑스의 정치판 또한 대국적으로 뒤바뀌었습니다. 우린 부드러운 정권 교체를 위해, 의회 또한 대국적으로 재조직해야만 할 것입니다."
 ###
-fra_papal_love:0 "Papal Reconciliation"
+fra_papal_love:0 "교황과의 화해"
 fra_papal_love_desc:0 "The Republic has long sought to distance itself from the Pope, and since the days of the revolution the seperation of church and state has been one of the defining aspects of our nation. This period of hostility will come to an end with the new regime, and our relationship with Rome will be restored to its former pride."
 ###
-fra_army_loyalty:0 "Ensure Army Loyalty"
+fra_army_loyalty:0 "육군의 충성 보장"
 fra_army_loyalty_desc:0 "Our relationship with the army as it stands is strained, to say the least. To ensure that a military coup does not occur, we must grant certain privilages to the military and promote officers in order to gain their trust and respect."
 ###
-fra_party_news:0 "The Action Française Newspaper"
+fra_party_news:0 "악시옹 프랑세즈의 신문"
 fra_party_news_desc:0 "From the founding of our party at the turn of the Century, the Action Française Newspaper has been our primary means of reaching the people and spreading our message throughout France. With our party officially in power, we can increase the quality of these papers and send them to even more people across France!"
 ###
-fra_restore_chin:0 "Restoration of the Monarchy"
+fra_restore_chin:0 "군주제의 귀환"
 fra_restore_chin_desc:0 "With the support of the Pope, the people, and the military, it's time to invite the exiled Orléanist prince to take the French throne. The Republican experiment will be ended once and for all, and the divine monarchy will reign supreme!"
 ###
 fra_illegal_strikes:0 "파업 불법화"
 fra_illegal_strikes_desc:0 "프랑스의 노동자들은, 옛날부터 자신들의 요구가 완전히 충족되지 않으면 항상 파업을 해 왔었으며, 정부는 항상 그들의 요구에 순응했었습니다. 그렇지만 이제는 아닙니다. 우리는 이제 더이상 그들의 '사회주의적'인 요구를 들어주지 않을 것입니다."
 ###
-fra_german_menace:0 "The German Menace"
+fra_german_menace:0 "독일의 거대한 위협"
 fra_german_menace_desc:0 "German aggression has been rising steadily for years now, and we can no longer sit idly by while the war machine across the Rhine continues to turn. Spreading the word of German agression to our people will ensure victory in the battles to come."
 ###
-fra_royal_nation:0 "Foster Royalist Nationalism"
+fra_royal_nation:0 "왕당파의 민족주의 고조"
 fra_royal_nation_desc:0 "Despite having the core of our government on our side, many people still resist the monarchy and wish to see a a return to the corrupt republic which we have worked so hard to remove from our glorious nation. Promotion of our state-owned newspaper and public rallies will convince the people that we are for them, and that we will keep France safe."
 ###
-fra_destroy_ppf:0 "Destroy the Leftists"
+fra_destroy_ppf:0 "좌파 말살"
 fra_destroy_ppf_desc:0 "The French left has long wished to see a violent revolution similar to that of the Paris Commune back in 1871 and the establishment of a "Commune of France". This group of parties is perhaps the greatest internal threat to our stability that we face, and they must be put down if we are to truly feel secure at home."
 ###
-fra_royal_glory_focus:0 "Restore the King's Glory"
+fra_royal_glory_focus:0 "왕의 영광 복원"
 fra_royal_glory_focus_desc:0 "Many in our nation still view our king as little more than a figurehead, and not the divine monarch that he truly is. We will commission portriats and paintings, flyers and more to convince the people of how great our king is."
 ###
-fra_fight_socialism:0 "Ban Socialist Parties"
+fra_fight_socialism:0 "사회주의 정당 금지"
 fra_fight_socialism_desc:0 "The left has always been a gathering place for unrest and discontent in our nation. Their parties should be banned so they cannot interfere in our governing of the country."
 ###
-fra_recruit_posters:0 "Recruitment Drive"
+fra_recruit_posters:0 "신병 모집 운동"
 fra_recruit_posters_desc:0 "After the end of the Great War, our army shrunk drastically in size as soldiers returned to their homes from the horrors of war, and few volunteered to defend the Republic. But with a rising German menace on the horizon, we must take steps to ensure we will have enough manpower to survive the next war and field an army comparable to that of Napoleon's."
 ###
-fra_juan_party:0 "One Party. One State. One France."
+fra_juan_party:0 "하나의 당, 하나의 국가, 하나의 프랑스"
 fra_juan_party_desc:0 "We have achieved our hard-fought goal of uniting the nation under our banner. All of France bows at our will, and we have once more been given the chance to take complete hegeomony of the continent and fufill our destiny."
 ###
-fra_royal_education:0 "Royalist Education"
+fra_royal_education:0 "왕정주의 교육"
 fra_royal_education_desc:0 "It seems that the history of the French monarchy has been lost on the citizens of our kingdom. Introducing a new curriculum relating to our royal history should be able to rectify this, and stir up a few more volunteers for the army."
 ###
-fra_german_war:0 "Put down the German dog"
+fra_german_war:0 "독일의 개를 죽여라"
 fra_german_war_desc:0 "It has become clear that the new German Reich has no intention of abiding by the Treaty of Versallies, and they threaten the very stability of the entire continent. We must launch a pre-emptive invasion to restore order across the Rhine once and for all."
 ###
-fra_distribute_titles:0 "Distribute Royal Titles"
+fra_distribute_titles:0 "왕족 작위 부여"
 fra_distribute_titles_desc:0 "The various exiled noble houses of France have been requesting for some time now that their royal titles be officially reinstated. While this does not mean we will be seeing a return to Fuedal society, this is a move that will certainly increase our governments legitimacy."
 ###
-fra_empire:0 "Proclaim the Empire"
+fra_empire:0 "제국 선포"
 fra_empire_desc:0 "The Germans have been put in their place, and we stand once more unopposed on continential Europe. While we may still have enemies around the world, we have asserted our dominence over our sphere and hold our foes in constant fear of an attack. Long live the Empire, and long live the Emperor!"
 ###
-fra_christ_spread:0 "Spreading Christian Beliefs"
+fra_christ_spread:0 "기독교 확산"
 fra_christ_spread_desc:0 "France and her monarchy have always been staunchly Christian, and the radical secularization of the past half-century is nothing short of blasphemy. We must work hard to revert this process."
 ###
-fra_demolish_republic:0 "Demolish Republican Institutions"
+fra_demolish_republic:0 "공화주의 기관 폐지"
 fra_demolish_republic_desc:0 "Spectres of the Republic still hang over the daily governance of the country, and hold us back from reaching peak efficiancy. We must systematically rework the government if we are to rid ourselves of this husk."
 ###
-fra_colonial_rights:0 "Native Representation in the colonies"
+fra_colonial_rights:0 "식민지 원주민의 대의권"
 fra_colonial_rights_desc:0 "The French colonial administration has been run almost exclusively by those born and raised in metropolitan France. Allowing the native population to partake in colonial administration will increase the stability and security of our overseas holdings."
 ###
 fra_social_patriotism:0 "사회주의적 애국주의"
@@ -242,22 +242,22 @@ fra_social_patriotism_desc:0 "부패하고 약한 정부는 이제 가고, 민�
 fra_peoples_govt:0 "민중을 위한 정부"
 fra_peoples_govt_desc:0 "프랑스 혁명가들이 바랬던 것처럼, 정부는 이제 민중이 바라는 것과, 필요로 하는 것만을 위해 존재하게 될 것입니다. 우린 탄압받는 유럽 사람들을 위한 피난처가 될 것이며, 다가오는 격동의 시대를 이끄는 국가가 될 것입니다."
 ###
-fra_regulate_franc:0 "Regulating the Franc"
+fra_regulate_franc:0 "프랑화 조정"
 fra_regulate_franc_desc:0 "The financial scandal in our nation proved how instable currency can be, and drastic measures must be taken in order to stabalize the Franc and ensure economic prosperity."
 ###
-fra_safe_rhine:0 "Safeguard our interests in the Rhine"
+fra_safe_rhine:0 "라인강에서의 이익 보호"
 fra_safe_rhine_desc:0 "French control of the Rhineland has proven to be of great economic benifit, but it has also come with great risk; armed revolt and invervention from Germany loom over us as a persistant and constant threat. The construction of some basic fortifications should suffice for the time being while we organize a more planned defense."
 ###
 fra_fight_religion:0 "종교와의 전쟁"
 fra_fight_religion_desc:0 "종교와 국가가 공식적으로 분리된 지 벌써 30년이 넘었지만, 여전히 종교는 여러 국민들에게 있어 중요한 존재로서 남아 있습니다. 만약 우리가 완전한 국가로 진보하고자 한다면, 우리는 국민들의 삶과 종교를 분리하기 위해 부지런히 노력해야만 할 것입니다."
 ###
-fra_communes:0 "Promote Social Communes"
+fra_communes:0 "사회 공동체 활성화"
 fra_communes_desc:0 "Social Communes are groups of citizens which look after each other and help each other through hard times, promoting the extension and formalization of these groups will help us crush unemployment and poverty, and consiquently increasing our popularity."
 ###
 fra_equality:0 "동등한 기회"
 fra_equality_desc:0 "모든 프랑스인들은 재산이나, 사회적 지위와는 관계 없이, 원하는 것을 얻는 것에 있어 동등한 기회를 가져야만 합니다. 교육시설을 짓고, 새 복지계획을 시행한다면, 이를 실현하는데 큰 도움이 될 것입니다."
 ###
-fra_land_grants:0 "Land Grants"
+fra_land_grants:0 "무상 토지 불하"
 fra_land_grants_desc:0 "France is a vast nation with many tracts of unused virgin land, just begging to be developed. Granting this land to industrial companies will allow us to build more factories and further increase our industrial output."
 ###
 fra_women_working:0 "여성 노동자"
@@ -266,13 +266,13 @@ fra_women_working_desc:0 "여성들은 여태까지 집안에만 갇혀 있어�
 fra_womens_vote:0 "여성의 투표권"
 fra_womens_vote_desc:0 "The radical dream of womens sufferage has become a rising issue in French politics in the past few years, and it has reached a point where the issue can no longer simply be ignored. Granting women the vote will undoubtedly increase our popularity, but we must remember that not all women will vote for us, and this has the chance of creating further political divisions in the government."
 ###
-fra_liberal_success:0 "Liberal Success"
+fra_liberal_success:0 "자유의 승리"
 fra_liberal_success_desc:0 "Our liberal government has proven the doubters wrong, and we have managed to effectively govern the nation while implimenting both economic and social reforms. The people now look to the future with bright hopes, and the hope that our liberal dream will soon spread across all of Europe."
 ###
-fra_reverse_cash_drain:0 "Reverse the Cash Drain"
+fra_reverse_cash_drain:0 "현금 유출 역전"
 fra_reverse_cash_drain_desc:0 "France has long been importing more goods than she has been exporting, and this has caused our government to be running a deficit for several years now. New import tariffs and regulations will reverse this cash drain and bring our economy back from the brink."
 ###
-fra_gold_flow:0 "The Gold Must Flow!"
+fra_gold_flow:0 "금은 흘러야 한다!"
 fra_gold_flow_desc:0 "Spreading wealth to the people will allow them to make larger purchases, and continue the economic cycle which has kept our nation afloat through the global economic downturn of the 1920s."
 ###
 fra_intervention_economics:0 "자유방임 경제"
@@ -284,13 +284,13 @@ fra_decentralize_economy_desc:0 "정부의 경제개입이 오히려 경제에 �
 fra_unshakable_economics:0 "굳건한 경제"
 fra_unshakable_economics_desc:0 "마침내 우린 무너지는 프랑스 경제를 되살리는데 성공했으며, 그리고 새로운 경제체제도 만들어냈습니다. 이 새로운 체제만 있다면, 우리 경제는 세계에 전쟁이 일어나건, 기근이 들건, 전염병이 돌건, 무슨 일이 생기던 굳건히 견뎌낼 수 있을 것입니다."
 ###
-fra_watch_rhine:0 "Watch on the Rhine"
+fra_watch_rhine:0 "라인강 경계"
 fra_watch_rhine_desc:0 "The Rhine river has been under French control since the end of the Great War in 1919, and we have left the area vastly under-protected due to the friendly republican regime in Germany. With the rise of Dresslers nationalistic and militaristic regime, we need to bolster our defenses on the river Rhine in case of a pre-emptive German attack, and ensure that not a single German boot steps onto French soil."
 ###
-fra_rhine_martial_law:0 "Declare Rhinish Martial Law"
+fra_rhine_martial_law:0 "라인지역 계엄령 선포"
 fra_rhine_martial_law_desc:0 "The Rhinish state is in chaos with fighting taking place both on the front line and around the countryside as German nationalists who are loyal to the Valkist regime attempt to disrupt supply lines and make life hard for our troops. We must take military control of the country in order to better organize our army and fight what soon may become a repeat of the first Great War."
 ###
-fra_no_german:0 "Not a single Stahlhelm on French soil!"
+fra_no_german:0 "프랑스 땅에는 슈탈헬름 하나 없을 것이다!"
 fra_no_german_desc:0 "The French people enduring an unbelievable amount of suffering during the first Great War, North-East France was permenantly scarred from the battles that took place. We must ensure that the barbaric Germans lay not a single step on our soil, lest they tarnish what unmolested territory we have left."
 ###
 fra_on_the_attack:0 "공격 개시"
@@ -302,34 +302,34 @@ fra_march_to_berlin_desc:0 "독일군은 점차 밀려나고 있으며, 우린 �
 fra_triumph:0 "베를린에서의 승리"
 fra_triumph_desc:0 "우린 이번 대전쟁에서도 또다시 승리했으며, 그리고 독일 제국 또한 또다시 우리의 군홧발 아래에 놓여 있습니다. 베를린에선 승전국들의 축하연이 일어지고 있으며, 베를린 여기저기에선 '노획'이 벌어지고 있습니다. 우린 브란덴부르크 문을 통과하는 군대 행진을 조직하여, 세계에 우리의 힘을 보여줘야 합니다."
 ###
-fra_loosen_conscription:0 "Loosen Recruitment Requirements"
+fra_loosen_conscription:0 "모병 조건 완화"
 fra_loosen_conscription_desc:0 "독일군이 또다시 파리를 향해 진군해 오고 있습니다. 독일군을 라인 강 너머로 몰아내려면, 우린 싸울 수 있는 사람이라면 누구든지 동원해야만 합니다."
 ###
-fra_even_lower_soldiers:0 "Further Loosen Conscription"
+fra_even_lower_soldiers:0 "더 많은 모병"
 fra_even_lower_soldiers_desc:0 "독일군은 파리를 향해 계속 진군해오고 있으며, 전황은 계속 악화되고만 있습니다. 1871년같은 꼴을 면하려면, 우린 총을 쏠 수 있는 사람이라면 누구든지 총을 들게 해야만 합니다."
 ###                      
 fra_desperate_defense:0 "늙고 병든 사람도"
 fra_desperate_defense_desc:0 "프랑스의 끝이 다가오고 있으니, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 살아있는 프랑스인이라면 누구든 총을 들어야만 할 것입니다."
 ###
-fra_ground_eyes:0 "Eyes on the Ground..."
+fra_ground_eyes:0 "땅을 바라보다..."
 fra_ground_eyes_desc:0 "To fight a war blind is to commit yourself to certain defeat, we need to know where our enemies are at all times if we want to achieve victory in this new age of fast and mobile warfare where every second counts."
 ###
-fra_sky_eyes:0 "...And Eyes in the Sky"
+fra_sky_eyes:0 "...그리고 하늘로 눈을 돌려라"
 fra_sky_eyes_desc:0 "Aerial Recon is quickly proving to be one of the deciding factors in who will emerge victorious in battle, as shown by our troops in the Rif War during the 20s. Developing this doctrine further will increase our chances of winning on the balefield and allow us to see the enemy movements and react accordingly."
 ###
-fra_general_staff:0 "French General Staff"
+fra_general_staff:0 "프랑스 총참모부"
 fra_general_staff_desc:0 "The German General Staff has proven a deadly tool in warfare, and replicating their success may be just what we need to finally put the Germans back in their place."
 ###
-fra_integrate_colony_army:0 "Integrate Colonial Divisions"
+fra_integrate_colony_army:0 "식민지 사단 통합"
 fra_integrate_colony_army_desc:0 "The French colonies have trained their divisions in tactics unfamiliar to the European powers, and as such they may be an effective fighting force on the frontline in the next war. Borrowing some colonial divisions will show us whether or not this is true."
 ###
 fra_mas_40:0 "MAS-40"
 fra_mas_40_desc:0 "새 무기를 개발하는 것은 전쟁의 승리에 있어 매우 중요한 것인데, 우린 최근 있었던 기술 개발 덕분에 진짜 '현대 무기'를 만들어낼 수 있었습니다, 바로 MAS-40이지요. 우리는 이 소총의 연구를 끝내고, 생산을 시작하는 것을 최우선 목표로 삼아야만 할 것입니다."
 ###
-fra_mil_institute:0 "French Institute of Military Technology"
+fra_mil_institute:0 "프랑스 군사 기술 연구소"
 fra_mil_institute_desc:0 "We need to develop new ways of fighting on land, air, and sea, if we are to stay ahead of our enemies and achieve victory on all aspects of battle."
 ###
-fra_entente_tech:0 "Entente Joint Research Initiative"
+fra_entente_tech:0 "협상국 공덩 연구 계획"
 fra_entente_tech_desc:0 "The Entente is home to some of the brightest minds on this planet, organizing and combining their works for the benifit of our faction will greatly increase research potential for us all."
 ###
 fra_doctrine_school:0 "교리 학교"
@@ -338,37 +338,37 @@ fra_doctrine_school_desc:0 "Military doctrine is far more important than the mil
 fra_african_officers:0 "아프리카인 장교들"
 fra_african_officers_desc:0 "우리 아프리카 식민지에 있는 몇몇 교관학교에서 큰 잠재력을 가진 훌륭한 장교들을 양성해냈습니다. 이 장교들을 우리 군대로 초대한다면 우리 군대의 능력 향상에 큰 도움이 될 것이며, 식민지들과의 관계 개선에도 도움이 될 것입니다."
 ###
-fra_drumroll_arty:0 "Drumroll Artillery"
+fra_drumroll_arty:0 "연속발사포"
 fra_drumroll_arty_desc:0 "During the later stages of the Great War, the Canadian army used a form of rolling artillery bombardment in order to cover their soldiers movements as they advanced upon enemy positions. Our officers have hypothesized that a modified form of this rolling artillery could be used to more effectively bombard enemy positions and keep their heads down at the same time."
 ###
-fra_anti_tank:0 "Anti-Tank Emplacements"
+fra_anti_tank:0 "대전차 포대"
 fra_anti_tank_desc:0 "Our spies have shown that both the Wehrmacht and the Royal Army are beginning to utilize tanks in innovative and deadly ways, we must develop new guns capable of destroying these vehicles if we are to survive an invasion from either nation."
 ###
-fra_rockets:0 "Experimental Rocket Developments"
+fra_rockets:0 "실험적 로켓 개발"
 fra_rockets_desc:0 "Early research on solid fuel combustion and propellants capable of launching warheads great distances with even greater accuracy has yielded surprising results. By our calculations, further developments should allow us to reach far-flung cities across the continent, and soon there will be no safe place for our foes to hide."
 ###
-fra_curie_institute:0 "The Curie Institute"
+fra_curie_institute:0 "퀴리 연구소"
 fra_curie_institute_desc:0 "Marie Curie was a famous French chemist who made an uncountable number of advancements in the scientific field, and was a great asset to the scientific community worldwide. We will construct an institute dedicated to her legacy and the preservation of science until the end of time."
 ###
 fra_mobile_age:0 "기동전의 시대"
 fra_mobile_age_desc:0 "예전처럼 느리고 둔하게 움직이는 군대는 절대 현대전에서 승리할 수 없습니다. 우리가 전쟁에서 승리하고자 한다면, 우린 군대를 차량화시키고, 군대가 새 수송수단과 보급수단을 쓰도록 만들어야만 합니다."
 ###
-fra_mobile_army:0 "Mobilizing the Army"
+fra_mobile_army:0 "군대 기동화"
 fra_mobile_army_desc:0 "In order to win on the battlefield we need to be able to get our troops to where they need to be, before the enemy is able to out-manouver us. Improving logistics should allow us to achieve this with ease."
 ###
-fra_mobile_recon:0 "Improved Reconnaissance"
+fra_mobile_recon:0 "정찰력 향상"
 fra_mobile_recon_desc:0 "The faster our scouts can reach vantage points the faster they can relay the enemy position back to high command, therefor we should attempt to mobilize our recon units."
 ###
-fra_scw_lessons:0 "Lessons from the Spanish Civil War"
+fra_scw_lessons:0 "스페인 내전에서의 교훈"
 fra_scw_lessons_desc:0 "The war to our Southern border has taught us many valuable lessons about modern warfare, and applying these lessons to our armies is crucial if we want to gain an edge over our more ignorant foes."
 ###
-fra_armor_breakthrough:0 "Armoured Breakthrough Doctrine"
+fra_armor_breakthrough:0 "기갑 돌파 교리"
 fra_armor_breakthrough_desc:0 "What is the purpose of an offensive battle if we are unable to break the enemies lines? Breaking through the enemy lines allows for a swift and decisive victory, and as such should be our top priority."
 ###
-fra_motorized_defense:0 "Motorized Defense"
+fra_motorized_defense:0 "기동 방어"
 fra_motorized_defense_desc:0 "Putting our soldiers in a tin can on wheels and shipping them off to the front is all well and good, but if they don't reach the battlefield in one piece then our efforts are wasted. Slapping some armour on our trucks should increase survivability drastically."
 ###
-fra_reinforcements:0 "Improved Reinforcement Rate"
+fra_reinforcements:0 "증강 병력 개선"
 fra_reinforcements_desc:0 "A faster army means that we will be able to reinforce our depleted divisions at a much greater rate, allowing them to stay in the fight and stay stronger for a much greater period of time."
 ###
 fra_mechanize_army:0 "군 기계화"
@@ -392,19 +392,19 @@ fra_fort_spain_desc:0 "The civil war in Spain has shaken the political situation
 fra_heavy_tanks:0 "움직이는 요새"
 fra_heavy_tanks_desc:0 "The idea of larger and larger tanks has been in the back of the minds of the worlds tank theorists since their introduction in the Great War. Our own development of these heavy tanks will prove invaluable on the battlefield."
 ###
-fra_defense_doctrine:0 "Adopt Defensive Doctrine"
+fra_defense_doctrine:0 "방어적 교리 수용"
 fra_defense_doctrine_desc:0 "What good is getting involved in war if we are unable to defend our core territory from attack? The further research of defensive doctrines will help keep our citizens safe while simultaniously killing more of our enemies."
 ###
 fra_imperial_industry:0 "제국을 위한 산업"
 fra_imperial_industry_desc:0 "The French Industry is practically unrivaled on the planet, not counting the sleeping American giant which shows no signs of waking any time soon. We must ensure that this lead is maintained if we are to out-produce our enemies across the globe."
 ###
-fra_move_industry:0 "Safeguarding our industry"
+fra_move_industry:0 "우리의 산업 보호"
 fra_move_industry_desc:0 "A large portion of our industrial base is located in the Calais region near the Belgian border. If the Germans ever choose to invade us again, we must ensure that our valuable industry does not fall into their hands and be used against us."
 ###
-fra_industry_loire:0 "루아르로"
+fra_industry_loire:0 "르와르로"
 fra_industry_loire_desc:0 ""
 ###
-fra_industry_aquitaine:0 "아퀴텐으로"
+fra_industry_aquitaine:0 "아키텐으로"
 fra_industry_aquitaine_desc:0 ""
 ###
 fra_industry_rhone:0 "론으로"
@@ -413,61 +413,61 @@ fra_industry_rhone_desc:0 ""
 fra_hydro_electric:0 "수력발전 연구"
 fra_hydro_electric_desc:0 "France is a nation of many flowing rivers, and recent technological developments into harnessing the amazing power of these rivers have opened up many doors to us. If we can extrapolate these developments and harness the power of water fully, we will be able to advance our research initatives by a large degree."
 ###
-fra_disperse_industry:0 "Disperse Industry"
+fra_disperse_industry:0 "산업 분산"
 fra_disperse_industry_desc:0 "Large industrial plants make for easy targets, and enemy bomber formations will be able to flatten our industrial base should we get into a war without air superiority. Dispersing our industry and hiding them among both urban and rural areas will protect them from the worst of the damage."
 ###
-fra_industry_buildup:0 "Massive Industrial Buildup"
+fra_industry_buildup:0 "대규모 산업 집중"
 fra_industry_buildup_desc:0 "The German industrial machine is projected to overtake us within a years time at most, a massive buildup of our industry will keep us ahead of the curve and on top of our enemies."
 ###
-fra_expand_loire:0 "Expand Industry Along the Loire"
+fra_expand_loire:0 "르와르를 따라서"
 fra_expand_loire_desc:0 "The factories we moved from the Northeast of our country to the Loire region have shown to be more efficiant and closer to the raw resources that they need to produce. Expanding existing factories and creating new ones will further increase our industrial capacity."
 ###
-fra_expand_aquitaine:0 "Expand Industry in Aquitaine"
+fra_expand_aquitaine:0 "아키텐 산업 확장"
 fra_expand_aquitaine_desc:0 "The factories we moved from the Northeast of our country to the Aquitane region have shown to be more efficiant and closer to the raw resources that they need to produce. Expanding existing factories and creating new ones will further increase our industrial capacity."
 ###
-fra_expand_rhone:0 "Expand Industry Along the Rhone"
+fra_expand_rhone:0 "론을 따라 산업 확장"
 fra_expand_rhone_desc:0 "The factories we moved from the Northeast of our country to the Rhone region have shown to be more efficiant and closer to the raw resources that they need to produce. Expanding existing factories and creating new ones will further increase our industrial capacity."
 ###
-fra_rheinish_industry:0 "Rheinish Industrial Initiative"
+fra_rheinish_industry:0 "라인란트와 산업 협력"
 fra_rheinish_industry_desc:0 "The Rhine protectorate is full of great minds, French and German alike. We must actively seek these people out and bring them back to France in order to improve our industrial methods and capacity."
 ###
-fra_french_industry:0 "A French Industry"
+fra_french_industry:0 "프랑스의 공업"
 fra_french_industry_desc:0 "We need not search outside of our own borders for great industrial minds, we need only look harder. The greatest industrial minds of the world are right here at home, a public campaign to find them will yield great results."
 ###
-fra_industrial_unification:0 "Industrial Unification"
+fra_industrial_unification:0 "산업 통합"
 fra_industrial_unification_desc:0 "With all of our recent industrial and technological intiatives, it's time we looked at reorganizing and unifying our nations industrial sector in order to keep it running as smooth as possible."
 ###
-fra_good_guns:0 "Quality Weaponsmithing"
+fra_good_guns:0 "고품질의 무기"
 fra_good_guns_desc:0 "What use is a rifle if it breaks down after mere hours of use? We need to ensue that the weapons that we put in the hands of our soldiers are reliable and effective, and not prone to breaking down."
 ###
-fra_quality_control:0 "Extensive Quality Control"
+fra_quality_control:0 "대규모 품질 관리"
 fra_quality_control_desc:0 "Once the rifle leaves the factory, it needs to be extensively tested behind the front lines before it's shipped to the men in the field."
 ###
-fra_lower_costs:0 "Streamline Weapon Production"
+fra_lower_costs:0 "무기 생산 간소화"
 fra_lower_costs_desc:0 "Our current methods of producing weapons are complicated, slow,and  inefficiant; streamlining this will allow us to increase production of rifles and artillery pieces dramatically."
 ###
 fra_mas_contracts:0 "MAS와의 계약"
 fra_mas_contracts_desc:0 "The Manufacture d'armes de Saint-Étienne, or MAS, is a state-owned manufacturing company based in the town of Saint-Étienne. Signing arms contracts will allow us to develop better and more modern rifles."
 ###
-fra_women_army:0 "싸우는 여자"
+fra_women_army:0 "여군 모병"
 fra_women_army_desc:0 "We have a giant untapped source of manpower in our female population. Women all across the country have shown great intrest in becoming medics, engineers, and even soldiers in our army. We would be fools to let this oppertunity go to waste."
 ###
 fra_many_guns:0 "소총 대량생산"
 fra_many_guns_desc:0 "수년간 우리 병사들은 총이 부족해 적과 싸울 수가 없었습니다. 총이 없는데, 대체 어떻게 싸우겠습니까? 우린 이 문제를 최대한 빨리 해결해야만 합니다."
 ###
-fra_many_soldiers:0 "Mass Mobilization Initative"
+fra_many_soldiers:0 "선제 대규모 동원령"
 fra_many_soldiers_desc:0 "A war cannot be fought without men to fight it, we need to ensure that our regiments are always at full strength if we are to compete with the Prussian military doctrine which ravaged our army in the last war."
 ###
-fra_native_regiments:0 "Native Conscription"
+fra_native_regiments:0 "원주민 징병제"
 fra_native_regiments_desc:0 "The large native population inside our colonies provides us with a source of cheap manpower which can be used with no consequence whatsoever to us in the near future. Perhaps allowing natives to fight in our army will even decrease their nationalist ideas and make them simply want to be like us good Frenchmen?"
 ###
-fra_colonial_regiments:0 "Colonial Conscription"
+fra_colonial_regiments:0 "식민지인 징병제"
 fra_colonial_regiments_desc:0 "Frenchmen have been settling Africa for over a hundred years now, and conscripting some of them into our army will give us a much needed boost to our depleted manpower reserves."
 ###
-fra_foreign_contracts:0 "Foreign Arms Contracts"
+fra_foreign_contracts:0 "외인부대와의 계약"
 fra_foreign_contracts_desc:0 "We would be fools to ignore the great minds that lie outside of our own borders. Many nations across europe are making new developments in weapon technology which are changing the face of the battlefield dramatically. We should be able to negotiate contracts as well as some outdated experimental rifles for us to draw our own conclusions from."
 ###
-fra_cadet_corps:0 "Support the Cadet Corps"
+fra_cadet_corps:0 "간부 군단 지원"
 fra_cadet_corps_desc:0 "The key to a well-trained army is to have the soldiers of tomorrow training today. Cadet corps will introduce our youth to the military of our nation, and allow them to specialize in specific fields. Not only this, but the Cadet corps will teach them valuable lessons about being a citizen, and advance our society as a whole."
 ###
 fra_legacy_begone:0 "새로운 유산"
@@ -476,166 +476,166 @@ fra_legacy_begone_desc:0 "The horrors of the Great War are behind us, and a new 
 fra_somme_begone:0 "솜 전투를 기억하라"
 fra_somme_begone_desc:0 "우리는 솜 전투에서 쓰러진 병사들은 물론, 조국을 수호하다 전사한 병사들 모두를 기려야만 합니다. 그렇지만 이게 그냥 주저앉아 울어야만 한다는 것은 아닙니다. 대신, 우린 쓰러진 이들을 위해서라도 싸워나가야만 합니다."
 ###
-fra_defensive_mastery:0 "Defensive Mastery"
+fra_defensive_mastery:0 "방어의 귀재"
 fra_defensive_mastery_desc:0 "Our developments of defensive doctrines and tactics has transformed our army into an immovable object which no enemy could ever hope of pushing away, we have created a fortress to keep our people safe for all time."
 ###
-fra_african_expeditions:0 "African Expeditions"
+fra_african_expeditions:0 "아프리카 원정"
 fra_african_expeditions_desc:0 "As a European power, it is our duty to bring light and civilization to the dark continent. We will devote our imperial resources to this great endevour, and fufill our burden."
 ###
-fra_trans_africa_railway:0 "The Trans-African Railway Initative"
+fra_trans_africa_railway:0 "아프리카 횡단철도 건설"
 fra_trans_africa_railway_desc:0 "Africa is a vast continent, and moving across it without using boats and travelling along the coast is nearly impossible. We will create a great railway which will span from Algeria to the Congo River, and bring civilization to the interior."
 ###
-fra_algeria_prospecting:0 "Algerian Oil Prospecting"
+fra_algeria_prospecting:0 "알제리 석유 탐사"
 fra_algeria_prospecting_desc:0 "Early prospects have shown that the Algeria region is home to large reserves of oil which we could easily exploit. With the growth of our military, this oil could come in great use, we just need to ensure the convoys safety as they make the trip from Algiers to Marseille"
 ###
-fra_southern_refineries:0 "Marseille Refineries"
+fra_southern_refineries:0 "마르세유 정제공장"
 fra_southern_refineries_desc:0 "Raw oil is of no use to us, we need to run it through refineries in order to convert it into usable fuel for our army. Constructing new refineries in Marseille where the Algerian oil unloads will quicken this process and provide us with a much higher yield."
 ###
-fra_tunisia_oil:0 "Prospect in Tunisia"
+fra_tunisia_oil:0 "튀니지 탐사"
 fra_tunisia_oil_desc:0 "Reports from our prospectors in Tunisia appear to have shown that the region is ripe with oil. We would be fools to not exploit this valuable region as soon as possible."
 ###
-fra_north_africa_airbases:0 "Expansion of North African Airbases"
+fra_north_africa_airbases:0 "북아프리카 군사공항 확장"
 fra_north_africa_airbases_desc:0 "The defence of our North African colonies is paramount to the survival of our nation, and in this new age of warfare control of the skies is paramount to victory on the battlefield. Expanding our deset airbases will allow us to keep our foes at bay from the sky."
 ###
-fra_operation_puddle_test:0 "Prepare for "Opération Flaque""
+fra_operation_puddle_test:0 ""물웅덩이"작전 준비"
 fra_operation_puddle_test_desc:0 "Should the mainland fall, we need to be prepared to evacuate our army and government to North Africa where we may continue the fight against our enemies. Practicing dry runs of this operation will allow us to execute it flawlessly and in less time."
 ###
-fra_med_screens:0 "Improved Mediterranean Screening"
+fra_med_screens:0 "지중해 탐지 개선"
 fra_med_screens_desc:0 "Our convoys are useless unless they can be protected by screening ships. We need to ensure that our possible evacuation to Algeria will be safe and uninterupted by our enemies navy."
 ###
-fra_desert_conquest:0 "Conquest of the Desert"
+fra_desert_conquest:0 "사막 정복"
 fra_desert_conquest_desc:0 "Deserts, while largely uninhabitable, still make up a large portion of our African possesions. Finding ways to make use of these deserts would increase the value of our colonies greatly."
 ###
-fra_planned_factories:0 "Planned African Factories"
+fra_planned_factories:0 "아프리카의 공장 건설계획"
 fra_planned_factories_desc:0 "Africa is a vast place, with tons of room for planned factory complexes. Planning out where factories will be placed will increase overall production effeciancy in the long term."
 ###
-fra_colonial_migration:0 "Encourage Colonial Migration"
+fra_colonial_migration:0 "식민지 이주 장려"
 fra_colonial_migration_desc:0 "We can never truly claim our African colonies to be an integral part of our country until Frenchmen make up a majority of the population. The only efficiant way to achieve this is to enocurage and subsidize migration to our colonial posessions."
 ###
-fra_gold_coast_ports:0 "Gold Coast Ports"
+fra_gold_coast_ports:0 "황금해안 요새"
 fra_gold_coast_ports_desc:0 "Making the trip around Africa without the use of the Suez Canal is dangerous at best, and without sufficiant ports our ships run the risk of running out of supply and never reaching their destination. Constructing new ports along the Gold Coast will provide us with a valuable stopping point for our ships to use."
 ###
 fra_algerian_forts:0 "알제리 요새화"
 fra_algerian_forts_desc:0 "Should our enemies ever reach North Africa, we will need hard emplacements in order to keep them from completely overruning us and bringing an end to the French state."
 ###
-fra_pan_african_prospecting:0 "Pan-African Resource Extraction"
+fra_pan_african_prospecting:0 "범아프리카 자원 추출"
 fra_pan_african_prospecting_desc:0 "Our African colonies have shown great potential in their resource deposits. We should devote a massive amount of resources into extracting these resources and bringing them back to the mainland where we can use them effectively."
 ###
-fra_provisional_africa:0 "Set up the GFPA"
+fra_provisional_africa:0 "GFPA 설립"
 fra_provisional_africa_desc:0 "The Gouvernement français provisoire en Algérie, or GFPA, is an administrative governent which will be set up in Algiers and will serve as a second capital for our nation, should we lose the mainland to our enemies."
 ###
-fra_maintain_air_army:0 "Maintain the Aéronautique Militaire"
+fra_maintain_air_army:0 "기존 공군 유지"
 fra_maintain_air_army_desc:0 "The Aéronautique Militaire was formed as a subsection of the army during the Great War, and was used to great effect against the Germans in the Western Front. The Aéronautique Militaire has grown throughout the years and some divisions have become dependant on their support, so why should we split them apart?"
 ###
-fra_create_air_army:0 "Create the Armée de l'Air"
+fra_create_air_army:0 "새로운 공군 창설"
 fra_create_air_army_desc:0 "Our airforce has grown larger and more independant of the army in the decades following the Great War. Keeping them tied to the army will limit their capabilities greatly, and as such we must seperate them and officially form the Armée de l'Air."
 ###
-fra_paratroopers:0 "Paratrooper Research Advancements"
+fra_paratroopers:0 "발전된 공수부대"
 fra_paratroopers_desc:0 "Paratroopers are a novel advancement in military technology, and learning to use them effectively could allow us to wreak havoc behind enemy lines and allow us to reach areas that our navy would find impossible."
 ###
-fra_helicopters:0 "Experimental Helicopters"
+fra_helicopters:0 "실험적 헬리콥터"
 fra_helicopters_desc:0 "The idea of a helicopter has been in the minds of great invetors since Da Vinci's era. Only now has technology advanced to the point where the idea of functional helicopters are beginning to become a reality. Building experimental models will teach us valuable lessons regarding aeronautics."
 ###
-fra_air_ground_radio:0 "Air to Ground Radio"
+fra_air_ground_radio:0 "공대지 라디오"
 fra_air_ground_radio_desc:0 "Giving synchronized radios to our pilots and officers will allow them to quickly and effectively communicate with each other during the heat of battle. This will greatly increase combat capabilities for both our army and aircraft."
 ###
-fra_colored_smoke:0 "Colour-coded Smoke Grenades"
+fra_colored_smoke:0 "연막탄 구별"
 fra_colored_smoke_desc:0 "Giving our soldiers a variety of differently coloured smoke grenades will allow them to designate different zones for our aircraft to operate in, giving them a tactical advantage on the battlefield."
 ###
-fra_coordinated_air_support:0 "Coordinated Air Support"
+fra_coordinated_air_support:0 "공동 항공 지원"
 fra_coordinated_air_support_desc:0 "The Spanish Civil War has shown that a higher level of coordination between the ground and air forces is required in order to achieve success on the battlefield. We must make sure to take advantage of this knowledge before our enemies do."
 ###
 fra_radar_tech:0 "레이더 개발"
 fra_radar_tech_desc:0 "RADAR has proven to be extremely useful in determining the outcome of a dogfight before it has even begun. As such, we must develop the technology further in order to keep the edge in battle."
 ###
-fra_independant_air_command:0 "Independant Fighter Command"
+fra_independant_air_command:0 "독립된 공군 사령부"
 fra_independant_air_command_desc:0 "Ensuring that our fighter command is fully indepednant will allow them to operate on a more flexible basis, this will of course improve their effectiveness and capabilities in battle."
 ###
-fra_flexible_tactics:0 "Promote Flexible Tactics"
+fra_flexible_tactics:0 "유연한 전술 채용"
 fra_flexible_tactics_desc:0 "Unpradictability in battle is the key to out-manouvering your opponent, as such we must ensure that all our fighter pilots are aware of this fact and use it extensively."
 ###
 fra_bomber_formations:0 "폭격기 대형"
 fra_bomber_formations_desc:0 "Arranging our bomber flights into certain formations will allow them to destroy a larger amount of targets in less time and using less explosives, we should follow this path further in order to keep our enemies industry flattened and their planes grounded."
 ###
-fra_better_fighter_range:0 "Improve Fighter Range"
+fra_better_fighter_range:0 "전투기 항속거리 향상"
 fra_better_fighter_range_desc:0 "Our fighters provide an important escort role to our bombers, but they can only travel so far on a single fuel tank before needing to turn back. Improving their range will allow them to keep our bombers safer for a longer time."
 ###
 fra_air_school:0 "항공학교 설립"
 fra_air_school_desc:0 "The École de l'air is a government sponsored organization aimed at educating todays youth in the ways of piloting and maintaining an aircraft. This will create a new breed of experienced pilots which will be unparalleled in the sky."
 ###
-fra_integrate_cadets:0 "Integrate the Air Cadets"
+fra_integrate_cadets:0 "공군 간부 통합"
 fra_integrate_cadets_desc:0 "Integrating the Air Cadet Corps fully into our airforce will allow them to gain more firsthand experience and see how an independant airforce truly operates."
 ###
-fra_integrated_air:0 "Fully Integrated Airforce"
+fra_integrated_air:0 "공군 완전 통합"
 fra_integrated_air_desc:0 "Our reforms have allowed us to fully integrate the airforce into the army, greatly increasing the effectiveness of our land forces."
 ###
-fra_independant_air:0 "Fully Independant Airforce"
+fra_independant_air:0 "공군 완전 독립"
 fra_independant_air_desc:0 "Our reforms have led to our air force becoming fully independant of the army, and they only answer to us and themselves now. This independant airforce will form the backbone of the new French military."
 ###
-fra_navy_start:0 "Reform the Marine Nationale"
+fra_navy_start:0 "해병대 개혁"
 fra_navy_start_desc:0 "Our navy is heavily antiquated and outdated, and we cannot run a global empire without a strong navy in every sea. Reforming our navy is the only option we have if we are to maintain our position as the greatest empire on Earth."
 ###
-fra_shadow_king:0 "In the Shadow of the King"
+fra_shadow_king:0 "왕의 그림자 속에서"
 fra_shadow_king_desc:0 "The Royal Navy dwarfs the Marine Nationale in every category, and their position as the top naval power on the globe seems unchallengable. We must attempt to assert our dominence over the sea if we are to remain fully independant from the British sphere and maintain our European hegemony."
 ###
-fra_unified_fleet:0 "A Unified Fleet"
+fra_unified_fleet:0 "함대 통합"
 fra_unified_fleet_desc:0 "The Marine Nationale operates under an extremely decentralized leadership style. Unifying the leadership under a group of naval officers will allow for higher coordination and operational integrity."
 ###
-fra_expand_ports:0 "Expand Home Dockyards"
+fra_expand_ports:0 "고향의 조선소 확장"
 fra_expand_ports_desc:0 "Dockyards are needed to construct additional ships, and we will never be able to rival British naval supremacy if we bottleneck ourselves with insufficiant dockyard production capabilities."
 ###
-fra_revive_battleships:0 "Revive the Battleships"
+fra_revive_battleships:0 "전함의 부활"
 fra_revive_battleships_desc:0 "Many of our in-production battleships were cancelled after the signing of the Washington Naval Treaty, as well as the strain it was putting on our economy. The time has finally come to revive these beasts of the ocean, and assert our naval supremacy."
 ###
-fra_super_heavy:0 "Impractically Large Ships"
+fra_super_heavy:0 "터무니 없는 거대 전함"
 fra_super_heavy_desc:0 "Some say that there is a logical extreme to how large a ship can be before it becomes useless. We don't like those people, and listening to them would be a grave mistake on our behalf."
 ###
-fra_mobile_airports:0 "Mobile Airstrips"
+fra_mobile_airports:0 "움직이는 활주로"
 fra_mobile_airports_desc:0 "Carriers allow us to transport our airforce across the globe to areas that they normally would be unable to reach, this will extend our global influence by a large degree."
 ###
-fra_carrier_experiments:0 "Experimental Carrier Designs"
+fra_carrier_experiments:0 "실험적 항공모함 설계"
 fra_carrier_experiments_desc:0 "The Japanese, Americans, and British all use radically different designs for their aircraft carriers; we should learn from all three of these designs in order to create the perfect carrier."
 ###
-fra_alone_weak:0 "Alone we are weak..."
+fra_alone_weak:0 "홀로 있을때 우리는 약하다..."
 fra_alone_weak_desc:0 "Our fleet must be made up of many smaller ships in order to be able to quickly reach all areas of the globe and respond to crises wherever they may appear."
 ###
 fra_wolfpacks:0 "울프팩"
 fra_wolfpacks_desc:0 "Small, independant groups of submarines can partrol large bodies of water in search of hostile convoys and destroy them before ever being discovered. This is critical in starving out our enemy and defeating them on land."
 ###
-fra_undersea_armada:0 "The Undersea Armada"
+fra_undersea_armada:0 "바다속의 무적 함대"
 fra_undersea_armada_desc:0 "An armada which lies under the surface of the ocean cannot be touched by our enemy, and will be able to perform hit-and-run attacks on the enemies surface fleet."
 ###
-fra_destroyers:0 "Destroyer Innovations"
+fra_destroyers:0 "구축함의 혁신"
 fra_destroyers_desc:0 "Destroyers are an extremely versitile ship which can perform many tasks ranging from convoy protection to mine-laying and even trade interdiction. Increasing both the quality and quantity of our destroyers will give us an advantage over our enemies."
 ###
-fra_quick_response:0 "Quick-Response Task Forces"
+fra_quick_response:0 "더 빠른 기동부대"
 fra_quick_response_desc:0 "Increasing the speed of our small task forces will allow us to deal more damage and take less damage ourselves. These new doctrines will prove invaluable if we are ever caught up in a naval war."
 ###
-fra_cruisers:0 "Cruiser initiative"
+fra_cruisers:0 "순양함 계획"
 fra_cruisers_desc:0 "Cruisers make up the backbone of any strong navy, and we would be fools to ignore this fact. More cruisers will give our fleets more of an advantage in battle."
 ###
-fra_merchant_marine:0 "Expand the Merchant Marine"
+fra_merchant_marine:0 "상선 해병 확장"
 fra_merchant_marine_desc:0 "Convoys are the life-blood of our empire, and allow us to ship goods all around the globe and keep the international economy running. Putting more emphasis on our convoys will improve our economy tenfold."
 ###
-fra_our_shadow:0 "Casting Our Own Shadow"
+fra_our_shadow:0 "우리만의 배역 선정"
 fra_our_shadow_desc:0 "While the Marine Nationale may never match the prestige and global reach of the Royal Navy, we have grown it to a size where we can now cast our own shadow on the rest of the world, and our navy is now nearly uncontested in the entire world."
 ###
-fra_global_navy:0 "A Global Navy"
+fra_global_navy:0 "대양 해군"
 fra_global_navy_desc:0 "Our navy has grown in speed and strength, and is now able to reach any corner of the globe in a matter of weeks. Our influence across the world has grown as a result and our empire has never been more secure."
 ###
-fra_air_navy_coop:0 "Airforce-Navy Cooperation"
+fra_air_navy_coop:0 "공군-해군간 협력"
 fra_air_navy_coop_desc:0 "Promoting cooperation between our navy and airforce will allow them to operate in tandem and destroy any enemy that dares to oppose our combined military forces."
 ###
-fra_coastal_air_def:0 "Coastal Air Defense"
+fra_coastal_air_def:0 "해안 공군 방어"
 fra_coastal_air_def_desc:0 "Should the unthinkable happen and the enemies take control of our coastline, we need to ensure that our airforce knows how to slow them down and prevent them from gaining more ground before our land forces can get in position."
 ###
-fra_naval_bombers:0 "Naval Bombers"
+fra_naval_bombers:0 "뇌격기"
 fra_naval_bombers_desc:0 "Close Air Support can only do so much damage against an enemy fleet, we need to develop new aircraft which have the sole purpose of destroying ships if we are to truly destroy the enemy before they are able to retreat."
 ###
-fra_navy_air_cadets:0 "Air-Navy cadet excercises"
+fra_navy_air_cadets:0 "해군 항공대 간부 훈련"
 fra_navy_air_cadets_desc:0 "The Air and Navy cadets operate almost entirely independant of each other. We should encourage cooperation between the two groups in order to promote cooperation and brotherhood between them."
 ###
-fra_continental_supremacy:0 "Continental Supremacy"
+fra_continental_supremacy:0 "유럽대륙의 패권"
 fra_continental_supremacy_desc:0 "Ever since the end of the Great War, we have been the hegemon of continental Europe. Maintaining this position is critical for us to ensure the survival of the French nation."
 ###
 fra_italy_coop:0 "이탈리아와의 협력"
