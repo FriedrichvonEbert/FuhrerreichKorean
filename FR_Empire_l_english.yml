@@ -6,24 +6,24 @@
 
 ##### Tooltips #####
 
-ENG_send_generous:0 "\nWill send Canada the following ships, 1x Battlecruiser, 3x Light Cruisers, 5x Destroyers"
-ENG_send_adequate:0 "\nWill send Canada the following ships, 2x Light Cruisers, 3x Destroyers"
+ENG_send_generous:0 "\n캐나다에 전함 1척, 경순양함 3척, 구축함 5척을 공여할 것입니다"
+ENG_send_adequate:0 "\n캐나다에 경순양함 2척, 구축함 3척을 공여할 것입니다"
 
 #### Ideas #####
 
-AST_eco_relief:0 "Economic Relief"
+AST_eco_relief:0 "경제 구호"
 
 ##### Opinion Modifiers #####
 
-IMP_oppose_imper:0 "Opposes Imperialism"
-IMP_oppose_ireland:0 "Protesting Irish Situation"
-IMP_oppose_gov:0 "Opposes our Government"
-IMP_support_gov:0 "Supports our Government"
-IMP_support_eaf1:0 "Helped Stabilise East Africa"
-IMP_support_eaf2:0 "Helped Stabilise East Africa"
-IMP_refused_aid:0 "Refused to send us aid"
-IMP_eco_aid1:0 "Sent Economic Assistance"
-IMP_eco_aid2:0 "Refused to send help"
+IMP_oppose_imper:0 "제국주의에 대항함"
+IMP_oppose_ireland:0 "아일랜드 사태에 항의함"
+IMP_oppose_gov:0 "우리 정부에 대항함"
+IMP_support_gov:0 "우리 정부를 지지함"
+IMP_support_eaf1:0 "동아프리카 안정화를 도움"
+IMP_support_eaf2:0 "동아프리카 안정화를 도움"
+IMP_refused_aid:0 "우리에 대한 지원을 거부함"
+IMP_eco_aid1:0 "경제적 지원을 제공함"
+IMP_eco_aid2:0 "지원 제공을 거부함"
 
 ##### Decisions #####
 
