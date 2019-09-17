@@ -23,7 +23,7 @@ increase_popularity_soclib:0 "시민의 자유 보장" #Free and Just.
 increase_popularity_soclib_desc:0 "민주적 가치는 어떠한 대가를 치르더라도 보장되어야 합니다. 민주주의는 우리에게 필수불가결한 문제이고, 법은 한 사람이라도 시민의 자유를 제한할수 없으며, 자유를 보장해야 합니다. [Root.GetNameDef]는(은) 자유롭고 정의로운 국가입니다! 우리는 결코 이러한 가치들이 손상되는 것을 용납하지 않을 것입니다!"
 increase_popularity_marklib:0 "경제적 특권 옹호" #Unchained and Unbound.
 increase_popularity_marklib_desc:0 "경제적 사슬은 더이상 용납되지 않을 것입니다! 민영화와 자유 방임주의는 반드시 지켜져야 합니다. [RootGetNameDef]의 모든 시민을 위한 자유시장을 보장하겠습니다. 시장이 자유로워질수록 국민이 자유로워질 것입니다!"
-increase_popularity_soccon:0 "현상유지 촉진" #Stable and Traditional.
+increase_popularity_soccon:0 "현상유지" #Stable and Traditional.
 increase_popularity_soccon_desc:0 "몇몇 이들은 우리가 변화를 거부하는 것에 대하여 비난할수 있지만, 그들은 단지 우리의 국가적 상황이 최적의 상태라고 보지 않는 것일 뿐입니다. 전통과 안정은 하나의 국가에서 필수적인 생명력입니다. 둘중 하나라도 개혁과 혁명적인 급진파에 양보할수 없고, 국민들도 그것을 받아들여야 합니다."
 increase_popularity_authdem:0 "우리의 책무 공고" #Popular and Responsible.
 increase_popularity_authdem_desc:0 "'민주제도에 적용된 권위주의'는 어떤 사람들이 우리를 그렇게 묘사하는 것입니다. 하지만 그것은 나쁜 일이 아닙니다. 우리는 사회가 현재 최적의 상태에 있다고 믿는다는 의미에서 사회 보수주의를 받아들이고, 무엇보다도 국가의 안정을 우선시 하기 위하여 중앙집권화를 실시하는 것입니다."
@@ -48,32 +48,32 @@ nationalize_foreign_industries:0 "외국 산업 국유화"
 #nationalize_foreign_industries_desc:0 ""
 
 ##INDUSTRIAL DECISIONS##
-economic_demobilization:0 "Economic Demobilization"
-infrastructure_building_slot:0 "Industrial Renovation"
-infrastructure_building_slot_desc:0 "A state of ours could use some renovation to clear up more space for construction of other complexes. Supporting this renovation might open up some opportunities for us."
-civilian_factory_commission:0 "Issue a Civilian Factory Commission"
-civilian_factory_commission_desc:0 "Our Civilian Industry could be a good deal larger, and we're currently capable of leveraging a commission for the construction of one of these buildings."
-arms_factory_commission:0 "Issue a Military Factory Commission"
-arms_factory_commission_desc:0 "Our Arms Industry could certainly benefit from a bit of expansion, leveraging a commission of another Arms Factory might remedy this."
+economic_demobilization:0 "경제 동원 해제"
+infrastructure_building_slot:0 "산업 혁신"
+infrastructure_building_slot_desc:0 "우리의 국가에서는 더 많은 산업단지를 건설하기 위해 약간의 개조를 거칠 필요가 있습니다. 이러한 개조를 거치면 우리에게 몇가지 기회가 열릴지도 모릅니다."
+civilian_factory_commission:0 "민간 산업 위원회 문제"
+civilian_factory_commission_desc:0 "우리의 민간 산업은 훨씬 더 커질 수 있고, 우리는 현재의 산업을 확장하기 위하여 위원회를 이용할수 있습니다."
+arms_factory_commission:0 "군수 산업 위원회 문제"
+arms_factory_commission_desc:0 "우리의 무기 산업은 약간의 확장으로도 확실한 이익을 얻을수 있으며, 다른 무기 공장에 의뢰를 활용하면 이 문제를 해결할 수 있을 것입니다."
 dockyard_commission:0 "Issue a Dockyard Commission"
 dockyard_commission_desc:0 "An addition to our Naval Industry would certainly be valuable. Leveraging a comission for a Dockyard would not be in vain."
 
 ##PROPAGANDA##
-military_service_propaganda:0 "Service Propaganda"
-military_service_propaganda_desc:0 "During these trying times, we must bolster our Armed Forces. An influx of recruits is necessary to accomplish this, we shall conduct large propaganda campaigns and encourage our people to enlist in the Military."
+military_service_propaganda:0 "체제 선전"
+military_service_propaganda_desc:0 "이런 어려운 시기에 우리는 우리의 군대를 강화해야 합니다. 이를 위해서는 신병 모병이 필요하며, 대규모 선전을 실시하고 우리 국민의 군 입대를 독려할 것입니다."
 
 #RESOURCES
-expand_oil_rigs:0 "Local Oil Rig Expansion"
+expand_oil_rigs:0 "지역 석유 굴착 장치 확장"
 #expand_oil_rigs_desc:0 ""
-expand_rubber_plants:0 "Local Rubber Plant Expansion"
+expand_rubber_plants:0 "지역 고무공장 증설"
 #expand_rubber_plants_desc:0 ""
-expand_steel_mines:0 "Local Steel Mine Expansion"
+expand_steel_mines:0 "지역 강철광산 확장"
 #expand_steel_mines_desc:0 ""
-expand_aluminium_mines:0 "Local Aluminium Refinery Expansion"
+expand_aluminium_mines:0 "지역 알루니늄 정제 공장 확장"
 #expand_aluminium_mines_desc:0 ""
-expand_tungsten_mines:0 "Local Tungsten Deposit Exploitation"
+expand_tungsten_mines:0 "지역 텅스텐 광산 확장"
 #expand_tungsten_mines_desc:0 ""
-expand_chromium_mines:0 "Local Chromium Deposit Exploitation"
+expand_chromium_mines:0 "지역 크로뮴 광산 확장"
 
 #STABILITY
 improved_worker_conditions:0 "Improve Working Conditions"
@@ -84,8 +84,8 @@ cut_red_tape:0 "Cut out Red Tape"
 cut_red_tape_desc:0 "Our nation is far too bureaucratic, to the point it's almost become restrictive in a few areas. Repealing redundant policies and eliminating excessive regulation will ensure that our Nation will function far more smoothly than before."
 
 #FLAGS
-factory_comission_flag:0 "Has not already had a commission for a Factory"
-resources_exploited_flag:0 "Has not already been exploited for Resources"
+factory_comission_flag:0 "공장에 대한 의뢰가 없었습니다"
+resources_exploited_flag:0 "자원이 아직 이용되지 않았습니다."
 
 NO_GENERIC_STABILITY_DECISIONS:0 " Generic stability decisions disabled"
 NO_GENERIC_RESOURCE_DECISIONS:0 " Generic resource decisions disabled"
@@ -93,36 +93,36 @@ NO_GENERIC_PROPAGANDA_DECISIONS:0 " Generic propaganda decisions disabled"
 
 ##### LIBERATE NATIONS #####
 
-liberate_nations:0 "Liberate Nations"
+liberate_nations:0 "국가 해방"
 
 # - France
 
-liberate_france:0 "Establish a friendly French Government"
-liberate_brittany:0 "Liberate Brittany"
-liberate_normandy:0 "Liberate Normandy"
-liberate_occitania:0 "Liberate Occitania"
-liberate_orleans:0 "Liberate Orléans"
-liberate_corsica:0 "Liberate Corsica"
-liberate_alsace:0 "Liberate Alsace & Lorraine"
-corsica_to_occitania:0 "Transfer Corsica to Occitanian Control"
-corsica_to_italy:0 "Transfer Corsica to Italian Control"
-alsace_to_germany:0 "Transfer Alsace to German Control"
-alsace_to_rhineland:0 "Transfer Alsace to Rhenish Control"
-alsace_to_orleans:0 "Transfer Alsace to Orléans Control"
+liberate_france:0 "프랑스에 친선정부 설립"
+liberate_brittany:0 "브리타니 해방"
+liberate_normandy:0 "노르망디 해방"
+liberate_occitania:0 "옥시타니아 해방"
+liberate_orleans:0 "오를레앙 해방"
+liberate_corsica:0 "코르시카 해방"
+liberate_alsace:0 "알자스 로렌 해방"
+corsica_to_occitania:0 "코르시카를 옥시타니아에 양도"
+corsica_to_italy:0 "코르시카를 이탈리아에 양도"
+alsace_to_germany:0 "알자스를 독일에 양도"
+alsace_to_rhineland:0 "알자스를 라인에 양도"
+alsace_to_orleans:0 "알자스를 오를레앙에 양도"
 
 # - Germany
 
-liberate_germany:0 "Establish a friendly Germany Government"
-liberate_bayern:0 "Liberate Bavaria"
-liberate_hanover:0 "Liberate Hannover"
-liberate_badwurt:0 "Liberate Baden-Württemberg"
-liberate_saxony:0 "Liberate Saxony"
-liberate_pommern:0 "Liberate Pomerania"
-liberate_brandenburg:0 "Liberate Brandenburg"
-liberate_hesse:0 "Liberate Hesse"
-liberate_rhineland:0 "Liberate Rhineland"
-liberate_silesia:0 "Liberate Silesia"
-liberate_sho:0 "Liberate Schleswig-Holstein"
+liberate_germany:0 "독일에 친선정부 설립"
+liberate_bayern:0 "바이에른 해방"
+liberate_hanover:0 "하노버 해방"
+liberate_badwurt:0 "바덴-뷔르템베르크 해방"
+liberate_saxony:0 "작센 해방"
+liberate_pommern:0 "포메라니아 해방"
+liberate_brandenburg:0 "브란덴부르크 해방"
+liberate_hesse:0 "헤센 해방"
+liberate_rhineland:0 "라인란트 해방"
+liberate_silesia:0 "실레시아 해방"
+liberate_sho:0 "슐레스비히-홀슈타인 해방"
 liberate_ermland:0 "Liberate Ermland"
 silesia_to_germany:0 "Transfer Silesia to German Control"
 sho_to_germany:0 "Transfer Schleswig-Holstein to German Control"
