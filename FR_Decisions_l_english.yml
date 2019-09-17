@@ -7,44 +7,44 @@ political_actions_dem:0 "정치적 행동"
 #political_actions_dem_desc:0 ""
 political_actions_right:0 "정치적 행동"
 #political_actions_right_desc:0 ""
-military_affairs:0 "군대 "
+military_affairs:0 "군사적 사건"
 
 #### GENERIC DECISIONS ####
 
-increase_popularity_vang:0 "Have [Root.GetLeader] hold a speech" #Might and Strength.
-increase_popularity_vang_desc:0 "Some may criticize us for advocating a strong state... Let them criticize! A strong state is the only way to achieve Karl Marx's envisionment of Socialism; we will go as far as necessary; and we will be sure the People are aware of that."
-increase_popularity_collie:0 "Popularize Marxist Literature" #Revolutionary and Orthodox.
-increase_popularity_collie_desc:0 "The way forward is together. The Vanguardists will argue that a strong state is necessary to guide the people to true Socialism, Libertarian Socialists will argue for the opposite. Neither of these parties are correct; mutual co-dependence and ensuring Unity of the collective will be required to truly achieve Socialism."
-increase_popularity_libsoc:0 "Have [Root.GetLeader] make Factory visits" #Equal and United.
-increase_popularity_libsoc_desc:0 "Putting large amounts of power in the hands of few is a one-way trip to a Dictatorship. A partially Socialist system must be applied to our nation; to steadily and moderately work towards the Marxist dream of Socialism. Making Factory visits to our workers to inform them of this will ensure our popularity and discredit the radical regimes proposed by some."
-increase_popularity_socdem:0 "Expansive welfare distribution" #Fair and Moderate.
-increase_popularity_socdem_desc:0 "Capitalism is flawed, but it is our duty to repair those flaws. Humane ethics must be applied to Capitalism in order to soften its rough outcome on the working classes. We will be the ones to take up that mantle; we will be the ones to reform, to fix our nation today so that a better one can exist tomorrow. "
-increase_popularity_soclib:0 "Protect Civil Liberties" #Free and Just.
-increase_popularity_soclib_desc:0 "Democratic values must be upheld at any cost; Democracy is non-negotiable. Laws cannot restrict the civil liberties of a man; only ensure their freedom. [Root.GetNameDef] is a free and just nation! We will never allow these values to be compromised!"
-increase_popularity_marklib:0 "Advocate Economic Privatisation" #Unchained and Unbound.
-increase_popularity_marklib_desc:0 "Economic chains will be tolerated no longer! Privatisation and Laissez-Faire principles must be upheld. We will ensure a free market for every citizen in [Root.GetNameDef]; the freer the market, the freer the people!"
-increase_popularity_soccon:0 "Promote the Status Quo" #Stable and Traditional.
-increase_popularity_soccon_desc:0 "Some may criticize us for our refusal to change many things, but they simply don't see that our national situation is optimal as-of current. Tradition and Stability are a few of the vital life-forces in a nation. We can never give either of these up to the radical forces of reform and revolution, and the people must know that."
-increase_popularity_authdem:0 "Broadcast our Responsibility" #Popular and Responsible.
-increase_popularity_authdem_desc:0 "'Authoritarianism applied to the Democratic system' is how some would describe us. However that is hardly a bad thing. We accept the doctrine of Social Conservatism in the sense that we believe Society is currently in an Optimal state, and we practice centralization to prioritize national stability and popularity above all else."
-increase_popularity_pataut:0 "Ensure Paternal Popularity" #Strong and Righteous.
-increase_popularity_pataut_desc:0 "A nation under a Strong ruler is the only way to ensure our Righteous struggle will be met with success. Stability must be maintained by ensuring the popularity of our government; be it by words or force."
-increase_popularity_natpop:0 "Hold a Nationalist Rally" #Fierce and Proud.
-increase_popularity_natpop_desc:0 "In order to reinforce our Party's core values and principles, we'll hold a rally which will draw out our various supporters from across the Nation. Sometimes, a simple reminder accompanied by a mob will have more impact than one-thousand reminders when alone."
-increase_popularity_valkist:0 "Indoctrinate the Populace" #Revived and Radical.
-increase_popularity_valkist_desc:0 "The core principles of [Root.GetAdjective] Valkism must be instilled in the Population. Starting with the Youth and then moving onto the Old, we'll ensure their loyalty to [Root.GetName]."
+increase_popularity_vang:0 "[Root.GetLeader]에서의 연설" #Might and Strength.
+increase_popularity_vang_desc:0 "누군가는 강력한 국가를 원하는 우리를 비판할수도 있습니다... 그들을 비난합시다! 강력한 국가가 되는 유일한 방법인 칼 마르크스의 사회주의적 야망을 이루기 위하여! 우리는 필요한 방향나아갈 것입니다. 그리고 우리는 사람들에게 우리가 길을 알고 있다고 확신을 심어줄 것입니다."
+increase_popularity_collie:0 "마르크스주의 문학 대중화" #Revolutionary and Orthodox.
+increase_popularity_collie_desc:0 "우리는 함께 앞으로 나아가야 합니다. 전위대는 국민들이 진정한 사회주의 국가로 인도되기 위하여 강력한 국가가 필요하다고 주장하고, 자유주의와 사회주의자들은 그 반대로 주장할 것입니다. 이 두 무리들은 모두 틀렸습니다. 상호 의존과 집단의 단결은 사회주의를 달성하는데 필수적인 요소입니다."
+increase_popularity_libsoc:0 "[Root.GetLeader]의 공장 방문" #Equal and United.
+increase_popularity_libsoc_desc:0 "소수에게 많은 권력을 쥐여주는 것은 독재정권으로 이행하는 길입니다. 부분적인 사회주의는 우리 국가에 적용되어야 합니다. 사회주의와 마르크스주의를 위하여, 그리고 더욱 나은 삶을 위하여. 공장을 방문하여 노동자들을 독려하면 우리의 인기는 올라가고 일부에서 말하는 정부에 대한 불신은 더욱 커질 것입니다."
+increase_popularity_socdem:0 "광범위한 복지" #Fair and Moderate.
+increase_popularity_socdem_desc:0 "자본주의에는 단점이 있지만, 그러한 단점을 고치는 것은 우리의 의무입니다. 노동계층에 대한 의무를 덜어주기 위해서는 자본주의에 인간 윤리에 대한 것을 함께 적용해야 합니다. 우리는 바로 그것을 실행할 사람이 될 것입니다. 우리는 개혁하고, 바로잡고, 내일은 더 나은 국가가 존재할수 있도록 할 것입니다."
+increase_popularity_soclib:0 "시민의 자유 보장" #Free and Just.
+increase_popularity_soclib_desc:0 "민주적 가치는 어떠한 대가를 치르더라도 보장되어야 합니다. 민주주의는 우리에게 필수불가결한 문제이고, 법은 한 사람이라도 시민의 자유를 제한할수 없으며, 자유를 보장해야 합니다. [Root.GetNameDef]는(은) 자유롭고 정의로운 국가입니다! 우리는 결코 이러한 가치들이 손상되는 것을 용납하지 않을 것입니다!"
+increase_popularity_marklib:0 "경제적 특권 옹호" #Unchained and Unbound.
+increase_popularity_marklib_desc:0 "경제적 사슬은 더이상 용납되지 않을 것입니다! 민영화와 자유 방임주의는 반드시 지켜져야 합니다. [RootGetNameDef]의 모든 시민을 위한 자유시장을 보장하겠습니다. 시장이 자유로워질수록 국민이 자유로워질 것입니다!"
+increase_popularity_soccon:0 "현상유지 촉진" #Stable and Traditional.
+increase_popularity_soccon_desc:0 "몇몇 이들은 우리가 변화를 거부하는 것에 대하여 비난할수 있지만, 그들은 단지 우리의 국가적 상황이 최적의 상태라고 보지 않는 것일 뿐입니다. 전통과 안정은 하나의 국가에서 필수적인 생명력입니다. 둘중 하나라도 개혁과 혁명적인 급진파에 양보할수 없고, 국민들도 그것을 받아들여야 합니다."
+increase_popularity_authdem:0 "우리의 책무 공고" #Popular and Responsible.
+increase_popularity_authdem_desc:0 "'민주제도에 적용된 권위주의'는 어떤 사람들이 우리를 그렇게 묘사하는 것입니다. 하지만 그것은 나쁜 일이 아닙니다. 우리는 사회가 현재 최적의 상태에 있다고 믿는다는 의미에서 사회 보수주의를 받아들이고, 무엇보다도 국가의 안정을 우선시 하기 위하여 중앙집권화를 실시하는 것입니다."
+increase_popularity_pataut:0 "지도자의 인기 보장" #Strong and Righteous.
+increase_popularity_pataut_desc:0 "강력한 통치 아래 있는 국가는 우리의 올바른 투쟁에서 성공하기 위한 유일한 방법입니다. 안정은 우리 정부의 인기를 확실히 함으로써 유지되어야 합니다. 그것이 말로 유지되든 힘으로 유지되든 말입니다."
+increase_popularity_natpop:0 "민족주의 집회 개최" #Fierce and Proud.
+increase_popularity_natpop_desc:0 "우리 당의 핵심 가치와 원칙을 강화하기 위해 전국 각지에서 지지자들을 끌어내어 집회를 개최할 예정입니다. 백문이불여일견, 한번의 경험이 백번의 말보다 더 큰 영향을 줄 것입니다."
+increase_popularity_valkist:0 "대중 교화" #Revived and Radical.
+increase_popularity_valkist_desc:0 "[Root.GetAdjective]의 핵심인 발키즘은 우리 인구에게 주입되어야 합니다. 청소년에서부터 어른들까지 [Root.GetName]에 대한 충성은 보장되어야 합니다."
 
-centralized_economic_planning:0 "Centralized Economic Planning"
+centralized_economic_planning:0 "중앙집권형 경제계획"
 #centralized_economic_planning_desc:0 "In order to better coordinate our economy; we'll undertake initiate Centralized Economic planning."
-decentralized_economic_planning:0 "Decentralized Economic Planning"
+decentralized_economic_planning:0 "분권형 경제계획"
 #decentralized_economic_planning_desc:0 "In order to promote self-management and self-reliability; we'll undertake various decentralized economic planning programmes."
-industrial_privatization:0 "Industrial Privatization"
+industrial_privatization:0 "산업 민영화"
 #industrial_privatization_desc:0 ""
-economic_regulation:0 "Regulate key Industries"
+economic_regulation:0 "주요 산업 규제"
 #economic_regulation_desc:0 ""
-nationalize_key_industries:0 "Nationalize key Industries"
+nationalize_key_industries:0 "주요 산업 국유화"
 #nationalize_key_industries_desc:0 ""
-nationalize_foreign_industries:0 "Nationalize foreign Industries"
+nationalize_foreign_industries:0 "외국 산업 국유화"
 #nationalize_foreign_industries_desc:0 ""
 
 ##INDUSTRIAL DECISIONS##
