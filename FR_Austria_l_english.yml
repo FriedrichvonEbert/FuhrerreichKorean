@@ -30,7 +30,7 @@ AUS_anschluss_threat:0 "안슐루스"
 
 #IDEAS
 AUS_bundesheer_conscription:0 "연방군 징집"
-AUS_bundesheer_conscription_desc:0 "1921년 창군된 이후로 오스트리아 연방군은 오스트리아 군사력의 대부분을 맡아왔습니다"
+AUS_bundesheer_conscription_desc:0 "1921년 창군된 이후로 오스트리아 연방군은 오스트리아 군사력의 대부분을 맡아왔습니다."
 
 #EVENTS
 austria.1.t:"오스트리아의 상황"0
