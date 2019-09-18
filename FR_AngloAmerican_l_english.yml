@@ -11,23 +11,23 @@ nato:0 "NATO"
 ##### Opinion Modifiers #####
 
 AA_successful:0 "성공적인 회담"
-AA_failure:0 "외교의 결렬"
-AA_pacific_do:0 "태평양 방위 조약"
+AA_failure:0 "외교 결렬"
+AA_pacific_do:0 "태평양 방위 "
 
 ##### Ideas #####
 
 AA_ottawa_treaty:0 "오타와 해군 조약"
 AA_econ_coop:0 "영미 경제 협력"
 AA_mil_coop1:0 "군사적 난점"
-AA_mil_coop1_desc:0 "영국과 미국 양국의 군사 지휘 및 통제 체계를 합치는 과정은 길고 어렵습니다. 초기의 문제를 해결하는 데에도 여러 달이 걸릴 것입니다."
+AA_mil_coop1_desc:0 "영미 양국의 군사 지휘 및 통제 체계를 합치는 과정은 길고 어렵습니다. 초기의 문제를 해결하는 데에도 여러 달이 걸릴 것입니다."
 AA_mil_coop2:0 "영미 군사 협력"
 
 ##### Events #####
 
 # - UK side
 
-anam.1a.d:0 "At the end of the Great War we found ourselves with the largest Navy the world had ever seen but all was not well. Our allies in the United States and the Empire of Japan were both beginning their own naval expansion programs that would challenge the previously unchallenged Royal Navy. With the economic boom in the Empire, much funding was delivered to the Royal Navy and a large-scale ship-building program was begun to attempt to match the pace of the American and Japanese construction. Ostensibly, a gentlemen's agreement has held between our three nations for the past decade and a half to limit any naval arms race that may occur, which would only inevitably lead to war. Instead a technological arms race would begin, with massive amounts of funding being poured into naval research and development in the three nations involved.\n\nOur Government knew that this agreement would never hold indefinitely and we moved first to secure our position with the launching of HMS Trafalgar earlier this year. Diplomatic efforts would be made between ourselves and the United States of America to prevent a disastrous naval race between our two nations, one that many believe we would be on the losing side of. This has culminated in the proposed Anglo-American Conference of '36, of which the preparations for have begun today.\n\nScheduled for late November - after the soon-to-be-held Presidential elections in the United States - the Conference will cover a multitude of issues as far reaching as naval construction, the Pacific, and the effects of the LSMC.\n\nThis Conference is likely to dictate the relations between our two nations for years to come, and if compromise is not found it may lead to war."
-anam.2a.d:0 "오늘 아침, 뉴욕에서는 영미 양국의 외교관들이 참석하는 1936년도 영미 회담이 열려 공통된 관심사와 양국이 우려하는 사안에 대한 이야기를 나누기 시작했습니다.\n\n며칠간 계속될 것으로 예상되는 이 회담은 다양한 주제를 다룰 것이며, 성공적으로 마친다면 영미 양국 간 연대의 새로운 시작을 알리는 신호가 될 것입니다. 하지만 최악의 경우 역시 존재합니다. 협의가 결렬된다면 두 나라의 관계는 완전히 와해될 것이며, 전쟁의 가능성 역시 무시하지 못할 것입니다."
+anam.1a.d:0 "대전쟁 후 우리는 역사상 가장 강력한 해군력을 가지게 되었지만 모든 일이 잘 풀리지만은 않았습니다. 우리의 아군 미국과 일본 제국 모두 적수가 없던 왕립해군을 위협할 새로운 해군력 증강 계획을 실행했기 때문입니다. 제국의 경제 성장과 함께, 많은 예산이 왕립해군에 투자되었으며 이에 미일의 해군력 증강 속도에 맞출 수 있는 대규모 건함 계획이 실행되었습니다. 표면상으로는, 지난 십 년간은 필연적으로 전쟁을 불러일으킬 해군 건함 경쟁을 막기 위한 삼국의 신사 협정이 유지되어왔습니다. 그러나 속으로 삼국은, 기술 경쟁을 시작해 막대한 예산을 해군 연구와 기술 개발에 투자했습니다.\n\n우리 정부는 이 협정이 영원히 지속되지 않을 것이라는 것을 알고 자리를 공고히 하기 위해 올해 초 HMS 트라팔가르의 진수라는 선수를 뒀습니다. 많은 사람들이 우리가 질 것이라고 예상하는, 우리나라와 미국 간의 파멸적인 건함 경쟁을 막기 위한 외교적 노력 또한 진행되었습니다. 이는 오늘부터 준비에 들어갈 1936년도 영미 회담이라는 결실로 나타났습니다.\n\n미 대선 후인 11월 말에 진행될 이 회담에서는 건함 경쟁, 태평양 전략, 런던증권시장 붕괴 대책 등 다양한 주제가 논의될 것입니다.\n\n이 회담에서 앞으로 수 년간 양국의 관계가 결정될 것이며, 합의가 이루어지지 않는다면 전쟁으로 이어질 수도 있을 것입니다."
+anam.2a.d:0 "오늘 아침, 뉴욕에서 영미 양국의 외교관들이 참석하는 가운데 공통된 관심사와 양국이 우려하는 사안을 논할 1936년도 영미 회담이 시작되었습니다.\n\n며칠간 계속될 것으로 예상되는 이 회담은 다양한 주제를 다룰 것이며, 성공적으로 마친다면 영미 양국 간 연대의 새로운 시작을 알리는 신호가 될 것입니다. 하지만 최악의 경우 역시 존재합니다. 협의가 결렬된다면 두 나라의 관계는 완전히 와해될 것이며, 전쟁의 가능성 역시 무시하지 못할 것입니다."
 anam.3a.d:0 ""
 anam.4a.d:0 ""
 anam.5a.d:0 ""
@@ -48,13 +48,13 @@ anam.8b2.d:0 ""
 
 # - Mutual
 
-anam.11.d:0 "태평양 방위 조약의 창설과 함께 회원국들의 관계는 급격히 진전되었습니다. 태평양 방위 조약은 상선을 위한 태평양의 항로를 지키고 보호할 사명이 있으며, 조약 회원국들의 방위를 위해서라면 필요에 따라 군사력을 동원해야 합니다."
-anam.13.d:0 "오늘 아침, 뉴욕에서 영미 양국의 대표단이 양국 사이의 동맹을 제안하는 일주일 간의 외교 회담을 마쳤습니다.\n\n해군 기술 군비 경쟁으로 인해 전간기에 양국의 관계는 시들해졌었지만, 이젠 과거의 일일 뿐입니다.\n\n오늘 영국 외무상과 미국 국무부 장관은 합동 성명을 발표하여, 북대서양 조약 기구라는 이름으로 양국 간의 새로운 동맹을 체결했음을 세상에 알렸습니다."
+anam.11.d:0 "태평양 방위 기구의 창설과 함께 회원국들의 관계는 급격히 진전되었습니다. 태평양 방위 기구는 상선 항로를 보호할 사명이 있으며, 기구 회원국들의 방위를 위해서라면 필요에 따라 군사력을 동원할 것입니다."
+anam.13.d:0 "오늘 아침, 뉴욕에서 영미 양국의 대표단이 양국의 동맹에 관한 일주일 간의 외교 회담을 마쳤습니다.\n\n해군 기술 군비 경쟁으로 인해 전간기에 양국의 관계는 시들해졌었지만, 이젠 과거의 일일 뿐입니다.\n\n오늘 영국 외무상과 미국 국무부 장관은 합동 성명을 발표하여, 북대서양 조약 기구라는 이름으로 양국 간의 새로운 동맹을 체결했음을 세상에 알렸습니다."
 
 ##### Tooltips #####
 
-anamwarning:0 "§R이 회담은 가까운 미래에 우리의 행동을 결정할 것입니다. \n\n회담이 결렬된다면 양국의 대치 상태는 이어질 것이고, 전쟁으로 확산될지도 모릅니다. 회담의 성공은 양국에 협력의 분위기를 조성할 것입니다.\n\n협정은 반드시 성공의 가능성이 있을 때 이뤄져야 합니다.§!"
-AA_mil_diff_tt:0 "\n§R양국의 군사 협력의 단점은 겨우 몇 달 동안만 표출될 뿐, 그 이후에 우리는 두 국가 간의 협동을 통해 긍정적 효과를 얻을 수 있습니다.§!\n"
+anamwarning:0 "§R이 회담은 가까운 미래에 우리의 행동을 결정할 것입니다. \n\n회담이 결렬된다면 양국의 대치 상태는 이어질 것이고, 전쟁으로 확대될 수도 있습니다. 회담의 성공은 양국에 협력의 분위기를 조성할 것입니다.\n\n협정은 반드시 성공의 가능성이 있을 때 이뤄져야 합니다.§!"
+AA_mil_diff_tt:0 "\n§R양국의 군사 협력의 단점은 최대 몇 달 간만 있을 뿐, 그 이후에는 두 국가 간의 협력을 통해 긍정적 효과를 얻을 수 있습니다.§!\n"
 
 ##### Decisions #####
 
@@ -63,13 +63,13 @@ AA_mil_diff_tt:0 "\n§R양국의 군사 협력의 단점은 겨우 몇 달 동�
 ENG_angloamerican_exercises:0 "영미 군사 훈련"
 ENG_pacific_do:0 "태평양 방위 기구"
 ENG_atlantic_trade:0 "대서양 무역 보호"
-ENG_peace_firepower:0 "화력의 우세를 통한 평화"
+ENG_peace_firepower:0 "화력 우세를 통한 평화"
 ENG_armed_forces_coop:0 "군사 협력"
 ENG_nato_alliance:0 "북대서양의 패권"
 
 USA_angloamerican_exercises:0 "영미 군사 훈련"
 USA_pacific_do:0 "태평양 방위 기구"
 USA_atlantic_trade:0 "대서양 무역 보호"
-USA_peace_firepower:0 "화력의 우세를 통한 평화"
+USA_peace_firepower:0 "화력 우세를 통한 평화"
 USA_armed_forces_coop:0 "군사 협력"
 USA_nato_alliance:0 "북대서양의 패권"
