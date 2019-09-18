@@ -3,37 +3,37 @@
 ### Political Parties ###
 
 BUL_vanguardist_party:0 "BANU"
-BUL_vanguardist_party_long:0 "Bulgariski Zemedelski Naroden Sayuz"
+BUL_vanguardist_party_long:0 "불가리아 농민 동맹"
 BUL_collectivist_party:0 "BKP"
-BUL_collectivist_party_long:0 "Bâlgarska Komunisticheska Partiya"
+BUL_collectivist_party_long:0 "불가리아 공산당"
 BUL_libertarian_socialist_party:0 "BRSDP"
-BUL_libertarian_socialist_party_long:0 "Balgarska rabotnicheska sotsialdemokraticheska partia"
+BUL_libertarian_socialist_party_long:0 "불가리아 노동자 사회민주당"
 BUL_social_democrat_party:0 "DA"
-BUL_social_democrat_party_long:0 "Demokratičen alians"
+BUL_social_democrat_party_long:0 "민주 연합"
 BUL_social_liberal_party:0 "RDP"
-BUL_social_liberal_party_long:0 "Radikalna Demokratičeska Partija"
+BUL_social_liberal_party_long:0 "급진민주당"
 BUL_market_liberal_party:0 "DP"
-BUL_market_liberal_party_long:0 "Demokraticheska partia"
-BUL_social_conservative_party:0 "Zveno"
-BUL_social_conservative_party_long:0 "Zveno"
+BUL_market_liberal_party_long:0 "민주당"
+BUL_social_conservative_party:0 "즈베노"
+BUL_social_conservative_party_long:0 "즈베노"
 BUL_authoritarian_democrat_party:0 "HSCGK"
-BUL_authoritarian_democrat_party_long:0 "House of Saxe-Coburg-Gotha-Koháry"
+BUL_authoritarian_democrat_party_long:0 "작센-코부르크-고타-코하리 왕가"
 BUL_paternal_autocrat_party:0 "EPB"
-BUL_paternal_autocrat_party_long:0 "Ekstremistki Partija na Bălgarija"
+BUL_paternal_autocrat_party_long:0 "불가리아 강경당"
 BUL_national_populist_party:0 "PP"
-BUL_national_populist_party_long:0 "Populistka partija"
+BUL_national_populist_party_long:0 "대중당"
 BUL_valkist_party:0 "NSD"
-BUL_valkist_party_long:0 "Narodno socialno dviženie"
+BUL_valkist_party_long:0 "국가사회주의 운동"
 
 ### Focus ###
 
 
 ### Events ###
 
-bulgaria.1.d:0 "Following Bulgaria's defeat in the Great War and the disastrous 'Neuilly treaty', the situation in Bulgaria is critical. Even before the signing of the treaty itself, Bulgaria was in turmoil, as the soliders on the front openly rebelled against the government, marching towards the capital. In an act of desperation, the government sends out Aleksandar Stambolisky and Raiko Daskalov to appease the rebels. Ultimately, the rebellion fails, but both of them are given amnesty. \n Afterwards, the Bulgarian Agrarian National Union (BANU) wins the following elections in 1919, becoming one of the first leftist parties to get elected. \n\n Due to Kirov's Internationalism, the Bulgarian Communist Party & the BANU are far more cooperative between each other, forming a powerful political union between them. Meanwhile, Stambolisky was hellbent on seizing all power and cutting any way for the legal opposition to exist, while the Orange Guard, essentially a parallel army made up with party loyalists, was beginning to grow in size, taking part in events such as disrupting Constitutional Block's attempt to congregate in Turnovo on how to counter Stambolisky. On 5th of February 1927, after sustaining numerous wounds by a bomb, Aleksandar Stambolisky passwed away. This sends the BANU-BCP union in temporary chaos. The more militant wing of BANU, led by Raiko Daskalov, now PM instead of Stambolisky, wanted to begin a revolution immediately. \n However, reactionary forces orchestrated a coup on 3rd of March with Daskalov barely escaping. A state of martial law was declared thorough the country, only for the Orange Guard and the peasantry rising on a rebellion. Per the guidance of USSR, BCP remained mostly neutral, leading to the rebellion being crushed in the most awful way. This soon turned out to be a mistake on BCP's part, as the new government, led by the 'Bloody Professor', Alexandar Tsankov, turned out to be ruthless towards any leftists. The White Terror that soon followed was one of the bloodiest periods in Bulgarian history. Tsankov's actions backfired as the government was once again couped. This helped the Tsar to install a loyal only to him government, a situation that has continued to this very day."
-bulgaria.2.d:0 "We have signed a pact of alliance withh Hungary against Romania, under the pretense that we would be given back the lands of Dobrudja in victory. Now Hungary finds herself at war with Romania, and they are calling upon us to join them. Shall we honour our treaty?"
-bulgaria.3.d:0 "Gunshots were heard outside of the city of Sofia earlier today, and it was not long until the paramilitary wing of the BKP party had taken control over the central government buildings. It has been revealed that they were heavily backed by the socialist government in Hungary! They seem to have a non-agression pact planned, with the hopes of turning it into a formal alliance in the future\n\n Ultimately, this revolution is poorly armed, and we might be able to crush it if we are to dedicate a large portion of our manpower to it."
+bulgaria.1.d:0 "대전쟁의 패배와 재앙적인 '뇌이 조약' 체결 후, 불가리아의 상황은 심각합니다. 조약 체결 이전에 이미 불가리아는 혼란에 빠져있었는데, 전선의 병사들이 정부에 반기를 들고 수도로 진군했기 때문입니다. 절망적인 상황에서, 정부는 반군을 진정시키기 위해 알렉산다르 스탐볼리스키와 라이코 다스칼로프를 보냈습니다. 결과적으로 반란은 실패했지만, 두 인사는 사면받았습니다. \n 그후 있던 1919년 선거에서 최초로 좌파 정당인 불가리아 농민 동맹(BANU)이 승리했습니다. \n\n 키로프의 국제주의로 인해 불가리아 공산당(BKP)과 농민 동맹은 서로에게 협조적이었고, 강력한 정치 연합을 형성했습니다. 그 와중에 스탐볼리스키는 권력을 확보하고 반대 진영을 탄압하는데 집중했으며, 동시에 당 충성파로 이루어진 또다른 군대나 다름없는 등위대(Orange Guard)가 세를 불려, 스탐볼리스키에 반대하기 위한 입헌 연합의 터르노보 모임을 방해하는 등의 사건에 개입하기 시작했습니다. 1927년 2월 5일, 폭탄 공격의 후유증으로 스탐볼리스키는 사망했습니다. 이는 BANU-BKP 연합을 일시적 혼란으로 몰아넣었습니다. 스탐볼리스키 사후 당수가 된 라이코 다스칼로프가 이끄는 BANU의 과격파는, 혁명을 즉각 시작하고자 했습니다. \n 그러나 반동주의 세력은 3월 3일 쿠데타를 일으켰고 다스칼로프는 겨우 탈출했습니다. 전국에 계엄령이 선포되었지만, 그 결과는 등위대와 농민층의 반란이었습니다. 소련의 지령에 따라 BKP는 중립을 지켰으며, 반란은 잔혹하게 진압되었습니다. 이는 곧 BKP의 실수로 드러났는데, '피의 교수', 알렉산다르 찬코프가 이끄는 신정부가 좌파를 가혹하게 탄압했기 때문입니다. 뒤이어 이어진 백색 테러는 불가리아 역사상 가장 유혈이 낭자한 시기 중 하나였습니다. 찬코프의 정책은 반발을 일으켜 또다른 쿠데타로 이어졌습니다. 이는 차르에게만 충성하는 정부의 수립으로 이어졌으며, 이 상황은 오늘까지도 지속되고 있습니다."
+bulgaria.2.d:0 "우리는 승전 후 도브루자를 반환받는다는 조건하에, 루마니아에 대항해 헝가리와 동맹을 맺었습니다. 이제 헝가리는 루마니아와 전쟁에 돌입했으며, 우리에게 참전을 촉구하고 있습니다. 우리는 참전해야 할까요?"
+bulgaria.3.d:0 "오늘 소피아 외곽에서 총성이 들린 후, 불가리아 공산당의 준군사조직이 중앙정부청사를 곧 장악했습니다. 그리고 그들이 헝가리의 사회주의 정권으로부터 대규모 지원을 받은 사실이 확인되었습니다! 그들은 불가침 조약을 체결한 후, 추후에 군사 동맹으로 이를 전환할 계획을 세우고 있습니다.\n\n 결과적으로 이 반란군들은 빈약한 무장만 되어있으며, 대규모 병력을 투입한다면 진압이 가능할지도 모릅니다."
 
 ### country flags ###
 
-bul_civil_war:0 "Bulgaria is embroiled in civil war"
+bul_civil_war:0 "내전에 돌입한 불가리아"
