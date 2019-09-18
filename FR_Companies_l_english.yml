@@ -3,7 +3,7 @@
 ### Companies ###
 
 ### Generic Companies ###
-generic_arms_company:0 "공용  무기 회사"
+generic_arms_company:0 "공용 화기 회사"
 generic_tank_company:0 "공용 전차 회사"
 generic_fighter_company:0 "공용 전투기 회사"
 generic_artillery_company:0 "공용 포병 회사"
