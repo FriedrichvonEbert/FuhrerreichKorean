@@ -432,10 +432,10 @@ MAN_communications_in_power:0 "Communications in Power"
 
 # ECONOMIC #
 
-MAN_problems_with_industry:0 "Problems with Industry"
-MAN_problems_with_industry_desc:0 "Our industry is not abysmal, but it is no secret that it is struggling. Now, our government must address it. Not that that is negative: there is much to gain in this action."
-MAN_support_japanese_economic_interests:0 "Support Japanese Economic Interests"
-MAN_the_bandit_issue:0 "The Bandit Issue"
+MAN_problems_with_industry:0 "산업 문제"
+MAN_problems_with_industry_desc:0 "우리 산업이 최악은 아니지만, 고전하고 있는 것은 사실입니다. 이제 정부가 나설 차례입니다. 개입을 통해서 많은 것을 얻을 수 있을 것입니다."
+MAN_support_japanese_economic_interests:0 "일본 경제 이익 지원"
+MAN_the_bandit_issue:0 "비적 문제"
 MAN_the_bandit_issue_desc:0 "Bandits plague our northern provinces and drive down the occurence of trade between us and eastern states. We should seek reproachment."
 MAN_eliminate_the_bandits:0 "Eliminate the Bandits"
 MAN_eliminate_the_bandits_desc:0 "Bandits plague our northern provinces and drive down the occurence of trade between us and eastern states. We should seek vengeance."
