@@ -2,14 +2,14 @@
 
 #### Political Parties ####
 
-FRX_vanguardist_party:0 "Lutte Ouvrière"
-FRX_vanguardist_party_long:0 "Union Communiste"
+FRX_vanguardist_party:0 "노동자 투쟁"
+FRX_vanguardist_party_long:0 "공산주의자 연합"
 FRX_collectivist_party:0 "PCF"
-FRX_collectivist_party_long:0 "Parti Communiste Français"
+FRX_collectivist_party_long:0 "프랑스 공산당"
 FRX_libertarian_socialist_party:0 "PCF"
-FRX_libertarian_socialist_party_long:0 "Parti Communiste Français"
+FRX_libertarian_socialist_party_long:0 "프랑스 공산당"
 FRX_social_democrat_party:0 "SFIO"
-FRX_social_democrat_party_long:0 "노동자 인터네셔널 프랑스 지부"
+FRX_social_democrat_party_long:0 "노동자 인터내셔널 프랑스 지부"
 FRX_social_liberal_party:0 "급진당"
 FRX_social_liberal_party_long:0 ""
 FRX_market_liberal_party:0 "ADR"
