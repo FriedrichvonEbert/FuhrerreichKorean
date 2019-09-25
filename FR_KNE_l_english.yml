@@ -11,17 +11,17 @@ KNE_libertarian_socialist_party_long:0 "무정부당"
 KNE_social_democrat_party:0 "SDAP"
 KNE_social_democrat_party_long:0 "사회민주노동당"
 KNE_social_liberal_party:0 "VDB"
-KNE_social_liberal_party_long:0 "자유사상민주연합"
+KNE_social_liberal_party_long:0 "자유사상민주연맹"
 KNE_market_liberal_party:0 "LSP"
-KNE_market_liberal_party_long:0 "국가자유당"
+KNE_market_liberal_party_long:0 "자유국가당"
 KNE_social_conservative_party:0 "ARP"
-KNE_social_conservative_party_long:0 "반 혁명당"
+KNE_social_conservative_party_long:0 "반혁명당"
 KNE_authoritarian_democrat_party:0 "RKSP"
-KNE_authoritarian_democrat_party_long:0 "로마 카톨릭 국가당"
+KNE_authoritarian_democrat_party_long:0 "로마가톨릭국가당"
 KNE_paternal_autocrat_party:0 "MP"
-KNE_paternal_autocrat_party_long:0 "군주제"
+KNE_paternal_autocrat_party_long:0 "군주당"
 KNE_national_populist_party:0 "NPU"
-KNE_national_populist_party_long:0 "통일 네덜란드 당"
+KNE_national_populist_party_long:0 "통합 네덜란드당"
 KNE_valkist_party:0 "PVV"
 KNE_valkist_party_long:0 "조국당"
 
@@ -29,8 +29,8 @@ KNE_valkist_party_long:0 "조국당"
 
 
 #####Ideas#####
-KNE_military_refugees:0 "군부 "
-KNE_military_refugees_desc:0 "군부의 상당부분은 네덜란드를 떠나 수리남을로 피난을 왔습니다. 이것덕분에 우리에겐 고국을 다시 탈환하려는 유능한 군인들이 많이 있습니다."
+KNE_military_refugees:0 "피난온 군부"
+KNE_military_refugees_desc:0 "군부의 상당 부분은 네덜란드를 떠나 수리남으로 피난을 왔습니다. 이것 덕분에 우리에겐 고국을 다시 탈환하려는 유능한 군인들이 많이 있습니다."
 
 #####Tooltips#####
 
