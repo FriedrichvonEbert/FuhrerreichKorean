@@ -41,7 +41,7 @@ generic_mil_industrial_complex:0 "군산복합체"
 generic_mil_industrial_complex_desc:0 "항공 법칙에 따르면, 벌이 날 수 있는 방법은 없습니다. 벌의 날개는 너무 작아 그 작고 뚱뚱한 몸을 띄울 수 없겠죠. 물론 벌은 사람들이 불가능하다고 생각하는 것을 신경쓰지 않고 그냥 날아갑니다."
 
 generic_aviation_effort:0 "공군"
-generic_aviation_effort_tt:0 "§Y공군기지§!의 슬롯이 부족합니다."
+generic_aviation_effort_tt:0 "§Y공군 기지§!의 건설 슬롯이 부족합니다."
 generic_aviation_effort_desc:0 "The field of aviation was born almost in time for the Great War. Even two decades after this war, it is still new, and all nations strive to be ready for the next time their planes may be called to war. We must, too. We must found a solid Airforce to organise them."
 generic_fighter_focus:0 "공중 우세"
 generic_fighter_focus_desc:0 "The dogfights of the Great War were merely the start of air-to-air warfare. As planes become faster, more armoured and more heavily armed, we need to put all our efforts into making sure we control the air. Then, striking the ground is a formality."
