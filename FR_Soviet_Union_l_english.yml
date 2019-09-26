@@ -619,13 +619,13 @@ SOV_bad:0 "§Rbad§!"
 ############
 # Companies#
 ############
-nvyanskiy_mashinostroitel_nyy_zavod:0 "Nev'yanskiy mashinostroitel'nyy zavod"
-Severnoye_Mashinostroitelnoye_Predpriyatie:0 "Severnoye Mashinostroitelnoye Predpriyatie"
-Irkutskiy_aviatsionnyy_zavod:0 "Irkutskiy aviatsionnyy zavod"
-Tulsky_Oruzheiny_Zavod:0 "Tulsky Oruzheiny Zavod"
-chelyabinskiy_traktorny:0 "Chelyabinskiy Traktornyy Zavod"
-Uralskiy_Mashinostroitelnyy_Zavod:0 "Ural’s’kiy Mashinostroitelnyy Zavod"
-zavod_Krasny_Putilovets:0 "zavod Krasny Putilovets"
+nvyanskiy_mashinostroitel_nyy_zavod:0 "네비얀스크 기계 제조 공장" #Nev'yanskiy mashinostroitel'nyy zavod
+Severnoye_Mashinostroitelnoye_Predpriyatie:0 "북부 기계 제조 기업" #Severnoye Mashinostroitelnoye Predpriyatie
+Irkutskiy_aviatsionnyy_zavod:0 "이르쿠츠크 항공 공장" #Irkutskiy aviatsionnyy zavod
+Tulsky_Oruzheiny_Zavod:0 "툴라 무기 공장" #Tulsky Oruzheiny Zavod
+chelyabinskiy_traktorny:0 "첼랴빈스크 트랙터 공장" #Chelyabinskiy Traktornyy Zavod
+Uralskiy_Mashinostroitelnyy_Zavod:0 "우랄 기계 제조 공장" #Ural’s’kiy Mashinostroitelnyy Zavod
+zavod_Krasny_Putilovets:0 "붉은 푸틸로페츠 공장" #zavod Krasny Putilovets
 #############
 # Decisions #
 #############
@@ -740,13 +740,13 @@ SOV_Germany:0 "훈족과의 싸움"
 SOV_Germany_desc:0 "이 정신나간 독일의 발키스트은 이제 소련이 야만인들을 어떻게 대하는지 보게 될 것입니다." 
 SOV_Poland:0 "유럽으로 향한 관문 열기"
 SOV_invade_finland:0 "핀란드 국경 지역 요구"
-SOV_invade_finland_desc:0 "러시아 내전동안 필란드인들은 우리의 라도가 카렐리아와 카렐리안 지협을 점거했습니다. 이 지역들은 세계 해양으로 접근하는데 중요한 우리의 발틱 대도시인 레닌그라드로부터 몇 마일 밖에 떨어져 있습니다. 따라서 발틱에 대한 우리 해군의 진입을 확보하기 위해 핀란드와 우리 사이에 더 강력한 완충지대를 설치해야 합니다."
+SOV_invade_finland_desc:0 "러시아 내전동안 필란드인들은 우리의 라도가 카렐리아와 카렐리안 지협을 점거했습니다. 이 지역들은 세계 해양으로 접근하는데 중요한 우리의 발트 대도시인 레닌그라드로부터 몇 마일 밖에 떨어져 있습니다. 따라서 발트에 대한 우리 해군의 진입을 확보하기 위해 핀란드와 우리 사이에 더 강력한 완충지대를 설치해야 합니다."
 SOV_invade_ukraine:0 "우크라이나에 사회주의 전파"
 SOV_invade_ukraine_desc:0 "러시아 내전 기간 동안에, 우크라이나 인민 공화국은 협상국의 지원을 받아서 사회주의자들을 분쇄 할 수 있었지만, 노동자의 의지는 꺾이지 않을 것입니다. 우크라이나에 사회주의를!"
 SOV_invade_belarus:0 "벨라루스 확보"
 SOV_invade_belarus_desc:0 "벨라루스는 그렇게 전략적으로 중요한 지역은 아니지만, 우리의 국경 안전을 위해서 벨라루스는 점령해야만 합니다."
-SOV_invade_latvia:0 "발틱 SSR 확장"
-SOV_invade_latvia_desc:0 "20년 전, 우리 군대는 리트리바 군대에 의해 패배했고, 레닌에 대한 암살 시도로 인해 발틱해에서 후퇴하여 에스토니아만 통제하게 되었습니다. 그리고 지금 발틱 SSR은 리트리바를 자신의 핵심 영토라고 주장하며, 소련은 그 어느 때보다 조직화 되어있습니다. 이제 발틱의 동맹을 도울 시간입니다." 
+SOV_invade_latvia:0 "발트 SSR 확장"
+SOV_invade_latvia_desc:0 "20년 전, 우리 군대는 리트리바 군대에 의해 패배했고, 레닌에 대한 암살 시도로 인해 발트해에서 후퇴하여 에스토니아만 통제하게 되었습니다. 그리고 지금 발트 SSR은 리트리바를 자신의 핵심 영토라고 주장하며, 소련은 그 어느 때보다 조직화 되어있습니다. 이제 발트의 동맹을 도울 시간입니다." 
 SOV_invade_transcaspian:0 "중앙 아시아에 혁명 전파"
 SOV_invade_transcaspian_desc:0 "내전이 끝난지 20년이 지났음에도, 중앙아시아는 권위적이고 후진적인 체제의 지배를 받았습니다. 이 지역의 인민들은 가난 속에서 절대적인 독재자의 지배 아래에서 살아왔고, 이제 지금 사회주의를 그들에게 나눠 줄 시간이 찾아왔습니다." 
 SOV_invade_russia:0 "러시아 공화국 정복"
@@ -923,14 +923,13 @@ troika.16.d:0 "우리가 소련을 위해 일하는 동안, 삼두정 협력자�
 troika.17.d:0 "우리가 소련을 위해 일하는 동안, 삼두정 협력자인 부하린과 트로츠키가 소련군 고위급과 비밀회담을 하고 있다는 소문이 돌고 있습니다. 그들은 이것이 오로지 국가 안보에 관한 공식적인 사업이라고 주장하지만 삼두장 내부의 긴장이 고조되고 있으며, 야심만만한 사람들이 그렇듯이 군사 쿠데타 가능성에 대한 두려움이 커지고 있습니다. 우리는 군에서 영향력을 키우고 상대방을 약화시키기 위해 노력해야 합니다."
 troika.19.d:0 "의회 내에서 많은 논쟁이 있은 후, 대다수의 대표들은 뱌체슬라프 몰로토프를 소련의 단독 주석으로 취임시키고, 사실상 몇 달 동안 유효했던 삼두정을 종료하는 데 투표했습니다. 부하린과 트로츠키는 공개적으로 몰로토프를 축하하는 모습을 보였지만 그의 승진에 반대표를 던졌다는 소문이 있습니다."
 troika.20.d:0 "의회 내에서 많은 논쟁이 있은 후, 대다수의 대표들은 니콜라이 부하린을 소련의 단독 주석으로 취임시키고, 사실상 몇 달 동안 유효했던 삼두정을 종료하는 데 투표했습니다. 몰로토프와 트로츠키는 공개적으로 부하린을 축하하는 모습을 보였지만 그의 승진에 반대표를 던졌다는 소문이 있습니다."
-troika.21.d:0 "The rug has been pulled! It appears that while Grigory Zinoviev attempted to deal with the power struggle against Bukharin and Molotov, he relied too heavily on Trotsky and his platform, and despite Zinoviev's successes, the one who most profited out of all of it was Trotsky! Thus, it was hardly a surprise to anyone but Zinoviev when delegates voted to inaugurate Leon Trotsky as sole Chairmen of the Soviet Union, effectively terminating the Troika that has been in effect for several months. Trotsky's election saw Zinoviev too shocked and tied up in Trotsky's web to do anything but congratulate him. Meanwhile, both Bukharin and Molotov have remained silent on the issue."
-troika.22.d:0 "Our effort to gain the support of the Soviet military has hit a major roadblock. Despite our arguments that the military desperately needs more funding, Congress has still vetoed any resolution to increase funding citing budgetary issues."
-troika.23.d:0 "Heeding our warnings that the Soviet military were inadequately funded to protect our nation, Congress has agreed to increase military funding. This will surely show to Soviet officers that we are dedicated in supporting their position."
-troika.24.d:0 "After our speech the Soviet Congress exploded into applause. Throughout the chamber delegates commended our promises to the further development and growth of the Soviet economy, as well as our dedication to support Socialist movements across the globe."
-troika.25.d:0 "After hearing multiple testimonies today the Congress of the Soviet Union has voted to expel Molotov from all government duties. While some feared the possibility of Molotov leveraging his supporters in the military to pressure congress against this ruling the military has stayed loyal to the Congress."
-troika.26.d:0 "After hearing multiple testimonies today the Congress of the Soviet Union has voted to expel Bukharin from all government duties. While some feared the possibility of Bukharin leveraging his supporters in the military to pressure congress against this ruling the military has stayed loyal to the Congress."
-troika.27.d:0 "After hearing multiple testimonies today the Congress of the Soviet Union has voted to expel Zinoviev and Trotsky from all government duties. While some feared the possibility of Trotsky leveraging his supporters in the military to pressure congress against this ruling the military has stayed loyal to the Congress."
-troika.37.d:0 "Conflicting goals between Troika members has resulted in the stagnation of the Soviet Union. Suspicions of corruption and collusion with the military have lead the Russian Senate to a vote of no confidence against the Troika. In this interim an ambitious general has used his influence to form an emergency government. Commander Mikhail Tukhachevsky despite being a controversial figure and a hostile critic of the Troika has promised to bring stability and prosperity to the Soviet Union and lead the working class towards total and complete economic liberation from capitalism and bourgeois liberalism."
+troika.21.d:0 "연합전선이 무너졌습니다! 그리고리 지노비예프는 부하린과 몰로토프를 상대로 한 권력투쟁에 대처하는 동안 트로츠키와 그 강단에 너무 많이 의존했고, 지노비예프의 성공에도 불구하고 권력 투쟁 중 가장 많은 이익을 얻은 사람은 트로츠키인 것 같습니다! 따라서 대표단이 레온 트로츠키를 소련의 단독 주석으로 취임시키기 위해 투표한 것은 지노비예프 외에는 누구에게도 놀랄 일이 아니었습니다. 트로츠키의 당선으로 지노비예프는 너무나도 충격을 받았지만, 트로츠키의 거미줄에 묶여 축하만 할 수 밖에 없었습니다. 한편, 부하린과 몰로토프 모두 이 문제에 대해 침묵을 지키고 있습니다."
+troika.22.d:0 "소련군의 지지를 얻으려는 우리의 노력이 큰 장애물에 부딪혔습니다. 군이 더 많은 자금을 필요로 한다는 우리의 주장에도 불구하고, 의회는 예산 문제를 이유로 군비를 늘리려는 어떠한 결의안에도 여전히 거부권을 행사하고 있습니다."
+troika.24.d:0 "우리의 연설이 끝난 후 소련 의회는 박수갈채로 가득 찼습니다. 회의장 전체에서 대표들은 소련 경제의 더 큰 발전과 성장에 대한 우리의 약속과 전 세계의 사회주의 운동을 지지하기 위한 우리의 헌신에 경의를 표했습니다."
+troika.25.d:0 "오늘 복수의 증언을 들은 소련 의회는 몰로토프를 모든 정부 직책에서 해임하는 투표를 했습니다. 일각에서는 몰로토프가 군 내 지지자들을 동원하여 이 판결에 대항하여 의회를 압박할 가능성을 우려했습니다."
+troika.26.d:0 "오늘 복수의 증언을 들은 소련 의회는 부하린을 모든 정부 직책에서 해임하는 투표를 했습니다. 일각에서는 부하린이 군 내 지지자들을 동원하여 이 판결에 대항하여 의회를 압박할 가능성을 우려했습니다."
+troika.27.d:0 "오늘 복수의 증언을 들은 소련 의회는 지노비예프를 모든 정부 직책에서 해임하는 투표를 했습니다. 일각에서는 지노비예프가 군 내 지지자들을 동원하여 이 판결에 대항하여 의회를 압박할 가능성을 우려했습니다."
+troika.37.d:0 "트로이카 구성원들 간의 목표가 충돌하면서 소련의 침체가 초래되었습니다. 부패와 군과의 유착 의혹으로 러시아 상원은 트로이카에 대한 불신임 투표를 했습니다. 이 와중에 야심찬 장군이 자신의 영향력을 발휘하여 비상정부를 구성하였습니다. 미하일 투하쳅스키 사령관은 논란이 되는 인물이며 트로이카에 대한 적대적 비평가이지만 소련에 안정과 번영을 가져다 주고 노동계급을 자본주의와 부르주아 자유주의로부터 총체적이고 완벽한 경제 해방을 향해 이끌겠다고 약속했습니다."
 soviet.31.d:0 "소련은 이베리아를 해방시키는 것을 돕기 위해 2000개의 소총을 보낼 것 입니다!"
 
 sovietpol.0.d:0 "The imperialists have declared war on us! Women and men! Grab your guns, your hoes and your wrenches and start working for the glory of the motherland and the triumphant victory of the revolution!"
