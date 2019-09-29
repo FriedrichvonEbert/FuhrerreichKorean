@@ -63,7 +63,7 @@ MON_doctrine_desc:0 "'전격 공세'로 알려져 있는 이 교리는 남쪽의
 
 ### DECISIONS ###
 TIB_war_decisions:0 "전쟁 결정"
-TIB_invade_fengtian:0 "북양 정부 침공"
+TIB_invade_fengtian:0 "봉천 정부 침공"
 TIB_invade_ma:0 "마가 군벌 침공"
 TIB_core_decisions:0 "통합 결정"
 TIB_south_integration:0 "남부 통합"
