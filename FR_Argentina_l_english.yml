@@ -26,11 +26,11 @@ ARG_valkist_party_long:0 "아르헨티나 발키스트당"
 
 #hello
 
-ARG_FUHRERREICH_DESC:0 "외국의 국민이 아르헨티나를 본다면, 탄탄한 경제와 긍정적 전망을 가진 유망한 공화국에게 밝은 미래가 있을 것이라 말할 것입니다.\n\n그렇지만 더 자세히 살펴본다면, 최근 몇 년 간 아르헨티나 사회 안에 만들어진 깊은 분열이 드러날 것입니다. 과격해진 사회가 모습을 드러내고 정치적 긴장이 증가하면서, 아르헨티나 공화국은 종이 호랑이라고 밝혀질 수도 있습니다."
+ARG_FUHRERREICH_DESC:0 "외국인이 아르헨티나를 본다면, 탄탄한 경제와 긍정적 전망을 가진 유망한 공화국에게 밝은 미래가 있을 것이라 말할 것입니다.\n\n그렇지만 더 자세히 살펴본다면, 최근 몇 년 간 아르헨티나 사회 안에 만들어진 깊은 분열이 드러날 것입니다. 과격해진 사회가 모습을 드러내고 정치적 긴장이 증가하면서, 아르헨티나 공화국은 종이 호랑이라고 밝혀질 수도 있습니다."
 
 
 ##focuses##
-ARG_recognize_paraguayan_unions:0 "Recognize Paraguayan Unions"
+ARG_recognize_paraguayan_unions:0 "파라과이 연맹 승인"
 ARG_recognize_paraguayan_unions_desc:0 "As part of our efforts to integrate the Paraguayan people into our socialist union, we have found the nationalist tensions quite persistent. If we grant their unions autonomy and recognize their local freedom, they'll feel more at home."
 ARG_sunrise_in_argentina:0 "Sunrise In Argentina"
 ARG_sunrise_in_argentina_desc:0 "A new year begins in Argentina, as the troubles of the past are set to be left behind and we look up to a bright future."
