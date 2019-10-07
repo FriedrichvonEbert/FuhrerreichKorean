@@ -1,7 +1,7 @@
 ﻿l_english:
 
 ARG_vanguardist_party:0 "PCA"
-ARG_vanguardist_party_long:0 "PCA의 전위파"
+ARG_vanguardist_party_long:0 "아르헨티나 집산당 전위파"
 ARG_collectivist_party:0 "PCA"
 ARG_collectivist_party_long:0 "아르헨티나 집산당"
 ARG_libertarian_socialist_party:0 "FACA"
@@ -503,10 +503,10 @@ ARG_the_brazilian_war:0 "The Brazilian War"
 ARG_the_brazilian_war_desc:0 "As the chaos has settled in Brazil, it seems the victorious populist state has policies that may threaten our own place in the continent. Rather than wait for them to attack, we must strike first!"
 ##events###
 
-arg.1.t:0 "Argentina in 1936"
-arg.1.d:0 "For decades, our nation has been ruled by the democratic dominance of the Unión Cívica Radical, or UCR, a social and liberal minded political party, whose dominance has caused great controversy in our society. It was to be expected groups with their own interests would use this political situation for their advantage.\n\nIn 1934, after the UCR's close victory against a coalition of opposition parties, Enrique Martínez assumed the charge of president. As Bolivia poised for victory in their conflict with Paraguay, Manuel Domecq, the war minister, and a prominent founding member of the nationalist group known as the Liga Patriótica Argentina, or LPA, used his influence in the recently elected president Martínez, who seeking further approval, declared war on Bolivia, on the charges of "maintaining order in the region". Domecq and the LPA sought to establish Argentinian hegemony in the region, while the UCR just wanted to increase their approval in a increasingly divided society. Nonetheless, the whole country united in support of the war effort.\n\nIt was a disaster, low in morale due to the poorly justified conflict, and just generally unprepared, the Argentinian military suffered elevated losses. While conscription allowed many of these to not alter the war effort, it altered our society. When Brazil saw the opportunity and demanded the war ended, and to return peace to the region, the government just accepted. Internally, the pressure of the anti-war collectivist and unionist movements was too strong, and threats of revolt remained in the government's mind.\nNow, the country is more divided politically than ever, as the memories of the war shape our politics and general discontent remains, almost nothing was won, yet we lost so much for it.\n\nAt least the economy's been doing good."
-arg.1.a:0 "At least the economy's doing good."
-arg.2.t:0 "London Market Crash arrives to Argentina"
+arg.1.t:0 "1936년 아르헨티나"
+arg.1.d:0 "수십 년 동안, 우리 나라는 우리 사회에 큰 논란을 일으킨 사회적 자유주의 성향의 정당인 급진시민연합의 민주적 지배하에 있었습니다. 이익 집단들이 이 정치적 상황을 자신들의 이익을 위해 이용할 것으로 기대되는 중이었습니다.\n\n1934년, 급진시민연합이 야당 연합에 맞서 아슬아슬한 승리를 거둔 후, 엔리케 마르티네스는 대통령직을 맡았습니다. 볼리비아가 파라과이와의 분쟁에서 승리를 준비하고 있을 때, 전쟁 장관이자 아르헨티나 애국 연맹이라는 민족주의 단체의 저명한 창립 멤버인 마누엘 도메크는 최근 당선된 "이 지역의 질서를 유지한다"는 명목으로 볼리비아에 선전포고를 하는 데 지지가 필요한 마르티네즈 대통령에게 자신의 영향력을 행사했습니다. 도메크와 애국 연맹은 이 지역에서 아르헨티나의 패권을 확립하기 위해 노력했고 급진시민연합은 점점 더 분열되는 사회에서 그들의 지지를 늘리기를 원했습니다. 그럼에도 불구하고, 온 나라가 전쟁을 지지하여 단결했습니다.\n\n이것은 재앙이었고, 정당화되지 않은 갈등으로 인해 사기가 떨어졌으며, 일반적으로 준비가 되어 있지 않은 아르헨티나 군대는 큰 손실을 입었습니다. 징병제가 군인들 중 많은 수에게 전쟁 지지를 바꾸지 않도록 했지만, 대신 우리 사회를 변화시켰습니다. 브라질이 그 기회를 보고 전쟁을 끝내라고 요구했을 때, 그리고 그 지역에 평화를 돌려달라고 요구했을 때, 정부는 그냥 받아들였습니다. 내부적으로는 반전집산주의자와 노조운동의 압력이 너무 강했고, 정부의 내부에 반란의 위협이 남아 있었습니다.\n이제 나라는 그 어느 때보다도 정치적으로 분열되어 있는데, 전쟁의 기억들이 우리 정치를 형성하고 일반적은 불만은 여전하며 거의 아무것도 얻지 못했지만, 우리는 전쟁에서 너무나 많은 것을 잃었습니다. \n\n적어도 경제는 잘 되어가고 있습니다."
+arg.1.a:0 "적어도 경제는 잘 되어가고 있다."
+arg.2.t:0 "런던주식시장 붕괴가 아르헨티나에 도달"
 arg.2.d:0 "As our nation seemed to steadily improving its internal situation, another they arrives, and with it great tragedy.\n\nThe London Stock Market Crash has arrived to Argentina, and with the british's great influence in our economy, our country awakens with chaos as sun rises and our economy falls, panic and upcoming chaos beginning to be felt by our population. A black sunrise for our nation."
 arg.2.a:0 "Well, crap."
 arg.3.t:0 "Major protests begin amidst crisis"
