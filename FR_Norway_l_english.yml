@@ -596,14 +596,14 @@ NOR_odins_spirit_flag:0 "Odins Spirit"
 
 #### Focus Tree ####
 
-NOR_economical_projects:0 "Economical Projects"
-NOR_economical_projects_desc:0 "We should try out new ways to improve our economy. While the status quo can be great, most people agree that we need to advance."
-NOR_lower_corporate_tax:0 "Lower Corporate Tax"
-NOR_lower_corporate_tax_desc:0 "To much pressure is put on the private individual that helps our country and its economy improve. We need to lower the corporate tax, to get these industrialists to have a chance to help us advance our country."
-NOR_encourage_private_growth:0 "Encourage Private Growth"
-NOR_encourage_private_growth_desc:0 "We should not discourage the individuals from growing the economy. Many private corporations were the backbone of our economy and its time to bring this back."
-NOR_privatize_more_industries:0 "Privatize more Industries"
-NOR_privatize_more_industries_desc:0 "We need to privatize more of our industry. Too much is controlled by the state right now. While some control is good, private individuals can be much better industrialists than us."
+NOR_economical_projects:0 "경제 계획"
+NOR_economical_projects_desc:0 "경제를 발전시키기 위한 새로운 방법을 시도해 봐야 합니다. 물론 현 경제 상황이 나쁜 건 아니지만, 많은 이들이 더 나은 경제를 원합니다."
+NOR_lower_corporate_tax:0 "법인세 인하"
+NOR_lower_corporate_tax_desc:0 "우리나라의 경제를 책임질 사람들이 과도한 부담 때문에 제 일을 해내지 못하고 있습니다. 법인세를 낮춰 이런 기업가들이 우리나라의 발전을 도모할 수 있도록 해야 합니다."
+NOR_encourage_private_growth:0 "민영 사업 성장 도모"
+NOR_encourage_private_growth_desc:0 "사람들이 경제 성장에 이바지하는 걸 방해해선 안 됩니다. 많은 사기업들이 나라 경제의 주축을 이루었고, 이젠 그 결실을 얻을 때입니다."
+NOR_privatize_more_industries:0 "산업 민영화"
+NOR_privatize_more_industries_desc:0 "더 많은 산업을 민영화해야 합니다. 지금 나라에서 운영하는 산업이 너무 많습니다. 운영 자체는 썩 나쁘지 않게 했지만, 국민들은 우리보다 더 나은 공장장이 될 것입니다."
 NOR_expand_outskirt_industry:0 "Expand Outskirt Industry"
 NOR_expand_outskirt_industry_desc:0 "We need to improve and expand the industry of our outskirt industry, in our districts. It would also help in urbanizing and modernizing the towns and districts of Norway."
 NOR_western_dockyards:0 "Western Dockyards"
@@ -899,13 +899,13 @@ NOR_land_distribution_desc:0 "No Longer shall there be people in our country wit
 NOR_expand_steel_mines:0 "Expand the Steel Mines"
 NOR_expand_steel_mines_desc:0 "There is potential to mine out a lot of iron and steel in Norway."
 
-NOR_war_with_decistions:0 "Foreign Policy"
+NOR_war_with_decistions:0 "대외 정책"
 
 NOR_white_peace_sweden:0 "White Peace with Sweden"
 NOR_white_peace_sweden_desc:0 "The war between us, Norway, and Sweden has not come to an end. There is, however, no clear winner in this either, so we must try to sign a white peace."
 
-NOR_join_third_international:0 "Joining the Third Internationale"
-NOR_join_stahlpakt:0 "Joining the Stahlpakt"
+NOR_join_third_international:0 "제3 인터내셔널 가입"
+NOR_join_stahlpakt:0 "강철조약 가입"
 
 #### Others ####
 
