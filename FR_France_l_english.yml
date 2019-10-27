@@ -1,7 +1,7 @@
 ﻿l_english:
 
 #Description
-FRA_FUHRERREICH_DESC:0 "'승리했지만, 그 대가는 무엇이였는가?' 대전쟁은 끝나고, 많은 프랑스인들이 이렇게 묻고 있습니다. 프랑스는 프랑스의 정당한 영토를 되찾았으며, 독일인들이 다신 조국을 위협하지 못하도록 라인란트에 보호령도 설립했습니다. 그렇지만, 1930년대가 끝나가며 유럽과 세계에서의 프랑스의 지위는 프랑스의 식민지를 위협하고 있는 적대적인 대영제국과 점차 호전적으로 변해가는 소련에 의해 위협받고 있습니다. 그렇지만 그 무엇보다도 중요한 문제는 대전쟁으로부터 회복한 독일이겠지요. 다가오는 폭풍으로부터 살아남으려면, 프랑스에겐 신중함, 용기, 그리고 휼륭한 외교를 필요로 할 것입니다.
+FRA_FUHRERREICH_DESC:0 "'승리했지만, 그 대가는 무엇이였는가?' 대전쟁은 끝나고, 많은 프랑스인들이 이렇게 묻고 있습니다. 프랑스는 프랑스의 정당한 영토를 되찾았으며, 독일인들이 다신 조국을 위협하지 못하도록 라인란트에 보호령도 설립했습니다. 그렇지만, 1930년대가 끝나가며 유럽과 세계에서의 프랑스의 지위는 프랑스의 식민지를 위협하고 있는 적대적인 대영제국과 점차 호전적으로 변해가는 소련에 의해 위협받고 있습니다. 그렇지만 그 무엇보다도 중요한 문제는 대전쟁으로부터 회복한 독일이겠지요. 다가오는 폭풍으로부터 살아남으려면, 프랑스에겐 신중함, 용기, 그리고 휼륭한 외교를 필요로 할 것입니다."
 #Focus Tree
 france_focus_junta:0 "군사정부 중점"
 #Research Groups
@@ -245,7 +245,7 @@ fra_peoples_govt_desc:0 "프랑스 혁명가들이 바랬던 것처럼, 정부�
 fra_regulate_franc:0 "프랑화 조정"
 fra_regulate_franc_desc:0 "The financial scandal in our nation proved how instable currency can be, and drastic measures must be taken in order to stabalize the Franc and ensure economic prosperity."
 ###
-fra_safe_rhine:0 "라인강에서의 이익 보호"
+fra_safe_rhine:0 "라인강 이익 보호"
 fra_safe_rhine_desc:0 "French control of the Rhineland has proven to be of great economic benifit, but it has also come with great risk; armed revolt and invervention from Germany loom over us as a persistant and constant threat. The construction of some basic fortifications should suffice for the time being while we organize a more planned defense."
 ###
 fra_fight_religion:0 "종교와의 전쟁"
@@ -287,7 +287,7 @@ fra_unshakable_economics_desc:0 "마침내 우린 무너지는 프랑스 경제�
 fra_watch_rhine:0 "라인강 경계"
 fra_watch_rhine_desc:0 "The Rhine river has been under French control since the end of the Great War in 1919, and we have left the area vastly under-protected due to the friendly republican regime in Germany. With the rise of Dresslers nationalistic and militaristic regime, we need to bolster our defenses on the river Rhine in case of a pre-emptive German attack, and ensure that not a single German boot steps onto French soil."
 ###
-fra_rhine_martial_law:0 "라인지역 계엄령 선포"
+fra_rhine_martial_law:0 "라인란트 계엄령 선포"
 fra_rhine_martial_law_desc:0 "The Rhinish state is in chaos with fighting taking place both on the front line and around the countryside as German nationalists who are loyal to the Valkist regime attempt to disrupt supply lines and make life hard for our troops. We must take military control of the country in order to better organize our army and fight what soon may become a repeat of the first Great War."
 ###
 fra_no_german:0 "프랑스 땅에는 슈탈헬름 하나 없을 것이다!"
@@ -300,7 +300,7 @@ fra_march_to_berlin:0 "베를린을 향한 진군"
 fra_march_to_berlin_desc:0 "독일군은 점차 밀려나고 있으며, 우린 최전선에서 수많은 승리를 거두고 있습니다. 전쟁은 이제 막바지에 다다른 상태이며, 그리고 우리가 베를린을 더 빨리 점령할수록, 우리 병사들도 더 빨리 집으로 돌아갈 수 있을 것입니다."
 ###
 fra_triumph:0 "베를린에서의 승리"
-fra_triumph_desc:0 "우린 이번 대전쟁에서도 또다시 승리했으며, 그리고 독일 제국 또한 또다시 우리의 군홧발 아래에 놓여 있습니다. 베를린에선 승전국들의 축하연이 일어지고 있으며, 베를린 여기저기에선 '노획'이 벌어지고 있습니다. 우린 브란덴부르크 문을 통과하는 군대 행진을 조직하여, 세계에 우리의 힘을 보여줘야 합니다."
+fra_triumph_desc:0 "우린 이번 대전쟁에서도 또다시 승리했으며, 그리고 독일 또한 또다시 우리의 군홧발 아래에 놓여 있습니다. 베를린에선 승전국들의 축하연이 일어지고 있으며, 베를린 여기저기에선 '노획'이 벌어지고 있습니다. 우린 브란덴부르크 문을 통과하는 군대 행진을 조직하여, 세계에 우리의 힘을 보여줘야 합니다."
 ###
 fra_loosen_conscription:0 "모병 조건 완화"
 fra_loosen_conscription_desc:0 "독일군이 또다시 파리를 향해 진군해 오고 있습니다. 독일군을 라인 강 너머로 몰아내려면, 우린 싸울 수 있는 사람이라면 누구든지 동원해야만 합니다."
@@ -311,7 +311,7 @@ fra_even_lower_soldiers_desc:0 "독일군은 파리를 향해 계속 진군해�
 fra_desperate_defense:0 "늙고 병든 사람도"
 fra_desperate_defense_desc:0 "프랑스의 끝이 다가오고 있으니, 우린 이제 늙고 병든 사람들도 징집해야만 합니다. 살아있는 프랑스인이라면 누구든 총을 들어야만 할 것입니다."
 ###
-fra_ground_eyes:0 "땅을 바라보다..."
+fra_ground_eyes:0 "땅을 바라보..."
 fra_ground_eyes_desc:0 "To fight a war blind is to commit yourself to certain defeat, we need to know where our enemies are at all times if we want to achieve victory in this new age of fast and mobile warfare where every second counts."
 ###
 fra_sky_eyes:0 "...그리고 하늘로 눈을 돌려라"
@@ -587,7 +587,7 @@ fra_expand_ports_desc:0 "Dockyards are needed to construct additional ships, and
 fra_revive_battleships:0 "전함의 부활"
 fra_revive_battleships_desc:0 "Many of our in-production battleships were cancelled after the signing of the Washington Naval Treaty, as well as the strain it was putting on our economy. The time has finally come to revive these beasts of the ocean, and assert our naval supremacy."
 ###
-fra_super_heavy:0 "터무니 없는 거대 전함"
+fra_super_heavy:0 "쓸모 없는 거대 전함"
 fra_super_heavy_desc:0 "Some say that there is a logical extreme to how large a ship can be before it becomes useless. We don't like those people, and listening to them would be a grave mistake on our behalf."
 ###
 fra_mobile_airports:0 "움직이는 활주로"
