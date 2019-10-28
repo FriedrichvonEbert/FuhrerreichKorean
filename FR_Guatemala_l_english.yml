@@ -3,33 +3,33 @@
 #### Political Parties ####
 
 GUA_vanguardist_party:0 "SRC"
-GUA_vanguardist_party_long:0 "Syndicate of Chain Breakers"
+GUA_vanguardist_party_long:0 "노동자 해방연합"
 GUA_collectivist_party:0 "SPT"
-GUA_collectivist_party_long:0 "Workers' Political Syndicate"
+GUA_collectivist_party_long:0 "노동자 정치조합"
 GUA_libertarian_socialist_party:0 "SPT"
-GUA_libertarian_socialist_party_long:0 "Workers' Political Syndicate"
+GUA_libertarian_socialist_party_long:0 "노동자 정치조합"
 GUA_social_democrat_party:0 "PDR"
-GUA_social_democrat_party_long:0 "Democratic Reformist Party"
+GUA_social_democrat_party_long:0 "민주개혁당"
 GUA_social_liberal_party:0 "PLC"
-GUA_social_liberal_party_long:0 "Liberal Party of Central America"
+GUA_social_liberal_party_long:0 "중앙아메리카 자유당"
 GUA_market_liberal_party:0 "PP"
-GUA_market_liberal_party_long:0 "Prosperity Party"
+GUA_market_liberal_party_long:0 "번영당"
 GUA_social_conservative_party:0 "PNC"
-GUA_social_conservative_party_long:0 "National Party of Central America"
+GUA_social_conservative_party_long:0 "중앙아메리카 국민당"
 GUA_authoritarian_democrat_party:0 "Military Junta"
-GUA_authoritarian_democrat_party_long:0 "Military Organization for National Improvement"
+GUA_authoritarian_democrat_party_long:0 "국가발전군사조직회"
 GUA_paternal_autocrat_party:0 "PRN"
-GUA_paternal_autocrat_party_long:0 "National Renewal Party"
+GUA_paternal_autocrat_party_long:0 "국가재건당"
 GUA_national_populist_party:0 "PRN"
-GUA_national_populist_party_long:0 "National Renewal Party"
+GUA_national_populist_party_long:0 "국가재건당"
 GUA_valkist_party:0 "FSNH"
-GUA_valkist_party_long:0 "National Salvationist Front of Guatemala"
+GUA_valkist_party_long:0 "과테말라 국가구원전선"
 
 #### Events ####
 
 #guatemala
 
-guatemala.1.t:0 "Honduras Joins the Grand Republic"
-guatemala.1.d:0 "Not long ago, a socialist coup seized total power in Honduras after they gained majority control of the legislature. Led primarily by Nicaraguans who fled after their failed insurrection against the American military occupation, there are clear parallels between us and them, given the large number of Mexican immigrants that have come to influence our nation. It was their escape, first from the American puppet state and later the nationalists, that helped jumpstart the revolution in Guatemala, their numbers allowing for the toppling of the old regime and the proclamation of a new Centroamérica.\n Before, no other nation near us has successfully broken the chains of oppression. But Honduras now has and, despite some ideological differences, they have at last heeded our call for unity, and are requesting integration into the Grand Republic."
-guatemala.1.a:0 "¡Trabajadores del mundo, Uníos!"
+guatemala.1.t:0 "온두라스가 대공화국에 가입하다."
+guatemala.1.d:0 "얼마 전, 온두라스에서 사회주의 쿠데타가 의회의 다수당을 장악하며 권력을 장악하였습니다. 니카과라인들이 주도한 미국의 군사 점령에 대한 저항이 실패로 끝나자 도망친 후 우리나라에 영향을 끼친 수많은 멕시코 이민자들을 볼 때 우리와 그들 사이에는 확실한 유사점이 있습니다. 그들의 탈출구로는, 미국의 괴뢰국과 이후 민족주의자들로부터의 해방입니다, 그것은 과테말라에서의 혁명의 발판이 되었고, 그들의 숫자는 구 정권의 붕괴와 새로운 중앙아메리카의 선언을 가능케 했습니다.\n 예전에는, 근처에 있던 어떠한 나라도 억압의 사슬을 성공적으로 끊어내지 못했습니다. 하지만 지금 온두라스는 몇 가지의 이념적 차이에도 불구하고, 그들은 마침내 우리의 연합에 대한 요구를 승인하며 대공화국의 통합을 요구하였습니다."
+guatemala.1.a:0 "만국의 노동자여, 단결하라!"
 
