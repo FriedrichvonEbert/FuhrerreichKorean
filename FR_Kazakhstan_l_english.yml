@@ -1,6 +1,6 @@
 ﻿l_english:
 
-KAZ_FUHRERREICH_DESC:0 "Ever since the fall of the Mongol Empire, the lands of Kazakhstan have long been occupied by warring states, all competing for dominance in the area. when the Russians invaded in the 19th century, the lands were integrated in the the Tsardom, and remained a frontier against Afghanistan and the British Raj. \n\nWhen the Russian Revolution overthrew the Tsardom and replaced it with a Soviet republic, the Kazakh lands were used for vast farmlands to feed the population. With the success of the Kronstadt rebellion, the Kazakh SSR was given a large degree of autonomy from Moscow, and has been looking to expand into Transcaspia."
+KAZ_FUHRERREICH_DESC:0 "몽골 제국의 몰락 이후, 카자흐스탄의 영토는 오랫동안 다른 전쟁 중인 국가들에 의해 점령되어 왔습니다, 모든 국가가 이 지역의 우위를 점하기 위해 경쟁하고 있습니다. 19세기 제정 러시아가 이 지역을 침공해왔을 때, 이 영토는 그들에게 합병되었으며, 아프가니스탄과 영국령 인도와의 국경지대로 남아있게 되었습니다. \n\n러시아 혁명이 일어난 후 제정 러시아가 전복이 되고 소비에트 공화국이 탄생했을 때, 카자흐스탄의 영토는 인민들을 먹여살리기 위한 드넓은 농지로 사용되었습니다. 크론슈타트에서의 성공적인 반란 이후, 카자흐 소비에트 사회주의 공화국은 모스크바로부터 많은 자치권을 부여받게 되었고, 트랜스-카스피아 지역으로의 확장 방안을 모색하고 있습니다."
 
 #############
 ### FOCUS ###
@@ -11,14 +11,14 @@ KAZ_FUHRERREICH_DESC:0 "Ever since the fall of the Mongol Empire, the lands of K
 ##############
 
 ### INTRO EVENT ###
-Kazakh.1.t:0 "The Kazakh SSR"
-kazakh.1.d:0 "Ever since the fall of the Mongol Empire, the lands of Kazakhstan have long been occupied by warring states, all competing for dominance in the area. when the Russians invaded in the 19th century, the lands were integrated in the the Tsardom, and remained a frontier against Afghanistan and the British Raj. \n\nWhen the Russian Revolution overthrew the Tsardom and replaced it with a Soviet republic, the Kazakh lands were used for vast farmlands to feed the population. With the success of the Kronstadt rebellion, the Kazakh SSR was given a large degree of autonomy from Moscow, and has been looking to expand into Transcaspia."
-kazakh.1.a:0 "Kazakhs forever!"
+Kazakh.1.t:0 "카자흐 소비에트 사회주의 공화국"
+kazakh.1.d:0 "몽골 제국의 몰락 이후, 카자흐스탄의 영토는 오랫동안 다른 전쟁 중인 국가들에 의해 점령되어 왔습니다, 모든 국가가 이 지역의 우위를 점하기 위해 경쟁하고 있습니다. 19세기 제정 러시아가 이 지역을 침공해왔을 때, 이 영토는 그들에게 합병되었으며, 아프가니스탄과 영국령 인도와의 국경지대로 남아있게 되었습니다. \n\n러시아 혁명이 일어난 후 제정 러시아가 전복이 되고 소비에트 공화국이 탄생했을 때, 카자흐스탄의 영토는 인민들을 먹여살리기 위한 드넓은 농지로 사용되었습니다. 크론슈타트에서의 성공적인 반란 이후, 카자흐 소비에트 사회주의 공화국은 모스크바로부터 많은 자치권을 부여받게 되었고, 트랜스-카스피아 지역으로의 확장 방안을 모색하고 있습니다."
+kazakh.1.a:0 "카자흐여 영원하라!"
 
 ### SOVIETS EXPAND KAZAKH CLAIMS ###
-kazakh.2.t:0 "Soviets expand our claims"
-kazakh.2.d:0 "The Russian government has decided to expand our claims into Transcaspia, and we must prepare our military for immenant war against our southern neighbors."
-kazakh.2.a:0 "Prepare for war!"
+kazakh.2.t:0 "소비에트 연방은 우리의 주장을 확장했다"
+kazakh.2.d:0 "소비에트 연방 정부는 우리의 주장을 트랜스-카스피아로 확장하기로 결정했으며, 그리고 우리의 군대가 남쪽에 있는 이웃 국가들과 전쟁을 할 수 있도록 준비를 해야 합니다."
+kazakh.2.a:0 "전쟁에 대비하라!"
 
 ###############
 ### SPIRITS ###
