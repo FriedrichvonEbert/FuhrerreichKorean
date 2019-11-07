@@ -844,4 +844,4 @@ JAP_tateo_kato_cair:0 "카토 타테오"
 JAP_matome_ugaki_cair:0 "우가키 마토메"
 
 #Fleet Name
-FLEET_NAME_JAP:0 "해군 함대 $NUMBER$"
+FLEET_NAME_JAP:0 "제$NUMBER$ 함대"
