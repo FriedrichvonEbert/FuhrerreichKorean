@@ -1,6 +1,6 @@
 l_english:
 
-SWI_FUHRERREICH_DESC:0 "스위스는 수 세기 넘게 그 누구와도 싸워본 적이 없습니다 - 나폴레옹 시대 전까진 말이죠. 지난 20년동안 계속되었던 자유주의 정당의 집권은, 1935년의 총파업과 함께 위협받았습니다. 스위스는 여전히 안정적이긴 하지만, 예전에 있었던 사회주의자들의 총파업과, 독일의 침공 위협 탓에, 스위스에겐 친구는 많지만, 동맹은 얼마 없습니다..."
+SWI_FUHRERREICH_DESC:0 "스위스는 수 세기 넘게 그 누구와도 싸워본 적이 없습니다. 나폴레옹 시대 전까진 말이죠. 지난 20년 동안 계속되었던 자유주의 정당의 집권은 1935년의 총파업으로 위협받았습니다. 스위스는 여전히 안정적이지만, 예전에 있었던 사회주의자들의 총파업과, 독일의 침공 위협 탓에 스위스에겐 친구는 많지만 동맹은 얼마 없습니다..."
 
 #### Political Parties ####
 
@@ -33,7 +33,7 @@ SWI_german_immigration_cat:0 "독일인 이민자 문제"
 SWI_immigrants_from_germany_cat:0 "계속되는 이민"
 #>individual decisions below
 SWI_german_immigrants:0 "독일인 불순분자들 수용"
-SWI_german_immigrants_desc:0 "독일군들은 전투를 준비하는 와중에 상당히 궁지에 몰린듯 합니다. 그들에게 반대하는 자들이 우리에게 동조한다면 정말 좋은 일이 될 것입니다!"
+SWI_german_immigrants_desc:0 "독일군은 전투를 준비하는 와중에 상당히 궁지에 몰린 듯 합니다. 그들에게 반대하는 자들이 우리에 동조한다면 정말 좋은 일이 될 것입니다!"
 SWI_the_germans_are_coming:0 "독일인들이 도착하다"
 # SWI_immigrants_from_germany_cat
 
@@ -41,8 +41,8 @@ SWI_the_germans_are_coming:0 "독일인들이 도착하다"
 
 1_SWI_tt:0 "우리는 스위스가 항구에 접근하는 것을 거부할 것입니다.\n "
 2_SWI_tt:0 "이 정책은 우리의 수출을 중지시킬 것입니다!\n "
-3_SWI_tt:0 "스위스 정부는 추가 무기구매정책을 시작할 것입니다.\n "
-4_SWI_tt:0 "이 중점은 §Y독일 불순분자의 수용§!디시전을 해금할 것입니다.\n"
+3_SWI_tt:0 "스위스 정부는 추가 무기 구매 정책을 시작할 것입니다.\n "
+4_SWI_tt:0 "이 중점은 §Y독일 불순분자의 수용§! 결정을 해금할 것입니다.\n"
 5_SWI_tt:0 "우리는 먼저 다른나라와 §Y협상§!해야합니다.\n"
 6_SWI_tt:0 "§Y선거§!가 먼저 끝나야 합니다.\n"
 
@@ -57,28 +57,29 @@ SWI_chief_ambassadorship_founded_in_lugano_opinion:0 "루가노의 대사"
 
 #### Ideas ####
 
-SWI_Vorarlberg:0 "The Status of Vorarlberg"
-SWI_Vorarlberg_desc:0 "In 1919, the people of Vorarlberg, formally a region in Austria, voted overwelming to join Switzerland. However, this move has caused religious and enthic tension. The majority Protestant and Italian cantons were against the intergration of Vorarlberg. With the world seemingly erupting in tension again, the question has caught the public eye once again. What should be done with Vorarlberg?"
+SWI_Vorarlberg:0 "포랄베르크의 지위"
+SWI_Vorarlberg_desc:0 "1919년, 오스트리아의 포랄베르크 지역 주민은 대다수가 스위스와 통합하는 것에 찬성했습니다. 그러나, 이는 종교적· 민족적 긴장을 야기했습니다. 대다수의 개신교인과 이탈리아어권 지역은 스위스와 포랄베르크의 통합을 반대했습니다. 세계의 긴장이 다시 폭발하는 것처럼 보이고, 이 질문에 다시 대중의 관심이 모였습니다. 포랄베르크를 어떻게 할 것인가?"
 SWI_arms_industry:0 "스위스 군수 산업"
-SWI_arms_industry_desc:0 "스위스는 뛰어난 군수공학자들로 유명했습니다. 위계적인 공장과 스위스 고유의 견습생 프로그램을 사용하여, 스위스는 공장-현장의 유기적 생산방식을 완벽하게 구현한것으로 보입니다."
+SWI_arms_industry_desc:0 "스위스는 뛰어난 군수공학자들로 유명합니다. 체계적인 공장 시스템과 스위스 고유의 수습생 프로그램을 이용하여, 스위스는 공장과 현장 간의 유기적 생산방식을 완벽하게 구현한 것으로 보입니다.
 SWI_die_schweizer_armee:0 "스위스군"
-SWI_die_schweizer_armee_desc:0 "스위스의 대부분은 육군입니다. 18세 이상부터 자원입대가 가능하며 20세 이상부터는 의무적으로 복무하게 됩니다. 공격적으로 기동하는 병과는 없지만, 스위스군은 잘 무장되어있으며, 적절한 징병책을 사용하고 있습니다."
+SWI_die_schweizer_armee_desc:0 "스위스군의 대부분은 육군입니다. 18세 이상부터 자원입대가 가능하며 20세 이상부터는 의무적으로 복무하게 됩니다. 공격적으로 기동하는 병과는 없지만, 스위스군은 잘 무장되어있으며, 적절한 징병 정책을 사용하고 있습니다."
 SWI_the_swiss_banking_act:0 "스위스 은행법"
-SWI_the_swiss_banking_act_desc:0 "1933년 12월 1일에 서명된 은행법은 스위스내에서 계좌 보유자의 자산을 보호하기 위해 만들어진 법안으로 이는 프랑스가 라인란트 지역에 개입하면서 많은 외국 자산들과 회사들을 압류하거나 폐쇄하자 이에 대응하여 만들어진 법안이습니다. 은행법은 은행이 계좌 보유자의 이름을 밝히는 것을 범죄라고 규정했으며 프랑스와 독일 정부가 라인 지역의 산업단지와 관련이 있는 특정 계좌의 이름을 밝히라고 스위스 정부에 압박해올때 효과가 있는것으로 판명되었습니다."
+SWI_the_swiss_banking_act_desc:0 "1933년 12월 1일에 서명된 은행법은 스위스 내에서 계좌 보유자의 자산을 보호하기 위해 만들어진 법안으로 프랑스가 라인란트 지역에 개입하여 많은 외국 자산들과 회사들을 압류하거나 폐쇄하자 이에 대응하여 만들어졌습니다. 은행법은 은행이 계좌 보유자의 이름을 밝히는 것을 범죄라고 규정했으며 프랑스와 독일 정부가 라인란트 지역의 산업단지와 관련이 있는 특정 계좌의 이름을 밝히라고 스위스 정부를 압박할 때 효과가 있는 것으로 판명 났습니다."
 SWI_swiss_neutrality:0 "영구중립"
-SWI_swiss_neutrality_desc:0 "스위스는 나폴레옹 시대 이전까지 께지지 않은 해외의 전쟁에 참여하지 않다는 자랑스러운 전통을 가지고 있습니다. 제1차 대전쟁때 몇 차례 아슬아슬한 상황은 있었지만, 우리나라를 갈등으로 몰고 갈 만한 심각한 사건은 결코 없었다. 바라건대, 이러한 일들이 앞으로 계속 진행될 수 있기를 바랍니다."
-SWI_arms_industry_licenses_revoked:0 "스위스 군수 산업"
-SWI_arms_industry_licenses_revoked_desc:0 "Weapons production licenses have been revoked from all but the most vital private arms producers."
+SWI_swiss_neutrality_desc:0 "스위스는 나폴레옹 시대 이전까지 깨지지 않은, 외국의 전쟁에 참여하지 않는다는 자랑스러운 전통을 가지고 있습니다. 제1차 대전쟁 시기에 몇 차례 아슬아슬한 상황이 있었지만, 우리나라를 갈등으로 몰고 갈 만한 심각한 사건은 결코 없었습니다. 바라건대, 이러한 일들이 앞으로 계속 이어질 수 있기를 바랍니다."
+SWI_arms_industry_licenses_revoked:0 "스위스 군수산업"
+SWI_arms_industry_licenses_revoked_desc:0 "기본적인 개인화기를 생산하는 업자를 제외하고는 모든 무기 생산 면허가 취소되었습니다."
 SWI_arms_industry_licenses_revoked_taxing_weapons:0 "스위스 군수산업"
-SWI_arms_industry_licenses_revoked_taxing_weapons_desc:0 "Weapons production licenses have been revoked from all but the most vital private arms producers and we have begun excising taxes upon them. These taxes come not in the form of money, but in the form of weapons."
+SWI_arms_industry_licenses_revoked_taxing_weapons_desc:0 "기본적인 보병 무기를 생산하는 업체를 제외하고는 모든 무기 생산 면허가 취소되었고 우리는 그들에게 세금을 부과하기 시작했습니다. 이러한 세금은 화폐가 아니라 무기로 납부합니다."
 SWI_arms_industry_taxing_weapons:0 "스위스 군수산업"
-SWI_arms_industry_taxing_weapons_desc:0 "Switzerland is renowned for its excellent armsmiths and weapons crafters. Using a hierarchical factory and apprenticeship program native almost entirely to Switzerland, the country has seemingly perfected the factory-to-field production method. By taxing weapons from its manufactors, it can also benefit more weapons to its military."
+SWI_arms_industry_taxing_weapons_desc:0 "스위스는 뛰어난 무기와 이를 제조하는 것으로 유명합니다. 체계적인 공장 시스템과 스위스 고유의 수습생 프로그램을 이용하여, 스위스는 공장과 현장 간의 유기적 생산 방식을 완벽하게 구현한 것으로 보입니다.
+SWI_die_schweizer_armee:0 "스위스군" 무기 제조 업체로부터 무기를 징수함으로써, 이는 또한 군대에 더 많은 무기를 제공할 수 있습니다."
 SWI_diplomatic_ventures:0 "외교적인 모험"
-SWI_diplomatic_ventures_desc:0 "Switzerland looks abroad for trade."
-SWI_restriction_on_gun_production:0 "무기제조에 대한 제제"
-SWI_restriction_on_gun_production_desc:0 "It is now official Swiss policy to restrict all apprenticeship programs. Only those already working in the private arms industry can continue to work there, for the time being."
-SWI_end_youth_apprenticeships_programs:0 "End of Youth Apprenticeships Programs"
-SWI_end_youth_apprenticeships_programs_desc:0 "Youths under the age of 19 are disallowed from entering into apprenticeship programs involving weapons of war."
+SWI_diplomatic_ventures_desc:0 "외국과의 무역을 물색하는 스위스"
+SWI_restriction_on_gun_production:0 "무기 제조에 대한 제재"
+SWI_restriction_on_gun_production_desc:0 "모든 수습생 프로그램을 제한하는 것이 현재 스위스의 공식 정책입니다. 개인화기 생산 산업에 이미 속한 사람만이 당분간 그곳에서 계속 일할 수 있습니다."
+SWI_end_youth_apprenticeships_programs:0 "청소년 수습생 프로그램의 종료"
+SWI_end_youth_apprenticeships_programs_desc:0 "19세 미만의 청소년은 전쟁 무기와 관련된 수습 프로그램에 참여할 수 없습니다."
 SWI_mandatory_youth_weapons_education:0 "Mandatory Youth Weapons Education"
 SWI_mandatory_youth_weapons_education_desc:0 "All youths between the ages of 10 and 19 will experience at some point in these nine years an at least cursory glance into the field of weaponry."
 SWI_small_port_access_boon:0 "Small Port Access Dividends"
