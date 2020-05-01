@@ -1,0 +1,45 @@
+﻿l_english:
+
+#### Political Parties ####
+
+ZAF_vanguardist_party:0 "SACP"
+ZAF_vanguardist_party_long:0 "South African Collectivist Party"
+ZAF_collectivist_party:0 "Labour"
+ZAF_collectivist_party_long:0 "Labour Party"
+ZAF_libertarian_socialist_party:0 "ISL"
+ZAF_libertarian_socialist_party_long:0 "International Socialist League"
+ZAF_social_democrat_party:0 "ANC"
+ZAF_social_democrat_party_long:0 "African National Congress"
+ZAF_social_liberal_party:0 "Dominion"
+ZAF_social_liberal_party_long:0 "Dominion Party"
+ZAF_market_liberal_party:0 "SAP"
+ZAF_market_liberal_party_long:0 "South Africa Party"
+ZAF_social_conservative_party:0 "United"
+ZAF_social_conservative_party_long:0 "United Party"
+ZAF_authoritarian_democrat_party:0 "National"
+ZAF_authoritarian_democrat_party_long:0 "National Party"
+ZAF_paternal_autocrat_party:0 "Sentrale"
+ZAF_paternal_autocrat_party_long:0 "Sentrale Party"
+ZAF_national_populist_party:0 "PNP"
+ZAF_national_populist_party_long:0 "Purified National Party"
+ZAF_valkist_party:0 "OB"
+ZAF_valkist_party_long:0 "Ossewabrandwag"
+
+#### Tooltips ####
+ZAF_Help_tooltip:0 "ยงRWill unlock decisions to aid in the war effort.ยง!\n"
+
+#### Focus ####
+ZAF_Something_Terrible:0 "Something Terrible"
+ZAF_Something_Terrible_desc:0 "The traitors of South Africa shall tremble! We have caught them by surprise, and are now engaged in the fight for the very survival and independence of our nation! Ex Vires Imperium!"
+ZAF_Chaos_Ladder:0 "Chaos is a Ladder"
+ZAF_Chaos_Ladder_desc:0 "The fight we now embark upon will be a long and brutal one. If we are to have any chance at defeating the traitors of South Africa, we must maintain the element of surprise, and strike with no holds barred."
+ZAF_Rile_Populace:0 "Rile up the Populace"
+ZAF_Rile_Populace_desc:0 "The population of the Boer states must be fully brought onboard our efforts. Without them, our movement will not have soldiers and workers, and will be doomed to fail. We must make every outreach possible to recruit them."
+ZAF_German_Separatists:0 "Support Separatists in Kalahari"
+ZAF_German_Separatists_desc:0 "Southwest Africa, given to the Union after the Great War, was once a German colony. As such, there are many in hiding there who are ready to rise up against the South African traitors. All that they would need is a little push..."
+ZAF_Total_War:0 "Total War"
+ZAF_Total_War_desc:0 "If we are to win this fight, we must recruit as much of the populace as possible. Fill the militias with men and women alike; children too if they're old enough. This is a fight for our very survival!"
+ZAF_Foreign_Aid:0 "Foreign Aid"
+ZAF_Foreign_Aid_desc:0 "As much as we'd like to show the world just how strong we are by defeating the traitors single-handedly, we will require some degree of foreign aid if we are to survive. We must set aside our pride and ask nations sympathetic to our cause for support."
+ZAF_Way_to_Independence:0 "Way to Independence"
+ZAF_Way_to_Independence_desc:0 "We have secured all of our bases, and waged total war against the traitors in South Africa. Our path to reclaiming our nation is tried and true, and all that remains is to win our war for independence."

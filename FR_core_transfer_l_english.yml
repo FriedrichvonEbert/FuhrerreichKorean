@@ -1,0 +1,22 @@
+﻿l_english:
+
+ ### Events ###
+ gencores.1.t:0 "[From.GetName] requests the return of their core territory"
+ gencores.1.d:0 "Territorial disputes between us and the [From.GetName] have needlessly soured our diplomatic relations. [From.GetAdjectiveCap] diplomats have delivered us a proposal outlining the return of their disputed territory currently under our control. While surrendering territory might seem short sighted the [From.GetName] assures us this as the best way to improve our nation's relationship."
+ gencores.1.a:0 "This proposal is sensible"
+ gencores.1.b:0 "We can never agree to this"
+ #
+ gencores.2.t:0 "[From.GetName] agrees to return disputed territory"
+ gencores.2.d:0 "It seems the [From.GetName] has seen the need to improve our nation's relationship and has agreed to return disputed territory to our sovereignty."
+ gencores.2.a:0 "A toast to our [From.GetAdjectiveCap] friends."
+ #
+ gencores.3.t:0 "[From.GetName] refuses to return disputed territory"
+ gencores.3.d:0 "It seems the [From.GetName] sees no need to improve our nation's relationship and has refuses to return any disputed territory."
+ gencores.3.a:0 "Damn them."
+ 
+ ### Decisions ###
+ ask_for_cores:0 "Request the return of core territory"
+ ask_for_cores_decisions:0 "Request the return of core territory"
+ 
+ ### Opinion Modifiers ###
+ GEN_returned_territory:0 "Has agreed to return territory"

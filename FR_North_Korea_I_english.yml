@@ -1,0 +1,51 @@
+﻿l_english:
+
+### POLITICAL PARTIES ###
+KOR_vanguardist_party:0 Socialist Party""
+KOR_vanguardist_party_long:0 "The Socialist Party of Korea"
+KOR_collectivist_party:0 "Socialist Party"
+KOR_collectivist_party_long:0 "The Socialist Party of Korea"
+KOR_libertarian_socialist_party:0 "Socialist Party"
+KOR_libertarian_socialist_party_long:0 "The Socialist Party of Korea"
+KOR_social_democrat_party:0 "People's Party of Korea"
+KOR_social_democrat_party_long:0 "The People's Party of Korea"
+KOR_social_liberal_party:0 "Democratic Party"
+KOR_social_liberal_party_long:0 "Left wing of the Democratic Party"
+KOR_market_liberal_party:0 "Democratic Party"
+KOR_market_liberal_party_long:0 "Right wing of the Democratic Party of Korea"
+KOR_social_conservative_party:0 "Liberal Party"
+KOR_social_conservative_party_long:0 "The Liberal Party of Korea"
+KOR_authoritarian_democrat_party:0 "Korean National Party"
+KOR_authoritarian_democrat_party_long:0 "The Korean National Party"
+KOR_paternal_autocrat_party:0 "Korean National Party"
+KOR_paternal_autocrat_party_long:0 "The Korean National Party"
+KOR_national_populist_party:0 "Unify Korea Party"
+KOR_national_populist_party_long:0 "The Unify Korea Party"
+KOR_valkist_party:0 "Joseon revivalists"
+KOR_valkist_party_long:0 "Joseon revivalists"
+
+### DESCRIPTION ###
+KOR_FUHRERREICH_DESC:0 "An independent Korean state hasn't existed since the Japanese protectorate was established in 1905. In 1936 Korea still looms under the Japanese thumb, but increasing feelings of nationalism and anti-Japanese sentiment threatens to upset the delicate balance in the region. Whether the Koreans will liberate themselves or simply have overlordship transfered from one power to another remains to be seen, but the Korean peninsula is sure to see devestation in the years to come no matter what."
+
+###FOCUSES###
+
+### EVENTS ###
+
+nkr.1.t:0 "South Korean government provokes border dispute!"
+nkr.1.d:0 "Forces from the South Korean government have recently encorached upon our territory near the Western Coastal border, clearly with the intent of testing the waters to see how much we are willing to tollerate. Advisors from the Soviet Union say that we should stand our ground and defend the coastal islands at all costs, but our military staff believe that we are not yet ready for war with our Southern neighbors."
+nkr.1.a:0 "Korea is indivisible!"
+nkr.1.b:0 "A few coastal islands are nothing to start a global nuclear war over."
+
+### FLAGS ###
+
+###SPIRITS###
+
+###TOOLTIPS###
+
+###OPINION MODIFIERS###
+
+###FACTIONS###
+
+###MESSAGES###
+
+###MINISTERS###
