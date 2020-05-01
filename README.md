@@ -1,4 +1,4 @@
-# Fuhrerreich-Korean
+﻿# Fuhrerreich-Korean
 Führerreich: Legacy of the Great War 한국어 패치 프로젝트
 
 # github로 번역하기
