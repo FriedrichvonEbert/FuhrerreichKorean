@@ -1,40 +1,40 @@
 ﻿l_english:
 
 ### POLITICAL PARTIES ###
-KOR_vanguardist_party:0 Socialist Party""
-KOR_vanguardist_party_long:0 "The Socialist Party of Korea"
-KOR_collectivist_party:0 "Socialist Party"
-KOR_collectivist_party_long:0 "The Socialist Party of Korea"
-KOR_libertarian_socialist_party:0 "Socialist Party"
-KOR_libertarian_socialist_party_long:0 "The Socialist Party of Korea"
-KOR_social_democrat_party:0 "People's Party of Korea"
-KOR_social_democrat_party_long:0 "The People's Party of Korea"
-KOR_social_liberal_party:0 "Democratic Party"
-KOR_social_liberal_party_long:0 "Left wing of the Democratic Party"
-KOR_market_liberal_party:0 "Democratic Party"
-KOR_market_liberal_party_long:0 "Right wing of the Democratic Party of Korea"
-KOR_social_conservative_party:0 "Liberal Party"
-KOR_social_conservative_party_long:0 "The Liberal Party of Korea"
-KOR_authoritarian_democrat_party:0 "Korean National Party"
-KOR_authoritarian_democrat_party_long:0 "The Korean National Party"
-KOR_paternal_autocrat_party:0 "Korean National Party"
-KOR_paternal_autocrat_party_long:0 "The Korean National Party"
-KOR_national_populist_party:0 "Unify Korea Party"
-KOR_national_populist_party_long:0 "The Unify Korea Party"
-KOR_valkist_party:0 "Joseon revivalists"
-KOR_valkist_party_long:0 "Joseon revivalists"
+KOR_vanguardist_party:0 "사회당"
+KOR_vanguardist_party_long:0 "한국사회당"
+KOR_collectivist_party:0 "사회당"
+KOR_collectivist_party_long:0 "한국사회당"
+KOR_libertarian_socialist_party:0 "사회당"
+KOR_libertarian_socialist_party_long:0 "한국사회당"
+KOR_social_democrat_party:0 "한국인민당"
+KOR_social_democrat_party_long:0 "한국인민당"
+KOR_social_liberal_party:0 "민주당"
+KOR_social_liberal_party_long:0 "민주당 좌파"
+KOR_market_liberal_party:0 "민주당"
+KOR_market_liberal_party_long:0 "민주당 우파"
+KOR_social_conservative_party:0 "자유당"
+KOR_social_conservative_party_long:0 "한국자유당"
+KOR_authoritarian_democrat_party:0 "한국국민당"
+KOR_authoritarian_democrat_party_long:0 "한국국민당"
+KOR_paternal_autocrat_party:0 "한국국민당"
+KOR_paternal_autocrat_party_long:0 "한국국민당"
+KOR_national_populist_party:0 "통합한국당"
+KOR_national_populist_party_long:0 "통합한국당"
+KOR_valkist_party:0 "조선 부흥론자"
+KOR_valkist_party_long:0 "조선 부흥론자"
 
 ### DESCRIPTION ###
-KOR_FUHRERREICH_DESC:0 "An independent Korean state hasn't existed since the Japanese protectorate was established in 1905. In 1936 Korea still looms under the Japanese thumb, but increasing feelings of nationalism and anti-Japanese sentiment threatens to upset the delicate balance in the region. Whether the Koreans will liberate themselves or simply have overlordship transfered from one power to another remains to be seen, but the Korean peninsula is sure to see devestation in the years to come no matter what."
+KOR_FUHRERREICH_DESC:0 "한민족 국가는 1905년 한국통감부가 세워진 후로 독립을 쟁취한 적이 없습니다. 1936년, 한국은 아직 일본의 손아귀 안에 있지만, 민족주의와 반일본 정서가 계속해서 전국으로 퍼지고 있으며 지역 내의 미묘한 균형을 무너뜨리려 합니다. 한국이 스스로 독립을 쟁취할지 아니면 단순히 지배국이 바뀌는 것으로 끝낼지는 두고 볼 일이지만, 몇 년 안에 한반도엔 반드시 거대한 폭풍이 불어올 것입니다."
 
 ###FOCUSES###
 
 ### EVENTS ###
 
-kor.1.t:0 "Coastal Border Dispute"
-kor.1.d:0 "Forces from the Communist North Korean state have recently encroached upon what we claim as our territory near the Western coastline, and several skirmishes have already taken place. Militarists in our party believe that we should escalate this dispute in order to take the territory back and perhaps invade the North Korean state while the Soviets are distracted with European affairs, however many European adivsors stationed in our country advise that attempting to antagonize the North Koreans may lead to full blown foreign intervention and the start of a new global war."
-kor.1.a:0 "Korea is indivisible!"
-kor.1.b:0 "A few coastal islands are nothing to start a global nuclear war over."
+kor.1.t:0 "해안 국경분쟁"
+kor.1.d:0 "최근 북한 공산당의 군대가 우리의 영토라고 주장하는 서해안 주변 지역을 점령했고, 작은 전투도 이미 몇 번 치러졌습니다. 당 내의 군국주의자들은 이번 분쟁의 규모를 키워 그 영토를 탈환하고 소련이 유럽에 정신이 팔린 틈을 타 북한을 침공해야 한다고 주장하지만, 자국에 머물고 있는 많은 유럽 고문들은 북한을 화나게 하는 것은 타국의 개입이 일어나 새로운 국제전으로 커질 수 있다고 조언했습니다."
+kor.1.a:0 "한국은 하나다!"
+kor.1.b:0 "작은 섬들 때문에 세계를 핵전쟁 속으로 내몰 수는 없다."
 
 ### FLAGS ###
 
