@@ -3,7 +3,7 @@
 #### Political Parties #####
 
 SWE_vanguardist_party:0 "SKP - 혁명파"
-SWE_vanguardist_party_long:0 "SKP 혁명의 날개"
+SWE_vanguardist_party_long:0 "SKP 혁명파"
 SWE_collectivist_party:0 "SKP"
 SWE_collectivist_party_long:0 "스웨덴 공산당"
 SWE_libertarian_socialist_party:0 "사회당"
@@ -54,8 +54,8 @@ SWE_expand_lottorna_idea:0 "확대된 여성 자원 방위 복무"
 SWE_establish_homeguard_idea:0 "국방 의용군"
 SWE_in_defence_of_sweden_idea:0 "스웨덴 보호를 위해"
 
-SWE_increase_farmer_quotas_idea:0 "인민의 집 회복"
-SWE_welfare_administration_idea:0 "인민의 집 회복"
+SWE_increase_farmer_quotas_idea:0 "국민의 집 회복"
+SWE_welfare_administration_idea:0 "국민의 집 회복"
 SWE_build_up_welfare_state_idea:0 "스웨덴식 복지국가"
 SWE_offer_free_education_idea:0 "스웨덴식 복지국가"
 SWE_women_in_workforce_idea:0 "여성 노동"
@@ -645,10 +645,10 @@ SWE_socialistiska_blocket_victory_desc:0 "사람들은 변화를 원하고 그�
 SWE_ensure_socialist_support:0 "사회주의자 지원 보장"
 SWE_ensure_socialist_support_desc:0 ""
 
-SWE_establish_folkhemmet:0 "인민의 집 확립"
+SWE_establish_folkhemmet:0 "국민의 집 확립"
 SWE_establish_folkhemmet_desc:0 "스웨덴은 모든 사람들의 집과 같은 나라가 되어야 합니다. 지금과 같은 고난의 시대에선 아버지가 아들을, 형이 동생을 도와주는 것처럼 우리는 서로 도우며 살아가야 합니다. 적어도 이 집 안에서는 정의는 모든 사람들에게 동등하게 주어져야 합니다. 부유하든 가난하든, 신분이 높든 낮든, 모든 사람들은 나라를 다스릴 권리가 있습니다."
 
-SWE_recover_our_home:0 "모두의 집 회복"
+SWE_recover_our_home:0 "만민의 집 회복"
 SWE_recover_our_home_desc:0 "스웨덴은 이제 집, 하나의 가족처럼 되었지만 아직 비극의 잔재가 남아 있습니다. 모두가 도와준다면 집은 옛 상태를 되찾고, 더 굳건해질 것입니다."
 SWE_control_key_industries:0 "기간 산업 제어"
 SWE_control_key_industries_desc:0 ""
